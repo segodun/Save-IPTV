@@ -1163,3 +1163,152 @@ http://iptv33.hopto.me:9000/live/22334455/22334455/8075.ts
 http://iptv33.hopto.me:9000/live/22334455/22334455/8073.ts
 #EXTINF:-1,F::-BEIN SPORTS3 4K
 http://iptv33.hopto.me:9000/live/22334455/22334455/8071.ts
+#EXTINF:-1,----â–¼|AF| CHAINES AFRICAINNES |AF|â–¼-----
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5531.ts
+#EXTINF:-1,|AF| 2S TV
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5482.ts
+#EXTINF:-1,|AF| ABN TV
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5483.ts
+#EXTINF:-1,|AF| AIT INTERNATIONAL
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5487.ts
+#EXTINF:-1,|AF| BEN TV
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5489.ts
+#EXTINF:-1,|AF| CANAL 255
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5481.ts
+#EXTINF:-1,|AF| CONGO TV
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5492.ts
+#EXTINF:-1,|AF| DABANGA SUDAN
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5512.ts
+#EXTINF:-1,|AF| EBC ETHIOPIA
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5494.ts
+#EXTINF:-1,|AF| EBC1
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5495.ts
+#EXTINF:-1,|AF| KALSAN TV
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5490.ts
+#EXTINF:-1,|AF| NOLLYWOOD
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5499.ts
+#EXTINF:-1,|AF| NOLLYWOOD MOVIES
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5516.ts
+#EXTINF:-1,|AF| ORTb
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5502.ts
+#EXTINF:-1,|AF| ORTM TV
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5484.ts
+#EXTINF:-1,|AF| RAVE TV
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5503.ts
+#EXTINF:-1,|AF| RTB
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5504.ts
+#EXTINF:-1,|AF| RTI 1
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5505.ts
+#EXTINF:-1,|AF| RTI2
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5506.ts
+#EXTINF:-1,|AF| RTS1
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5508.ts
+#EXTINF:-1,|AF| RTV
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5493.ts
+#EXTINF:-1,|AF| SEN TV
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5509.ts
+#EXTINF:-1,|AF| SNTV
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5500.ts
+#EXTINF:-1,|AF| TELE CONGO
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5510.ts
+#EXTINF:-1,|AF| TELE-SUD
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5497.ts
+#EXTINF:-1,|AF| TM2 TV
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5501.ts
+#EXTINF:-1,|AF| TPA
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5507.ts
+#EXTINF:-1,|AF| TV CONTINENTAL
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5513.ts
+#EXTINF:-1,|AF| VOX AFRICA
+http://37.187.137.199:8000/live/sattv/4lZfgcTYqn/5514.ts
+
+#EXTINF:-1,AF:Africa News Network 7
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23182.ts
+#EXTINF:-1,AF:AFRICA TV1
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23181.ts
+#EXTINF:-1,AF:AFRICA TV2
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23180.ts
+#EXTINF:-1,AF:AFRICA TV3
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23179.ts
+#EXTINF:-1,AF:AFRICA TV4
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23178.ts
+#EXTINF:-1,AF:AFRICA24
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23177.ts
+#EXTINF:-1,AF:Africable
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23176.ts
+#EXTINF:-1,AF:Afrique Media
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23175.ts
+#EXTINF:-1,AF:CRTV TV
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23174.ts
+#EXTINF:-1,AF:Digital Congo
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23173.ts
+#EXTINF:-1,AF:Equinoxe TV Cameroun
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23172.ts
+#EXTINF:-1,AF:MAISHA-TV
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23171.ts
+#EXTINF:-1,AF:Nollywood Movies
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23170.ts
+#EXTINF:-1,AF:ortm
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23169.ts
+#EXTINF:-1,AF:RTi1 Cote d'ivoire
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23168.ts
+#EXTINF:-1,AF:RTI2
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23167.ts
+#EXTINF:-1,AF:RTi2 Cote d'ivoire
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23166.ts
+#EXTINF:-1,AF:RTNC
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23165.ts
+#EXTINF:-1,AF:RTS1
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23164.ts
+#EXTINF:-1,AF:SEN TV
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23163.ts
+#EXTINF:-1,AF:SN 2STV
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23162.ts
+#EXTINF:-1,AF:SN 2STV (1)
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23161.ts
+#EXTINF:-1,AF:SN Alazhar Touba
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23160.ts
+#EXTINF:-1,AF:SN Alazhar Touba TV
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23159.ts
+#EXTINF:-1,AF:SN Diaspora24
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23158.ts
+#EXTINF:-1,AF:SN Kedu TV
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23157.ts
+#EXTINF:-1,AF:SN Lamp Fall
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23156.ts
+#EXTINF:-1,AF:SN Lamp Fall (backup)
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23155.ts
+#EXTINF:-1,AF:SN MUSIC TV
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23154.ts
+#EXTINF:-1,AF:SN MUSIC TV (backup)
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23153.ts
+#EXTINF:-1,AF:SN RTS1
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23152.ts
+#EXTINF:-1,AF:SN RTS1 (1)
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23151.ts
+#EXTINF:-1,AF:SN RTS1 (2)
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23150.ts
+#EXTINF:-1,AF:SN RTS2
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23149.ts
+#EXTINF:-1,AF:SN TFM
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23148.ts
+#EXTINF:-1,AF:SN TFM HD
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23147.ts
+#EXTINF:-1,AF:SN Walf tv
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23146.ts
+#EXTINF:-1,AF:STV
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23145.ts
+#EXTINF:-1,AF:Stv2 Cameroun
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23144.ts
+#EXTINF:-1,AF:TCHAD
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23143.ts
+#EXTINF:-1,AF:Tele Congo
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23142.ts
+#EXTINF:-1,AF:Tele Tchad
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23141.ts
+#EXTINF:-1,AF:TM2 MALI
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23140.ts
+#EXTINF:-1,AF:TV CONTINENTAL NIGERIA
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23139.ts
+#EXTINF:-1,AF:Wazobia TV
+http://cdn01.iptvthebest.net:15000/live/kbiyelax/Y63mh8Ni3l/23138.ts
