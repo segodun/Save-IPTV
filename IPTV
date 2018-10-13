@@ -1,1 +1,125 @@
 #EXTM3U
+#EXTINF:-1,2S TV SN
+http://clientportal.link:8080/live/neri/neri123/13497.ts
+#EXTINF:-1,AIT International NG
+http://clientportal.link:8080/live/neri/neri123/13467.ts
+#EXTINF:-1,ANN 7 ZA
+http://clientportal.link:8080/live/neri/neri123/13487.ts
+#EXTINF:-1,Africable TV ML
+http://clientportal.link:8080/live/neri/neri123/13466.ts
+#EXTINF:-1,Africa 24 AFR
+http://clientportal.link:8080/live/neri/neri123/13498.ts
+#EXTINF:-1,Afrique Média CM
+http://clientportal.link:8080/live/neri/neri123/13480.ts
+#EXTINF:-1,BEN NG
+http://clientportal.link:8080/live/neri/neri123/13464.ts
+#EXTINF:-1,Channels TV NG
+http://clientportal.link:8080/live/neri/neri123/13462.ts
+#EXTINF:-1,CRTV CM
+http://clientportal.link:8080/live/neri/neri123/13456.ts
+#EXTINF:-1,Africa TV 3 SD
+http://clientportal.link:8080/live/neri/neri123/13478.ts
+#EXTINF:-1,Emmanuel TV NG
+http://clientportal.link:8080/live/neri/neri123/13477.ts
+#EXTINF:-1,Ebru TV KE
+http://clientportal.link:8080/live/neri/neri123/13481.ts
+#EXTINF:-1,GTV GH
+http://clientportal.link:8080/live/neri/neri123/13485.ts
+#EXTINF:-1,Gabon TV GA
+http://clientportal.link:8080/live/neri/neri123/13445.ts
+#EXTINF:-1,Joy News GH
+http://clientportal.link:8080/live/neri/neri123/13459.ts
+#EXTINF:-1,LC2 BJ
+http://clientportal.link:8080/live/neri/neri123/13458.ts
+#EXTINF:-1,‎Lamp Fall TV SN
+http://clientportal.link:8080/live/neri/neri123/13495.ts
+#EXTINF:-1,GoldMyne TV NG
+http://clientportal.link:8080/live/neri/neri123/13473.ts
+#EXTINF:-1,Nollywood Movies AFR
+http://clientportal.link:8080/live/neri/neri123/13474.ts
+#EXTINF:-1,ORTB TV BJ
+http://clientportal.link:8080/live/neri/neri123/13453.ts
+#EXTINF:-1,ORTM ML
+http://clientportal.link:8080/live/neri/neri123/13465.ts
+#EXTINF:-1,Olé TFM SN
+http://clientportal.link:8080/live/neri/neri123/13441.ts
+#EXTINF:-1,RTB TV BF
+http://clientportal.link:8080/live/neri/neri123/13440.ts
+#EXTINF:-1,RTG GN
+http://clientportal.link:8080/live/neri/neri123/13461.ts
+#EXTINF:-1,RTI 1 CI
+http://clientportal.link:8080/live/neri/neri123/13489.ts
+#EXTINF:-1,RTI 2 CI
+http://clientportal.link:8080/live/neri/neri123/13503.ts
+#EXTINF:-1,RTS1 SN
+http://clientportal.link:8080/live/neri/neri123/13502.ts
+#EXTINF:-1,Rave TV NG
+http://clientportal.link:8080/live/neri/neri123/13449.ts
+#EXTINF:-1,Sen TV SN
+http://clientportal.link:8080/live/neri/neri123/13451.ts
+#EXTINF:-1,TFM SN
+http://clientportal.link:8080/live/neri/neri123/13490.ts
+#EXTINF:-1,TFM Religions SN
+http://clientportal.link:8080/live/neri/neri123/13443.ts
+#EXTINF:-1,TPA AO
+http://clientportal.link:8080/live/neri/neri123/13472.ts
+#EXTINF:-1,TV Continental NG
+http://clientportal.link:8080/live/neri/neri123/13476.ts
+#EXTINF:-1,Télé Tchad TD
+http://clientportal.link:8080/live/neri/neri123/13452.ts
+#EXTINF:-1,Tele Congo CG
+http://clientportal.link:8080/live/neri/neri123/13484.ts
+#EXTINF:-1,Voxafrica AFR
+http://clientportal.link:8080/live/neri/neri123/13470.ts
+#EXTINF:-1,Walf TV SN
+http://clientportal.link:8080/live/neri/neri123/13454.ts
+#EXTINF:-1,Wazobia TV NG
+http://clientportal.link:8080/live/neri/neri123/13496.ts
+#EXTINF:-1,Adom TV GH
+http://clientportal.link:8080/live/neri/neri123/16268.ts
+#EXTINF:-1,Kessben TV GH
+http://clientportal.link:8080/live/neri/neri123/16269.ts
+#EXTINF:-1,Blue Nile Channel SD
+http://clientportal.link:8080/live/neri/neri123/16480.ts
+#EXTINF:-1,Kalsan TV SO
+http://clientportal.link:8080/live/neri/neri123/16593.ts
+#EXTINF:-1,Horn Cable TV SO
+http://clientportal.link:8080/live/neri/neri123/16590.ts
+#EXTINF:-1,Jubaland TV SO
+http://clientportal.link:8080/live/neri/neri123/16591.ts
+#EXTINF:-1,SBC International SO
+http://clientportal.link:8080/live/neri/neri123/16768.ts
+#EXTINF:-1,Africa TV 4 SD
+http://clientportal.link:8080/live/neri/neri123/16769.ts
+#EXTINF:-1,Somali Cable SO
+http://clientportal.link:8080/live/neri/neri123/16592.ts
+#EXTINF:-1,Somaliland National TV SO
+http://clientportal.link:8080/live/neri/neri123/16589.ts
+#EXTINF:-1,Star TV SO
+http://clientportal.link:8080/live/neri/neri123/16588.ts
+#EXTINF:-1,Universal TV SO
+http://clientportal.link:8080/live/neri/neri123/16587.ts
+#EXTINF:-1,Africa TV 1 SD
+http://clientportal.link:8080/live/neri/neri123/16842.ts
+#EXTINF:-1,Africa TV 2 SD
+http://clientportal.link:8080/live/neri/neri123/16843.ts
+#EXTINF:-1,Somali National TV SO
+http://clientportal.link:8080/live/neri/neri123/16912.ts
+#EXTINF:-1,Africanews CG
+http://clientportal.link:8080/live/neri/neri123/17750.ts
+#EXTINF:-1,ESTV ET
+http://clientportal.link:8080/live/neri/neri123/17292.ts
+#EXTINF:-1,Telefishinka Caalamiga HD SO
+http://clientportal.link:8080/live/neri/neri123/17295.ts
+#EXTINF:-1,Telefishinka Caalamiga SO
+http://clientportal.link:8080/live/neri/neri123/17294.ts
+#EXTINF:-1,RTNC CG
+http://clientportal.link:8080/live/neri/neri123/17747.ts
+#EXTINF:-1,Biafra TV 2 NG
+http://clientportal.link:8080/live/neri/neri123/18230.ts
+#EXTINF:-1,TVC News NG
+http://clientportal.link:8080/live/neri/neri123/17751.ts
+#EXTINF:-1,EBC ET
+http://clientportal.link:8080/live/neri/neri123/17748.ts
+#EXTINF:-1,KTN News KE
+http://clientportal.link:8080/live/neri/neri123/17749.ts
