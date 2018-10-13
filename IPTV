@@ -1,71 +1,151 @@
 #EXTM3U
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: ERI TV (Eritrea)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/12503.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: BTV (Nigeria)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4906.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: ANN7 (sud africa)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/13353.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: Dabanga Tv (Sudan)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/13356.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: Somali Cable (Somalia)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/13355.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: ZBC (Zimbabwe)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/13354.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: Africable (Mali)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4907.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: Afrique Media (PanAfrican)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4908.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: CRTV (Cameroon)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4909.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: Equinoxe TV (Cameroon)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4911.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: CRT TV NEWS (Cameroon)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4912.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: ORTM (Mali)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4914.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: RTNC 1 (Congo)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4917.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: 2STV (Senegal)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4894.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: IBN TV (Tanzania)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4895.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: STV
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4896.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: Diaspora 24 (Senegal)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4904.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: Lamp Fall TV (Senegal)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4900.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: MUSIC TV (Senegal)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4898.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: RTI 2 (Cote d'Ivoire)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4893.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: RTS 1 (Senegal)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4888.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: RTI 1 (Cote d'Ivoire)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4889.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: TM2 (Mali)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4890.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: RTS 2 (Senegal)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4891.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: SEN TV (Senegal)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4885.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: TFM (Senegal)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4903.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: TFM Religion (Senegal)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4886.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: Tv Continental (Nigeria)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/8955.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: Wazobia TV (Nigeria)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/8956.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: Walf tv (Senegal)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4905.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: Tele Congo (Congo)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4918.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: Tele Tchad
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4919.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: TVM1 (Mosambique)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/4920.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: AFRICA24
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/3140.ts
-#EXTINF:0,#EXTINF:0 tvg-id="ext" group-title="AFRICAN TV",AF: TVM International (Mosambique)
-http://ksportiptv.com:1557/live/umerbhai/jKTsFSn913/3282.ts
+: s1.kanasa-cccamserver.tk 10000 melimahdi melimahdi # v2.0.11-2892 
+C: s2.cccam-free.com 11000 thee2p cccam-free.com # v2.0.11-2892 
+C: s2.cccam-free.com 11100 r5yk45 cccam-free.com # v2.0.11-2892 
+C: free4u.mecccam.com 25000 2u87OBz0m6 www.iptvmac.eu # v2.0.11-2892 
+C: free4u.mecccam.com 25000 F3i6U5gbJ3 www.iptvmac.eu # v2.0.11-2892 
+C: free4u.mecccam.com 25000 B736qU2oF3 www.iptvmac.eu # v2.0.11-2892 
+C: free4u.mecccam.com 25000 AE5yP144Er www.iptvmac.eu # v2.0.11-2892 
+C: free4u.mecccam.com 25000 22176jq957 www.iptvmac.eu # v2.0.11-2892 
+C: free4u.mecccam.com 25000 Y5tpXA6965 www.iptvmac.eu # v2.0.11-2892 
+C: free4u.mecccam.com 25000 Sv25q14eW6 www.iptvmac.eu # v2.0.11-2892 
+C: free4u.mecccam.com 25000 ZuCf03092I www.iptvmac.eu # v2.0.11-2892 
+C: free4u.mecccam.com 25000 0o6391K17i www.iptvmac.eu # v2.0.11-2892 
+C: free.cccam24.de 20000 g8xxs55 cccam24.de # v2.0.11-2892 
+C: free.cccam24.de 20000 998bmvo cccam24.de # v2.0.11-2892 
+C: free.cccam24.de 20000 5nteuvw cccam24.de # v2.0.11-2892 
+C: 94.130.112.75 11000 950367 378778 # v2.0.11-2892 
+C: 178.32.248.125 11000 254985 735916 # v2.0.11-2892 
+C: 94.130.112.75 11000 574859 300106 # v2.0.11-2892 
+C: 178.32.248.125 11000 910761 299399 # v2.0.11-2892 
+C: 94.130.112.75 11000 910761 299399 # v2.0.11-2892 
+C: 178.32.248.125 11000 316778 410971 # v2.0.11-2892 
+C: 94.130.112.75 11000 625397 231445 # v2.0.11-2892 
+C: 178.32.248.125 11000 845847 886886 # v2.0.11-2892 
+C: 94.130.112.75 11000 845847 886886 # v2.0.11-2892 
+C: 178.32.248.125 11000 297617 333832 # v2.0.11-2892 
+C: 178.32.248.125 11000 186156 606090 # v2.0.11-2892 
+C: 94.130.112.75 11000 873019 612746 # v2.0.11-2892 
+C: 178.32.248.125 11000 803309 720054 # v2.0.11-2892 
+C: 94.130.112.75 11000 300424 566348 # v2.0.11-2892 
+C: 178.238.224.107 14000 koora koora # v2.0.11-2892 
+C: 178.238.224.107 14000 aabb bbaa # v2.0.11-2892 
+C: cardosodino.dyndns.org 12000 dino59 967362108637 # v2.0.11-2892 
+C: rs102.fcnoip.org 29002 rs10446 5573921 # v2.3.0-3367 
+C: w1.fcnoip.org 15101 w1593 0334688 # v2.3.0-3367 
+C: 178.238.224.107 14000 tvtv tvtv # v2.0.11-2892 
+C: r1.fcnoip.org 12001 r1785 3400052 # v2.3.0-3367 
+C: r1.fcnoip.org 12101 r1638 8752367 # v2.3.0-3367 
+C: v1.fcnoip.org 13001 v0126 5722130 # v2.3.0-3367 
+C: rs131.fcnoip.org 32101 rs131005 8002154 # v2.3.0-3367 
+C: r1.fcnoip.org 12101 r1311 7882698 # v2.3.0-3367 
+C: cspotweb.com 32011 KNWXd 60018 # v2.0.11-2892 
+C: satx.elsa12.com 18500 5cat1354 546wsd # v2.0.11-2892 
+C: satx1.elsa12.com 18500 5cat1354 546wsd # v2.0.11-2892 
+C: satx3.elsa12.com 18500 5cat1354 546wsd # v2.0.11-2892 
+C: satx2.elsa12.com 18500 5cat1354 546wsd # v2.0.11-2892 
+C: satx4.elsa12.com 18500 5cat1354 546wsd # v2.0.11-2892 
+C: vip1.buy-cccam.com 18000 iiU0D 8qG1uJP # v2.1.1-2971 
+C: satshar4.dyndns-ip.com 42700 test test123 # v2.1.4-3191 
+C: 5.189.159.8 14000 QHD IZI0X # v2.0.11-2892 
+C: b3.vipmgcamd.com 2002 ABDTFK204 ENQDG5ZZH # v2.0.11-2892 
+C: s2.cccam-free.com 11300 gwmpgm cccam-free.com # v2.0.11-2892 
+C: 2.ccclegend-test.gdn 1777 RU25 buy-iptv.online # v2.1.1-2971 
+C: s2.cccam-free.com 11000 nb4za1 cccam-free.com # v2.0.11-2892 
+C: geantsat-com.blogsite.xyz 46984 gqsa96o3 geantsat.com # v2.1.3-3165 
+C: 1.tvsnake.com 22600 W93M2T V6q7TN # v2.1.4-2892 
+C: free.cccamgenerators.com 10000 5i5r3 cccamgenerators.com # v2.0.11-2892 
+C: free.cccamgenerators.com 10000 92cf1 cccamgenerators.com # v2.0.11-2892 
+C: free.cccam.ch 40000 4lqz3b cccam.ch # v2.0.11-2892 
+C: s2.cccam-free.com 11100 5gk4t8 cccam-free.com # v2.0.11-2892 
+C: free.cccampowerful.com 40000 gppcb cccampowerful.com # v2.0.11-2892 
+C: hosting-vision.vip 14300 sisat5882 541545 # v2.0.11-2892 
+C: boss-cccam.dns.army 22010 4t0735pt2O Boss-cccam.coM # v2.1.3-3165 
+C: s2.cccam-free.com 11000 xeorb8 cccam-free.com # v2.0.11-2892 
+C: xtrp.tk 25913 25497 xtream # v2.1.1-2971 
+C: geantsat-com.blogsite.xyz 46984 zoeow4zj geantsat.com # v2.1.3-3165 
+C: 1.cccam3.com 19000 Jwhtyk19 cccam3.com # v2.1.3-3165 
+C: 173.212.219.60 11000 fl5w7 free # v2.0.11-2892 
+C: restream.spdns.org 12555 kc3157 cccamlive # v2.0.11-2892 
+C: restream.spdns.org 12555 su0073 cccamlive # v2.0.11-2892 
+C: free.cccam24.de 20000 dvalbo4 cccam24.de # v2.0.11-2892 
+C: 5.104.106.140 37000 peter oki # v2.0.11-2892 
+C: b3.vipmgcamd.com 2004 ABDTFK371 3459565 # v2.0.11-2892 
+C: z2.fcnoip.org 23002 z1310 2102121 # v2.3.0-3367 
+C: r2.fcnoip.org 12002 r1702 0125778 # v2.3.0-3367 
+C: s1.fcnoip.org 24000 s0988 6846544 # v2.3.0-3367 
+C: 5.189.147.211 2002 ABDTFK217 UXNCESE9C # v2.0.11-2892 
+C: ws.bbbns.xyz 3340 agret0597 687756 # v2.0.11-2892 
+C: v1.fcnoip.org 13001 v0862 3302010 # v2.3.0-3367 
+C: 213.152.164.142 23002 z1310 2102121 # v2.3.0-3367 
+C: w1.fcnoip.org 15001 w1594 0334688 # v2.3.0-3367 
+C: r2.fcnoip.org 12102 r1701 0000000 # v2.3.0-3367 
+C: kosice.dynu.net 12000 kosice kosice # v2.3.0-3367 
+C: r2.fcnoip.org 12102 r1785 3400052 # v2.3.0-3367 
+C: r2.fcnoip.org 12102 r1304 7882698 # v2.3.0-3367 
+C: rs132.fcnoip.org 32002 rs13099 8451200 # v2.3.0-3367 
+C: 46.105.126.147 28900 evertkamer kamerevert # v2.0.11-2892 
+C: r1.fcnoip.org 12101 r1472 1111200 # v2.3.0-3367 
+C: rs112.fcnoip.org 30102 rs111014 8579642 # v2.3.0-3367 
+C: r2.fcnoip.org 12102 r1472 1111200 # v2.3.0-3367 
+C: bemhd.dyndns.org 12000 oolgun oolgun # v2.0.11-2892 
+C: france.ztvnl.com 10001 khaledmr41 260215mr41 # v2.0.11-2892 
+C: free.speeds.tv 7501 41.109.148.70 n8wgktefry # v2.3.0-3367 
+C: free.speeds.tv 7501 41.102.254.42 wa7n891grx # v2.3.0-3367 
+C: sc.cohosting.co 34200 test211758 ay1pm # v2.0.9-2816 
+C: b3.vipmgcamd.com 2004 tfk386 345571 # v2.0.11-2892 
+C: 5.189.147.211 2004 tfk386 345571 # v2.0.11-2892 
+C: dali4server.myddns.me 33000 dodogogo 201820 # v2.0.11-2892 
+C: s2.cccam-free.com 11400 q3e2fd cccam-free.com # v2.0.11-2892 
+C: free.speeds.tv 7501 37.237.232.129 t4qb7bcii0 # v2.3.0-3367 
+C: free.speeds.tv 7501 37.237.238.124 sgwxrnsy09 # v2.3.0-3367 
+C: 80.211.55.71 16000 NASSAR90 KYNGSAT # v2.1.1-2971 
+C: 5.189.159.8 14000 3FYKLW4P8U QPLZU2CVU2 # v2.0.11-2892 
+C: free.speeds.tv 7501 37.237.238.84 ix7609mx2z # v2.3.0-3367 
+C: cccamgate.dns.navy 10010 E250Tn9hI2 wWW.CCCamgate.cOM # v2.1.3-3165 
+C: tvgator.spdns.org 12555 et4734 hiberlo.com # v2.0.11-2892 
+C: tvgator.spdns.org 12555 va09911 hiberlo.com # v2.0.11-2892 
+C: abdosat.tk 11233 free24h cc_cam # v2.1.1-2971 
+C: 144.76.223.38 22900 T87gLv wB7Pfd # v2.1.4-2892 
+C: s2.cccam-free.com 11100 2czohd cccam-free.com # v2.0.11-2892 
+C: s2.cccam-free.com 11400 hqbmd1 cccam-free.com # v2.0.11-2892 
+C: free4u.mecccam.com 25000 4Xn9332Q2 www.iptvmac.eu # v2.0.11-2892 
+C: free4u.mecccam.com 25000 L513AE0y1 www.iptvmac.eu # v2.0.11-2892 
+C: bigcccam.105cccam.com 10500 st370 4b9yqs3jr # v2.0.11-2892 
+C: 12345.user32.com 15555 masrawysat masrawysat # v2.0.11-2892 
+C: 164.132.34.246 10500 st337 fy356cquy # v2.0.11-2892 
+N: 178.32.9.64 711 toshkent54 0123456789 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00: 
+C: bratislava.dynu.net 12000 kosice kosice # v2.2.1-3316 
+C: Z1.fcnoip.org 23001 z1310 2102121 # v2.3.0-3367 
+C: 144.76.192.116 23001 z1310 2102121 # v2.3.0-3367 
+N: test.tvsharing.biz 7021 test test 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b00: 
+N: s8.torbrand.tv 700 boni60 boni 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00: 
+N: test.tvsharing.biz 7001 test test 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:40600 
+N: test.tvsharing.biz 7011 test test 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0963: 
+C: freecccam.sat-tv.net 18000 power8 sharing-masr.com # v2.0.11-2892 
+N: 186.2.167.124 7000 test test 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:40600 
+C: newking.mysql.tv 12000 Foxhd812 1Z988x # v2.0.11-2892 
+C: dreamboxservices.micel.me 12004 hibrose01 rgx5m3drb # v2.0.11-2892 
+C: freecccam.sat-tv.net 18000 power6 sharing-masr.com # v2.0.11-2892 
+N: 193.70.66.7 714 Pennsylvania Pennsylvania 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00: 
+N: ioioioio.zzzz.io 33232 123654 123654 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00:0 
+N: 178.32.9.64 718 toshkent54 0123456789 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00: 
+C: r2.fcnoip.org 12102 r1702 0125778 # v2.3.0-3367 
+N: 186.2.167.124 7020 test test 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0d96: 
+N: test.tvsharing.biz 7019 test test 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0500:40600 
+C: rs92.fcnoip.org 27102 rs91854 0114070 # v2.3.0-3367 
+N: test.tvsharing.biz 7018 test test 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0baa: 
+N: 178.32.9.64 701 toshkent54 0123456789 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 00: 
+N: test.tvsharing.biz 7012 test test 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b02: 
+N: test.tvsharing.biz 7007 test test 01 02 03 04 05 06 07 08 09 10 11 12 13 14 # 0b0f: 
+C: 164.132.34.246 10500 st358 ksv8duydy # v2.0.11-2892 
+C: wwn.epac.to 17000 chaw60280 085079827 # v2.1.3-3165 
+C: s2.cccam-free.com 11000 c57ylb cccam-free.com # v2.0.11-2892 
+C: s2.cccam-free.com 11000 847zzd cccam-free.com # v2.0.11-2892 
+C: restream.spdns.org 12555 xn58228 cccamlive # v2.0.11-2892 
+C: s2.cccam-free.com 11300 z3vitz cccam-free.com # v2.0.11-2892 
+C: free.cccampowerful.com 40000 7rqbo cccampowerful.com # v2.0.11-2892 
+C: pays.nopay0.com 12000 appe593 45236 # v2.0.11-2892 
+C: free.cccampowerful.com 40000 ng676 cccampowerful.com # v2.0.11-2892 
+C: monde.servervip.info 16000 wo9apt www.vipserversat.com # v2.1.1-2971 
+C: s2.cccam-free.com 11100 8c35h2 cccam-free.com # v2.0.11-2892
