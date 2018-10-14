@@ -1,67 +1,55 @@
 #EXTM3U
-#EXTINF:0 group-title="(AR) Arabia",*** AutoIPTV ***
-https://autoiptv.net
-#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net
-https://autoiptv.net
-#EXTINF:0 group-title="(AR) Arabia",*** Playlists ***
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(AR) Arabia",https://autoiptv.net/playlists
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 | HD
-http://www.elahmad.com/tv/m3u8/adtv.m3u8
-#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 (1+) | HD
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 | SD
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 2 | HD
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:0 group-title="(AR) Arabia",ACHARIKA SPORT | SD
-http://163.172.222.83:8100/live/amir/123456789/3063.m3u8
-#EXTINF:0 group-title="(AR) Arabia",AD SPORT1 | HD
-http://194.88.107.95:6204/live/Abas/Abas/2582.m3u8
-#EXTINF:0 group-title="(AR) Arabia",AD SPORT2 | HD
-http://194.88.107.95:6204/live/Abas/Abas/2581.m3u8
-#EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 2 | HD
-http://185.53.163.220:2015/live/280690/280690/17260.m3u8
-#EXTINF:0 group-title="(AR) Arabia",BEIN SPORTS MAX 4 | HD
-http://185.53.163.220:2015/live/280690/280690/17231.m3u8
-#EXTINF:0 group-title="(AR) Arabia",DMC SPORT | HD
-http://194.88.107.95:6204/live/Abas/Abas/6890.m3u8
-#EXTINF:0 group-title="(AR) Arabia",DUBAI RACING 1 | HD
-http://194.88.107.95:6204/live/Abas/Abas/2584.m3u8
-#EXTINF:0 group-title="(AR) Arabia",DUBAI RACING 2 | HD
-http://194.88.107.95:6204/live/Abas/Abas/10628.m3u8
-#EXTINF:0 group-title="(AR) Arabia",DUBAI RACING 3 | HD
-http://194.88.107.95:6204/live/Abas/Abas/10627.m3u8
-#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORT 1 | HD
-http://194.88.107.95:6204/live/Abas/Abas/2583.m3u8
-#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORT 2 | HD
-http://194.88.107.95:6204/live/Abas/Abas/10626.m3u8
-#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORT 3 | HD
-http://194.88.107.95:6204/live/Abas/Abas/10625.m3u8
-#EXTINF:0 group-title="(AR) Arabia",DUBAI SPORTS | HD
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:0 group-title="(AR) Arabia",IRAQIYA SPORT | SD
-http://194.88.107.95:6204/live/Abas/Abas/2740.m3u8
-#EXTINF:0 group-title="(AR) Arabia",KTV SPORT | HD
-http://194.88.107.95:6204/live/Abas/Abas/2733.m3u8
-#EXTINF:0 group-title="(AR) Arabia",KTV SPORT PLUS | HD
-http://194.88.107.95:6204/live/Abas/Abas/2732.m3u8
-#EXTINF:0 group-title="(AR) Arabia",KUWAIT SPORT | HD
-http://194.88.107.95:6204/live/Abas/Abas/2735.m3u8
-#EXTINF:0 group-title="(AR) Arabia",MODERN SPORT | SD
-http://185.53.163.220:2015/live/280690/280690/34712.m3u8
-#EXTINF:0 group-title="(AR) Arabia",NILE SPORT | SD
-http://194.88.107.95:6204/live/Abas/Abas/4133.m3u8
-#EXTINF:0 group-title="(AR) Arabia",OMMAN SPORT | HD
-http://194.88.107.95:6204/live/Abas/Abas/2676.m3u8
-#EXTINF:0 group-title="(AR) Arabia",ON SPORT | HD
-http://194.88.107.95:6204/live/Abas/Abas/6556.m3u8
-#EXTINF:0 group-title="(AR) Arabia",SAUDIA SPORT 24 | HD
-http://194.88.107.95:6204/live/Abas/Abas/10624.m3u8
-#EXTINF:0 group-title="(AR) Arabia",SPORT 1 | HD
-http://194.88.107.95:6204/live/Abas/Abas/3039.m3u8
-#EXTINF:0 group-title="(AR) Arabia",SPORT 2 | HD
-http://194.88.107.95:6204/live/Abas/Abas/6432.m3u8
-#EXTINF:0 group-title="(AR) Arabia",YAS SPORTS UPDATED | SD
-http://adtv.ercdn.net/adsportextra/adsportextra_720p.m3u8
+#EXTINF:-1,BEINSPORT-NEWS
+http://178.132.5.102:8000/live/toni1/toni1/1300.ts
+#EXTINF:-1,BeinSport-Full-HD1
+http://178.132.5.102:8000/live/toni1/toni1/1.ts
+#EXTINF:-1,BeinSport-Full-HD2
+http://178.132.5.102:8000/live/toni1/toni1/2.ts
+#EXTINF:-1,BeinSport-Full-HD3
+http://178.132.5.102:8000/live/toni1/toni1/3.ts
+#EXTINF:-1,BeinSport-Full-HD4
+http://178.132.5.102:8000/live/toni1/toni1/4.ts
+#EXTINF:-1,BeinSport-HD1
+http://178.132.5.102:8000/live/toni1/toni1/1122.ts
+#EXTINF:-1,BeinSport-HD2
+http://178.132.5.102:8000/live/toni1/toni1/1123.ts
+#EXTINF:-1,BeinSport-HD3
+http://178.132.5.102:8000/live/toni1/toni1/1124.ts
+#EXTINF:-1,BeinSport-HD4
+http://178.132.5.102:8000/live/toni1/toni1/1125.ts
+#EXTINF:-1,BeinSport-HD5
+http://178.132.5.102:8000/live/toni1/toni1/5.ts
+#EXTINF:-1,BeinSport-HD6
+http://178.132.5.102:8000/live/toni1/toni1/6.ts
+#EXTINF:-1,BeinSport-HD7
+http://178.132.5.102:8000/live/toni1/toni1/7.ts
+#EXTINF:-1,BeinSport-HD8
+http://178.132.5.102:8000/live/toni1/toni1/8.ts
+#EXTINF:-1,BeinSport-HD9
+http://178.132.5.102:8000/live/toni1/toni1/9.ts
+#EXTINF:-1,BeinSport-HD10
+http://178.132.5.102:8000/live/toni1/toni1/10.ts
+#EXTINF:-1,BeinSport-Sd1
+http://178.132.5.102:8000/live/toni1/toni1/293.ts
+#EXTINF:-1,BeinSport-Sd2
+http://178.132.5.102:8000/live/toni1/toni1/294.ts
+#EXTINF:-1,BeinSport-Sd3
+http://178.132.5.102:8000/live/toni1/toni1/295.ts
+#EXTINF:-1,BeinSport-Sd4
+http://178.132.5.102:8000/live/toni1/toni1/296.ts
+#EXTINF:-1,BeinSport-Sd5
+http://178.132.5.102:8000/live/toni1/toni1/297.ts
+#EXTINF:-1,BeinSport-Sd6
+http://178.132.5.102:8000/live/toni1/toni1/298.ts
+#EXTINF:-1,BeinSport-Sd7
+http://178.132.5.102:8000/live/toni1/toni1/299.ts
+#EXTINF:-1,BeinSport-Sd8
+http://178.132.5.102:8000/live/toni1/toni1/300.ts
+#EXTINF:-1,BeinSport-Sd9
+http://178.132.5.102:8000/live/toni1/toni1/301.ts
+#EXTINF:-1,BeinSport-Sd10
+http://178.132.5.102:8000/live/toni1/toni1/302.ts
+#EXTINF:-1,BeinSport-HD11
+http://178.132.5.102:8000/live/toni1/toni1/1544.ts
+#EXTINF:-1,NBA-SPORT-BEIN
+http://178.132.5.102:8000/live/toni1/toni1/1800.ts
