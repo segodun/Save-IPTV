@@ -54,115 +54,187 @@ http://178.132.5.102:8000/live/toni1/toni1/1544.ts
 #EXTINF:-1,NBA-SPORT-BEIN
 http://178.132.5.102:8000/live/toni1/toni1/1800.ts
 #EXTM3U
-#EXTINF:0,HUM STAR,http://cdn.ebound.tv:1935/tv/hum2/playlist.m3u8
-OUI TV,http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8
-#EXTINF:0,ENCA SOUTH AFRICA,http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/enca/ls_satlink/b_,264,528,828,.m3u8
-RTI 2,rtmp://myafricanmega.tulix.tv:1935/map-rti2/map-rti2.stream
-#EXTINF:0,ORTM,rtsp://myafricanmega.tulix.tv:1935/map-ortmroku/mp4:map-ortmroku.stream
-GABON TV,rtmp://myafricanmega.tulix.tv:1935/map-gabon/map-gabontv.stream
-#EXTINF:0,TELE CONGO,rtsp://myafricanmega.tulix.tv:1935/map-telecongo/mp4:map-telecongo.stream
-MAYA TV,http://162.212.176.83:8080/mayatv.m3u8
-#EXTINF:0,MAISHA,http://162.212.176.83:8080/map-maisha.m3u8
-MAURITANIA,http://162.212.176.83:8080/map-mauritania.m3u8
-#EXTINF:0,RTG ROKU,http://162.212.176.83:8080/map-rtgroku.stream.m3u8
-RTGA,http://162.212.176.83:8080/rtgatv.stream.m3u8
-#EXTINF:0,RTI 1,http://162.212.176.83:8080/map-rti1roku.m3u8
-SULAVISION,http://162.212.176.83:8080/sulavision.m3u8
-#EXTINF:0,TV CONTINENTAL,rtmp://77.92.76.135:1935/tvce/livestream
-TVC NEWS,rtmp://77.92.76.135:1935/tvcnews/livestream
-#EXTINF:0,DIASPORA 24,rtmp://diaspora24.tv:1935/diaspora24tv/diaspora24
-GHANA DIASPORA,http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaDiaspora/gd_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
-#EXTINF:0,GHANA TV,http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaTV/ghanatv_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
-GHANA DIASPORA,http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaDiaspora/gd_1200.m3u
-#EXTINF:0,CR TV,http://162.212.176.83:8080/map-crtvroku.m3u8
-CANAL 6,http://162.212.176.83:8080/canal6.stream.m3u8
-#EXTINF:0,CHANNELS 24,http://myafricanmega3.tulix.tv:1935/map-channelstv/map-channelstv.stream/chunklist.m3u8?
-AD TV,http://162.212.176.83:8080/mystream1.m3u8
-#EXTINF:0,AFRICA 24,http://afr24-p.cdn.hexaglobe.net/streaming/africa24_af24/playlist4.m3u8
-AL QURAAN,http://162.212.176.83:8080/map-alquraan.stream.m3u8
-#EXTINF:0,B ONE,http://162.212.176.83:8080/bonetv.stream.m3u8
-CAMPUS,http://162.212.176.83:8080/campustv.stream.m3u8
-#EXTINF:0,CORCAS,http://95.81.165.21/5958/index.m3u8
-1STV,http://95.81.165.21/10359/01.m3u8
-#EXTINF:0,2STV,http://95.81.165.21/10359/index.m3u8
-ADOME TV,http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/AdomeTV/adm_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
-#EXTINF:0,ADOME TV,http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/AdomeTV/adm_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
-CNBC AFRICA,http://brightcove03-f.akamaihd.net/CNBC_ANGLE1_2@176778?videoId=4034050989001&lineUpId=&pubId=1571595826001&playerId=1572473874001&affiliateId=&bandwidthEstimationTest=true&v=3.4.0&fp=WIN
-#EXTINF:0,CNBC ,http://brightcove03-f.akamaihd.net/CNBC_ANGLE1_2@176778?
-SBC,http://cdn01.iqbroadcast.tv:8081/g1/sbscvt1206/playlist.m3u8
-#EXTINF:0,AFRICA BOX ZAMBIE,http://95.81.165.21/8038/index.m3u8
-alquraan,http://162.212.176.83:8080/map-alquraan.stream.m3u8
-#EXTINF:0,BEN TV,http://162.212.176.83:8080/map-ben.m3u8
-mystream2,http://162.212.176.83:8080/mystream2.m3u8
-#EXTINF:0,equinoxe,http://162.212.176.83:8080/map-equinoxe.m3u8
-imedi,http://162.212.176.83:8080/imedi.m3u8
-#EXTINF:0,mauritania,http://162.212.176.83:8080/map-mauritania.m3u8
-rtga tv,http://162.212.176.83:8080/rtgatv.stream.m3u8
-#EXTINF:0,Stream1,http://162.212.176.83:8080/Stream1.m3u8
-sulavision,http://162.212.176.83:8080/sulavision.m3u8
-#EXTINF:0,vica tv,http://162.212.176.83:8080/vicatv.m3u8
-nta,http://162.212.176.83:8080/map-nta.stream.m3u8
-#EXTINF:0,TVC HD,http://162.212.176.83:8080/tvchd.stream.m3u8
-tv1,http://162.212.176.83:8080/2tv1.m3u8
-#EXTINF:0,Stream1,http://162.212.176.83:8080/Stream1.m3u8
-aliraqiya,http://162.212.176.83:8080/aliraqiya.m3u8
-#EXTINF:0,bonetv,http://162.212.176.83:8080/bonetv.stream.m3u8
-campustv,http://162.212.176.83:8080/campustv.stream.m3u8
-#EXTINF:0,canal12,http://162.212.176.83:8080/canal12.stream.m3u8
-canal5,http://162.212.176.83:8080/canal5.stream.m3u8
-#EXTINF:0,fashionon,http://162.212.176.83:8080/fashionone.m3u8
-globotv,http://162.212.176.83:8080/globotv.m3u8
-#EXTINF:0,hchtv,http://162.212.176.83:8080/hchtv.m3u8
-hctv germany,http://162.212.176.83:8080/hctvgermany.m3u8
-#EXTINF:0,imedi,http://162.212.176.83:8080/imedi.m3u8
-maestro,http://162.212.176.83:8080/maestro.m3u8
-#EXTINF:0,siracines,http://162.212.176.83:8080/map-2siracines.m3u8
-stvroku,http://162.212.176.83:8080/map-2stvroku.m3u8
-#EXTINF:0,france24roku,http://162.212.176.83:8080/map-france24roku.stream.m3u8
-gabontv,http://162.212.176.83:8080/map-gabontv.stream.m3u8
-#EXTINF:0,grtsroku,http://162.212.176.83:8080/map-grtsroku.m3u8
-ktnroku,http://162.212.176.83:8080/map-ktnroku.m3u8
-#EXTINF:0,nollywood-roku,http://162.212.176.83:8080/map-nollywood-roku.m3u8
-nollywood,http://162.212.176.83:8080/map-nollywood.m3u8
-#EXTINF:0,nta,http://162.212.176.83:8080/map-nta.stream.m3u8
-ortbroku,http://162.212.176.83:8080/map-ortbroku.stream.m3u8
-#EXTINF:0,rti1roku,http://162.212.176.83:8080/map-rti1roku.m3u8
-rtncroku,http://162.212.176.83:8080/map-rtncroku.m3u8
-#EXTINF:0,rts1roku,http://162.212.176.83:8080/map-rts1roku.m3u8
-tfmroku,http://162.212.176.83:8080/map-tfmroku.m3u8
-#EXTINF:0,TVT,http://162.212.176.83:8080/map-tvt.stream.m3u8
-mystream2,http://162.212.176.83:8080/mystream2.m3u8
-#EXTINF:0,rrsatlive4,http://162.212.176.83:8080/rrsatlive4.m3u8
-rrsatlive5,http://162.212.176.83:8080/rrsatlive5.m3u8
-#EXTINF:0,rrsatlive6,http://162.212.176.83:8080/rrsatlive6.m3u8
-telecadena,http://162.212.176.83:8080/telecadena.stream.m3u8
-#EXTINF:0,teleceiba,http://162.212.176.83:8080/teleceiba.m3u8
-teleprogreso,http://162.212.176.83:8080/teleprogreso.m3u8
-#EXTINF:0,tododeportes,http://162.212.176.83:8080/tododeportes.stream.m3u8
-trtspor,http://162.212.176.83:8080/trtspor.m3u8
-#EXTINF:0,tvchd,http://162.212.176.83:8080/tvchd.stream.m3u8
-tvs1tv,http://162.212.176.83:8080/tvs1tv.stream.m3u8
-#EXTINF:0,vicatv,http://162.212.176.83:8080/vicatv.m3u8
-vtv4,http://162.212.176.83:8080/vtv4.m3u8
-#EXTINF:0,SIC (2 OPCAO),http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
-TVI,http://noscdn1.connectedviews.com:1935/live/tvi.stream/livestream.m3u8
-#EXTINF:0,TVI (2 OPCAO),http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w787106714_b814000.m3u8
-TVI (3 OPCAO),http://88.157.194.246/live/ramdisk/ztvi/HLS/ztvi.m3u8
-#EXTINF:0,TVI+,http://noscdn1.connectedviews.com:1935/live/+tvi.stream/livestream.m3u8
-TVI 24,http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/playlist.m3u8
-#EXTINF:0,NIGERIA CONTI 24,http://77.92.76.135:1935/tvce/livestream/playlist.m3u8
-TVC NEWS NIGERIA,http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
-#EXTINF:0,NIGERIA 24,http://myafricanmega3.tulix.tv:1935/map-channelstv/map-channelstv.stream/chunklist.m3u8?wowzasessionid=598321747
-Equinoxe Television,rtmp://myafricanmega3.tulix.tv:1935/map-equinoxe/map-equinoxe
-#EXTINF:0,FUSION PLUS TV,http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
-TV MANA MAPUTO,http://195.22.19.189:1935/tvmz/tvmz3/playlist.m3u8
-#EXTINF:0,ADOM TV GHANA,http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/AdomeTV/adm_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
-GTV GHANA,http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaTV/ghanatv_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
-#EXTINF:0,TPA AFRICA,http://myafricanmega3.tulix.tv:1935/map-tpaint/map-tpaint.stream/playlist.m3u8
-TVC NEWS,rtmp://77.92.76.135:1935/tvcnews/livestream
-#EXTINF:0,TV AFRICA,http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/TvAfrica/tvafrica_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
-SULAVISION,http://188.165.135.22:1935/remararg/livestream/live.m3u8
-#EXTINF:0,SYFY HD FR,http://88.141.4.217:9011/11
-CANAL+ SPORT FR,http://88.141.4.217:9004/4
-#EXTINF:0,DIASPORA 24,rtmp://diaspora24.tv:1935/diaspora24tv/diaspora24
-AFRIQUE MEDIA,http://afm.streamakaci.com/afm/afm.stream/playlist.m3u8
+#EXTINF:0,#EXTM3U
+#EXTINF:-1,hk:bonetv
+#EXTINF:0,http://162.212.176.83:8080/bonetv.stream.m3u8
+#EXTINF:-1,hk:globotv
+#EXTINF:0,http://162.212.176.83:8080/globotv.m3u8
+#EXTINF:-1,hk:hctv somalia
+#EXTINF:0,http://162.212.176.83:8080/hctvgermany.m3u8
+#EXTINF:-1,hk:imedi
+#EXTINF:0,http://162.212.176.83:8080/imedi.m3u8
+#EXTINF:-1,hk:maestro
+#EXTINF:0,http://162.212.176.83:8080/maestro.m3u8
+#EXTINF:-1,hk:afro music fr
+#EXTINF:0,http://162.212.176.83:8080/map-2siracines.m3u8
+#EXTINF:-1,hk:africableroku fr
+#EXTINF:0,http://162.212.176.83:8080/map-africableroku.stream.m3u8
+#EXTINF:-1,hk:alquraan arab
+#EXTINF:0,http://162.212.176.83:8080/map-alquraan.stream.m3u8
+#EXTINF:-1,hk:ben
+#EXTINF:0,http://162.212.176.83:8080/map-ben.m3u8
+#EXTINF:-1,hk:equinoxe
+#EXTINF:0,http://162.212.176.83:8080/map-equinoxe.m3u8
+#EXTINF:-1,hk:france24roku
+#EXTINF:0,http://162.212.176.83:8080/map-france24roku.stream.m3u8
+#EXTINF:-1,hk:gabontv
+#EXTINF:0,http://162.212.176.83:8080/map-gabontv.stream.m3u8
+#EXTINF:-1,hk:grtsroku
+#EXTINF:0,http://162.212.176.83:8080/map-grtsroku.m3u8
+#EXTINF:-1,hk:ktnroku
+#EXTINF:0,http://162.212.176.83:8080/map-ktnroku.m3u8
+#EXTINF:-1,hk:mauritania
+#EXTINF:0,http://162.212.176.83:8080/map-mauritania.m3u8
+#EXTINF:-1,hk:nollywood-roku
+#EXTINF:0,http://162.212.176.83:8080/map-nollywood-roku.m3u8
+#EXTINF:-1,hk:nollywood
+#EXTINF:0,http://162.212.176.83:8080/map-nollywood.m3u8
+#EXTINF:-1,hk:nta
+#EXTINF:0,http://162.212.176.83:8080/map-nta.stream.m3u8
+#EXTINF:-1,hk:ortbroku
+#EXTINF:0,http://162.212.176.83:8080/map-ortbroku.stream.m3u8
+#EXTINF:-1,hk:rti1roku
+#EXTINF:0,http://162.212.176.83:8080/map-rti1roku.m3u8
+#EXTINF:-1,hk:rtncroku
+#EXTINF:0,http://162.212.176.83:8080/map-rtncroku.m3u8
+#EXTINF:-1,hk:telecongo
+#EXTINF:0,http://162.212.176.83:8080/map-telecongo.stream.m3u8
+#EXTINF:-1,hk:telesahel
+#EXTINF:0,http://162.212.176.83:8080/map-telesahel.m3u8
+#EXTINF:-1,hk:tfmroku
+#EXTINF:0,http://162.212.176.83:8080/map-tfmroku.m3u8
+#EXTINF:-1,hk:tvt
+#EXTINF:0,http://162.212.176.83:8080/map-tvt.stream.m3u8
+#EXTINF:-1,hk:rtgatv
+#EXTINF:0,http://162.212.176.83:8080/rtgatv.stream.m3u8
+#EXTINF:0, TV CONTINENTAL NIGERIA
+#EXTINF:0, http://77.92.76.135:1935/tvce/livestream/playlist.m3u8
+ #EXTINF:0, TVC News NIGERIA
+#EXTINF:0, http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
+ #EXTINF:-1,TVC NEWS
+#EXTINF:0, rtmp://77.92.76.135:1935/tvcnews/livestream
+ #EXTINF:-1, Africa: Diaspora Ghana
+#EXTINF:0, http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaDiaspora/gd_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
+#EXTINF:-1, Africa: Equinoxe Television (CMR)
+#EXTINF:0, rtmp://$OPT:rtmp-raw=rtmp://myafricanmega3.tulix.tv:1935/map-equinoxe/map-equinoxe
+ #EXTINF:-1, Africa: FusionPlus TV
+#EXTINF:0, http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+ #EXTINF:-1, Africa:TV ManÃ¡-Maputo
+#EXTINF:0, http://195.22.19.189:1935/tvmz/tvmz3/playlist.m3u8
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live?videoId=1258549906001&pubId=/aljazeera_balkans_high
+#EXTINF:0,rtmp://$OPT:rtmp-raw=rtmp://d.cdn.newschat.tv/edge playpath=al_jazeera_live swfUrl=http://msnbclive.eu/player.swf live=1 pageUrl=http://www.livenewschat.eu/al-jazeera-news/
+rtmp://$OPT:rtmp-raw=rtmp://89.248.171.90:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
+#EXTINF:0,rtmp://$OPT:rtmp-raw=rtmp://80.82.78.39:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=13&width=600&height=450 token=#atd%#$ZH
+#EXTINF:-1,BT sport 1 HD
+#EXTINF:0,rtmp://$OPT:rtmp-raw=rtmp://80.82.78.22:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 pageUrl=http://popeoftheplayers.pw/player3.php?id=13&width=600&height=450 token=#atd%#$ZH
+#EXTINF:-1,BT sport 2 HD
+#EXTINF:0,rtmp://$OPT:rtmp-raw=rtmp://80.82.78.22:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 pageUrl=http://popeoftheplayers.pw/player3.php?id=15&width=600&height=450 token=#atd%#$ZH
+#EXTINF:-1, sky 1
+#EXTINF:0,rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.160:1935/live/ playpath=sskys1 swfUrl=http://www.hdcast.org//aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1, sky 2
+#EXTINF:0,rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.160:1935/live/ playpath=sskys2 swfUrl=http://www.hdcast.org//aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1, sky 3
+#EXTINF:0,rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.160:1935/live/ playpath=sskys3 swfUrl=http://www.hdcast.org//aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1, sky 4
+#EXTINF:0,rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.160:1935/live/ playpath=sskys4 swfUrl=http://www.hdcast.org//aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1, sky 5
+#EXTINF:0,rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.160:1935/live/ playpath=sskys5 swfUrl=http://www.hdcast.org//aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+#EXTINF:-1, f1
+#EXTINF:0,rtmp://$OPT:rtmp-raw=rtmpe://46.246.29.160:1935/live/ playpath=sskysf1 swfUrl=http://www.hdcast.org//aplayer/jwplayer.flash.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+rtmp://178.239.53.132/live/bbc1hd
+#EXTINF:0,rtmp://178.239.53.132/live/bbc2hd
+rtmp://178.239.53.132/live/itv1hd
+#EXTINF:0,rtmp://178.239.53.132/live/c4hd
+rtmp://178.239.53.132/live/c5sd
+#EXTINF:0,rtmp://178.239.53.132/live/five24
+rtmp://178.239.53.132/live/bbc3hd
+#EXTINF:0,rtmp://178.239.53.132/live/bbc4cebiehd
+rtmp://178.239.53.132/live/itv2sd2
+#EXTINF:0,rtmp://178.239.53.132/live/itv3sd1
+rtmp://178.239.53.132/live/itv4sd2
+#EXTINF:0,rtmp://178.239.53.132/live/e4sd
+rtmp://178.239.53.132/live/more4sd
+#EXTINF:0,rtmp://178.239.53.132/live/4seven
+rtmp://178.239.53.132/live/5usa
+#EXTINF:0,rtmp://178.239.53.132/live/5star
+#EXTINF:0,itv 1
+#EXTINF:0,http://84.232.5.115/liveedge/itv1.stream/playlist.m3u8
+#EXTINF:0,itv 2
+#EXTINF:0,http://84.232.5.115/liveedge/itv2.stream/playlist.m3u8
+#EXTINF:0,itv 3
+#EXTINF:0,http://84.232.5.115/liveedge/itv3.stream/playlist.m3u8
+#EXTINF:0,itv 4
+#EXTINF:0,http://84.232.5.115/liveedge/itv4.stream/playlist.m3u8
+#EXTINF:-1,ITV
+#EXTINF:0,http://iptv.star7arab.com/free?token=895392491&id=60
+#EXTINF:-1,ITV 2
+#EXTINF:0,http://iptv.star7arab.com/free?token=895392491&id=61
+#EXTINF:-1,ITV 3
+#EXTINF:0,http://iptv.star7arab.com/free?token=895392491&id=62
+#EXTINF:-1,ITV 4
+#EXTINF:0,http://iptv.star7arab.com/free?token=895392491&id=63
+#EXTINF:-1,: ITV 
+#EXTINF:0,http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/175.m3u8?token=uz6qP4oobvt_uHy8wFoYSQ&e=1439941315&u=33901&channel= 
+#EXTINF:-1,: ITV3 
+#EXTINF:0,http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/177.m3u8?token=uz6qP4oobvt_uHy8wFoYSQ&e=1439941315&u=33901&channel= 
+#EXTINF:-1,: ITV2 
+#EXTINF:0,http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/176.m3u8?token=uz6qP4oobvt_uHy8wFoYSQ&e=1439941315&u=33901&channel= 
+#EXTINF:-1,: ITV4 
+#EXTINF:0,http://37.187.149.103:8000/live/ce13d32385c9a90a/ac8625bde62657dc/178.m3u8?token=uz6qP4oobvt_uHy8wFoYSQ&e=1439941315&u=33901&channel= 
+#EXTINF:-1,BEIN SPORTS 1 EN
+#EXTINF:0,http://180.250.29.22:80/jhos/beib1_4/playlist.m3u8
+#EXTINF:-1,BEIN SPORTS 2 EN
+#EXTINF:0,http://180.250.29.22:80/jhos/beib2_4/playlist.m3u8
+#EXTINF:-1,BEIN SPORTS 3 EN
+#EXTINF:0,http://180.250.29.22:80/jhos/beib3_4/playlist.m3u8
+#EXTINF:-1,ote sport 1
+#EXTINF:0,http://38.122.233.10:1935/gr-live/otesport1.sdp/playlist.m3u8
+#EXTINF:-1,ote sport 2
+#EXTINF:0,http://38.122.233.10:1935/gr-live/otesport2.sdp/playlist.m3u8
+#EXTINF:-1,ote sport 3
+#EXTINF:0,http://38.122.233.10:1935/gr-live/otesport3.sdp/playlist.m3u8
+#EXTINF:-1,ote sport 4
+#EXTINF:0,http://38.122.233.10:1935/gr-live/otesport4.sdp/playlist.m3u8
+#EXTINF:-1,ote sport 5
+#EXTINF:0,http://38.122.233.10:1935/gr-live/otesport5.sdp/playlist.m3u8
+#EXTINF:0,MTV
+#EXTINF:0,http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062
+#EXTINF:0,ABC 22 HD
+#EXTINF:0,http://93.174.95.125:1935/edge/_definst_/nz7l9vc5nv1og7b/playlist.m3u8?wowzasessionid=1419880374
+#EXTINF:-1, CNN USA
+#EXTINF:0,http://142.4.216.60:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421&xs=_we_cmp4bzhoejE3cTl3YWlxfDEzOTY4MjM0MTZ8NDkuOTMuMzcuNjN8NTM0MWM3NjgyZTY3Nnw5YWNmYzRhM2FiNjQwMmFkMmY1OGQ2YjJlOWVkMjllYTQ0MTgxODI2 timeout=10
+#EXTINF:-1,ABC
+#EXTINF:0,http://142.4.216.60:1935/edge/_definst_/371jluirljcsjen/playlist.m3u8?wowzasessionid=1420168303&xs=_we_Mzcxamx1aXJsamNzamVufDE0MjAyMDQzMDN8NzIuMjcuMjE0LjMzfDU0YTYwYzZmMGE2NGV8OGMxYmQ2YWM5M2ZmNzY1OTIwYzVhMTBiZGQ1MzEyZDM0ZjRiZjNjNQ timeout=10
+#EXTINF:-1,CBS HD
+#EXTINF:0,http://142.4.216.60:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048&xs=_we_b2J6cTNsdHJqb2F4Z2xmfDE0MTk5MDgwNDh8NzIuMjcuMjE0LjMzfDU0YTE4NzMwOGM1Y2Z8Y2ZhYmFmNTFiY2VmNzczNzQ5MDI4YWU1OGUxNDBhZmZlYjhlYTRlMw timeout=10
+#EXTINF:-1,CBS
+#EXTINF:0,http://142.4.216.60:1935/edge/_definst_/vp4q2gonwzh2dku/playlist.m3u8?wowzasessionid=1419872048&xs=_we_b2J6cTNsdHJqb2F4Z2xmfDE0MTk5MDgwNDh8NzIuMjcuMjE0LjMzfDU0YTE4NzMwOGM1Y2Z8Y2ZhYmFmNTFiY2VmNzczNzQ5MDI4YWU1OGUxNDBhZmZlYjhlYTRlMw timeout=10
+#EXTINF:-1,Jackie Chan (1991-2008)
+#EXTINF:0,http://142.4.216.60:1935/edge/_definst_/aq6ijlszct7wfl4/playlist.m3u8?wowzasessionid=1420169797&xs=_we_YXE2aWpsc3pjdDd3Zmw0fDE0MjAyMDU3OTd8NzIuMjcuMjE0LjMzfDU0YTYxMjQ1OTE2YjF8ZGI5NjFlZTczZDQ2YzgzYzNlYjZkYjViN2FhYmU5ZWU3ZjMxODVjMA timeout=10
+#EXTINF:-1,TLC
+#EXTINF:0,http://142.4.216.60:1935/edge/_definst_/iugceoy4o6ljhck/playlist.m3u8?wowzasessionid=1419907929&xs=_we_NnE0amxicXd2eHVpbmdvfDE0MTk5NDM5Mjl8NzIuMjcuMjE0LjMzfDU0YTIxMzU5YzNhNDl8NzlhMGE2NzE3M2RmZTE1NmNjMThhMmYyZDVjOTA3N2Q5OGU2YjNjMg timeout=10
+Abc usa
+#EXTINF:0,http://198.27.94.105/hls/abc___1.m3u8
+#EXTINF:0,nollywood-roku
+#EXTINF:0,http://162.212.176.83:8080/map-nollywood-roku.m3u8
+#EXTINF:0,nollywood
+#EXTINF:0,http://162.212.176.83:8080/map-nollywood.m3u8
+#EXTINF:0,nta
+#EXTINF:0,http://162.212.176.83:8080/map-nta.stream.m3u8
+#EXTINF:0,#EXTINF:-1,hk:MTV Music
+http://83.139.104.123/Content/HLS/Live/Channel(mtv_music)/Stream(03)/index.m3u8
+#EXTINF:0,#EXTINF:-1,hk:MTV Rocks
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8
+#EXTINF:0,#EXTINF:-1,hk:
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8
+#EXTINF:0,#EXTINF:-1,hk:
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8
+#EXTINF:0,#EXTINF:-1,hk:VH1
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1EUROPEAN/variant.m3u8
+#EXTINF:0,#EXTINF:-1,hk:VH1 Classic
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VH1CLASSIC/variant.m3u8
+#EXTINF:0,#EXTINF:-1,hk:4 Music
+http://csm-e.cds1.yospace.com/csm/live/86550614.m3u8
+#EXTINF:0,#EXTINF:-1,hk:Magic
+http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8
+#EXTINF:0,
