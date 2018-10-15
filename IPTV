@@ -54,57 +54,221 @@ http://178.132.5.102:8000/live/toni1/toni1/1544.ts
 #EXTINF:-1,NBA-SPORT-BEIN
 http://178.132.5.102:8000/live/toni1/toni1/1800.ts
 #EXTM3U
-#EXTINF:0,#EXTINF:-1,2s
-http://95.81.165.21/10359/index.m3u8
-#EXTINF:0,#EXTINF:-1,GRTS
-http://162.212.176.83:8080/map-grtsroku.m3u8
-#EXTINF:0,#EXTINF:-1,TFM
-rtmp://78.129.189.30/edge3/RLMTBG/RLMTBG
-#EXTINF:0,#EXTINF:0,maisha
-http://162.212.176.83:8080/map-maisha.m3u8
-#EXTINF:0,#EXTINF:0,AFRICABLE
-http://162.212.176.83:8080/map-africableroku.stream.m3u8
-#EXTINF:0,#EXTINF:0,rtgroku
-http://162.212.176.83:8080/map-rtgroku.stream.m3u8
-#EXTINF:0,#EXTINF:0,rti1roku
-http://162.212.176.83:8080/map-rti1roku.m3u8
-#EXTINF:0,#EXTINF:0,bonetv
-http://162.212.176.83:8080/bonetv.stream.m3u8
-#EXTINF:0,#EXTINF:0,rtncroku
-http://162.212.176.83:8080/map-rtncroku.m3u8
-#EXTINF:0,#EXTINF:0,dcongotv
-http://162.212.176.83:8080/map-dcongotv.stream.m3u8
-#EXTINF:0,#EXTINF:0,telecongo
-http://162.212.176.83:8080/map-telecongo.stream.m3u8
-#EXTINF:0,#EXTINF:0,crtvroku
-http://162.212.176.83:8080/map-crtvroku.m3u8
-#EXTINF:0,#EXTINF:0,ortbroku
-http://162.212.176.83:8080/map-ortbroku.stream.m3u8
-#EXTINF:0,#EXTINF:0,rtgatv
-http://162.212.176.83:8080/rtgatv.stream.m3u8
-#EXTINF:0,#EXTINF:0,equinoxe
-http://162.212.176.83:8080/map-equinoxe.m3u8
-#EXTINF:0,#EXTINF:0,tvchd
-http://162.212.176.83:8080/tvchd.stream.m3u8
-#EXTINF:0,#EXTINF:0,telesahel
-http://162.212.176.83:8080/map-telesahel.m3u8
-#EXTINF:0,#EXTINF:-1,tvt
-http://162.212.176.83:8080/map-tvt.stream.m3u8
-#EXTINF:0,#EXTINF:0,Nollywood FR
-rtmp://myafricanmega.tulix.tv:1935/map-nollywood/map-nollywood
-#EXTINF:0,#EXTINF:0,Nollywood [COLOR yellow]TV[/COLOR]
-http://162.212.176.83:8080/map-nollywood-roku.m3u8
-#EXTINF:0,#EXTINF:-1,Vox [COLOR yellow]Africa[/COLOR]
-rtmp://208.75.224.165:1935/map-voxafrica/myStream.sdp
-#EXTINF:0,#EXTINF:0,BEN [COLOR yellow]TV[/COLOR]
+#EXTINF:0,#EXTINF:-1,1
+http://95.81.165.21/5958/index.m3u8
+#EXTINF:0,#EXTINF:-1,2STV
+http://41.219.187.10:3002/102
+#EXTINF:0,#EXTINF:-1,2stvroku
+http://162.212.176.83:8080/map-2stvroku.m3u8
+#EXTINF:0,#EXTINF:-1,4 Kids
+http://41.219.187.10:3003/4
+#EXTINF:0,#EXTINF:-1,ABK TV
+http://41.219.187.10:3001/25
+#EXTINF:0,#EXTINF:-1,ADOM TV
+http://41.219.187.10:3003/2
+#EXTINF:0,#EXTINF:-1,AFRICA BOX ZAMBIE
+http://95.81.165.21/8038/index.m3u8
+#EXTINF:0,#EXTINF:-1,AFRICA HOME TV
+http://41.219.187.10:3001/5
+#EXTINF:0,#EXTINF:-1,Africa TV3
+http://41.219.187.10:3002/352
+#EXTINF:0,#EXTINF:-1,africableroku
+http://162.212.176.83:8080/map-afric...ku.stream.m3u8
+#EXTINF:0,#EXTINF:-1,aliraqiya
+http://162.212.176.83:8080/aliraqiya.m3u8
+#EXTINF:0,#EXTINF:-1,alquraan
+http://162.212.176.83:8080/map-alquraan.stream.m3u8
+#EXTINF:0,#EXTINF:-1,Arewa 24
+http://41.219.187.10:3002/131
+#EXTINF:0,#EXTINF:-1,ASEDA TV
+http://41.219.187.10:3003/50
+#EXTINF:0,#EXTINF:-1,ATV
+http://41.219.187.10:3003/57
+#EXTINF:0,#EXTINF:-1,ben
 http://162.212.176.83:8080/map-ben.m3u8
-#EXTINF:0,#EXTINF:-1,Ghana [COLOR yellow]Diaspora[/COLOR]
-http://wpc.12bc9.kappacdn.net/hls-live/2012BC9/default/GhanaDiaspora/gd_1200.m3u8?608edfab8a31cdb2906f767923e21035c7696807555fd6f720a8fbf339ecfd61dae2
-#EXTINF:0,#EXTINF:0,Equinoxe Television (CMR)
-rtmp://myafricanmega3.tulix.tv:1935/map-equinoxe/map-equinoxe
-#EXTINF:0,#EXTINF:-1,eNCA [COLOR yellow]S.Africa[/COLOR]
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/enca/ls_satlink/b_,264,528,828,.m3u8
-#EXTINF:0,#EXTINF:0,Channels [COLOR red]24[/COLOR]
-http://myafricanmega3.tulix.tv:1935/map-channelstv/map-channelstv.stream/chunklist.m3u8?wowzasessionid=598321747
-#EXTINF:0,#EXTINF:-1,FusionPlus [COLOR yellow]TV[/COLOR]
-http://176.9.55.94:1935/edge/43_135_live/Manifest.m3u8
+#EXTINF:0,#EXTINF:-1,BenieTV
+http://41.219.187.10:3001/4
+#EXTINF:0,#EXTINF:-1,B-ONE TV
+http://41.219.187.10:3001/19
+#EXTINF:0,#EXTINF:-1,bonetv
+http://162.212.176.83:8080/bonetv.stream.m3u8
+#EXTINF:0,#EXTINF:-1,Boom TV
+http://41.219.187.10:3002/371
+#EXTINF:0,#EXTINF:-1,BTA
+http://41.219.187.10:3003/88
+#EXTINF:0,#EXTINF:-1,Burkina Info TV
+http://41.219.187.10:3002/132
+#EXTINF:0,#EXTINF:-1,Business24
+http://41.219.187.10:3001/26
+#EXTINF:0,#EXTINF:-1,Canal 2 International
+http://41.219.187.10:3002/345
+#EXTINF:0,#EXTINF:-1,canal12
+http://162.212.176.83:8080/canal12.stream.m3u8
+#EXTINF:0,#EXTINF:-1,canal5
+http://162.212.176.83:8080/canal5.stream.m3u8
+#EXTINF:0,#EXTINF:-1,canal6
+http://162.212.176.83:8080/canal6.stream.m3u8
+#EXTINF:0,#EXTINF:-1,CHANNEL_5
+http://41.219.187.10:3003/56
+#EXTINF:0,#EXTINF:-1,CINE PLUS
+http://41.219.187.10:3003/7
+#EXTINF:0,#EXTINF:-1,CRTV
+http://41.219.187.10:3002/104
+#EXTINF:0,#EXTINF:-1,D24
+http://41.219.187.10:3001/12
+#EXTINF:0,#EXTINF:-1,DieuTV
+http://41.219.187.10:3001/7
+#EXTINF:0,#EXTINF:-1,Digital CONGO
+http://41.219.187.10:3001/18
+#EXTINF:0,#EXTINF:-1,DOMINION TV
+http://41.219.187.10:3003/5
+#EXTINF:0,#EXTINF:-1,ECN
+http://41.219.187.10:3003/17
+#EXTINF:0,#EXTINF:-1,Electron TV
+http://41.219.187.10:3002/467
+#EXTINF:0,#EXTINF:-1,Equinoxe TV
+http://41.219.187.10:3002/343
+#EXTINF:0,#EXTINF:-1,Evasion TV
+http://41.219.187.10:3001/24
+#EXTINF:0,#EXTINF:-1,fashionone
+http://162.212.176.83:8080/fashionone.m3u8
+#EXTINF:0,#EXTINF:-1,France 24 (Fr)
+http://41.219.187.10:3002/205
+#EXTINF:0,#EXTINF:-1,france24roku
+http://162.212.176.83:8080/map-france24roku.stream.m3u8
+#EXTINF:0,#EXTINF:-1,GH ONE
+http://41.219.187.10:3003/16
+#EXTINF:0,#EXTINF:-1,globotv
+http://162.212.176.83:8080/globotv.m3u8
+#EXTINF:0,#EXTINF:-1,Golfe TV
+http://41.219.187.10:3002/204
+#EXTINF:0,#EXTINF:-1,grtsroku
+http://162.212.176.83:8080/map-grtsroku.m3u8
+#EXTINF:0,#EXTINF:-1,GTV
+http://41.219.187.10:3003/11
+#EXTINF:0,#EXTINF:-1,hchtv
+http://162.212.176.83:8080/hchtv.m3u8
+#EXTINF:0,#EXTINF:-1,hctvgermany
+http://162.212.176.83:8080/hctvgermany.m3u8
+#EXTINF:0,#EXTINF:-1,Impact TV
+http://41.219.187.10:3002/361
+#EXTINF:0,#EXTINF:-1,JOY NEWS
+http://41.219.187.10:3003/3
+#EXTINF:0,#EXTINF:-1,JOY PRIME
+http://41.219.187.10:3003/1
+#EXTINF:0,#EXTINF:-1,KESSBEN TV
+http://41.219.187.10:3003/84
+#EXTINF:0,#EXTINF:-1,ktnroku
+http://162.212.176.83:8080/map-ktnroku.m3u8
+#EXTINF:0,#EXTINF:-1,LIBERTY TV
+http://41.219.187.10:3001/8
+#EXTINF:0,#EXTINF:-1,maestro
+http://162.212.176.83:8080/maestro.m3u8
+#EXTINF:0,#EXTINF:-1,maisha
+http://162.212.176.83:8080/map-maisha.m3u8
+#EXTINF:0,#EXTINF:-1,mayatv
+http://162.212.176.83:8080/mayatv.m3u8
+#EXTINF:0,#EXTINF:-1,MEDItv
+http://95.81.165.21/10053/index.m3u8
+#EXTINF:0,#EXTINF:-1,My TV Promo
+http://41.219.187.10:3002/114
+#EXTINF:0,#EXTINF:-1,mystream1
+http://162.212.176.83:8080/mystream1.m3u8
+#EXTINF:0,#EXTINF:-1,mystream2
+http://162.212.176.83:8080/mystream2.m3u8
+#EXTINF:0,#EXTINF:-1,New channel
+http://95.81.165.21/9132/index.m3u8
+#EXTINF:0,#EXTINF:-1,nollywood-roku
+http://162.212.176.83:8080/map-nollywood-roku.m3u8
+#EXTINF:0,#EXTINF:-1,OB TV
+http://41.219.187.10:3003/89
+#EXTINF:0,#EXTINF:-1,ORTB
+http://41.219.187.10:3002/201
+#EXTINF:0,#EXTINF:-1,ortbroku
+http://162.212.176.83:8080/map-ortbroku.stream.m3u8
+#EXTINF:0,#EXTINF:-1,PENT TV
+http://41.219.187.10:3003/93
+#EXTINF:0,#EXTINF:-1,PRECIOUS TV
+http://41.219.187.10:3003/80
+#EXTINF:0,#EXTINF:-1,RADIO Corcas.com
+http://95.81.165.21/5959/index.m3u8
+#EXTINF:0,#EXTINF:-1,ROCK TV
+http://41.219.187.10:3003/6
+#EXTINF:0,#EXTINF:-1,ROYAL TV
+http://41.219.187.10:3003/75
+#EXTINF:0,#EXTINF:-1,RTG1
+http://41.219.187.10:3002/321
+#EXTINF:0,#EXTINF:-1,RTGA
+http://41.219.187.10:3001/16
+#EXTINF:0,#EXTINF:-1,rtgroku
+http://162.212.176.83:8080/map-rtgroku.stream.m3u8
+#EXTINF:0,#EXTINF:-1,RTI2
+http://41.219.187.10:3002/442
+#EXTINF:0,#EXTINF:-1,rtncroku
+http://162.212.176.83:8080/map-rtncroku.m3u8
+#EXTINF:0,#EXTINF:-1,RTV
+http://41.219.187.10:3001/10
+#EXTINF:0,#EXTINF:-1,SENAT
+http://95.81.165.21/7808/index.m3u8
+#EXTINF:0,#EXTINF:-1,Sikka TV
+http://41.219.187.10:3002/108
+#EXTINF:0,#EXTINF:-1,STV
+http://41.219.187.10:3002/372
+#EXTINF:0,#EXTINF:-1,TELE 50
+http://41.219.187.10:3001/17
+#EXTINF:0,#EXTINF:-1,teleprogreso
+http://162.212.176.83:8080/teleprogreso.m3u8
+#EXTINF:0,#EXTINF:-1,TFM Senegal
+http://41.219.187.10:3002/465
+#EXTINF:0,#EXTINF:-1,tfmroku
+http://162.212.176.83:8080/map-tfmroku.m3u8
+#EXTINF:0,#EXTINF:-1,TV Africa
+http://41.219.187.10:3003/13
+#EXTINF:0,#EXTINF:-1,TV GOLD
+http://41.219.187.10:3003/14
+#EXTINF:0,#EXTINF:-1,TV5 Monde Afrique
+http://41.219.187.10:3002/443
+#EXTINF:0,#EXTINF:-1,TV5MONDE AFRIQUE
+http://41.219.187.10:3001/15
+#EXTINF:0,#EXTINF:-1,tvs1tv
+http://162.212.176.83:8080/tvs1tv.stream.m3u8
+#EXTINF:0,#EXTINF:-1,Vision 4
+http://41.219.187.10:3002/101
+#EXTINF:0,#EXTINF:-1,Voxafrica
+http://95.81.165.21/10360/index.m3u8
+#EXTINF:0,#EXTINF:-1,zoe tv
+http://41.219.187.10:3003/19
+#EXTINF:0,#EXTINF:-1,ZTV
+http://41.219.187.10:3003/20
+#EXTINF:0,#EXTINF:-1,zzz campustv
+http://162.212.176.83:8080/campustv.stream.m3u8
+#EXTINF:0,#EXTINF:-1,zzz equinoxe
+http://162.212.176.83:8080/map-equinoxe.m3u8
+#EXTINF:0,#EXTINF:-1,zzz imedi
+http://162.212.176.83:8080/imedi.m3u8
+#EXTINF:0,#EXTINF:-1,zzz mauritania
+http://162.212.176.83:8080/map-mauritania.m3u8
+#EXTINF:0,#EXTINF:-1,zzz nta
+http://162.212.176.83:8080/map-nta.stream.m3u8
+#EXTINF:0,#EXTINF:-1,zzz rtgatv
+http://162.212.176.83:8080/rtgatv.stream.m3u8
+#EXTINF:0,#EXTINF:-1,zzz Stream1
+http://162.212.176.83:8080/Stream1.m3u8
+#EXTINF:0,#EXTINF:-1,zzz sulavision
+http://162.212.176.83:8080/sulavision.m3u8
+#EXTINF:0,#EXTINF:-1,zzz telecadena
+http://162.212.176.83:8080/telecadena.stream.m3u8
+#EXTINF:0,#EXTINF:-1,zzz teleceiba
+http://162.212.176.83:8080/teleceiba.m3u8
+#EXTINF:0,#EXTINF:-1,zzz telecongo
+http://162.212.176.83:8080/map-telecongo.stream.m3u8
+#EXTINF:0,#EXTINF:-1,zzz telesahel
+http://162.212.176.83:8080/map-telesahel.m3u8
+#EXTINF:0,#EXTINF:-1,zzz telesistema
+http://162.212.176.83:8080/telesistema.stream.m3u8
+#EXTINF:0,#EXTINF:-1,zzz tododeportes
+http://162.212.176.83:8080/tododeportes.stream.m3u8
+#EXTINF:0,#EXTINF:-1,zzz tvchd
+http://162.212.176.83:8080/tvchd.stream.m3u8
+#EXTINF:0,#EXTINF:-1,zzz vicatv
+http://162.212.176.83:8080/vicatv.m3u8
