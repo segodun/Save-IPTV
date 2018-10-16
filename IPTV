@@ -1,274 +1,121 @@
 #EXTM3U
-#EXTINF:-1,BEINSPORT-NEWS
-http://178.132.5.102:8000/live/toni1/toni1/1300.ts
-#EXTINF:-1,BeinSport-Full-HD1
-http://178.132.5.102:8000/live/toni1/toni1/1.ts
-#EXTINF:-1,BeinSport-Full-HD2
-http://178.132.5.102:8000/live/toni1/toni1/2.ts
-#EXTINF:-1,BeinSport-Full-HD3
-http://178.132.5.102:8000/live/toni1/toni1/3.ts
-#EXTINF:-1,BeinSport-Full-HD4
-http://178.132.5.102:8000/live/toni1/toni1/4.ts
-#EXTINF:-1,BeinSport-HD1
-http://178.132.5.102:8000/live/toni1/toni1/1122.ts
-#EXTINF:-1,BeinSport-HD2
-http://178.132.5.102:8000/live/toni1/toni1/1123.ts
-#EXTINF:-1,BeinSport-HD3
-http://178.132.5.102:8000/live/toni1/toni1/1124.ts
-#EXTINF:-1,BeinSport-HD4
-http://178.132.5.102:8000/live/toni1/toni1/1125.ts
-#EXTINF:-1,BeinSport-HD5
-http://178.132.5.102:8000/live/toni1/toni1/5.ts
-#EXTINF:-1,BeinSport-HD6
-http://178.132.5.102:8000/live/toni1/toni1/6.ts
-#EXTINF:-1,BeinSport-HD7
-http://178.132.5.102:8000/live/toni1/toni1/7.ts
-#EXTINF:-1,BeinSport-HD8
-http://178.132.5.102:8000/live/toni1/toni1/8.ts
-#EXTINF:-1,BeinSport-HD9
-http://178.132.5.102:8000/live/toni1/toni1/9.ts
-#EXTINF:-1,BeinSport-HD10
-http://178.132.5.102:8000/live/toni1/toni1/10.ts
-#EXTINF:-1,BeinSport-Sd1
-http://178.132.5.102:8000/live/toni1/toni1/293.ts
-#EXTINF:-1,BeinSport-Sd2
-http://178.132.5.102:8000/live/toni1/toni1/294.ts
-#EXTINF:-1,BeinSport-Sd3
-http://178.132.5.102:8000/live/toni1/toni1/295.ts
-#EXTINF:-1,BeinSport-Sd4
-http://178.132.5.102:8000/live/toni1/toni1/296.ts
-#EXTINF:-1,BeinSport-Sd5
-http://178.132.5.102:8000/live/toni1/toni1/297.ts
-#EXTINF:-1,BeinSport-Sd6
-http://178.132.5.102:8000/live/toni1/toni1/298.ts
-#EXTINF:-1,BeinSport-Sd7
-http://178.132.5.102:8000/live/toni1/toni1/299.ts
-#EXTINF:-1,BeinSport-Sd8
-http://178.132.5.102:8000/live/toni1/toni1/300.ts
-#EXTINF:-1,BeinSport-Sd9
-http://178.132.5.102:8000/live/toni1/toni1/301.ts
-#EXTINF:-1,BeinSport-Sd10
-http://178.132.5.102:8000/live/toni1/toni1/302.ts
-#EXTINF:-1,BeinSport-HD11
-http://178.132.5.102:8000/live/toni1/toni1/1544.ts
-#EXTINF:-1,NBA-SPORT-BEIN
-http://178.132.5.102:8000/live/toni1/toni1/1800.ts
-#EXTM3U
-#EXTINF:0,#EXTINF:-1,1
-http://95.81.165.21/5958/index.m3u8
-#EXTINF:0,#EXTINF:-1,2STV
-http://41.219.187.10:3002/102
-#EXTINF:0,#EXTINF:-1,2stvroku
-http://162.212.176.83:8080/map-2stvroku.m3u8
-#EXTINF:0,#EXTINF:-1,4 Kids
-http://41.219.187.10:3003/4
-#EXTINF:0,#EXTINF:-1,ABK TV
-http://41.219.187.10:3001/25
-#EXTINF:0,#EXTINF:-1,ADOM TV
-http://41.219.187.10:3003/2
-#EXTINF:0,#EXTINF:-1,AFRICA BOX ZAMBIE
-http://95.81.165.21/8038/index.m3u8
-#EXTINF:0,#EXTINF:-1,AFRICA HOME TV
-http://41.219.187.10:3001/5
-#EXTINF:0,#EXTINF:-1,Africa TV3
-http://41.219.187.10:3002/352
-#EXTINF:0,#EXTINF:-1,africableroku
-http://162.212.176.83:8080/map-afric...ku.stream.m3u8
-#EXTINF:0,#EXTINF:-1,aliraqiya
-http://162.212.176.83:8080/aliraqiya.m3u8
-#EXTINF:0,#EXTINF:-1,alquraan
-http://162.212.176.83:8080/map-alquraan.stream.m3u8
-#EXTINF:0,#EXTINF:-1,Arewa 24
-http://41.219.187.10:3002/131
-#EXTINF:0,#EXTINF:-1,ASEDA TV
-http://41.219.187.10:3003/50
-#EXTINF:0,#EXTINF:-1,ATV
-http://41.219.187.10:3003/57
-#EXTINF:0,#EXTINF:-1,ben
-http://162.212.176.83:8080/map-ben.m3u8
-#EXTINF:0,#EXTINF:-1,BenieTV
-http://41.219.187.10:3001/4
-#EXTINF:0,#EXTINF:-1,B-ONE TV
-http://41.219.187.10:3001/19
-#EXTINF:0,#EXTINF:-1,bonetv
-http://162.212.176.83:8080/bonetv.stream.m3u8
-#EXTINF:0,#EXTINF:-1,Boom TV
-http://41.219.187.10:3002/371
-#EXTINF:0,#EXTINF:-1,BTA
-http://41.219.187.10:3003/88
-#EXTINF:0,#EXTINF:-1,Burkina Info TV
-http://41.219.187.10:3002/132
-#EXTINF:0,#EXTINF:-1,Business24
-http://41.219.187.10:3001/26
-#EXTINF:0,#EXTINF:-1,Canal 2 International
-http://41.219.187.10:3002/345
-#EXTINF:0,#EXTINF:-1,canal12
-http://162.212.176.83:8080/canal12.stream.m3u8
-#EXTINF:0,#EXTINF:-1,canal5
-http://162.212.176.83:8080/canal5.stream.m3u8
-#EXTINF:0,#EXTINF:-1,canal6
-http://162.212.176.83:8080/canal6.stream.m3u8
-#EXTINF:0,#EXTINF:-1,CHANNEL_5
-http://41.219.187.10:3003/56
-#EXTINF:0,#EXTINF:-1,CINE PLUS
-http://41.219.187.10:3003/7
-#EXTINF:0,#EXTINF:-1,CRTV
-http://41.219.187.10:3002/104
-#EXTINF:0,#EXTINF:-1,D24
-http://41.219.187.10:3001/12
-#EXTINF:0,#EXTINF:-1,DieuTV
-http://41.219.187.10:3001/7
-#EXTINF:0,#EXTINF:-1,Digital CONGO
-http://41.219.187.10:3001/18
-#EXTINF:0,#EXTINF:-1,DOMINION TV
-http://41.219.187.10:3003/5
-#EXTINF:0,#EXTINF:-1,ECN
-http://41.219.187.10:3003/17
-#EXTINF:0,#EXTINF:-1,Electron TV
-http://41.219.187.10:3002/467
-#EXTINF:0,#EXTINF:-1,Equinoxe TV
-http://41.219.187.10:3002/343
-#EXTINF:0,#EXTINF:-1,Evasion TV
-http://41.219.187.10:3001/24
-#EXTINF:0,#EXTINF:-1,fashionone
-http://162.212.176.83:8080/fashionone.m3u8
-#EXTINF:0,#EXTINF:-1,France 24 (Fr)
-http://41.219.187.10:3002/205
-#EXTINF:0,#EXTINF:-1,france24roku
-http://162.212.176.83:8080/map-france24roku.stream.m3u8
-#EXTINF:0,#EXTINF:-1,GH ONE
-http://41.219.187.10:3003/16
-#EXTINF:0,#EXTINF:-1,globotv
-http://162.212.176.83:8080/globotv.m3u8
-#EXTINF:0,#EXTINF:-1,Golfe TV
-http://41.219.187.10:3002/204
-#EXTINF:0,#EXTINF:-1,grtsroku
-http://162.212.176.83:8080/map-grtsroku.m3u8
-#EXTINF:0,#EXTINF:-1,GTV
-http://41.219.187.10:3003/11
-#EXTINF:0,#EXTINF:-1,hchtv
-http://162.212.176.83:8080/hchtv.m3u8
-#EXTINF:0,#EXTINF:-1,hctvgermany
-http://162.212.176.83:8080/hctvgermany.m3u8
-#EXTINF:0,#EXTINF:-1,Impact TV
-http://41.219.187.10:3002/361
-#EXTINF:0,#EXTINF:-1,JOY NEWS
-http://41.219.187.10:3003/3
-#EXTINF:0,#EXTINF:-1,JOY PRIME
-http://41.219.187.10:3003/1
-#EXTINF:0,#EXTINF:-1,KESSBEN TV
-http://41.219.187.10:3003/84
-#EXTINF:0,#EXTINF:-1,ktnroku
-http://162.212.176.83:8080/map-ktnroku.m3u8
-#EXTINF:0,#EXTINF:-1,LIBERTY TV
-http://41.219.187.10:3001/8
-#EXTINF:0,#EXTINF:-1,maestro
-http://162.212.176.83:8080/maestro.m3u8
-#EXTINF:0,#EXTINF:-1,maisha
-http://162.212.176.83:8080/map-maisha.m3u8
-#EXTINF:0,#EXTINF:-1,mayatv
-http://162.212.176.83:8080/mayatv.m3u8
-#EXTINF:0,#EXTINF:-1,MEDItv
-http://95.81.165.21/10053/index.m3u8
-#EXTINF:0,#EXTINF:-1,My TV Promo
-http://41.219.187.10:3002/114
-#EXTINF:0,#EXTINF:-1,mystream1
-http://162.212.176.83:8080/mystream1.m3u8
-#EXTINF:0,#EXTINF:-1,mystream2
-http://162.212.176.83:8080/mystream2.m3u8
-#EXTINF:0,#EXTINF:-1,New channel
-http://95.81.165.21/9132/index.m3u8
-#EXTINF:0,#EXTINF:-1,nollywood-roku
-http://162.212.176.83:8080/map-nollywood-roku.m3u8
-#EXTINF:0,#EXTINF:-1,OB TV
-http://41.219.187.10:3003/89
-#EXTINF:0,#EXTINF:-1,ORTB
-http://41.219.187.10:3002/201
-#EXTINF:0,#EXTINF:-1,ortbroku
-http://162.212.176.83:8080/map-ortbroku.stream.m3u8
-#EXTINF:0,#EXTINF:-1,PENT TV
-http://41.219.187.10:3003/93
-#EXTINF:0,#EXTINF:-1,PRECIOUS TV
-http://41.219.187.10:3003/80
-#EXTINF:0,#EXTINF:-1,RADIO Corcas.com
-http://95.81.165.21/5959/index.m3u8
-#EXTINF:0,#EXTINF:-1,ROCK TV
-http://41.219.187.10:3003/6
-#EXTINF:0,#EXTINF:-1,ROYAL TV
-http://41.219.187.10:3003/75
-#EXTINF:0,#EXTINF:-1,RTG1
-http://41.219.187.10:3002/321
-#EXTINF:0,#EXTINF:-1,RTGA
-http://41.219.187.10:3001/16
-#EXTINF:0,#EXTINF:-1,rtgroku
-http://162.212.176.83:8080/map-rtgroku.stream.m3u8
-#EXTINF:0,#EXTINF:-1,RTI2
-http://41.219.187.10:3002/442
-#EXTINF:0,#EXTINF:-1,rtncroku
-http://162.212.176.83:8080/map-rtncroku.m3u8
-#EXTINF:0,#EXTINF:-1,RTV
-http://41.219.187.10:3001/10
-#EXTINF:0,#EXTINF:-1,SENAT
-http://95.81.165.21/7808/index.m3u8
-#EXTINF:0,#EXTINF:-1,Sikka TV
-http://41.219.187.10:3002/108
-#EXTINF:0,#EXTINF:-1,STV
-http://41.219.187.10:3002/372
-#EXTINF:0,#EXTINF:-1,TELE 50
-http://41.219.187.10:3001/17
-#EXTINF:0,#EXTINF:-1,teleprogreso
-http://162.212.176.83:8080/teleprogreso.m3u8
-#EXTINF:0,#EXTINF:-1,TFM Senegal
-http://41.219.187.10:3002/465
-#EXTINF:0,#EXTINF:-1,tfmroku
-http://162.212.176.83:8080/map-tfmroku.m3u8
-#EXTINF:0,#EXTINF:-1,TV Africa
-http://41.219.187.10:3003/13
-#EXTINF:0,#EXTINF:-1,TV GOLD
-http://41.219.187.10:3003/14
-#EXTINF:0,#EXTINF:-1,TV5 Monde Afrique
-http://41.219.187.10:3002/443
-#EXTINF:0,#EXTINF:-1,TV5MONDE AFRIQUE
-http://41.219.187.10:3001/15
-#EXTINF:0,#EXTINF:-1,tvs1tv
-http://162.212.176.83:8080/tvs1tv.stream.m3u8
-#EXTINF:0,#EXTINF:-1,Vision 4
-http://41.219.187.10:3002/101
-#EXTINF:0,#EXTINF:-1,Voxafrica
-http://95.81.165.21/10360/index.m3u8
-#EXTINF:0,#EXTINF:-1,zoe tv
-http://41.219.187.10:3003/19
-#EXTINF:0,#EXTINF:-1,ZTV
-http://41.219.187.10:3003/20
-#EXTINF:0,#EXTINF:-1,zzz campustv
-http://162.212.176.83:8080/campustv.stream.m3u8
-#EXTINF:0,#EXTINF:-1,zzz equinoxe
-http://162.212.176.83:8080/map-equinoxe.m3u8
-#EXTINF:0,#EXTINF:-1,zzz imedi
-http://162.212.176.83:8080/imedi.m3u8
-#EXTINF:0,#EXTINF:-1,zzz mauritania
-http://162.212.176.83:8080/map-mauritania.m3u8
-#EXTINF:0,#EXTINF:-1,zzz nta
-http://162.212.176.83:8080/map-nta.stream.m3u8
-#EXTINF:0,#EXTINF:-1,zzz rtgatv
-http://162.212.176.83:8080/rtgatv.stream.m3u8
-#EXTINF:0,#EXTINF:-1,zzz Stream1
-http://162.212.176.83:8080/Stream1.m3u8
-#EXTINF:0,#EXTINF:-1,zzz sulavision
-http://162.212.176.83:8080/sulavision.m3u8
-#EXTINF:0,#EXTINF:-1,zzz telecadena
-http://162.212.176.83:8080/telecadena.stream.m3u8
-#EXTINF:0,#EXTINF:-1,zzz teleceiba
-http://162.212.176.83:8080/teleceiba.m3u8
-#EXTINF:0,#EXTINF:-1,zzz telecongo
-http://162.212.176.83:8080/map-telecongo.stream.m3u8
-#EXTINF:0,#EXTINF:-1,zzz telesahel
-http://162.212.176.83:8080/map-telesahel.m3u8
-#EXTINF:0,#EXTINF:-1,zzz telesistema
-http://162.212.176.83:8080/telesistema.stream.m3u8
-#EXTINF:0,#EXTINF:-1,zzz tododeportes
-http://162.212.176.83:8080/tododeportes.stream.m3u8
-#EXTINF:0,#EXTINF:-1,zzz tvchd
-http://162.212.176.83:8080/tvchd.stream.m3u8
-#EXTINF:0,#EXTINF:-1,zzz vicatv
-http://162.212.176.83:8080/vicatv.m3u8
+#EXTINF:-1,TH : WorkPoint TV (HD)
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2406.ts
+#EXTINF:-1,TH : Thairath TV HD
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2233.ts
+#EXTINF:-1,TH : Thairath TV (HD)
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2404.ts
+#EXTINF:-1,TH : ThaiPBS (HD)
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2403.ts
+#EXTINF:-1,TH : T News
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2411.ts
+#EXTINF:-1,TH : Speed Channel
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2414.ts
+#EXTINF:-1,TH : SMM TV
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2413.ts
+#EXTINF:-1,TH : PPTV (HD)
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2402.ts
+#EXTINF:-1,TH : PBS HD
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2232.ts
+#EXTINF:-1,TH : Parliament TV
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2410.ts
+#EXTINF:-1,TH : Parliament
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2231.ts
+#EXTINF:-1,TH : One (HD)
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2401.ts
+#EXTINF:-1,TH : Now26 (HD)
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2407.ts
+#EXTINF:-1,TH : News1 (HD)
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2405.ts
+#EXTINF:-1,TH : New)TV
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2409.ts
+#EXTINF:-1,TH : Nation (HD)
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2400.ts
+#EXTINF:-1,TH : Muslim TV
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2230.ts
+#EXTINF:-1,TH : Mono Plus
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2415.ts
+#EXTINF:-1,TH : MCOT Kids & Family
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2418.ts
+#EXTINF:-1,TH : Ja Ting Ja
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2417.ts
+#EXTINF:-1,TH : Fox Thai
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2416.ts
+#EXTINF:-1,TH : DARA DAILY TV
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2238.ts
+#EXTINF:-1,TH : Chaiyo
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2228.ts
+#EXTINF:-1,TH : Bright TV
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2408.ts
+#EXTINF:-1,TH : 9 (HD)
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2398.ts
+#EXTINF:-1,TH : 8 (HD)
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2399.ts
+#EXTINF:-1,TH : 7 (HD)
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2397.ts
+#EXTINF:-1,TH : 5 (HD)
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2396.ts
+#EXTINF:-1,TH : 3 (HD)
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2395.ts
+#EXTINF:-1,TH : 24TV
+http://bestbuyiptv.link:6969/live/Khaled3/Khaled3/2412.ts
+#EXTINF:-1,TH : WorkPoint TV (HD)
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2406.ts
+#EXTINF:-1,TH : Thairath TV HD
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2233.ts
+#EXTINF:-1,TH : Thairath TV (HD)
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2404.ts
+#EXTINF:-1,TH : ThaiPBS (HD)
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2403.ts
+#EXTINF:-1,TH : T News
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2411.ts
+#EXTINF:-1,TH : Speed Channel
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2414.ts
+#EXTINF:-1,TH : SMM TV
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2413.ts
+#EXTINF:-1,TH : PPTV (HD)
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2402.ts
+#EXTINF:-1,TH : PBS HD
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2232.ts
+#EXTINF:-1,TH : Parliament TV
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2410.ts
+#EXTINF:-1,TH : Parliament
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2231.ts
+#EXTINF:-1,TH : One (HD)
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2401.ts
+#EXTINF:-1,TH : Now26 (HD)
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2407.ts
+#EXTINF:-1,TH : News1 (HD)
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2405.ts
+#EXTINF:-1,TH : New)TV
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2409.ts
+#EXTINF:-1,TH : Nation (HD)
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2400.ts
+#EXTINF:-1,TH : Muslim TV
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2230.ts
+#EXTINF:-1,TH : Mono Plus
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2415.ts
+#EXTINF:-1,TH : MCOT Kids & Family
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2418.ts
+#EXTINF:-1,TH : Ja Ting Ja
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2417.ts
+#EXTINF:-1,TH : Fox Thai
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2416.ts
+#EXTINF:-1,TH : DARA DAILY TV
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2238.ts
+#EXTINF:-1,TH : Chaiyo
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2228.ts
+#EXTINF:-1,TH : Bright TV
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2408.ts
+#EXTINF:-1,TH : 9 (HD)
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2398.ts
+#EXTINF:-1,TH : 8 (HD)
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2399.ts
+#EXTINF:-1,TH : 7 (HD)
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2397.ts
+#EXTINF:-1,TH : 5 (HD)
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2396.ts
+#EXTINF:-1,TH : 3 (HD)
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2395.ts
+#EXTINF:-1,TH : 24TV
+http://bestbuyiptv.link:6969/live/iptvsantral@mail.com.tr/AlG8ncCwTm/2412.ts
