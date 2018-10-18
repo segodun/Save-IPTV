@@ -157,3 +157,20 @@ http://vietcago.net/vstv/skysp5.m3u8
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
 #EXTINF:0 group-title="(SE) Sweden",ECUAVISA | SD (SE)
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 | HD (AR)
+http://www.elahmad.com/tv/m3u8/adtv.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 (1+) | HD (AR)
+http://adtv.ercdn.net/adsport1/adsport1.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 (2+) | HD (AR)
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 | SD (AR)
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 (1+) | SD (AR)
+http://199.167.151.237:1935/live/sp15_26.stream/gmswf.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 2 | HD (AR)
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 2 (1+) | HD (AR)
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 2 | SD (AR)
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+
