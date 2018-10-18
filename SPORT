@@ -2786,6 +2786,14 @@ http://tv.smartal.net:25461/live/QR58FxAssE/BkzsermI3h/15519.m3u8
 http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/569.m3u8
 #EXTINF:0 group-title="(UK) United Kingdom",UK: SPORT 
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/8244.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ELEVEN SPORTS 1 | SD (UK)
+http://61.58.60.230:9000/live/75.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",ELEVEN SPORTS 2 | SD (UK)
+http://61.58.60.230:9000/live/102.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/ryan/ryan/29815.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",FLOW SPORTS | SD (UK)
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:0 group-title="(US) United States",US: AFN PRIME HD
 http://212.8.248.213:8080/live/farouk/12345/1479.m3u8
 #EXTINF:0 group-title="(US) United States",US: AFN PRIME ATLANTIC 
@@ -3098,23 +3106,6 @@ http://xtream.hopto.me:9000/live/alaa1/alaa1/17468.m3u8
 http://nasaiptv.com:8000/live/Scott/Scott123/20901.m3u8
 #EXTINF:0 group-title="(US) United States",US: WILLOW CRICKET 
 http://nasaiptv.com:8000/live/Scott/Scott123/21025.m3u8
-#EXTINF:0 group-title="(WW) World Wide",WW: FOX SPORT 2 HD
-http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/271.m3u8
-#EXTINF:0 group-title="(WW) World Wide",WW: MLB LIVE 
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
-#EXTINF:0 group-title="(WW) World Wide",WW: SPORTS NET HD
-http://nasaiptv.com:8000/live/Scott/Scott123/18615.m3u8
-#EXTINF:0 group-title="(WW) World Wide",WW: SPORTSNET HD
-http://mrriptv.xyz:25461/live/Twisted/30/28705.m3u8
-
-#EXTINF:0 group-title="(UK) United Kingdom",ELEVEN SPORTS 1 | SD (UK)
-http://61.58.60.230:9000/live/75.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ELEVEN SPORTS 2 | SD (UK)
-http://61.58.60.230:9000/live/102.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/29815.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",FLOW SPORTS | SD (UK)
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 #EXTINF:0 group-title="(US) United States",AUTOMOTO TV | SD (US)
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
 #EXTINF:0 group-title="(US) United States",ESPN | SD (US)
@@ -3125,4 +3116,11 @@ http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:0 group-title="(US) United States",MLB NETWORK | SD (US)
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
-
+#EXTINF:0 group-title="(WW) World Wide",WW: FOX SPORT 2 HD
+http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/271.m3u8
+#EXTINF:0 group-title="(WW) World Wide",WW: MLB LIVE 
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
+#EXTINF:0 group-title="(WW) World Wide",WW: SPORTS NET HD
+http://nasaiptv.com:8000/live/Scott/Scott123/18615.m3u8
+#EXTINF:0 group-title="(WW) World Wide",WW: SPORTSNET HD
+http://mrriptv.xyz:25461/live/Twisted/30/28705.m3u8
