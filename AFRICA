@@ -24,4 +24,9 @@ http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/2/prog_index.m3u8﻿﻿
 #EXTINF:-1,trace_kitoko 424
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/2/prog_index.m3u8
 #EXTINF:-1,trace_tropical 640
-
+#EXTINF:0 group-title="(AFR) Africa",PT TV-MIRMAR | SD
+http://163.172.222.83:8100/live/amir/123456789/3298.m3u8
+#EXTINF:0 group-title="(AFR) Africa",RTV | SD
+http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
+#EXTINF:-1,DIASPORA24
+rtmp://diaspora24.tv:1935/diaspora24tv/diaspora2
