@@ -39,6 +39,31 @@ http://nadorone.no-ip.org:25461/live/mtg/skype/5819.ts
 http://nadorone.no-ip.org:25461/live/mtg/skype/6541.ts
 #EXTINF:-1,FR:EUROSPORT_1HD
 http://nadorone.no-ip.org:25461/live/mtg/skype/6540.ts
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/eurosport-1-russia.jpg",Eurosport 1
+http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/174/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/eurosport-1-russia.jpg",Eurosport 1
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/eurosport-1-hd-polska.jpg",Eurosport 1 Polska
+http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/895/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/eurosport-1-hd-polska.jpg",Eurosport 1 Polska
+http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/896/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/eurosport-2-russia-hd.jpg",Eurosport 2 HD
+http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/77/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/eurosport-2-russia-hd.jpg",Eurosport 2  HD
+http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/78/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/eurosport-2-hd.jpg",Eurosport 2 HD
+http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/471/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/eurosport-2-hd.jpg",Eurosport 2 HD
+http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/472/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/eurosport-1-deutschland.jpg",Eurosport1 - Deutschland
+http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/682/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/extreme-sports-channel.jpg",Extreme Sports
+http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/46/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/extreme-sports-channel.jpg",Extreme Sports
+http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/47/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/FightBox.jpg",FightBox HD
+http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/900/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/FightBox.jpg",FightBox HD
+http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/901/index.m3u8
 #EXTINF:-1,FR:BEINSPORT_3HD
 http://nadorone.no-ip.org:25461/live/mtg/skype/6546.ts
 #EXTINF:-1,FR:BEINSPORT_2HD
