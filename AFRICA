@@ -36,5 +36,9 @@ http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 #EXTINF:-1,africatv3
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
+#EXTINF:0 group-title="(FR) France",BBLACK! AFRICA | SD (FR)
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:0 group-title="(FR) France",BBLACK! CARIBBEAN | SD (FR)
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
 #EXTINF:-1,africatv4
 http://africatv.live.net.sa:1935/live/africatv4/playlist.m3u8
