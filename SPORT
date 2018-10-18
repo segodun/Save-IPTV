@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1,AR:BeINSports_HD1
-http://nadorone.no-ip.org:25461/live/mtg/skype/5805.ts
-#EXTINF:-1,AR:BeINSports_HD2
-http://nadorone.no-ip.org:25461/live/mtg/skype/5806.ts
 #EXTINF:0 group-title="(AF) Afghanistan",AL KASS SPORTS 1 | SD (AF)
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
 #EXTINF:0 group-title="(AF) Afghanistan",KTV SPORT | SD (AF)
