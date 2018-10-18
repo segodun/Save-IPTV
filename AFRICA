@@ -12,6 +12,8 @@ http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/3912.m3u8
 http://streams.almaata.kcell.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:0 group-title="(AFR) Africa",MTM TV | SD (AFR)
 http://media.btbn.tv/mtmtv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/france-24-english.jpg",France 24 English HD
+http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/906/index.m3u8
 #EXTINF:0 group-title="(FR) France",TRACE AFRICA | SD (FR)
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 #EXTINF:0 group-title="(FR) France",TRACE KITOKO | SD (FR)
