@@ -3,64 +3,10 @@
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
 #EXTINF:0 group-title="(AF) Afghanistan",KTV SPORT | SD (AF)
 http://www.elahmad.com/tv/m3u8/ktv.m3u8
-#EXTINF:0 group-title="(AF) Afghanistan",SMASH SPORTS | SD (AF)
-http://144.76.182.50:25461/live/smash/smash/4.m3u8
-#EXTINF:0 group-title="(AF) Afghanistan",AF: DIASPORA 24 
-http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/31916.m3u8
-#EXTINF:0 group-title="(AF) Afghanistan",AF: DIASPORA 24 (1+) 
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/11004.m3u8
-#EXTINF:0 group-title="(AF) Afghanistan",AF: DIASPORA 24 TV 
-http://xtream.hopto.me:9000/live/alaa1/alaa1/14705.m3u8
-#EXTINF:0 group-title="(AF) Afghanistan",AF: DIASPORA 24 TV (1+) 
-http://xtream.hopto.me:9000/live/salah/123456/14705.m3u8
-#EXTINF:0 group-title="(AF) Afghanistan",AF: IRAQIASPORT 
-http://xtream.hopto.me:9000/live/alaa1/alaa1/10806.m3u8
-#EXTINF:0 group-title="(AF) Afghanistan",AF: IRAQIASPORT (1+) 
-http://xtream.hopto.me:9000/live/salah/123456/10806.m3u8
-#EXTINF:0 group-title="(AF) Afghanistan",AF: KTV SPORT 
-http://www.elahmad.com/tv/m3u8/ktv.m3u8
 #EXTINF:0 group-title="(AF) Afghanistan",AF: SMASH SPORTS 
 http://144.76.182.50:25461/live/smash/smash/4.m3u8
-#EXTINF:0 group-title="(AF) Afghanistan",AF: SPORT 
-http://xtream.hopto.me:9000/live/alaa1/alaa1/12080.m3u8
-#EXTINF:0 group-title="(AF) Afghanistan",AF: SPORT (1+) 
-http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/102.m3u8
-#EXTINF:0 group-title="(AF) Afghanistan",AF: SPORT-PLUS 
-http://xtream.hopto.me:9000/live/alaa1/alaa1/13672.m3u8
-#EXTINF:0 group-title="(AF) Afghanistan",AF: SPORT-PLUS (1+) 
-http://xtream.hopto.me:9000/live/salah/123456/13672.m3u8
-#EXTINF:0 group-title="(AF) Afghanistan",AF: SPORTS 
-http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/10754.m3u8
-#EXTINF:0 group-title="(AF) Afghanistan",AF: STADAFRK-SPORT 
-http://nasaiptv.com:8000/live/Scott/Scott123/11130.m3u8
-#EXTINF:0 group-title="(AFR) Africa",AFR: DIASPORA 24 
-http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/52.m3u8
-#EXTINF:0 group-title="(AFR) Africa",AFR: DIASPORA 24 
-http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/52.m3u8
-#EXTINF:0 group-title="(AFR) Africa",AFR: NILE 
-http://xtream.hopto.me:9000/live/alaa1/alaa1/9932.m3u8
-#EXTINF:0 group-title="(AFR) Africa",AFR: NILE (1+) 
-http://xtream.hopto.me:9000/live/salah/123456/9932.m3u8
-#EXTINF:0 group-title="(AFR) Africa",AFR: NILE (2+) 
-http://xtream.hopto.me:9000/live/mehdi/123456789/9932.m3u8
-#EXTINF:0 group-title="(AFR) Africa",AFR: SPORT 
-http://xtream.hopto.me:9000/live/alaa1/alaa1/16753.m3u8
-#EXTINF:0 group-title="(AFR) Africa",AFR: SPORT (1+) 
-http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/16074.m3u8
 #EXTINF:0 group-title="(AFR) Africa",AFR: SPORT (2+) 
 http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4014.m3u8
-#EXTINF:0 group-title="(AFR) Africa",AFR: TV-SPORT AF 
-http://nasaiptv.com:8000/live/Scott/Scott123/11155.m3u8
-#EXTINF:0 group-title="(AL) Albania",AL: ANBAR 
-http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/10708.m3u8
-#EXTINF:0 group-title="(AL) Albania",AL: DIASPORA TV 
-http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/31418.m3u8
-#EXTINF:0 group-title="(AL) Albania",AL: EUROSPORT 1 HD
-http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/31361.m3u8
-#EXTINF:0 group-title="(AL) Albania",AL: EUROSPORT 2 HD
-http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/31360.m3u8
-#EXTINF:0 group-title="(AL) Albania",AL: K SPORT 1 
-http://277.ath.cx:80/live/jnORazN9Un/MBNXwtk04L/31359.m3u8
 #EXTINF:0 group-title="(AL) Albania",AL: K SPORT 1 (1+) 
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2117.m3u8
 #EXTINF:0 group-title="(AL) Albania",AL: K SPORT 2 
@@ -3120,7 +3066,3 @@ http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLB
 http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/271.m3u8
 #EXTINF:0 group-title="(WW) World Wide",WW: MLB LIVE 
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
-#EXTINF:0 group-title="(WW) World Wide",WW: SPORTS NET HD
-http://nasaiptv.com:8000/live/Scott/Scott123/18615.m3u8
-#EXTINF:0 group-title="(WW) World Wide",WW: SPORTSNET HD
-http://mrriptv.xyz:25461/live/Twisted/30/28705.m3u8
