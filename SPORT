@@ -17,6 +17,10 @@ http://nadorone.no-ip.org:25461/live/mtg/skype/5808.ts
 http://nadorone.no-ip.org:25461/live/mtg/skype/5809.ts
 #EXTINF:-1,AR:BeINSports_HD6
 http://nadorone.no-ip.org:25461/live/mtg/skype/5810.ts
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/laliga.jpg",LaLiga TV Bar HD
+http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/581/index.m3u8
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/rai-sport.jpg",Rai Sport
+http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/528/index.m3u8
 #EXTINF:-1,AR:BeINSports_HD7
 http://nadorone.no-ip.org:25461/live/mtg/skype/5811.ts
 #EXTINF:-1,AR:BeINSports_HD8
@@ -134,3 +138,22 @@ http://nadorone.no-ip.org:25461/live/mtg/skype/6727.ts
 http://nadorone.no-ip.org:25461/live/mtg/skype/6746.ts
 #EXTINF:-1,Ar:Dubai_Sport_3
 http://nadorone.no-ip.org:25461/live/mtg/skype/6745.t
+#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/super-tennis-hd.jpg",Super Tennis HD
+http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/670/index.m3u8
+#EXTINF:0 group-title="(SP) Spain",RTVCE | SD (SP)
+http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
+#EXTINF:0 group-title="(SP) Spain",SKY 1 | SD (SP)
+http://vietcago.net/vstv/skysp1.m3u8
+#EXTINF:0 group-title="(SP) Spain",SKY 2 | SD (SP)
+http://vietcago.net/vstv/skysp2.m3u8
+#EXTINF:0 group-title="(SP) Spain",SKY 3 | SD (SP)
+http://vietcago.net/vstv/skysp3.m3u8
+#EXTINF:0 group-title="(SP) Spain",SKY 4 | SD (SP)
+http://vietcago.net/vstv/skysp4.m3u8
+#EXTINF:0 group-title="(SP) Spain",SKY 5 | SD (SP)
+http://vietcago.net/vstv/skysp5.m3u8
+#EXTINF:0 group-title="(SP) Spain",TEF TV | SD (SP
+#EXTINF:0 group-title="(SE) Sweden",ECUAVISA | HD (SE)
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
+#EXTINF:0 group-title="(SE) Sweden",ECUAVISA | SD (SE)
+http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
