@@ -30,3 +30,11 @@ http://163.172.222.83:8100/live/amir/123456789/3298.m3u8
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
 #EXTINF:-1,DIASPORA24
 rtmp://diaspora24.tv:1935/diaspora24tv/diaspora2
+#EXTINF:-1,africatv
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+#EXTINF:-1,africatv2
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+#EXTINF:-1,africatv3
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
+#EXTINF:-1,africatv4
+http://africatv.live.net.sa:1935/live/africatv4/playlist.m3u8
