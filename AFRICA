@@ -1,12 +1,12 @@
 #EXTINF:"AFR",AIT NIGERIA 
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/11097.m3u8
-#EXTINF:"(AFR)",MTM TV | SD 
+#EXTINF:"(AFR)",MTM TV
 http://media.btbn.tv/mtmtv/live/playlist.m3u8
-#EXTINF:"AFR",TRACE AFRICA | SD (FR)
+#EXTINF:"AFR",TRACE AFRICA
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
-#EXTINF:0 group-title="(FR) France",TRACE KITOKO | SD (FR)
+#EXTINF:"AFR",TRACE KITOKO
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
-#EXTINF:0 group-title="(FR) France",TRACE TROPICAL | SD (FR)
+#EXTINF:"AFR",TRACE TROPICAL
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/2/prog_index.m3u8
 #EXTINF:-1,trace_africa 424
