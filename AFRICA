@@ -32,36 +32,34 @@ http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 #EXTINF:-1,africatv3
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
-#EXTINF:0 group-title="(FR) France",BBLACK! AFRICA | SD (FR)
+#EXTINF:"AFR",BBLACK! AFRICA
 http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-#EXTINF:0 group-title="(FR) France",BBLACK! CARIBBEAN | SD (FR)
+#EXTINF:"AFR",BBLACK! CARIBBEAN
 http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-#EXTINF:0 group-title="AFR: Africa",AFR: ALGERE3 
+#EXTINF:"AFR",AFR: ALGERE3 
 http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/66.m3u8
-#EXTINF:0 group-title="AFR: Africa",AFR: ALMAGHARIBIA 2 
+#EXTINF:"AFR",AFR: ALMAGHARIBIA 2 
 http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/1415.m3u8
-#EXTINF:0 group-title="AFR: Africa",AFR: ECHOUROUK TV 
+#EXTINF:"AFR",AFR: ECHOUROUK TV 
 http://tv-live.echoroukonline.com/echo/EchoroukTV_SD/playlist.m3u8
-#EXTINF:0 group-title="AFR: Africa",AFR: KALSAN 
+#EXTINF:"AFR",AFR: KALSAN 
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/11026.m3u8
-#EXTINF:0 group-title="AFR: Africa",AFR: RAVE TV 
+#EXTINF:"AFR",AFR: RAVE TV 
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/3104.m3u8
-#EXTINF:0 group-title="AFR: Africa",AFR: ROK TV 
+#EXTINF:"AFR", ROK TV 
 http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/1538.m3u8
-#EXTINF:0 group-title="AFR: Africa",AFR: ROWANDA 
+#EXTINF:"AFR" ROWANDA 
 http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/2259.m3u8
-#EXTINF:0 group-title="AFR: Africa",AFR: RTP 
+#EXTINF:"AFR" RTP 
 http://iptv.efsane365.com:80/live/koralp/123456/19947.m3u8
-#EXTINF:0 group-title="AFR: Africa",AFR: RTV 
+#EXTINF:"AFR" RTV 
 http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
-#EXTINF:0 group-title="AFR: Africa",AFR: SLNTV 
+#EXTINF:"AFR" SLNTV 
 http://199.167.151.237:1935/live/sp15_21.stream/gmswf.m3u8
-#EXTINF:0 group-title="AFR: Africa",AFR: SNL TV 
+#EXTINF:"AFR" SNL TV 
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/11081.m3u8
-#EXTINF:0 group-title="AFR: Africa",AFR: SNTV 
+#EXTINF:"AFR" SNTV 
 http://199.167.151.237:1935/live/sp15_19.stream/gmswf.m3u8
-#EXTINF:0 group-title="AFR: Africa",AFR: TELE 
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/10988.m3u8
-#EXTINF:0 group-title="AFR: Africa",AFR: TVJ HD
-http://iptv.efsane365.com:80/live/koralp/123456/25834.m3u8
+
+
 
