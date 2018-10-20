@@ -1,14 +1,8 @@
-#EXTINF:0 group-title="WW: World Wide",WW: AIT NIGERIA 
+#EXTINF:"AFR",AIT NIGERIA 
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/11097.m3u8
-#EXTINF:0 group-title="AFR: Africa",AFR: TVC NEWS 
-http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/3873.m3u8
-#EXTINF:0 group-title="FR: France",FR: AFRICA 
-http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/3908.m3u8
-#EXTINF:0 group-title="(AFR) Africa",CHANNEL ONE | SD (AFR)
-http://streams.almaata.kcell.lfstrm.tv/perviy_evrasia/1/index.m3u8
-#EXTINF:0 group-title="(AFR) Africa",MTM TV | SD (AFR)
+#EXTINF:"(AFR)",MTM TV | SD 
 http://media.btbn.tv/mtmtv/live/playlist.m3u8
-#EXTINF:0 group-title="(FR) France",TRACE AFRICA | SD (FR)
+#EXTINF:"AFR",TRACE AFRICA | SD (FR)
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 #EXTINF:0 group-title="(FR) France",TRACE KITOKO | SD (FR)
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
