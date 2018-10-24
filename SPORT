@@ -1,37 +1,10 @@
 #EXTM3U
-#EXTINF:0 group-title=AL KASS SPORTS 1 | SD (AF)
+#EXTINF:AL KASS SPORTS 1 | SD (AF)
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
 #EXTINF:0 group-title=KTV SPORT | SD (AF)
-http://www.elahmad.com/tv/m3u8/ktv.m3u8
-#EXTINF:0 group-title="(AF) Afghanistan",AF: SMASH SPORTS 
 http://144.76.182.50:25461/live/smash/smash/4.m3u8
-#EXTINF:0 group-title="(AFR) Africa",AFR: SPORT (2+) 
+#EXTINF: SPORT (2+) 
 http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4014.m3u8
-#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/laliga.jpg",LaLiga TV Bar HD
-http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/581/index.m3u8
-#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/rai-sport.jpg",Rai Sport
-http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/528/index.m3u8
-#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/eurosport-1-russia.jpg",Eurosport 1
-http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/174/index.m3u8
-#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/eurosport-1-russia.jpg",Eurosport 1
-#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/eurosport-2-russia-hd.jpg",Eurosport 2 HD
-http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/77/index.m3u8
-#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/eurosport-2-russia-hd.jpg",Eurosport 2  HD
-http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/78/index.m3u8
-#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/eurosport-2-hd.jpg",Eurosport 2 HD
-http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/471/index.m3u8
-#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/eurosport-2-hd.jpg",Eurosport 2 HD
-http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/472/index.m3u8
-#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/eurosport-1-deutschland.jpg",Eurosport1 - Deutschland
-http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/682/index.m3u8
-#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/extreme-sports-channel.jpg",Extreme Sports
-http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/46/index.m3u8
-#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/extreme-sports-channel.jpg",Extreme Sports
-http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/47/index.m3u8
-#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/FightBox.jpg",FightBox HD
-http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/900/index.m3u8
-#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/FightBox.jpg",FightBox HD
-http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/901/index.m3u8
 #EXTINF:-1,M. MOTOGP
 http://163.172.52.83:8000/live/bq41HE7N173gh2/8674542L8a3336/533.ts
 #EXTINF:-1,M. GOLF HD
