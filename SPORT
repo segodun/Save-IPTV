@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:AL KASS SPORTS 1 | SD (AF)
+#EXTINF:-1,AL KASS SPORTS 1 | SD (AF)
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:0 group-title=KTV SPORT | SD (AF)
+#EXTINF:-1,KTV SPORT | SD (AF)
 http://144.76.182.50:25461/live/smash/smash/4.m3u8
 #EXTINF: SPORT (2+) 
 http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4014.m3u8
