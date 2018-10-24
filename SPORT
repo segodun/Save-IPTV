@@ -38,92 +38,37 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
 #EXTINF:-1,ABU DHABI SPORTS 1 (2+)
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,ABU DHABI SPORTS 1 
-http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:-1,ABU DHABI SPORTS 1 (1+) 
-http://199.167.151.237:1935/live/sp15_26.stream/gmswf.m3u8
 #EXTINF:-1,ABU DHABI SPORTS 2 
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
 #EXTINF:-1,ABU DHABI SPORTS 2 (1+) 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,ABU DHABI SPORTS 2 
-http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
 #EXTINF:-1,BG: DIEMA SPORT HD
 http://87.246.0.130:88/m3u8/diamasporthd.m3u8
-#EXTINF:-1,BG: DIEMA SPORT 1 
-http://212.8.248.213:8080/live/farouk/12345/3362.m3u8
-#EXTINF:-1,BG: DIEMA SPORT 2 (1+) 
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2372.m3u8
-#EXTINF:-1,BG: MTEL SPORT 
-http://87.246.0.130:88/m3u8/webmtelsport_web.m3u8
-#EXTINF:0 group-title="(BG) Bulgaria",BG: NOVA SPORT HD
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2377.m3u8
-#EXTINF:0 group-title="(BG) Bulgaria",BG: NOVA SPORT (1+) 
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/278.m3u8
-#EXTINF:0 group-title="(BG) Bulgaria",BG: SPORT PLUS HD
+#EXTINF:-1,SPORT PLUS HD
 http://87.246.0.130:88/m3u8/websportplus_web.m3u8
-#EXTINF:0 group-title="(BG) Bulgaria",BG: SPORT PLUS (1+) HD
-http://212.8.248.213:8080/live/farouk/12345/3411.m3u8
-#EXTINF:0 group-title="(CZ) Czech Republic",CZ: EURO SPORT 1 
-http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4170.m3u8
-#EXTINF:0 group-title="(CZ) Czech Republic",CZ: EURO SPORT 1 
-http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4170.m3u8
-#EXTINF:0 group-title="(CZ) Czech Republic",CZ: EUROSPORT 2 
-http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4169.m3u8
-#EXTINF:0 group-title="(CZ) Czech Republic",CZ: NOVA SPORT 1 HD
-http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4144.m3u8
-#EXTINF:0 group-title="(FR) France",FR: BEIN SPORT 1 (1+) 
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/452.m3u8
-#EXTINF:0 group-title="(FR) France",FR: BEIN SPORT 2 (2+) 
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/451.m3u8
-#EXTINF:0 group-title="(FR) France",FR: BEIN SPORT 3 (1+) 
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/450.m3u8
-#EXTINF:0 group-title="(FR) France",FR: CANAL SPORT HD
-http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/673.m3u8
-#EXTINF:0 group-title="(FR) France",FR: EUROSPORT 1 (1+) HD
-http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/2588.m3u8
-#EXTINF:0 group-title="(FR) France",FR: EUROSPORT 2 (1+) HD
-http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/1881.m3u8
-#EXTINF:0 group-title="(FR) France",FR: SFR 1 SPORT 
-http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/2265.m3u8
-#EXTINF:0 group-title="(FR) France",FR: SFR 3 SPORT 
-http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/2267.m3u8
-#EXTINF:0 group-title="(FR) France",FR: SFR SPORT 1 (1+) 
-http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/181.m3u8
-#EXTINF:0 group-title="(FR) France",FR: SFR SPORT 3 
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/11459.m3u8
-#EXTINF:0 group-title="(FR) France",FR: SFR SPORT 3 (1+) 
-http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/245.m3u8
-#EXTINF:0 group-title="(FR) France",FR: SFR SPORT 4 
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/11458.m3u8
-#EXTINF:0 group-title="(FR) France",FR: SFR SPORT 5 
-http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/11457.m3u8
-#EXTINF:0 group-title="(IT) Italy",IRC SPORT TV | SD (IT)
+#EXTINF:-1,IRC SPORT TV
 http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
-#EXTINF:0 group-title="(IT) Italy",RTV SAN MARINO SPORT | SD (IT)
+#EXTINF:-1,RTV SAN MARINO SPORT 
 http://194.116.78.102:1935/webtv_live4/_definst_/9UXJ2BJMTMNR/playlist.m3u8
-#EXTINF:0 group-title="(IT) Italy",TELEARENA | SD (IT)
+#EXTINF:-1,TELEARENA 
 http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
-#EXTINF:0 group-title="(IT) Italy",TELEROMAGNA SPORT | SD (IT)
-#EXTINF:0 group-title="(MX) Mexico",MX: TSM SPORTS 
+#EXTINF:-1,TSM SPORTS 
 http://mediacp.live:1935/8028/8028/chunklist_w1479204348.m3u8
-#EXTINF:0 group-title="(SP) Spain",FIGHT TIME | SD (SP)
+#EXTINF:-1,FIGHT TIME 
 http://109.232.71.249/stream/stream_fighttime/fighttimehd.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ELEVEN SPORTS 1 | SD (UK)
+#EXTINF:-1,ELEVEN SPORTS 1 
 http://61.58.60.230:9000/live/75.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",ELEVEN SPORTS 2 | SD (UK)
+#EXTINF:-1,ELEVEN SPORTS 2 
 http://61.58.60.230:9000/live/102.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
-http://izgemma.ddns.net:8000/live/ryan/ryan/29815.m3u8
-#EXTINF:0 group-title="(UK) United Kingdom",FLOW SPORTS | SD (UK)
+#EXTINF:-1,FLOW SPORTS 
 http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:0 group-title="(US) United States",AUTOMOTO TV | SD (US)
+#EXTINF:-1,AUTOMOTO TV 
 http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8
-#EXTINF:0 group-title="(US) United States",ESPN | SD (US)
+#EXTINF:-1,ESPN
 http://80.80.160.168/live/6/live.m3u8
-#EXTINF:0 group-title="(US) United States",ESPN 2 | SD (US)
+#EXTINF:-1,ESPN 2 
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:0 group-title="(US) United States",FOX SPORTS RACING | SD (US)
+#EXTINF:-1,FOX SPORTS RACING
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:0 group-title="(US) United States",MLB NETWORK | SD (US)
+#EXTINF:-1,MLB NETWORK
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/MLB_VIDEO_MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20180420_1524239987507/3000K/3000_slide.m3u8
