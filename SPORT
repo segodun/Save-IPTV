@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1,AL KASS SPORTS 1 | SD (AF)
+#EXTINF:-1,AL KASS SPORTS 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
-#EXTINF:-1,KTV SPORT | SD (AF)
-http://144.76.182.50:25461/live/smash/smash/4.m3u8
-#EXTINF: SPORT (2+) 
+#EXTINF:-1, SPORT (2+) 
 http://iptv.speedhd10.com:8080/live/dVdeOKnRSz/mxEvlmLjc6/4014.m3u8
 #EXTINF:-1,M. MOTOGP
 http://163.172.52.83:8000/live/bq41HE7N173gh2/8674542L8a3336/533.ts
@@ -27,37 +25,36 @@ http://163.172.52.83:8000/live/bq41HE7N173gh2/8674542L8a3336/579.ts
 http://163.172.52.83:8000/live/bq41HE7N173gh2/8674542L8a3336/581.ts
 #EXTINF:-1,BARCA TV
 http://163.172.52.83:8000/live/bq41HE7N173gh2/8674542L8a3336/582.ts
-#EXTINF:-1 tvg-logo="https://onlybest.tv/images/logo/super-tennis-hd.jpg",Super Tennis HD
 http://playlist.onlybest.tv/en/channel/aa3380f17cb9041c5f70ac8accf5d0d2/670/index.m3u8
-#EXTINF:0 group-title="(SP) Spain",RTVCE | SD (SP)
+#EXTINF:-1,RTVCE 
 http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8
-#EXTINF:0 group-title="(SE) Sweden",ECUAVISA | HD (SE)
+#EXTINF:-1,ECUAVISA 
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
-#EXTINF:0 group-title="(SE) Sweden",ECUAVISA | SD (SE)
+#EXTINF:-1,ECUAVISA 
 http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
-#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 | HD (AR)
+#EXTINF:-1,ABU DHABI SPORTS 1 
 http://www.elahmad.com/tv/m3u8/adtv.m3u8
-#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 (1+) | HD (AR)
+#EXTINF:-1,ABU DHABI SPORTS 1 (1+) 
 http://adtv.ercdn.net/adsport1/adsport1.m3u8
-#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 (2+) | HD (AR)
+#EXTINF:-1,ABU DHABI SPORTS 1 (2+)
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 | SD (AR)
+#EXTINF:-1,ABU DHABI SPORTS 1 
 http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
-#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 1 (1+) | SD (AR)
+#EXTINF:-1,ABU DHABI SPORTS 1 (1+) 
 http://199.167.151.237:1935/live/sp15_26.stream/gmswf.m3u8
-#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 2 | HD (AR)
+#EXTINF:-1,ABU DHABI SPORTS 2 
 http://adtv.ercdn.net/adsport2/adsport2.m3u8
-#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 2 (1+) | HD (AR)
+#EXTINF:-1,ABU DHABI SPORTS 2 (1+) 
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:0 group-title="(AR) Arabia",ABU DHABI SPORTS 2 | SD (AR)
+#EXTINF:-1,ABU DHABI SPORTS 2 
 http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
-#EXTINF:0 group-title="(BG) Bulgaria",BG: DIEMA SPORT HD
+#EXTINF:-1,BG: DIEMA SPORT HD
 http://87.246.0.130:88/m3u8/diamasporthd.m3u8
-#EXTINF:0 group-title="(BG) Bulgaria",BG: DIEMA SPORT 1 
+#EXTINF:-1,BG: DIEMA SPORT 1 
 http://212.8.248.213:8080/live/farouk/12345/3362.m3u8
-#EXTINF:0 group-title="(BG) Bulgaria",BG: DIEMA SPORT 2 (1+) 
+#EXTINF:-1,BG: DIEMA SPORT 2 (1+) 
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2372.m3u8
-#EXTINF:0 group-title="(BG) Bulgaria",BG: MTEL SPORT 
+#EXTINF:-1,BG: MTEL SPORT 
 http://87.246.0.130:88/m3u8/webmtelsport_web.m3u8
 #EXTINF:0 group-title="(BG) Bulgaria",BG: NOVA SPORT HD
 http://212.232.29.250:8000/live/YVr6M356UD/sl5MjtqFVs/2377.m3u8
