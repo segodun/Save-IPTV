@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1,Tring Sport 1 HD
+http://163.172.211.229:8000/live/sdsgal/orbit12/44.ts
+#EXTINF:-1,Tring Sport 2 HD
+http://163.172.211.229:8000/live/sdsgal/orbit12/45.ts
+#EXTINF:-1,Tring Sport 3 HD
+http://163.172.211.229:8000/live/sdsgal/orbit12/46.ts
+#EXTINF:-1,Tring Sport 4 HD
+http://163.172.211.229:8000/live/sdsgal/orbit12/47.ts
+#EXTINF:-1,Arena sport1
+http://163.172.211.229:8000/live/sdsgal/orbit12/92.ts
+#EXTINF:-1,Arena sport 2
+http://163.172.211.229:8000/live/sdsgal/orbit12/93.ts
+#EXTINF:-1,Arena sport 3
+http://163.172.211.229:8000/live/sdsgal/orbit12/94.ts
+#EXTINF:-1,Arena sport 4
+http://163.172.211.229:8000/live/sdsgal/orbit12/95.ts
 #EXTINF:-1,AL KASS SPORTS 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8
 #EXTINF:-1, SPORT (2+) 
