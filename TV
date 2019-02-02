@@ -17,605 +17,3389 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1,NHK World (Opt-1)
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1,Sky News 
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,BBC One
-http://gorillaiptv.online:25461/dad123/dad123/27
-#EXTINF:-1,BBC Two
-http://gorillaiptv.online:25461/dad123/dad123/26
-#EXTINF:-1,BBC Four
-http://gorillaiptv.online:25461/dad123/dad123/24
-#EXTINF:-1,ITV 1
-http://gorillaiptv.online:25461/dad123/dad123/32
-#EXTINF:-1,ITV 2
-http://gorillaiptv.online:25461/dad123/dad123/31
-#EXTINF:-1,ITV 3
-http://gorillaiptv.online:25461/dad123/dad123/30
-#EXTINF:-1,ITV 4
-http://gorillaiptv.online:25461/dad123/dad123/29
-#EXTINF:-1,ITV Be
-http://gorillaiptv.online:25461/dad123/dad123/28
-#EXTINF:-1,Channel 4
-http://gorillaiptv.online:25461/dad123/dad123/898
-#EXTINF:-1,Channel 5
-http://gorillaiptv.online:25461/dad123/dad123/896
-#EXTINF:-1,Alibi
-http://gorillaiptv.online:25461/dad123/dad123/845
-#EXTINF:-1,Sky 1
-http://gorillaiptv.online:25461/dad123/dad123/894
-#EXTINF:-1,Sky Living
-http://gorillaiptv.online:25461/dad123/dad123/891
-#EXTINF:-1,Sky Atlantic
-http://gorillaiptv.online:25461/dad123/dad123/892
-#EXTINF:-1,Comedy Central
-http://gorillaiptv.online:25461/dad123/dad123/880
-#EXTINF:-1,Comedy Central Extra
-http://gorillaiptv.online:25461/dad123/dad123/879
-#EXTINF:-1,Universal
-http://gorillaiptv.online:25461/dad123/dad123/877
-#EXTINF:-1,SyFy
-http://gorillaiptv.online:25461/dad123/dad123/875
-#EXTINF:-1,Fox
-http://gorillaiptv.online:25461/dad123/dad123/849
-#EXTINF:-1,MTV Base
-http://gorillaiptv.online:25461/dad123/dad123/33
-#EXTINF:-1,MTV Classic
-http://gorillaiptv.online:25461/dad123/dad123/34
-#EXTINF:-1,MTV Dance
-http://gorillaiptv.online:25461/dad123/dad123/35
-#EXTINF:-1,MTV Rocks
-http://gorillaiptv.online:25461/dad123/dad123/36
-#EXTINF:-1,Sky News
-http://gorillaiptv.online:25461/dad123/dad123/40
-#EXTINF:-1,Sony Entertainment
-http://gorillaiptv.online:25461/dad123/dad123/22
-#EXTINF:-1,Kerrang!
-http://gorillaiptv.online:25461/dad123/dad123/786
-#EXTINF:-1,Kiss
-http://gorillaiptv.online:25461/dad123/dad123/787
-#EXTINF:-1,Magic
-http://gorillaiptv.online:25461/dad123/dad123/785
-#EXTINF:-1,MTV OMG
-http://gorillaiptv.online:25461/dad123/dad123/799
-#EXTINF:-1,MTV Live
-http://gorillaiptv.online:25461/dad123/dad123/797
-#EXTINF:-1,The Box
-http://gorillaiptv.online:25461/dad123/dad123/790
-#EXTINF:-1,The-Vault
-http://gorillaiptv.online:25461/dad123/dad123/792
-#EXTINF:-1,Box Hits
-http://gorillaiptv.online:25461/dad123/dad123/789
-#EXTINF:-1,ChartShow Hits
-http://gorillaiptv.online:25461/dad123/dad123/793
-#EXTINF:-1,ChartShow TV
-http://gorillaiptv.online:25461/dad123/dad123/794
-#EXTINF:-1,Chilled-90s
-http://gorillaiptv.online:25461/dad123/dad123/782
-#EXTINF:-1,4Music
-http://gorillaiptv.online:25461/dad123/dad123/784
-#EXTINF:-1,3E
-http://gorillaiptv.online:25461/dad123/dad123/853
-#EXTINF:-1,4Seven
-http://gorillaiptv.online:25461/dad123/dad123/837
-#EXTINF:-1,5Select
-http://gorillaiptv.online:25461/dad123/dad123/808
-#EXTINF:-1,5Star
-http://gorillaiptv.online:25461/dad123/dad123/809
-#EXTINF:-1,5USA
-http://gorillaiptv.online:25461/dad123/dad123/810
-#EXTINF:-1,AMC
-http://gorillaiptv.online:25461/dad123/dad123/874
-#EXTINF:-1,be3
-http://gorillaiptv.online:25461/dad123/dad123/855
-#EXTINF:-1,Blaze
-http://gorillaiptv.online:25461/dad123/dad123/819
-#EXTINF:-1,CBS Action
-http://gorillaiptv.online:25461/dad123/dad123/832
-#EXTINF:-1,CBS Drama
-http://gorillaiptv.online:25461/dad123/dad123/831
-#EXTINF:-1,CBS Reality
-http://gorillaiptv.online:25461/dad123/dad123/833
-#EXTINF:-1,Challenge
-http://gorillaiptv.online:25461/dad123/dad123/834
-#EXTINF:-1,Create & Craft
-http://gorillaiptv.online:25461/dad123/dad123/818
-#EXTINF:-1,Dave
-http://gorillaiptv.online:25461/dad123/dad123/883
-#EXTINF:-1,Dave Ja vu
-http://gorillaiptv.online:25461/dad123/dad123/882
-#EXTINF:-1,DMAX
-http://gorillaiptv.online:25461/dad123/dad123/812
-#EXTINF:-1,Drama
-http://gorillaiptv.online:25461/dad123/dad123/822
-#EXTINF:-1,E!
-http://gorillaiptv.online:25461/dad123/dad123/830
-#EXTINF:-1,E4
-http://gorillaiptv.online:25461/dad123/dad123/841
-#EXTINF:-1,Forces TV
-http://gorillaiptv.online:25461/dad123/dad123/817
-#EXTINF:-1,Gold
-http://gorillaiptv.online:25461/dad123/dad123/885
-#EXTINF:-1,Good Food
-http://gorillaiptv.online:25461/dad123/dad123/843
-#EXTINF:-1,Home
-http://gorillaiptv.online:25461/dad123/dad123/800
-#EXTINF:-1,Lifetime
-http://gorillaiptv.online:25461/dad123/dad123/826
-#EXTINF:-1,Quest
-http://gorillaiptv.online:25461/dad123/dad123/836
-#EXTINF:-1,Quest Red
-http://gorillaiptv.online:25461/dad123/dad123/835
-#EXTINF:-1,Real Lives
-http://gorillaiptv.online:25461/dad123/dad123/811
-#EXTINF:-1,Really
-http://gorillaiptv.online:25461/dad123/dad123/828
-#EXTINF:-1,RTE News
-http://gorillaiptv.online:25461/dad123/dad123/861
-#EXTINF:-1,RTE 1
-http://gorillaiptv.online:25461/dad123/dad123/865
-#EXTINF:-1,RTE 2
-http://gorillaiptv.online:25461/dad123/dad123/863
-#EXTINF:-1,S4C
-http://gorillaiptv.online:25461/dad123/dad123/814
-#EXTINF:-1,Sky Arts
-http://gorillaiptv.online:25461/dad123/dad123/851
-#EXTINF:-1,Sky 2
-http://gorillaiptv.online:25461/dad123/dad123/846
-#EXTINF:-1,Sony Channel
-http://gorillaiptv.online:25461/dad123/dad123/824
-#EXTINF:-1,Sony Crime
-http://gorillaiptv.online:25461/dad123/dad123/823
-#EXTINF:-1,Spike
-http://gorillaiptv.online:25461/dad123/dad123/820
-#EXTINF:-1,STV
-http://gorillaiptv.online:25461/dad123/dad123/815
-#EXTINF:-1,TG4
-http://gorillaiptv.online:25461/dad123/dad123/854
-#EXTINF:-1,TLC
-http://gorillaiptv.online:25461/dad123/dad123/847
-#EXTINF:-1,True Crime
-http://gorillaiptv.online:25461/dad123/dad123/804
-#EXTINF:-1,True Entertainment
-http://gorillaiptv.online:25461/dad123/dad123/805
-#EXTINF:-1,True Movies
-http://gorillaiptv.online:25461/dad123/dad123/802
-#EXTINF:-1,True Movies +1
-http://gorillaiptv.online:25461/dad123/dad123/801
-#EXTINF:-1,truTV
-http://gorillaiptv.online:25461/dad123/dad123/821
-#EXTINF:-1,TV3
-http://gorillaiptv.online:25461/dad123/dad123/857
-#EXTINF:-1,UTV
-http://gorillaiptv.online:25461/dad123/dad123/813
-#EXTINF:-1,VH1
-http://gorillaiptv.online:25461/dad123/dad123/795
-#EXTINF:-1,Vice
-http://gorillaiptv.online:25461/dad123/dad123/825
-#EXTINF:-1,Virgin Media 1 HD
-http://gorillaiptv.online:25461/dad123/dad123/860
-#EXTINF:-1,Virgin Media 2 HD
-http://gorillaiptv.online:25461/dad123/dad123/859
-#EXTINF:-1,Virgin Media 3 HD
-http://gorillaiptv.online:25461/dad123/dad123/858
-#EXTINF:-1,W
-http://gorillaiptv.online:25461/dad123/dad123/886
-#EXTINF:-1,Yesterday
-http://gorillaiptv.online:25461/dad123/dad123/803
-#EXTINF:-1,Cinemax 2*
-http://gorillaiptv.online:25461/dad123/dad123/903
-#EXTINF:-1,Cinemax*
-http://gorillaiptv.online:25461/dad123/dad123/904
-#EXTINF:-1,Cinestar Action*
-http://gorillaiptv.online:25461/dad123/dad123/901
-#EXTINF:-1,Cinestar Fantasy*
-http://gorillaiptv.online:25461/dad123/dad123/902
-#EXTINF:-1,Cinestar Premier 1*
-http://gorillaiptv.online:25461/dad123/dad123/900
-#EXTINF:-1,Cinestar Premier 2*
-http://gorillaiptv.online:25461/dad123/dad123/899
-#EXTINF:-1,Film4 HD
-http://gorillaiptv.online:25461/dad123/dad123/912
-#EXTINF:-1,Film4
-http://gorillaiptv.online:25461/dad123/dad123/911
-#EXTINF:-1,Horror
-http://gorillaiptv.online:25461/dad123/dad123/905
-#EXTINF:-1,Movies24
-http://gorillaiptv.online:25461/dad123/dad123/906
-#EXTINF:-1,Movies4Men
-http://gorillaiptv.online:25461/dad123/dad123/907
-#EXTINF:-1,Sky Cinema Action And Adventure HD
-http://gorillaiptv.online:25461/dad123/dad123/924
-#EXTINF:-1,Sky Cinema Action and Adventure
-http://gorillaiptv.online:25461/dad123/dad123/923
-#EXTINF:-1,Sky Cinema Comedy HD
-http://gorillaiptv.online:25461/dad123/dad123/922
-#EXTINF:-1,Sky Cinema Comedy
-http://gorillaiptv.online:25461/dad123/dad123/921
-#EXTINF:-1,Sky Cinema Crime and Thriller
-http://gorillaiptv.online:25461/dad123/dad123/919
-#EXTINF:-1,Sky Cinema Disney HD
-http://gorillaiptv.online:25461/dad123/dad123/928
-#EXTINF:-1,Sky Cinema Disney
-http://gorillaiptv.online:25461/dad123/dad123/927
-#EXTINF:-1,Sky Cinema Drama and Romance HD
-http://gorillaiptv.online:25461/dad123/dad123/932
-#EXTINF:-1,Sky Cinema Drama and Romance
-http://gorillaiptv.online:25461/dad123/dad123/931
-#EXTINF:-1,Sky Cinema Family HD
-http://gorillaiptv.online:25461/dad123/dad123/926
-#EXTINF:-1,Sky Cinema Family
-http://gorillaiptv.online:25461/dad123/dad123/925
-#EXTINF:-1,Sky Cinema Greats HD
-http://gorillaiptv.online:25461/dad123/dad123/930
-#EXTINF:-1,Sky Cinema Greats
-http://gorillaiptv.online:25461/dad123/dad123/929
-#EXTINF:-1,Sky Cinema Hits HD
-http://gorillaiptv.online:25461/dad123/dad123/918
-#EXTINF:-1,Sky Cinema Hits
-http://gorillaiptv.online:25461/dad123/dad123/917
-#EXTINF:-1,Sky Cinema Premier HD
-http://gorillaiptv.online:25461/dad123/dad123/934
-#EXTINF:-1,Sky Cinema Premier
-http://gorillaiptv.online:25461/dad123/dad123/933
-#EXTINF:-1,Sky Cinema Sci-Fi and Horror HD
-http://gorillaiptv.online:25461/dad123/dad123/916
-#EXTINF:-1,Sky Cinema Sci-Fi and Horror
-http://gorillaiptv.online:25461/dad123/dad123/915
-#EXTINF:-1,Sky Cinema Select HD
-http://gorillaiptv.online:25461/dad123/dad123/914
-#EXTINF:-1,Sky Cinema Select
-http://gorillaiptv.online:25461/dad123/dad123/913
-#EXTINF:-1,Sky Cinema Thriller HD
-http://gorillaiptv.online:25461/dad123/dad123/920
-#EXTINF:-1,Sony Movies
-http://gorillaiptv.online:25461/dad123/dad123/908
-#EXTINF:-1,TCM HD
-http://gorillaiptv.online:25461/dad123/dad123/910
-#EXTINF:-1,TCM
-http://gorillaiptv.online:25461/dad123/dad123/909
-#EXTINF:-1,Baby TV
-http://gorillaiptv.online:25461/dad123/dad123/966
-#EXTINF:-1,Boomerang
-http://gorillaiptv.online:25461/dad123/dad123/958
-#EXTINF:-1,Cartoon Network
-http://gorillaiptv.online:25461/dad123/dad123/956
-#EXTINF:-1,Cartoon Network HD
-http://gorillaiptv.online:25461/dad123/dad123/957
-#EXTINF:-1,Cartoonito
-http://gorillaiptv.online:25461/dad123/dad123/955
-#EXTINF:-1,CBBC HD
-http://gorillaiptv.online:25461/dad123/dad123/965
-#EXTINF:-1,CBBC SD
-http://gorillaiptv.online:25461/dad123/dad123/964
-#EXTINF:-1,CBeebies HD
-http://gorillaiptv.online:25461/dad123/dad123/963
-#EXTINF:-1,CBeebies SD
-http://gorillaiptv.online:25461/dad123/dad123/962
-#EXTINF:-1,CITV
-http://gorillaiptv.online:25461/dad123/dad123/961
-#EXTINF:-1,Disney Channel
-http://gorillaiptv.online:25461/dad123/dad123/974
-#EXTINF:-1,Disney Channel HD
-http://gorillaiptv.online:25461/dad123/dad123/975
-#EXTINF:-1,Disney Junior
-http://gorillaiptv.online:25461/dad123/dad123/972
-#EXTINF:-1,Disney XD
-http://gorillaiptv.online:25461/dad123/dad123/973
-#EXTINF:-1,More 4
-http://gorillaiptv.online:25461/dad123/dad123/839
-#EXTINF:-1,MTV
-http://gorillaiptv.online:25461/dad123/dad123/866
-#EXTINF:-1,BBC News HD
-http://gorillaiptv.online:25461/dad123/dad123/979
-#EXTINF:-1,BBC News SD
-http://gorillaiptv.online:25461/dad123/dad123/978
-#EXTINF:-1,BoxNation
-http://gorillaiptv.online:25461/dad123/dad123/987
-#EXTINF:-1,BoxNation HD
-http://gorillaiptv.online:25461/dad123/dad123/988
-#EXTINF:-1,BT Sport 1
-http://gorillaiptv.online:25461/dad123/dad123/1018
-#EXTINF:-1,BT Sport 1 HD
-http://gorillaiptv.online:25461/dad123/dad123/1019
-#EXTINF:-1,BT Sport 2
-http://gorillaiptv.online:25461/dad123/dad123/1016
-#EXTINF:-1,BT Sport 2 HD
-http://gorillaiptv.online:25461/dad123/dad123/1017
-#EXTINF:-1,BT Sport 3
-http://gorillaiptv.online:25461/dad123/dad123/1014
-#EXTINF:-1,BT Sport 3 HD
-http://gorillaiptv.online:25461/dad123/dad123/1015
-#EXTINF:-1,BT Sport ESPN
-http://gorillaiptv.online:25461/dad123/dad123/1012
-#EXTINF:-1,BT Sport ESPN HD
-http://gorillaiptv.online:25461/dad123/dad123/1013
-#EXTINF:-1,BT Sport Extra 1
-http://gorillaiptv.online:25461/dad123/dad123/1011
-#EXTINF:-1,BT Sport Extra 2
-http://gorillaiptv.online:25461/dad123/dad123/1010
-#EXTINF:-1,BT Sport Extra 3
-http://gorillaiptv.online:25461/dad123/dad123/1009
-#EXTINF:-1,BT Sport Extra 4
-http://gorillaiptv.online:25461/dad123/dad123/1008
-#EXTINF:-1,BT Sport Extra 5
-http://gorillaiptv.online:25461/dad123/dad123/1007
-#EXTINF:-1,BT Sport Extra 6
-http://gorillaiptv.online:25461/dad123/dad123/1006
-#EXTINF:-1,Chelsea TV HD
-http://gorillaiptv.online:25461/dad123/dad123/1001
-#EXTINF:-1,CNN
-http://gorillaiptv.online:25461/dad123/dad123/976
-#EXTINF:-1,Crime Investigation
-http://gorillaiptv.online:25461/dad123/dad123/1034
-#EXTINF:-1,ID HD
-http://gorillaiptv.online:25461/dad123/dad123/1035
-#EXTINF:-1,Discovery Channel
-http://gorillaiptv.online:25461/dad123/dad123/1046
-#EXTINF:-1,Discovery HD
-http://gorillaiptv.online:25461/dad123/dad123/1047
-#EXTINF:-1,Discovery History
-http://gorillaiptv.online:25461/dad123/dad123/1042
-#EXTINF:-1,Discovery Science
-http://gorillaiptv.online:25461/dad123/dad123/1043
-#EXTINF:-1,Discovery Shed
-http://gorillaiptv.online:25461/dad123/dad123/1045
-#EXTINF:-1,Discovery Turbo
-http://gorillaiptv.online:25461/dad123/dad123/1044
-#EXTINF:-1,Eden
-http://gorillaiptv.online:25461/dad123/dad123/1028
-#EXTINF:-1,Eden HD
-http://gorillaiptv.online:25461/dad123/dad123/1029
-#EXTINF:-1,Eir Sport 1
-http://gorillaiptv.online:25461/dad123/dad123/995
-#EXTINF:-1,Eir Sport 1 HD
-http://gorillaiptv.online:25461/dad123/dad123/996
-#EXTINF:-1,Eir Sport 2
-http://gorillaiptv.online:25461/dad123/dad123/993
-#EXTINF:-1,Eir Sport 2 HD
-http://gorillaiptv.online:25461/dad123/dad123/994
-#EXTINF:-1,Euro Sport 1
-http://gorillaiptv.online:25461/dad123/dad123/1022
-#EXTINF:-1,Euro Sport 1 HD
-http://gorillaiptv.online:25461/dad123/dad123/1023
-#EXTINF:-1,Euro Sport 2
-http://gorillaiptv.online:25461/dad123/dad123/1020
-#EXTINF:-1,Euro Sport 2 HD
-http://gorillaiptv.online:25461/dad123/dad123/1021
-#EXTINF:-1,France 24 English
-http://gorillaiptv.online:25461/dad123/dad123/977
-#EXTINF:-1,H2
-http://gorillaiptv.online:25461/dad123/dad123/1030
-#EXTINF:-1,H2 HD
-http://gorillaiptv.online:25461/dad123/dad123/1031
-#EXTINF:-1,History
-http://gorillaiptv.online:25461/dad123/dad123/1032
-#EXTINF:-1,History HD
-http://gorillaiptv.online:25461/dad123/dad123/1033
-#EXTINF:-1,Home & Health
-http://gorillaiptv.online:25461/dad123/dad123/1037
-#EXTINF:-1,ID
-http://gorillaiptv.online:25461/dad123/dad123/1036
-#EXTINF:-1,ITV Box Office
-http://gorillaiptv.online:25461/dad123/dad123/985
-#EXTINF:-1,LFC TV HD
-http://gorillaiptv.online:25461/dad123/dad123/1003
-#EXTINF:-1,LFC TV SD
-http://gorillaiptv.online:25461/dad123/dad123/1002
-#EXTINF:-1,Live Events Channel
-http://gorillaiptv.online:25461/dad123/dad123/982
-#EXTINF:-1,Motorsport TV
-http://gorillaiptv.online:25461/dad123/dad123/986
-#EXTINF:-1,MUTV HD
-http://gorillaiptv.online:25461/dad123/dad123/1005
-#EXTINF:-1,MUTV SD
-http://gorillaiptv.online:25461/dad123/dad123/1004
-#EXTINF:-1,Nat Geo
-http://gorillaiptv.online:25461/dad123/dad123/1040
-#EXTINF:-1,Nat Geo HD
-http://gorillaiptv.online:25461/dad123/dad123/1041
-#EXTINF:-1,Nat Geo Wild
-http://gorillaiptv.online:25461/dad123/dad123/1038
-#EXTINF:-1,Nat Geo Wild HD
-http://gorillaiptv.online:25461/dad123/dad123/1039
-#EXTINF:-1,PBS America
-http://gorillaiptv.online:25461/dad123/dad123/1027
-#EXTINF:-1,Premiere Sports
-http://gorillaiptv.online:25461/dad123/dad123/991
-#EXTINF:-1,Premiere Sports 2
-http://gorillaiptv.online:25461/dad123/dad123/989
-#EXTINF:-1,Premiere Sports 2 HD
-http://gorillaiptv.online:25461/dad123/dad123/990
-#EXTINF:-1,Premiere Sports HD
-http://gorillaiptv.online:25461/dad123/dad123/992
-#EXTINF:-1,Prime Events
-http://gorillaiptv.online:25461/dad123/dad123/981
-#EXTINF:-1,Racing UK HD
-http://gorillaiptv.online:25461/dad123/dad123/998
-#EXTINF:-1,Racing UK SD
-http://gorillaiptv.online:25461/dad123/dad123/997
-#EXTINF:-1,Silence TV
-http://gorillaiptv.online:25461/dad123/dad123/1026
-#EXTINF:-1,Sky Events
-http://gorillaiptv.online:25461/dad123/dad123/983
-#EXTINF:-1,Sky News HD
-http://gorillaiptv.online:25461/dad123/dad123/980
-#EXTINF:-1,Sky Sports Box Office HD
-http://gorillaiptv.online:25461/dad123/dad123/984
-#EXTINF:-1,Sky Sports News
-http://gorillaiptv.online:25461/dad123/dad123/1024
 #EXTM3U
-#EXTINF:-1,EX-YU: Arena Sport 1 (Srb)
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29726
-#EXTINF:-1,EX-YU: ARENA SPORT 1 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29725
-#EXTINF:-1,EX-YU: ARENA SPORT 1 HD (SR)
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29724
-#EXTINF:-1,EX-YU: Arena Sport 2 (Srb)
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29723
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29722
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HD (HR)
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29721
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HD (SR)
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29720
-#EXTINF:-1,EX-YU: Arena Sport 3 (Srb)
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29719
-#EXTINF:-1,EX-YU: Arena Sport 3 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29718
-#EXTINF:-1,EX-YU: ARENA SPORT 3 HD (HR)
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29717
-#EXTINF:-1,EX-YU: ARENA SPORT 3 HD (SR)
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29716
-#EXTINF:-1,EX-YU: Arena Sport 4 (CRO)
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29715
-#EXTINF:-1,EX-YU: Arena Sport 4 (SRB)
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29714
-#EXTINF:-1,EX-YU: ARENA SPORT 4 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29713
-#EXTINF:-1,EX-YU: ARENA SPORT 4 HD (SR)
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29712
-#EXTINF:-1,EX-YU: ARENA SPORT 5 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29711
-#EXTINF:-1,EX-YU: ARENA SPORT 5 HD (SR)
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29710
-#EXTINF:-1,EX-YU: Arena Sport 5 HR
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29709
-#EXTINF:-1,EX-YU: Arena Sport 5 SRB
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29708
-#EXTINF:-1,EX-YU: ARENA SPORT 6 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29707
-#EXTINF:-1,EX-YU: ARENA SPORT 6 HD (HR)
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29706
-#EXTINF:-1,EX-YU: BN Music
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29695
-#EXTINF:-1,EX-YU: BN TV
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29694
-#EXTINF:-1,EX-YU: Bosna TV1
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29693
-#EXTINF:-1,IT: RSI LA 1 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29886
-#EXTINF:-1,IT: RSI LA 2 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29885
-#EXTINF:-1,IT: Rtv San Marino Sport
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29879
-#EXTINF:-1,IT: RTV Sport
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29878
-#EXTINF:-1,IT: San Marino Rtv Sport
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29877
-#EXTINF:-1,IT: Sardegna 1
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29876
-#EXTINF:-1,IT: Sardegna Uno TV
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29875
-#EXTINF:-1,IT: scSKY Calcio 1
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29001
-#EXTINF:-1,IT: scSKY Calcio 1 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/28999
-#EXTINF:-1,IT: scSKY Calcio 2
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29000
-#EXTINF:-1,IT: scSKY Calcio 2 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/28998
-#EXTINF:-1,IT: scSKY Calcio 3 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/28997
-#EXTINF:-1,IT: scSKY Sport 24 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29011
-#EXTINF:-1,IT: scSKY Sport Arena HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29007
-#EXTINF:-1,IT: scSKY Sport F1 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29004
-#EXTINF:-1,IT: scSKY Sport Football HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29009
-#EXTINF:-1,IT: scSKY Sport Golf HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29006
-#EXTINF:-1,IT: scSKY Sport MotoGP HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29003
-#EXTINF:-1,IT: scSKY Sport NBA HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29005
-#EXTINF:-1,IT: scSKY Sport Serie A HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29008
-#EXTINF:-1,IT: scSKY Sport Uno HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29010
-#EXTINF:-1,IT: Sky 3D
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29872
-#EXTINF:-1,IT: Sky Arte HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29871
-#EXTINF:-1,IT: Sky Fox Sports HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29826
-#EXTINF:-1,IT: Sky Premium Cinema
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29820
-#EXTINF:-1,IT: SKY PRIMAFILA 1 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/20528
-#EXTINF:-1,IT: SKY PRIMAFILA 10 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/20520
-#EXTINF:-1,IT: SKY PRIMAFILA 12 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/20519
-#EXTINF:-1,IT: SKY PRIMAFILA 14 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/20518
-#EXTINF:-1,IT: SKY PRIMAFILA 15 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/20517
-#EXTINF:-1,IT: SKY PRIMAFILA 17 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/20516
-#EXTINF:-1,IT: SKY PRIMAFILA 18 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/20515
-#EXTINF:-1,IT: SKY PRIMAFILA 2 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/20527
-#EXTINF:-1,IT: SKY PRIMAFILA 3 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/20526
-#EXTINF:-1,IT: SKY PRIMAFILA 4 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/20525
-#EXTINF:-1,IT: SKY PRIMAFILA 5 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/20524
-#EXTINF:-1,IT: SKY PRIMAFILA 6 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/20523
-#EXTINF:-1,IT: SKY PRIMAFILA 7 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/20522
-#EXTINF:-1,IT: SKY PRIMAFILA 9 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/20521
-#EXTINF:-1,IT: Sky Sport 1 FHD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29819
-#EXTINF:-1,IT: Sky Sport 10 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29813
-#EXTINF:-1,IT: Sky Sport 2 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29818
-#EXTINF:-1,IT: Sky Sport 24 FHD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29812
-#EXTINF:-1,IT: Sky Sport 24 IT
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29811
-#EXTINF:-1,IT: Sky Sport 3 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29817
-#EXTINF:-1,IT: Sky Sport 6 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29816
-#EXTINF:-1,IT: Sky Sport 7 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29815
-#EXTINF:-1,IT: Sky Sport 9 HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29814
-#EXTINF:-1,IT: Sky Sport Arena HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29810
-#EXTINF:-1,IT: SKY SPORT DUE HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29809
-#EXTINF:-1,IT: Sky Sport F1 FHD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29808
-#EXTINF:-1,IT: Sky Sport Football HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29807
-#EXTINF:-1,IT: SKY SPORT Golf HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29806
-#EXTINF:-1,IT: Sky Sport HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29805
-#EXTINF:-1,IT: SKY SPORT HD NBA
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29804
-#EXTINF:-1,IT: Sky Sport Moto GP FHD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29803
-#EXTINF:-1,IT: Sky Sport Serie A FHD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29802
-#EXTINF:-1,IT: Sky Sport UNO HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29801
-#EXTINF:-1,IT: Sky-Sports-F1-HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29796
-#EXTINF:-1,IT: SL48 TV
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29795
-#EXTINF:-1,IT: Sport Calcio
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29794
-#EXTINF:-1,IT: Sport Italia HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29793
-#EXTINF:-1,IT: Super Tennis HD
-http://alc00l.ddns.net:8009/exeustranieri/TaRXvdsQ0Q/29786
-
+http://force102.com:8080/mahmut49/sen49/6508
+#EXTINF:-1,beIN Sports 1 Hd
+http://force102.com:8080/mahmut49/sen49/2
+#EXTINF:-1,Bein Sports 1 Hd 265.hevc
+http://force102.com:8080/mahmut49/sen49/7100
+#EXTINF:-1,Bein Sports 1 Sd
+http://force102.com:8080/mahmut49/sen49/130
+#EXTINF:-1,Bein Sports 1 Sd 265.hevc
+http://force102.com:8080/mahmut49/sen49/7102
+#EXTINF:-1,Bein Sports 1 1080i
+http://force102.com:8080/mahmut49/sen49/7101
+#EXTINF:-1,Bein Sports 1 Mobile
+http://force102.com:8080/mahmut49/sen49/7042
+#EXTINF:-1,Bein Sports 1 4k & Bein Iz
+http://force102.com:8080/mahmut49/sen49/7605
+#EXTINF:-1,Bein Sports Sd 2
+http://force102.com:8080/mahmut49/sen49/8302
+#EXTINF:-1,Bein Sports Hd 2
+http://force102.com:8080/mahmut49/sen49/3
+#EXTINF:-1,Bein Sports Sd 3
+http://force102.com:8080/mahmut49/sen49/8301
+#EXTINF:-1,Bein Sports Hd 3
+http://force102.com:8080/mahmut49/sen49/4
+#EXTINF:-1,Bein Sports Hd 4
+http://force102.com:8080/mahmut49/sen49/1492
+#EXTINF:-1,Bein Sports Sd 4
+http://force102.com:8080/mahmut49/sen49/19629
+#EXTINF:-1,Bein Sports Max 1 Hd
+http://force102.com:8080/mahmut49/sen49/6977
+#EXTINF:-1,Bein Sports Max 1 Sd
+http://force102.com:8080/mahmut49/sen49/19630
+#EXTINF:-1,Bein Sports Max 2 Hd
+http://force102.com:8080/mahmut49/sen49/6978
+#EXTINF:-1,Bein Sports Max 2 Sd
+http://force102.com:8080/mahmut49/sen49/19631
+#EXTINF:-1,Bein Sports Haber HD
+http://force102.com:8080/mahmut49/sen49/19633
+#EXTINF:-1,Bein Sports Haber SD
+http://force102.com:8080/mahmut49/sen49/7105
+#EXTINF:-1,Tivibu Spor 1 Hd
+http://force102.com:8080/mahmut49/sen49/179
+#EXTINF:-1,Tivibu Spor 2 Hd
+http://force102.com:8080/mahmut49/sen49/180
+#EXTINF:-1,Tivibu Spor 3 Hd
+http://force102.com:8080/mahmut49/sen49/181
+#EXTINF:-1,Tivibu Spor 4 Hd
+http://force102.com:8080/mahmut49/sen49/182
+#EXTINF:-1,D-smart Spor Hd
+http://force102.com:8080/mahmut49/sen49/10
+#EXTINF:-1,D-smart Nba Tv Hd
+http://force102.com:8080/mahmut49/sen49/12
+#EXTINF:-1,Filbox Eurosport 1 Hd
+http://force102.com:8080/mahmut49/sen49/67
+#EXTINF:-1,D-smart Eurosport 2 Hd
+http://force102.com:8080/mahmut49/sen49/29
+#EXTINF:-1,D-Smart S Sport HD
+http://force102.com:8080/mahmut49/sen49/20713
+#EXTINF:-1,S Sport Hd
+http://force102.com:8080/mahmut49/sen49/11
+#EXTINF:-1,Sports Tv
+http://force102.com:8080/mahmut49/sen49/86
+#EXTINF:-1,Trt Spor Hd
+http://force102.com:8080/mahmut49/sen49/58
+#EXTINF:-1,Trt 3 - Trt Spor
+http://force102.com:8080/mahmut49/sen49/1353
+#EXTINF:-1,A Spor Hd
+http://force102.com:8080/mahmut49/sen49/75
+#EXTINF:-1,Bjk Tv
+http://force102.com:8080/mahmut49/sen49/158
+#EXTINF:-1,Tay Tv
+http://force102.com:8080/mahmut49/sen49/208
+#EXTINF:-1,Tjk
+http://force102.com:8080/mahmut49/sen49/17210
+#EXTINF:-1,Gs Tv
+http://force102.com:8080/mahmut49/sen49/117
+#EXTINF:-1,Fb Tv Hd
+http://force102.com:8080/mahmut49/sen49/1709
+#EXTINF:-1,Bursaspor Tv
+http://force102.com:8080/mahmut49/sen49/8551
+#EXTINF:-1,-------------- | SINEMA | --------------
+http://force102.com:8080/mahmut49/sen49/6510
+#EXTINF:-1,Salonda Neler var?
+http://force102.com:8080/mahmut49/sen49/26660
+#EXTINF:-1,Salon 1 HD
+http://force102.com:8080/mahmut49/sen49/26661
+#EXTINF:-1,Salon 2 HD
+http://force102.com:8080/mahmut49/sen49/26662
+#EXTINF:-1,Salon 3 HD
+http://force102.com:8080/mahmut49/sen49/26663
+#EXTINF:-1,Salon 4 HD
+http://force102.com:8080/mahmut49/sen49/26664
+#EXTINF:-1,Salon 5 HD
+http://force102.com:8080/mahmut49/sen49/26665
+#EXTINF:-1,Salon 6 HD
+http://force102.com:8080/mahmut49/sen49/26666
+#EXTINF:-1,Salon 7 HD
+http://force102.com:8080/mahmut49/sen49/26667
+#EXTINF:-1,Salon 8 HD
+http://force102.com:8080/mahmut49/sen49/26668
+#EXTINF:-1,Salon 9 HD
+http://force102.com:8080/mahmut49/sen49/26669
+#EXTINF:-1,Salon 10 HD
+http://force102.com:8080/mahmut49/sen49/26670
+#EXTINF:-1,Vip Channel'de Neler Var ?
+http://force102.com:8080/mahmut49/sen49/26671
+#EXTINF:-1,Vip Channel
+http://force102.com:8080/mahmut49/sen49/5
+#EXTINF:-1,Vip Channel HD 2
+http://force102.com:8080/mahmut49/sen49/19
+#EXTINF:-1,Bein Movies Premiere Hd
+http://force102.com:8080/mahmut49/sen49/2058
+#EXTINF:-1,Bein Movies Premiere 2 Hd
+http://force102.com:8080/mahmut49/sen49/2057
+#EXTINF:-1,Bein Movies Action Hd
+http://force102.com:8080/mahmut49/sen49/2056
+#EXTINF:-1,Bein Movies Action 2 Hd
+http://force102.com:8080/mahmut49/sen49/6089
+#EXTINF:-1,Bein Movies Stars Hd
+http://force102.com:8080/mahmut49/sen49/6093
+#EXTINF:-1,Bein Movies Family Hd
+http://force102.com:8080/mahmut49/sen49/6090
+#EXTINF:-1,Bein Movies Turk Hd
+http://force102.com:8080/mahmut49/sen49/6094
+#EXTINF:-1,Bein Series Sci-fi Hd
+http://force102.com:8080/mahmut49/sen49/39
+#EXTINF:-1,Bein Series Comedy Hd
+http://force102.com:8080/mahmut49/sen49/2071
+#EXTINF:-1,Bein Series Drama Hd
+http://force102.com:8080/mahmut49/sen49/7556
+#EXTINF:-1,Bein Series Vice Hd
+http://force102.com:8080/mahmut49/sen49/7557
+#EXTINF:-1,beIN Gurme HD
+http://force102.com:8080/mahmut49/sen49/20129
+#EXTINF:-1,beIN H&E HD
+http://force102.com:8080/mahmut49/sen49/20130
+#EXTINF:-1,D-smart Moviesmart Classic
+http://force102.com:8080/mahmut49/sen49/63
+#EXTINF:-1,D-smart Dizi Premium Hd
+http://force102.com:8080/mahmut49/sen49/73
+#EXTINF:-1,D-smart Moviesmart Hd Action
+http://force102.com:8080/mahmut49/sen49/2395
+#EXTINF:-1,D-smart Moviesmart Turk Hd
+http://force102.com:8080/mahmut49/sen49/72
+#EXTINF:-1,D-smart Moviesmart Premium 2 Hd
+http://force102.com:8080/mahmut49/sen49/68
+#EXTINF:-1,D-smart Moviesmart Premium Hd
+http://force102.com:8080/mahmut49/sen49/1288
+#EXTINF:-1,D-smart Moviesmart Gold
+http://force102.com:8080/mahmut49/sen49/1706
+#EXTINF:-1,D-smart Moviesmart Family Hd
+http://force102.com:8080/mahmut49/sen49/1705
+#EXTINF:-1,D-smart Moviesmart Platin 2 Hd
+http://force102.com:8080/mahmut49/sen49/157
+#EXTINF:-1,D-smart Moviesmart Gold
+http://force102.com:8080/mahmut49/sen49/65
+#EXTINF:-1,D-smart Moviesmart Fest
+http://force102.com:8080/mahmut49/sen49/2399
+#EXTINF:-1,D-Smart FX
+http://force102.com:8080/mahmut49/sen49/2075
+#EXTINF:-1,D-smart Dizi Smart Max Hd
+http://force102.com:8080/mahmut49/sen49/1707
+#EXTINF:-1,Tivibu Sinema Akston 2 Hd
+http://force102.com:8080/mahmut49/sen49/2398
+#EXTINF:-1,Tivibu Sinema Aile HD
+http://force102.com:8080/mahmut49/sen49/1708
+#EXTINF:-1,Tivibu Sinema TV HD
+http://force102.com:8080/mahmut49/sen49/8580
+#EXTINF:-1,Tivibu Turk HD
+http://force102.com:8080/mahmut49/sen49/8581
+#EXTINF:-1,Tivibu Sinema Yerli HD
+http://force102.com:8080/mahmut49/sen49/19113
+#EXTINF:-1,Tivibu Sinema Tv 1001 Hd
+http://force102.com:8080/mahmut49/sen49/28859
+#EXTINF:-1,Tivibu Sinema Tv 1002 Hd
+http://force102.com:8080/mahmut49/sen49/28860
+#EXTINF:-1,Tivibu Sinema Tv Komedi 1 Hd
+http://force102.com:8080/mahmut49/sen49/28858
+#EXTINF:-1,Tivibu Adrenalin HD
+http://force102.com:8080/mahmut49/sen49/28867
+#EXTINF:-1,Tivibu Vizyon HD
+http://force102.com:8080/mahmut49/sen49/28868
+#EXTINF:-1,Moviemax Premier Hd
+http://force102.com:8080/mahmut49/sen49/6
+#EXTINF:-1,Moviemax Premier 2 HD
+http://force102.com:8080/mahmut49/sen49/19111
+#EXTINF:-1,Moviemax Turk Hd
+http://force102.com:8080/mahmut49/sen49/17569
+#EXTINF:-1,Bein Box Office 1 Hd
+http://force102.com:8080/mahmut49/sen49/7
+#EXTINF:-1,Bein Box Office 2 Hd
+http://force102.com:8080/mahmut49/sen49/8
+#EXTINF:-1,Bein Box Office 3 Hd
+http://force102.com:8080/mahmut49/sen49/9
+#EXTINF:-1,Cine + HD 1
+http://force102.com:8080/mahmut49/sen49/8131
+#EXTINF:-1,Cine + HD  2
+http://force102.com:8080/mahmut49/sen49/8132
+#EXTINF:-1,Cine + HD 3
+http://force102.com:8080/mahmut49/sen49/8133
+#EXTINF:-1,Cine + HD 4
+http://force102.com:8080/mahmut49/sen49/8134
+#EXTINF:-1,Cine + HD 5
+http://force102.com:8080/mahmut49/sen49/8135
+#EXTINF:-1,Cine + HD 6
+http://force102.com:8080/mahmut49/sen49/8136
+#EXTINF:-1,Cine + HD 7
+http://force102.com:8080/mahmut49/sen49/8137
+#EXTINF:-1,Cine + HD 8
+http://force102.com:8080/mahmut49/sen49/8138
+#EXTINF:-1,Cine + HD 9
+http://force102.com:8080/mahmut49/sen49/8139
+#EXTINF:-1,Cine + HD 10
+http://force102.com:8080/mahmut49/sen49/8140
+#EXTINF:-1,Loca 1 Hd
+http://force102.com:8080/mahmut49/sen49/16
+#EXTINF:-1,Loca 2 Hd
+http://force102.com:8080/mahmut49/sen49/148
+#EXTINF:-1,Loca 3 Hd
+http://force102.com:8080/mahmut49/sen49/218
+#EXTINF:-1,Cine + HD Turk 1
+http://force102.com:8080/mahmut49/sen49/8177
+#EXTINF:-1,Cine + HD Turk 2
+http://force102.com:8080/mahmut49/sen49/8176
+#EXTINF:-1,Cine + HD Turk 3
+http://force102.com:8080/mahmut49/sen49/8175
+#EXTINF:-1,Yesilcam 1 Hd
+http://force102.com:8080/mahmut49/sen49/14
+#EXTINF:-1,Yesilcam 2 Hd
+http://force102.com:8080/mahmut49/sen49/15
+#EXTINF:-1,Kemal Sunal Tv
+http://force102.com:8080/mahmut49/sen49/8203
+#EXTINF:-1,Kadir Inanir Tv
+http://force102.com:8080/mahmut49/sen49/8204
+#EXTINF:-1,MÃ¼nir Ã–zkul Tv
+http://force102.com:8080/mahmut49/sen49/23985
+#EXTINF:-1,Tarik Akan Tv
+http://force102.com:8080/mahmut49/sen49/23983
+#EXTINF:-1,Fox Crime HD
+http://force102.com:8080/mahmut49/sen49/10107
+#EXTINF:-1,Fox Life HD
+http://force102.com:8080/mahmut49/sen49/10108
+#EXTINF:-1,Film Tv Hd
+http://force102.com:8080/mahmut49/sen49/17
+#EXTINF:-1,-------------- | ULUSAL | --------------
+http://force102.com:8080/mahmut49/sen49/6509
+#EXTINF:-1,Trt1 Hd
+http://force102.com:8080/mahmut49/sen49/82
+#EXTINF:-1,Trt1 Sd
+http://force102.com:8080/mahmut49/sen49/31
+#EXTINF:-1,Trt 1 SD Yedek
+http://force102.com:8080/mahmut49/sen49/19098
+#EXTINF:-1,Trt 4k Tv
+http://force102.com:8080/mahmut49/sen49/7548
+#EXTINF:-1,Trt Okul
+http://force102.com:8080/mahmut49/sen49/2414
+#EXTINF:-1,Trt Kurdi
+http://force102.com:8080/mahmut49/sen49/2046
+#EXTINF:-1,Trt Avaz
+http://force102.com:8080/mahmut49/sen49/17211
+#EXTINF:-1,Trt Diyanet
+http://force102.com:8080/mahmut49/sen49/17212
+#EXTINF:-1,Trt Al Arabia
+http://force102.com:8080/mahmut49/sen49/17213
+#EXTINF:-1,Trt Turk
+http://force102.com:8080/mahmut49/sen49/17214
+#EXTINF:-1,Trt World
+http://force102.com:8080/mahmut49/sen49/17215
+#EXTINF:-1,Atv Hd
+http://force102.com:8080/mahmut49/sen49/1
+#EXTINF:-1,Show Tv Hd
+http://force102.com:8080/mahmut49/sen49/25
+#EXTINF:-1,Star Tv Hd
+http://force102.com:8080/mahmut49/sen49/28
+#EXTINF:-1,Kanal D Hd
+http://force102.com:8080/mahmut49/sen49/26
+#EXTINF:-1,Tv8 Hd
+http://force102.com:8080/mahmut49/sen49/57
+#EXTINF:-1,Fox Hd
+http://force102.com:8080/mahmut49/sen49/27
+#EXTINF:-1,atv
+http://force102.com:8080/mahmut49/sen49/95
+#EXTINF:-1,Show Tv
+http://force102.com:8080/mahmut49/sen49/97
+#EXTINF:-1,Star Tv
+http://force102.com:8080/mahmut49/sen49/98
+#EXTINF:-1,Kanal D
+http://force102.com:8080/mahmut49/sen49/96
+#EXTINF:-1,Fox Tv
+http://force102.com:8080/mahmut49/sen49/200
+#EXTINF:-1,Tv8
+http://force102.com:8080/mahmut49/sen49/93
+#EXTINF:-1,Atv SD Yedek
+http://force102.com:8080/mahmut49/sen49/19100
+#EXTINF:-1,Atv Euro
+http://force102.com:8080/mahmut49/sen49/7566
+#EXTINF:-1,A2
+http://force102.com:8080/mahmut49/sen49/2070
+#EXTINF:-1,Show Tv SD Yedek
+http://force102.com:8080/mahmut49/sen49/19101
+#EXTINF:-1,Show Tv Euro
+http://force102.com:8080/mahmut49/sen49/7564
+#EXTINF:-1,Star Tv SD Yedek
+http://force102.com:8080/mahmut49/sen49/19099
+#EXTINF:-1,Star Tv Euro
+http://force102.com:8080/mahmut49/sen49/7563
+#EXTINF:-1,Fox SD Yedek
+http://force102.com:8080/mahmut49/sen49/19103
+#EXTINF:-1,Kanal D SD Yedek
+http://force102.com:8080/mahmut49/sen49/19102
+#EXTINF:-1,Kanal D Euro
+http://force102.com:8080/mahmut49/sen49/7565
+#EXTINF:-1,TV 8 SD Yedek
+http://force102.com:8080/mahmut49/sen49/19104
+#EXTINF:-1,TV8.5
+http://force102.com:8080/mahmut49/sen49/2068
+#EXTINF:-1,TV 8.5 SD Yedek
+http://force102.com:8080/mahmut49/sen49/19105
+#EXTINF:-1,Beyaz Tv Hd
+http://force102.com:8080/mahmut49/sen49/35
+#EXTINF:-1,Kanal 7
+http://force102.com:8080/mahmut49/sen49/2357
+#EXTINF:-1,Sony Mutfak
+http://force102.com:8080/mahmut49/sen49/204
+#EXTINF:-1,Sony Channel
+http://force102.com:8080/mahmut49/sen49/19559
+#EXTINF:-1,Planet Turk
+http://force102.com:8080/mahmut49/sen49/1590
+#EXTINF:-1,Tlc Tv
+http://force102.com:8080/mahmut49/sen49/87
+#EXTINF:-1,Teve2
+http://force102.com:8080/mahmut49/sen49/83
+#EXTINF:-1,Flash TV
+http://force102.com:8080/mahmut49/sen49/52
+#EXTINF:-1,Kadirga Tv
+http://force102.com:8080/mahmut49/sen49/17198
+#EXTINF:-1,Lifeplus
+http://force102.com:8080/mahmut49/sen49/17202
+#EXTINF:-1,Lifetime
+http://force102.com:8080/mahmut49/sen49/17203
+#EXTINF:-1,Nr1 Ask
+http://force102.com:8080/mahmut49/sen49/17205
+#EXTINF:-1,Tv5monde
+http://force102.com:8080/mahmut49/sen49/17216
+#EXTINF:-1,Tvt
+http://force102.com:8080/mahmut49/sen49/17218
+#EXTINF:-1,Ulusal16
+http://force102.com:8080/mahmut49/sen49/17219
+#EXTINF:-1,Fashionone TV
+http://force102.com:8080/mahmut49/sen49/7545
+#EXTINF:-1,Fashionbox
+http://force102.com:8080/mahmut49/sen49/17196
+#EXTINF:-1,Cay Tv
+http://force102.com:8080/mahmut49/sen49/1489
+#EXTINF:-1,Cem Tv
+http://force102.com:8080/mahmut49/sen49/2361
+#EXTINF:-1,Kanal 32
+http://force102.com:8080/mahmut49/sen49/207
+#EXTINF:-1,Tay Tv
+http://force102.com:8080/mahmut49/sen49/137
+#EXTINF:-1,As Tv
+http://force102.com:8080/mahmut49/sen49/7090
+#EXTINF:-1,Bursa Tv
+http://force102.com:8080/mahmut49/sen49/7091
+#EXTINF:-1,Kent Tv
+http://force102.com:8080/mahmut49/sen49/7092
+#EXTINF:-1,Mercan Tv
+http://force102.com:8080/mahmut49/sen49/7087
+#EXTINF:-1,Ordu Altas Tv
+http://force102.com:8080/mahmut49/sen49/7086
+#EXTINF:-1,Tv 52
+http://force102.com:8080/mahmut49/sen49/7096
+#EXTINF:-1,Tv A
+http://force102.com:8080/mahmut49/sen49/7097
+#EXTINF:-1,Anadolu Dernek Tv
+http://force102.com:8080/mahmut49/sen49/10109
+#EXTINF:-1,Rumeli Tv
+http://force102.com:8080/mahmut49/sen49/7108
+#EXTINF:-1,Kon Tv
+http://force102.com:8080/mahmut49/sen49/7562
+#EXTINF:-1,Rt Arabic
+http://force102.com:8080/mahmut49/sen49/17207
+#EXTINF:-1,Rt Espanol
+http://force102.com:8080/mahmut49/sen49/17208
+#EXTINF:-1,Sky News Arabia
+http://force102.com:8080/mahmut49/sen49/17209
+#EXTINF:-1,Haber 61 TV
+http://force102.com:8080/mahmut49/sen49/19561
+#EXTINF:-1,EgetÃ¼rk Tv
+http://force102.com:8080/mahmut49/sen49/19638
+#EXTINF:-1,Haberaks
+http://force102.com:8080/mahmut49/sen49/19639
+#EXTINF:-1,Hilal Tv
+http://force102.com:8080/mahmut49/sen49/19640
+#EXTINF:-1,Kanal 16
+http://force102.com:8080/mahmut49/sen49/19641
+#EXTINF:-1,Kanal 43
+http://force102.com:8080/mahmut49/sen49/19642
+#EXTINF:-1,Kanal 56
+http://force102.com:8080/mahmut49/sen49/19645
+#EXTINF:-1,Kanal 58
+http://force102.com:8080/mahmut49/sen49/19644
+#EXTINF:-1,Olay Tv
+http://force102.com:8080/mahmut49/sen49/19646
+#EXTINF:-1,KANAL68 aksaray
+http://force102.com:8080/mahmut49/sen49/20397
+#EXTINF:-1,-------------- | MUZIK | --------------
+http://force102.com:8080/mahmut49/sen49/6514
+#EXTINF:-1,beIN Mezzo HD
+http://force102.com:8080/mahmut49/sen49/20394
+#EXTINF:-1,Trt MÃ¼zik
+http://force102.com:8080/mahmut49/sen49/50
+#EXTINF:-1,Power Turk Hd
+http://force102.com:8080/mahmut49/sen49/49
+#EXTINF:-1,Kral Tv
+http://force102.com:8080/mahmut49/sen49/48
+#EXTINF:-1,Number One
+http://force102.com:8080/mahmut49/sen49/1488
+#EXTINF:-1,Numberone Turk
+http://force102.com:8080/mahmut49/sen49/206
+#EXTINF:-1,Power Tv HD
+http://force102.com:8080/mahmut49/sen49/7094
+#EXTINF:-1,Viva Tv
+http://force102.com:8080/mahmut49/sen49/38
+#EXTINF:-1,Dreamturk
+http://force102.com:8080/mahmut49/sen49/17195
+#EXTINF:-1,N1 Damar
+http://force102.com:8080/mahmut49/sen49/17204
+#EXTINF:-1,-------------- | HABER | --------------
+http://force102.com:8080/mahmut49/sen49/6511
+#EXTINF:-1,Trt Haber Hd
+http://force102.com:8080/mahmut49/sen49/40
+#EXTINF:-1,A Haber Hd
+http://force102.com:8080/mahmut49/sen49/43
+#EXTINF:-1,Haber Turk
+http://force102.com:8080/mahmut49/sen49/34
+#EXTINF:-1,Cnn Turk
+http://force102.com:8080/mahmut49/sen49/32
+#EXTINF:-1,Ntv
+http://force102.com:8080/mahmut49/sen49/33
+#EXTINF:-1,Haber Global Hd
+http://force102.com:8080/mahmut49/sen49/27917
+#EXTINF:-1,360
+http://force102.com:8080/mahmut49/sen49/8205
+#EXTINF:-1,Bloomberg Ht
+http://force102.com:8080/mahmut49/sen49/1493
+#EXTINF:-1,Benguturk
+http://force102.com:8080/mahmut49/sen49/2360
+#EXTINF:-1,Haber 24 Tv
+http://force102.com:8080/mahmut49/sen49/7546
+#EXTINF:-1,Tvnet
+http://force102.com:8080/mahmut49/sen49/17217
+#EXTINF:-1,Tgrt Haber Tv
+http://force102.com:8080/mahmut49/sen49/7552
+#EXTINF:-1,Ulusal Tv
+http://force102.com:8080/mahmut49/sen49/7547
+#EXTINF:-1,Ulke Tv
+http://force102.com:8080/mahmut49/sen49/45
+#EXTINF:-1,Halk Tv
+http://force102.com:8080/mahmut49/sen49/41
+#EXTINF:-1,Uzay Haber
+http://force102.com:8080/mahmut49/sen49/6517
+#EXTINF:-1,Tele 1 HD
+http://force102.com:8080/mahmut49/sen49/19114
+#EXTINF:-1,On Tv Haber
+http://force102.com:8080/mahmut49/sen49/19601
+#EXTINF:-1,-------------- | CIZGI FILM | --------------
+http://force102.com:8080/mahmut49/sen49/6513
+#EXTINF:-1,Trt Cocuk
+http://force102.com:8080/mahmut49/sen49/2110
+#EXTINF:-1,Baby TV HD
+http://force102.com:8080/mahmut49/sen49/19115
+#EXTINF:-1,Minika Go
+http://force102.com:8080/mahmut49/sen49/44
+#EXTINF:-1,Minika Cocuk
+http://force102.com:8080/mahmut49/sen49/211
+#EXTINF:-1,Planet Cocuk Hd
+http://force102.com:8080/mahmut49/sen49/85
+#EXTINF:-1,Cartoon Network Hd
+http://force102.com:8080/mahmut49/sen49/7559
+#EXTINF:-1,D-smart Boomerang Cocuk
+http://force102.com:8080/mahmut49/sen49/2064
+#EXTINF:-1,D-smart Smart Cocuk
+http://force102.com:8080/mahmut49/sen49/2067
+#EXTINF:-1,Disney Channel
+http://force102.com:8080/mahmut49/sen49/2102
+#EXTINF:-1,Planet Ã‡ocuk
+http://force102.com:8080/mahmut49/sen49/2047
+#EXTINF:-1,Kidz Animez
+http://force102.com:8080/mahmut49/sen49/17201
+#EXTINF:-1,BabyFirst Tv
+http://force102.com:8080/mahmut49/sen49/19876
+#EXTINF:-1,Nickelodeon Hd
+http://force102.com:8080/mahmut49/sen49/19878
+#EXTINF:-1,Cine + HD Animasyon 1
+http://force102.com:8080/mahmut49/sen49/8173
+#EXTINF:-1,Cine + HD Animasyon 2
+http://force102.com:8080/mahmut49/sen49/8172
+#EXTINF:-1,Cine + HD Animasyon 3
+http://force102.com:8080/mahmut49/sen49/8171
+#EXTINF:-1,-------------- | BELGESEL | --------------
+http://force102.com:8080/mahmut49/sen49/6512
+#EXTINF:-1,D-smart Discovery Channel Hd
+http://force102.com:8080/mahmut49/sen49/184
+#EXTINF:-1,D-smart Animal Planet
+http://force102.com:8080/mahmut49/sen49/292
+#EXTINF:-1,D-smart Bbc Earth Hd
+http://force102.com:8080/mahmut49/sen49/1287
+#EXTINF:-1,D-smart National Geographic Wild Hd
+http://force102.com:8080/mahmut49/sen49/169
+#EXTINF:-1,D-smart History HD
+http://force102.com:8080/mahmut49/sen49/8578
+#EXTINF:-1,Tivibu History Channel HD
+http://force102.com:8080/mahmut49/sen49/8579
+#EXTINF:-1,Tivibu Dtx
+http://force102.com:8080/mahmut49/sen49/6096
+#EXTINF:-1,Bein Id Xtra Europe Hd
+http://force102.com:8080/mahmut49/sen49/17566
+#EXTINF:-1,D-Smart Viasat history Hd
+http://force102.com:8080/mahmut49/sen49/178
+#EXTINF:-1,Bein Iz Hd
+http://force102.com:8080/mahmut49/sen49/212
+#EXTINF:-1,Bein Nat Geo People Hd
+http://force102.com:8080/mahmut49/sen49/17220
+#EXTINF:-1,National Geographic Hd
+http://force102.com:8080/mahmut49/sen49/2073
+#EXTINF:-1,Trt Belgesel Hd
+http://force102.com:8080/mahmut49/sen49/147
+#EXTINF:-1,Makine Tv
+http://force102.com:8080/mahmut49/sen49/7107
+#EXTINF:-1,Ciftci Tv
+http://force102.com:8080/mahmut49/sen49/10110
+#EXTINF:-1,Yaban Tv
+http://force102.com:8080/mahmut49/sen49/90
+#EXTINF:-1,Dmax
+http://force102.com:8080/mahmut49/sen49/59
+#EXTINF:-1,24 Kitchen Hd
+http://force102.com:8080/mahmut49/sen49/19548
+#EXTINF:-1,Discovery Science HD
+http://force102.com:8080/mahmut49/sen49/19874
+#EXTINF:-1,Outdoor Channel
+http://force102.com:8080/mahmut49/sen49/19875
+#EXTINF:-1,-------------- | DINI KANALLAR | --------------
+http://force102.com:8080/mahmut49/sen49/7537
+#EXTINF:-1,Semerkand Hd
+http://force102.com:8080/mahmut49/sen49/175
+#EXTINF:-1,-------------- | ULTRA HD | --------------
+http://force102.com:8080/mahmut49/sen49/6515
+#EXTINF:-1,Ulthd | Trt1 Hd
+http://force102.com:8080/mahmut49/sen49/2503
+#EXTINF:-1,Ulthd | Trt World Hd
+http://force102.com:8080/mahmut49/sen49/2502
+#EXTINF:-1,Ulthd | Trt Spor Hd
+http://force102.com:8080/mahmut49/sen49/2501
+#EXTINF:-1,Ulthd | Kanal D Hd
+http://force102.com:8080/mahmut49/sen49/2486
+#EXTINF:-1,Ulthd | Star Tv Hd
+http://force102.com:8080/mahmut49/sen49/2499
+#EXTINF:-1,Ulthd | Show Tv Hd
+http://force102.com:8080/mahmut49/sen49/2498
+#EXTINF:-1,Ulthd | Atv Hd
+http://force102.com:8080/mahmut49/sen49/2466
+#EXTINF:-1,Ulthd | Fox Hd
+http://force102.com:8080/mahmut49/sen49/2480
+#EXTINF:-1,Ulthd | Tv8 Hd
+http://force102.com:8080/mahmut49/sen49/2504
+#EXTINF:-1,Ulthd | Teve2 Hd
+http://force102.com:8080/mahmut49/sen49/2500
+#EXTINF:-1,Ulthd | Beyaz Tv Hd
+http://force102.com:8080/mahmut49/sen49/2468
+#EXTINF:-1,Ulthd | Ulke Tv Hd
+http://force102.com:8080/mahmut49/sen49/2467
+#EXTINF:-1,Ulthd | Kanal 7 Hd
+http://force102.com:8080/mahmut49/sen49/2484
+#EXTINF:-1,Ulthd | A Spor Hd
+http://force102.com:8080/mahmut49/sen49/2465
+#EXTINF:-1,Ulthd | A Haber Hd
+http://force102.com:8080/mahmut49/sen49/2464
+#EXTINF:-1,Ulthd | Dmax Hd
+http://force102.com:8080/mahmut49/sen49/2492
+#EXTINF:-1,Ulthd | Ntv Hd
+http://force102.com:8080/mahmut49/sen49/2491
+#EXTINF:-1,Ulthd | Haberturk Hd
+http://force102.com:8080/mahmut49/sen49/2483
+#EXTINF:-1,Ulthd | Power Tv Hd
+http://force102.com:8080/mahmut49/sen49/2496
+#EXTINF:-1,Ulthd | Power Turk Hd
+http://force102.com:8080/mahmut49/sen49/2495
+#EXTINF:-1,Ulthd | Number1 Tv Hd
+http://force102.com:8080/mahmut49/sen49/2494
+#EXTINF:-1,Ulthd | Number1 Turk Hd
+http://force102.com:8080/mahmut49/sen49/2493
+#EXTINF:-1,Ulthd | Lifeplus
+http://force102.com:8080/mahmut49/sen49/2487
+#EXTINF:-1,Ulthd | Semerkand Hd
+http://force102.com:8080/mahmut49/sen49/2497
+#EXTINF:-1,Ulthd | Tvnet Hd
+http://force102.com:8080/mahmut49/sen49/2505
+#EXTINF:-1,Ulthd | Fashionbox Hd
+http://force102.com:8080/mahmut49/sen49/2474
+#EXTINF:-1,-----| Pazartesi Dizileri |-----
+http://force102.com:8080/mahmut49/sen49/20747
+#EXTINF:-1,Ã‡ukur 50 Bolum 28.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/20761.mp4
+#EXTINF:-1,SÃ¶z 67 Bolum 28.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/20759.mp4
+#EXTINF:-1,Yasak Elma 30 Bolum 28.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/20760.mp4
+#EXTINF:-1,Vuslat 04. BÃ¶lÃ¼m 21.01.201928.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/22860.mp4
+#EXTINF:-1,----------| Sali Dizileri |----------
+http://force102.com:8080/mahmut49/sen49/20748
+#EXTINF:-1,Eskiya DÃ¼nyaya HÃ¼kÃ¼mdar Olmaz 123 Bolum 29.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/20756.mp4
+#EXTINF:-1,Kadin 47 Bolum 29.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/20757.mp4
+#EXTINF:-1,Muhtesem Ikili 10 Bolum 22.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/21196.mp4
+#EXTINF:-1,Halka 03.Bolum 29.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/28855.mp4
+#EXTINF:-1,-----| Carsamba Dizileri |-----
+http://force102.com:8080/mahmut49/sen49/20749
+#EXTINF:-1,Dirilis: Ertugrul 132 Bolum 23.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/20762.mp4
+#EXTINF:-1,Sen Anlat Karadeniz 37 Bolum 23.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/20764.mp4
+#EXTINF:-1,Ã‡ocuklar Duymasin 65 Bolum 23.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/20765.mp4
+#EXTINF:-1,Jet Sosyete 27 Bolum 23.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/20763.mp4
+#EXTINF:-1,Sifir Bir â€“ Bir Zamanlar Adanaâ€™da 30. Bolum 23.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/28856.mp4
+#EXTINF:-1,-----| Persembe Dizileri |-----
+http://force102.com:8080/mahmut49/sen49/20750
+#EXTINF:-1,Avlu 27 Bolum 24.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/21197.mp4
+#EXTINF:-1,Ã‡arpisma 7 Bolum 24.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/21198.mp4
+#EXTINF:-1,Bir Zamanlar Ã‡ukurova 17 Bolum 24.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/21194.mp4
+#EXTINF:-1,Bizim Hikaye 54 Bolum 24.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/21195.mp4
+#EXTINF:-1,MehmetÃ§ik Kutlu Zafer 32 Bolum 24.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/20758.mp4
+#EXTINF:-1,-----| Cuma Dizileri |-----
+http://force102.com:8080/mahmut49/sen49/20751
+#EXTINF:-1,Arka Sokaklar 502. BÃ¶lÃ¼m 25.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/21576.mp4
+#EXTINF:-1,GÃ¼lperi 17. BÃ¶lÃ¼m 25.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/21577.mp4
+#EXTINF:-1,Istanbullu Gelin 69. BÃ¶lÃ¼m 25.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/21581.mp4
+#EXTINF:-1,Kizim  16. BÃ¶lÃ¼m 25.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/21578.mp4
+#EXTINF:-1,Payitaht AbdÃ¼lhamid 71. BÃ¶lÃ¼m 25.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/21579.mp4
+#EXTINF:-1,-----| Cumartesi Dizileri |-----
+http://force102.com:8080/mahmut49/sen49/20752
+#EXTINF:-1,Erkenci Kus 27. BÃ¶lÃ¼m 26.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/22110.mp4
+#EXTINF:-1,Ikizler Memo - Can 11. BÃ¶lÃ¼m 26.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/22111.mp4
+#EXTINF:-1,Kalk Gidelim 55. BÃ¶lÃ¼m 26.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/22112.mp4
+#EXTINF:-1,-----| Pazar Dizileri |-----
+http://force102.com:8080/mahmut49/sen49/20753
+#EXTINF:-1,Bir Litre GÃ¶zyasi 14. BÃ¶lÃ¼m 27.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/22861.mp4
+#EXTINF:-1,Elimi Birakma 26. BÃ¶lÃ¼m 27.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/22862.mp4
+#EXTINF:-1,SavasÃ§i 60. BÃ¶lÃ¼m 27.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/22863.mp4
+#EXTINF:-1,Kardes Ã‡ocuklari 01. BÃ¶lÃ¼m 27.01.2019
+http://force102.com:8080/movie/mahmut49/sen49/28869.mp4
+#EXTINF:-1,-------------- | RADYO | --------------
+http://force102.com:8080/mahmut49/sen49/6989
+#EXTINF:-1,Pal Doga
+http://force102.com:8080/mahmut49/sen49/6985
+#EXTINF:-1,Pal Fm
+http://force102.com:8080/mahmut49/sen49/6986
+#EXTINF:-1,Pal Nostalji
+http://force102.com:8080/mahmut49/sen49/6987
+#EXTINF:-1,Pal Orient
+http://force102.com:8080/mahmut49/sen49/6984
+#EXTINF:-1,Pal Station Hit
+http://force102.com:8080/mahmut49/sen49/6988
+#EXTINF:-1,A Haber Radyo
+http://force102.com:8080/mahmut49/sen49/7005
+#EXTINF:-1,Damar FM
+http://force102.com:8080/mahmut49/sen49/6999
+#EXTINF:-1,Joy FM
+http://force102.com:8080/mahmut49/sen49/7003
+#EXTINF:-1,Joy Turk
+http://force102.com:8080/mahmut49/sen49/6998
+#EXTINF:-1,Slow Turk
+http://force102.com:8080/mahmut49/sen49/7016
+#EXTINF:-1,Lig Radyo
+http://force102.com:8080/mahmut49/sen49/7008
+#EXTINF:-1,Metro FM
+http://force102.com:8080/mahmut49/sen49/7002
+#EXTINF:-1,Ntv Spor Radyo
+http://force102.com:8080/mahmut49/sen49/7006
+#EXTINF:-1,Power FM
+http://force102.com:8080/mahmut49/sen49/7000
+#EXTINF:-1,Power Turk
+http://force102.com:8080/mahmut49/sen49/6994
+#EXTINF:-1,Radyo Alaturka
+http://force102.com:8080/mahmut49/sen49/6997
+#EXTINF:-1,Radyo Mydonese
+http://force102.com:8080/mahmut49/sen49/7001
+#EXTINF:-1,Radyo Seymen
+http://force102.com:8080/mahmut49/sen49/6992
+#EXTINF:-1,Can Radyo
+http://force102.com:8080/mahmut49/sen49/7010
+#EXTINF:-1,Radyo Spor
+http://force102.com:8080/mahmut49/sen49/7007
+#EXTINF:-1,Radyo7 Turku
+http://force102.com:8080/mahmut49/sen49/7009
+#EXTINF:-1,Super FM
+http://force102.com:8080/mahmut49/sen49/6995
+#EXTINF:-1,Trt FM
+http://force102.com:8080/mahmut49/sen49/6996
+#EXTINF:-1,Virgin Radyo
+http://force102.com:8080/mahmut49/sen49/7004
+#EXTINF:-1,Karadeniz FM
+http://force102.com:8080/mahmut49/sen49/7014
+#EXTINF:-1,Radyo Fenomen
+http://force102.com:8080/mahmut49/sen49/7013
+#EXTINF:-1,Kral Fm
+http://force102.com:8080/mahmut49/sen49/7015
+#EXTINF:-1,-------------- | KIBRIS | --------------
+http://force102.com:8080/mahmut49/sen49/20123
+#EXTINF:-1,KB | Brt 1
+http://force102.com:8080/mahmut49/sen49/20128
+#EXTINF:-1,KB | Brt 2
+http://force102.com:8080/mahmut49/sen49/17193
+#EXTINF:-1,KB | Diyalog Tv
+http://force102.com:8080/mahmut49/sen49/20124
+#EXTINF:-1,KB | Genc Tv
+http://force102.com:8080/mahmut49/sen49/20125
+#EXTINF:-1,KB | Kibris Tv
+http://force102.com:8080/mahmut49/sen49/20126
+#EXTINF:-1,KB | Sim Tv
+http://force102.com:8080/mahmut49/sen49/20127
+#EXTINF:-1,KB | Kanal T
+http://force102.com:8080/mahmut49/sen49/17199
+#EXTINF:-1,KB | Ada Tv
+http://force102.com:8080/mahmut49/sen49/17200
+#EXTINF:-1,----------| AZERBAYCAN |----------
+http://force102.com:8080/mahmut49/sen49/17158
+#EXTINF:-1,Az | Azad Azerbaycan
+http://force102.com:8080/mahmut49/sen49/17157
+#EXTINF:-1,Az | Aztv Azerbaijan
+http://force102.com:8080/mahmut49/sen49/17156
+#EXTINF:-1,Az | Cbc Azerbaycan
+http://force102.com:8080/mahmut49/sen49/17155
+#EXTINF:-1,Az | Cbc Sport Hd
+http://force102.com:8080/mahmut49/sen49/17154
+#EXTINF:-1,Az | Dalga Tv
+http://force102.com:8080/mahmut49/sen49/17153
+#EXTINF:-1,Az | Dunya Tv
+http://force102.com:8080/mahmut49/sen49/17152
+#EXTINF:-1,Az | Ictimai Tv
+http://force102.com:8080/mahmut49/sen49/17151
+#EXTINF:-1,Az | Idman Azerbaycan
+http://force102.com:8080/mahmut49/sen49/17150
+#EXTINF:-1,Az | Interaz
+http://force102.com:8080/mahmut49/sen49/17149
+#EXTINF:-1,Az | Lider Tv Azerbaijan
+http://force102.com:8080/mahmut49/sen49/17148
+#EXTINF:-1,Az | Medeniyet Tv
+http://force102.com:8080/mahmut49/sen49/17147
+#EXTINF:-1,Az | Space Tv
+http://force102.com:8080/mahmut49/sen49/17146
+#EXTINF:-1,Az | Xezer Tv
+http://force102.com:8080/mahmut49/sen49/17145
+#EXTINF:-1,-------------- | GERMANY | --------------
+http://force102.com:8080/mahmut49/sen49/324
+#EXTINF:-1,Sat HD 1
+http://force102.com:8080/mahmut49/sen49/1554
+#EXTINF:-1,Sat 1 Gold
+http://force102.com:8080/mahmut49/sen49/2093
+#EXTINF:-1,Rtl Television
+http://force102.com:8080/mahmut49/sen49/2096
+#EXTINF:-1,Rtl Plus
+http://force102.com:8080/mahmut49/sen49/2095
+#EXTINF:-1,Rtl Hd
+http://force102.com:8080/mahmut49/sen49/1530
+#EXTINF:-1,Rtl Hd 2
+http://force102.com:8080/mahmut49/sen49/1580
+#EXTINF:-1,RTL Nitro
+http://force102.com:8080/mahmut49/sen49/1568
+#EXTINF:-1,RTL Living
+http://force102.com:8080/mahmut49/sen49/1552
+#EXTINF:-1,Rtl Crime Hd
+http://force102.com:8080/mahmut49/sen49/1551
+#EXTINF:-1,Rtl Passion
+http://force102.com:8080/mahmut49/sen49/1848
+#EXTINF:-1,Rtl Ii Hd
+http://force102.com:8080/mahmut49/sen49/1847
+#EXTINF:-1,Super RTL
+http://force102.com:8080/mahmut49/sen49/1553
+#EXTINF:-1,Zdf Hd
+http://force102.com:8080/mahmut49/sen49/227
+#EXTINF:-1,Zdf Neo
+http://force102.com:8080/mahmut49/sen49/2089
+#EXTINF:-1,Zdf Info
+http://force102.com:8080/mahmut49/sen49/2090
+#EXTINF:-1,Ndr Hd
+http://force102.com:8080/mahmut49/sen49/1548
+#EXTINF:-1,Arte / Ard
+http://force102.com:8080/mahmut49/sen49/2088
+#EXTINF:-1,Wdr
+http://force102.com:8080/mahmut49/sen49/1505
+#EXTINF:-1,Wdr Hd
+http://force102.com:8080/mahmut49/sen49/2402
+#EXTINF:-1,Mdr Hd
+http://force102.com:8080/mahmut49/sen49/17567
+#EXTINF:-1,Pro 7 Hd
+http://force102.com:8080/mahmut49/sen49/1536
+#EXTINF:-1,Pro7 Maxx
+http://force102.com:8080/mahmut49/sen49/1550
+#EXTINF:-1,ProSieben
+http://force102.com:8080/mahmut49/sen49/2097
+#EXTINF:-1,Fox Hd
+http://force102.com:8080/mahmut49/sen49/205
+#EXTINF:-1,Fox Serie
+http://force102.com:8080/mahmut49/sen49/2076
+#EXTINF:-1,Orf Hd 1
+http://force102.com:8080/mahmut49/sen49/1322
+#EXTINF:-1,Orf 2
+http://force102.com:8080/mahmut49/sen49/286
+#EXTINF:-1,Vox
+http://force102.com:8080/mahmut49/sen49/239
+#EXTINF:-1,Vox Hd
+http://force102.com:8080/mahmut49/sen49/1572
+#EXTINF:-1,Ard HD
+http://force102.com:8080/mahmut49/sen49/1577
+#EXTINF:-1,Syfy HD
+http://force102.com:8080/mahmut49/sen49/1583
+#EXTINF:-1,Axn Hd
+http://force102.com:8080/mahmut49/sen49/1547
+#EXTINF:-1,N-tv
+http://force102.com:8080/mahmut49/sen49/19623
+#EXTINF:-1,Phoenix
+http://force102.com:8080/mahmut49/sen49/19622
+#EXTINF:-1,N24
+http://force102.com:8080/mahmut49/sen49/2098
+#EXTINF:-1,Kabel 1 clasik
+http://force102.com:8080/mahmut49/sen49/9101
+#EXTINF:-1,Kabel 1 doku
+http://force102.com:8080/mahmut49/sen49/9100
+#EXTINF:-1,Kabel 1 hd
+http://force102.com:8080/mahmut49/sen49/9099
+#EXTINF:-1,Servus TV
+http://force102.com:8080/mahmut49/sen49/7098
+#EXTINF:-1,Romance Tv
+http://force102.com:8080/mahmut49/sen49/288
+#EXTINF:-1,TLC
+http://force102.com:8080/mahmut49/sen49/1555
+#EXTINF:-1,3 Sat Hd
+http://force102.com:8080/mahmut49/sen49/7533
+#EXTINF:-1,13th Street HD
+http://force102.com:8080/mahmut49/sen49/1569
+#EXTINF:-1,Sixx
+http://force102.com:8080/mahmut49/sen49/1571
+#EXTINF:-1,N24.
+http://force102.com:8080/mahmut49/sen49/1845
+#EXTINF:-1,Sky Cinema HD
+http://force102.com:8080/mahmut49/sen49/1844
+#EXTINF:-1,Sky Cinema+24
+http://force102.com:8080/mahmut49/sen49/1309
+#EXTINF:-1,Sky Atlantic Hd
+http://force102.com:8080/mahmut49/sen49/1557
+#EXTINF:-1,Sky Krimi
+http://force102.com:8080/mahmut49/sen49/1566
+#EXTINF:-1,Sky Cinema+1
+http://force102.com:8080/mahmut49/sen49/1563
+#EXTINF:-1,Sky Cinema HD.
+http://force102.com:8080/mahmut49/sen49/1559
+#EXTINF:-1,Sky Cinema Comedy
+http://force102.com:8080/mahmut49/sen49/1560
+#EXTINF:-1,Sky Nostalgie
+http://force102.com:8080/mahmut49/sen49/289
+#EXTINF:-1,Sky Hits
+http://force102.com:8080/mahmut49/sen49/1565
+#EXTINF:-1,Sky Cinema Action HD.
+http://force102.com:8080/mahmut49/sen49/1558
+#EXTINF:-1,Sky Emotion
+http://force102.com:8080/mahmut49/sen49/1513
+#EXTINF:-1,Tnt Serie Hd
+http://force102.com:8080/mahmut49/sen49/1846
+#EXTINF:-1,TNT Serie HD.
+http://force102.com:8080/mahmut49/sen49/1842
+#EXTINF:-1,Tnt Film Hd
+http://force102.com:8080/mahmut49/sen49/1843
+#EXTINF:-1,Sky Action HD
+http://force102.com:8080/mahmut49/sen49/1579
+#EXTINF:-1,Sky Select Hd 1
+http://force102.com:8080/mahmut49/sen49/155
+#EXTINF:-1,Sky Select Hd 2
+http://force102.com:8080/mahmut49/sen49/287
+#EXTINF:-1,Sky Select Hd 3
+http://force102.com:8080/mahmut49/sen49/154
+#EXTINF:-1,Sky Select Hd 4
+http://force102.com:8080/mahmut49/sen49/226
+#EXTINF:-1,Sky Select HD 5
+http://force102.com:8080/mahmut49/sen49/1701
+#EXTINF:-1,Sky Select HD 6
+http://force102.com:8080/mahmut49/sen49/1702
+#EXTINF:-1,Sky Select HD 7
+http://force102.com:8080/mahmut49/sen49/1703
+#EXTINF:-1,Sky Select HD 8
+http://force102.com:8080/mahmut49/sen49/1704
+#EXTINF:-1,Disney Cinemagic HD
+http://force102.com:8080/mahmut49/sen49/2087
+#EXTINF:-1,Kika
+http://force102.com:8080/mahmut49/sen49/1546
+#EXTINF:-1,Disney Junior
+http://force102.com:8080/mahmut49/sen49/1576
+#EXTINF:-1,Disney Channel.
+http://force102.com:8080/mahmut49/sen49/189
+#EXTINF:-1,Nick Jr
+http://force102.com:8080/mahmut49/sen49/1573
+#EXTINF:-1,Disney XD
+http://force102.com:8080/mahmut49/sen49/1575
+#EXTINF:-1,Heimat Kanal
+http://force102.com:8080/mahmut49/sen49/1849
+#EXTINF:-1,D Max
+http://force102.com:8080/mahmut49/sen49/284
+#EXTINF:-1,Discovery Channel Hd
+http://force102.com:8080/mahmut49/sen49/2365
+#EXTINF:-1,Sky Natgeo Wild Hd
+http://force102.com:8080/mahmut49/sen49/1851
+#EXTINF:-1,National Geographic
+http://force102.com:8080/mahmut49/sen49/1578
+#EXTINF:-1,History Channel Hd
+http://force102.com:8080/mahmut49/sen49/1582
+#EXTINF:-1,Animal Planet Hd
+http://force102.com:8080/mahmut49/sen49/7534
+#EXTINF:-1,Discovery Channel
+http://force102.com:8080/mahmut49/sen49/7535
+#EXTINF:-1,Srf 1
+http://force102.com:8080/mahmut49/sen49/188
+#EXTINF:-1,Sky Sport Austria Hd
+http://force102.com:8080/mahmut49/sen49/186
+#EXTINF:-1,Sky Sport News Hd
+http://force102.com:8080/mahmut49/sen49/101
+#EXTINF:-1,Sport1 Us Hd
+http://force102.com:8080/mahmut49/sen49/149
+#EXTINF:-1,Sport1+ Hd
+http://force102.com:8080/mahmut49/sen49/150
+#EXTINF:-1,Sky Sport 1 Hd
+http://force102.com:8080/mahmut49/sen49/152
+#EXTINF:-1,Sky Sport Hd 1
+http://force102.com:8080/mahmut49/sen49/185
+#EXTINF:-1,Sky Sport Hd 2
+http://force102.com:8080/mahmut49/sen49/1345
+#EXTINF:-1,Sky Sport Hd 3
+http://force102.com:8080/mahmut49/sen49/19615
+#EXTINF:-1,Sky Sport Hd 4
+http://force102.com:8080/mahmut49/sen49/19614
+#EXTINF:-1,Sky Sport Hd 5
+http://force102.com:8080/mahmut49/sen49/19613
+#EXTINF:-1,Sky Sport Hd 6
+http://force102.com:8080/mahmut49/sen49/19612
+#EXTINF:-1,Sky Sport Hd 7
+http://force102.com:8080/mahmut49/sen49/19611
+#EXTINF:-1,Sky Sport Hd 8
+http://force102.com:8080/mahmut49/sen49/19610
+#EXTINF:-1,Sky Sport Hd 9
+http://force102.com:8080/mahmut49/sen49/19609
+#EXTINF:-1,Sky Sport Hd 10
+http://force102.com:8080/mahmut49/sen49/19616
+#EXTINF:-1,Sky Bundesliga 1
+http://force102.com:8080/mahmut49/sen49/102
+#EXTINF:-1,Sky Bundesliga HD 1
+http://force102.com:8080/mahmut49/sen49/2077
+#EXTINF:-1,Sky Bundesliga HD 2
+http://force102.com:8080/mahmut49/sen49/2078
+#EXTINF:-1,Sky Bundesliga 2 Hd
+http://force102.com:8080/mahmut49/sen49/11418
+#EXTINF:-1,Sky Bundesliga 3 Hd !!! Weekend Only !!!
+http://force102.com:8080/mahmut49/sen49/11419
+#EXTINF:-1,Sky Bundesliga 4 Hd !!! Weekend Only !!!
+http://force102.com:8080/mahmut49/sen49/11420
+#EXTINF:-1,Sky Bundesliga 5 Hd !!! Weekend Only !!!
+http://force102.com:8080/mahmut49/sen49/11421
+#EXTINF:-1,Sky Bundesliga 6 Hd !!! Weekend Only !!!
+http://force102.com:8080/mahmut49/sen49/19620
+#EXTINF:-1,Sky Bundesliga 7 Hd !!! Weekend Only !!!
+http://force102.com:8080/mahmut49/sen49/19619
+#EXTINF:-1,Sky Bundesliga 8 Hd !!! Weekend Only !!!
+http://force102.com:8080/mahmut49/sen49/19618
+#EXTINF:-1,Sky Bundesliga 9 Hd !!! Weekend Only !!!
+http://force102.com:8080/mahmut49/sen49/19617
+#EXTINF:-1,Sky Bundesliga 10 Hd !!! Weekend Only !!!
+http://force102.com:8080/mahmut49/sen49/19621
+#EXTINF:-1,Eurosport 1 Hd
+http://force102.com:8080/mahmut49/sen49/100
+#EXTINF:-1,Eurosport 2 Hd
+http://force102.com:8080/mahmut49/sen49/1326
+#EXTINF:-1,Eurosport 2 Xtra
+http://force102.com:8080/mahmut49/sen49/7536
+#EXTINF:-1,DAZN 1 HD
+http://force102.com:8080/mahmut49/sen49/19562
+#EXTINF:-1,DAZN 2 HD
+http://force102.com:8080/mahmut49/sen49/19563
+#EXTINF:-1,-------------- | FRANCE | --------------
+http://force102.com:8080/mahmut49/sen49/11413
+#EXTINF:-1,Fr | Tf1 Hd
+http://force102.com:8080/mahmut49/sen49/11410
+#EXTINF:-1,Fr | France O Hd
+http://force102.com:8080/mahmut49/sen49/11404
+#EXTINF:-1,Fr | France 2 Hd
+http://force102.com:8080/mahmut49/sen49/11403
+#EXTINF:-1,Fr | France 24
+http://force102.com:8080/mahmut49/sen49/11362
+#EXTINF:-1,Fr | France 3 Hd
+http://force102.com:8080/mahmut49/sen49/11402
+#EXTINF:-1,Fr | France 4 Hd
+http://force102.com:8080/mahmut49/sen49/11401
+#EXTINF:-1,Fr | France 5
+http://force102.com:8080/mahmut49/sen49/11400
+#EXTINF:-1,Fr | M6 Hd
+http://force102.com:8080/mahmut49/sen49/11406
+#EXTINF:-1,Fr | M6 Music
+http://force102.com:8080/mahmut49/sen49/11365
+#EXTINF:-1,Fr | Rtl9
+http://force102.com:8080/mahmut49/sen49/11385
+#EXTINF:-1,Fr | Syfy Hd
+http://force102.com:8080/mahmut49/sen49/11372
+#EXTINF:-1,Fr | Teva Hd
+http://force102.com:8080/mahmut49/sen49/11379
+#EXTINF:-1,Fr | Tmc
+http://force102.com:8080/mahmut49/sen49/11397
+#EXTINF:-1,Fr | Tv Breitz
+http://force102.com:8080/mahmut49/sen49/11374
+#EXTINF:-1,Fr | W9
+http://force102.com:8080/mahmut49/sen49/11375
+#EXTINF:-1,Fr | C8
+http://force102.com:8080/mahmut49/sen49/11360
+#EXTINF:-1,Fr | 13 Eme Rue
+http://force102.com:8080/mahmut49/sen49/11348
+#EXTINF:-1,Fr | 6ter Hd
+http://force102.com:8080/mahmut49/sen49/11349
+#EXTINF:-1,Fr | Ab1 Hd
+http://force102.com:8080/mahmut49/sen49/11378
+#EXTINF:-1,Fr | Ab3
+http://force102.com:8080/mahmut49/sen49/11351
+#EXTINF:-1,Fr | Ab Moteurs Hd
+http://force102.com:8080/mahmut49/sen49/11350
+#EXTINF:-1,Fr | Arte Hd
+http://force102.com:8080/mahmut49/sen49/11384
+#EXTINF:-1,Fr | I Tele
+http://force102.com:8080/mahmut49/sen49/11364
+#EXTINF:-1,Fr | L'equipe 21
+http://force102.com:8080/mahmut49/sen49/11377
+#EXTINF:-1,Fr | Mangas
+http://force102.com:8080/mahmut49/sen49/11366
+#EXTINF:-1,Fr | Nrj 12 Hd
+http://force102.com:8080/mahmut49/sen49/11391
+#EXTINF:-1,Fr | Nt 1
+http://force102.com:8080/mahmut49/sen49/11389
+#EXTINF:-1,Fr | Piwi
+http://force102.com:8080/mahmut49/sen49/11368
+#EXTINF:-1,Fr | Chasse Et Peche
+http://force102.com:8080/mahmut49/sen49/11359
+#EXTINF:-1,Fr | Cherie 25 Hd
+http://force102.com:8080/mahmut49/sen49/11383
+#EXTINF:-1,Fr | Comedie Hd
+http://force102.com:8080/mahmut49/sen49/11345
+#EXTINF:-1,Fr | Discovery Science Hd
+http://force102.com:8080/mahmut49/sen49/11388
+#EXTINF:-1,Fr | Disney Channel
+http://force102.com:8080/mahmut49/sen49/11361
+#EXTINF:-1,Fr | Cartoon Network
+http://force102.com:8080/mahmut49/sen49/11380
+#EXTINF:-1,Fr | Disney Xd
+http://force102.com:8080/mahmut49/sen49/11387
+#EXTINF:-1,Fr | Foot 24 Hd
+http://force102.com:8080/mahmut49/sen49/11390
+#EXTINF:-1,Fr | Gulli Hd
+http://force102.com:8080/mahmut49/sen49/11363
+#EXTINF:-1,Fr | Nat Geo Wild
+http://force102.com:8080/mahmut49/sen49/11367
+#EXTINF:-1,Fr | Ocs Choc Hd
+http://force102.com:8080/mahmut49/sen49/11382
+#EXTINF:-1,Fr | Planete Ci Hd
+http://force102.com:8080/mahmut49/sen49/11369
+#EXTINF:-1,Fr | Planete Hd
+http://force102.com:8080/mahmut49/sen49/11370
+#EXTINF:-1,Fr | Rmc Decouverte
+http://force102.com:8080/mahmut49/sen49/11371
+#EXTINF:-1,Fr | Teletoon Hd
+http://force102.com:8080/mahmut49/sen49/11373
+#EXTINF:-1,Fr | Cine Family Hd
+http://force102.com:8080/mahmut49/sen49/11392
+#EXTINF:-1,Fr | Cine Frisson Hd
+http://force102.com:8080/mahmut49/sen49/11396
+#EXTINF:-1,Fr | Cine Premier Hd
+http://force102.com:8080/mahmut49/sen49/11386
+#EXTINF:-1,Fr | Cine Classic
+http://force102.com:8080/mahmut49/sen49/11412
+#EXTINF:-1,Fr | Cine Polar
+http://force102.com:8080/mahmut49/sen49/11411
+#EXTINF:-1,Fr | Canal Hd
+http://force102.com:8080/mahmut49/sen49/11353
+#EXTINF:-1,Fr | Canal J Hd
+http://force102.com:8080/mahmut49/sen49/11405
+#EXTINF:-1,Fr | Canal Series Hd
+http://force102.com:8080/mahmut49/sen49/11346
+#EXTINF:-1,Fr | Canal Cinema Hd
+http://force102.com:8080/mahmut49/sen49/11347
+#EXTINF:-1,Fr | Canal Decale Hd
+http://force102.com:8080/mahmut49/sen49/11352
+#EXTINF:-1,Fr | Canal Play 1
+http://force102.com:8080/mahmut49/sen49/11354
+#EXTINF:-1,Fr | Canal Play 2
+http://force102.com:8080/mahmut49/sen49/11355
+#EXTINF:-1,Fr | Canal Play 3
+http://force102.com:8080/mahmut49/sen49/11356
+#EXTINF:-1,Fr | Canal Play 4
+http://force102.com:8080/mahmut49/sen49/11357
+#EXTINF:-1,Fr | A La Carte 1
+http://force102.com:8080/mahmut49/sen49/11399
+#EXTINF:-1,Fr | A La Carte 2
+http://force102.com:8080/mahmut49/sen49/11398
+#EXTINF:-1,Fr | A La Carte 3
+http://force102.com:8080/mahmut49/sen49/11395
+#EXTINF:-1,Fr | A La Carte 4
+http://force102.com:8080/mahmut49/sen49/11394
+#EXTINF:-1,Fr | A La Carte 5
+http://force102.com:8080/mahmut49/sen49/11393
+#EXTINF:-1,Fr | A La Carte 6
+http://force102.com:8080/mahmut49/sen49/11376
+#EXTINF:-1,Fr | A La Carte 7
+http://force102.com:8080/mahmut49/sen49/11408
+#EXTINF:-1,Fr | A La Carte 8
+http://force102.com:8080/mahmut49/sen49/11381
+#EXTINF:-1,Fr | A La Carte 9
+http://force102.com:8080/mahmut49/sen49/11409
+#EXTINF:-1,Fr | Canal Sport Hd
+http://force102.com:8080/mahmut49/sen49/11358
+#EXTINF:-1,Fr | Infosport
+http://force102.com:8080/mahmut49/sen49/11407
+#EXTINF:-1,Fr | Eurosport 1
+http://force102.com:8080/mahmut49/sen49/10903
+#EXTINF:-1,Fr | Eurosport 2
+http://force102.com:8080/mahmut49/sen49/10902
+#EXTINF:-1,Fr | Sfr Sport 1 Hd
+http://force102.com:8080/mahmut49/sen49/11344
+#EXTINF:-1,Fr | Sfr Sport 2 Hd
+http://force102.com:8080/mahmut49/sen49/11343
+#EXTINF:-1,Fr | Sfr Sport 3 Hd
+http://force102.com:8080/mahmut49/sen49/11342
+#EXTINF:-1,Fr | Bein Sport 1 Fr
+http://force102.com:8080/mahmut49/sen49/10906
+#EXTINF:-1,Fr | Bein Sport 2 Fr
+http://force102.com:8080/mahmut49/sen49/10905
+#EXTINF:-1,Fr | Bein Sport 3 Fr
+http://force102.com:8080/mahmut49/sen49/10904
+#EXTINF:-1,Fr | Beinsport 4 Max
+http://force102.com:8080/mahmut49/sen49/11341
+#EXTINF:-1,Fr | Beinsport 5 Max
+http://force102.com:8080/mahmut49/sen49/11340
+#EXTINF:-1,Fr | Beinsport 6 Max
+http://force102.com:8080/mahmut49/sen49/11339
+#EXTINF:-1,Fr | Beinsport 7 Max
+http://force102.com:8080/mahmut49/sen49/11338
+#EXTINF:-1,-------------- | ITALIAN | --------------
+http://force102.com:8080/mahmut49/sen49/11208
+#EXTINF:-1,It | Alice
+http://force102.com:8080/mahmut49/sen49/11198
+#EXTINF:-1,It | Animalplanet
+http://force102.com:8080/mahmut49/sen49/11175
+#EXTINF:-1,It | Canale 5
+http://force102.com:8080/mahmut49/sen49/11135
+#EXTINF:-1,It | Cartoonito
+http://force102.com:8080/mahmut49/sen49/11162
+#EXTINF:-1,It | Cielo
+http://force102.com:8080/mahmut49/sen49/11197
+#EXTINF:-1,It | Discovery Channel Hd
+http://force102.com:8080/mahmut49/sen49/11136
+#EXTINF:-1,It | Discoverysci Hd
+http://force102.com:8080/mahmut49/sen49/11174
+#EXTINF:-1,It | Fox Comedy Hd
+http://force102.com:8080/mahmut49/sen49/11192
+#EXTINF:-1,It | Fox Crime Hd
+http://force102.com:8080/mahmut49/sen49/11137
+#EXTINF:-1,It | Fox Sport Hd
+http://force102.com:8080/mahmut49/sen49/11167
+#EXTINF:-1,It | Fox.
+http://force102.com:8080/mahmut49/sen49/11191
+#EXTINF:-1,It | History
+http://force102.com:8080/mahmut49/sen49/11138
+#EXTINF:-1,It | Italia1
+http://force102.com:8080/mahmut49/sen49/11200
+#EXTINF:-1,It | La7
+http://force102.com:8080/mahmut49/sen49/11139
+#EXTINF:-1,It | Mediasat Extra
+http://force102.com:8080/mahmut49/sen49/11181
+#EXTINF:-1,It | Mediaset Iris
+http://force102.com:8080/mahmut49/sen49/11140
+#EXTINF:-1,It | Mediaset Top Crime
+http://force102.com:8080/mahmut49/sen49/11141
+#EXTINF:-1,It | Nat Geo Wild
+http://force102.com:8080/mahmut49/sen49/11176
+#EXTINF:-1,It | National Geo Hd
+http://force102.com:8080/mahmut49/sen49/11142
+#EXTINF:-1,It | Premium Action
+http://force102.com:8080/mahmut49/sen49/11189
+#EXTINF:-1,It | Premium Calcio 1 Hd
+http://force102.com:8080/mahmut49/sen49/11173
+#EXTINF:-1,It | Premium Calcio 2 Hd
+http://force102.com:8080/mahmut49/sen49/11163
+#EXTINF:-1,It | Premium Cinema 24
+http://force102.com:8080/mahmut49/sen49/11187
+#EXTINF:-1,It | Premium Cinema Hd
+http://force102.com:8080/mahmut49/sen49/11193
+#EXTINF:-1,It | Premium Cinema2 Hd
+http://force102.com:8080/mahmut49/sen49/11188
+#EXTINF:-1,It | Premium Crime Hd
+http://force102.com:8080/mahmut49/sen49/11186
+#EXTINF:-1,It | Premium Emotion
+http://force102.com:8080/mahmut49/sen49/11178
+#EXTINF:-1,It | Premium Studio Universal
+http://force102.com:8080/mahmut49/sen49/11177
+#EXTINF:-1,It | Premium Crime24
+http://force102.com:8080/mahmut49/sen49/11179
+#EXTINF:-1,It | Premium Disney Junior
+http://force102.com:8080/mahmut49/sen49/11165
+#EXTINF:-1,It | Premium Energy
+http://force102.com:8080/mahmut49/sen49/11185
+#EXTINF:-1,It | Premiumeurosport1
+http://force102.com:8080/mahmut49/sen49/11144
+#EXTINF:-1,It | Premiumeurosport2
+http://force102.com:8080/mahmut49/sen49/11143
+#EXTINF:-1,It | Premium Sport
+http://force102.com:8080/mahmut49/sen49/11166
+#EXTINF:-1,It | Rai 2
+http://force102.com:8080/mahmut49/sen49/11206
+#EXTINF:-1,It | Rai 3
+http://force102.com:8080/mahmut49/sen49/11205
+#EXTINF:-1,It | Rai 4
+http://force102.com:8080/mahmut49/sen49/11204
+#EXTINF:-1,It | Rai 5
+http://force102.com:8080/mahmut49/sen49/11203
+#EXTINF:-1,It | Rai Gulp
+http://force102.com:8080/mahmut49/sen49/11202
+#EXTINF:-1,It | Rai Movie
+http://force102.com:8080/mahmut49/sen49/11194
+#EXTINF:-1,It | Rai Premium
+http://force102.com:8080/mahmut49/sen49/11207
+#EXTINF:-1,It | Rai Sport
+http://force102.com:8080/mahmut49/sen49/11199
+#EXTINF:-1,It | Rai Yoyo
+http://force102.com:8080/mahmut49/sen49/11201
+#EXTINF:-1,It | Rai1
+http://force102.com:8080/mahmut49/sen49/11183
+#EXTINF:-1,It | Rete 4 Hd
+http://force102.com:8080/mahmut49/sen49/11180
+#EXTINF:-1,It | Sky Calcio 1
+http://force102.com:8080/mahmut49/sen49/11150
+#EXTINF:-1,It | Sky Calcio 5
+http://force102.com:8080/mahmut49/sen49/11146
+#EXTINF:-1,It | Sky Cinema 1hd
+http://force102.com:8080/mahmut49/sen49/11182
+#EXTINF:-1,It | Sky Cinema Family Hd
+http://force102.com:8080/mahmut49/sen49/11196
+#EXTINF:-1,It | Sky Cinema Hits
+http://force102.com:8080/mahmut49/sen49/11184
+#EXTINF:-1,It | Sky Cinema Max
+http://force102.com:8080/mahmut49/sen49/11190
+#EXTINF:-1,It | Sky Sport 1 Hd
+http://force102.com:8080/mahmut49/sen49/11172
+#EXTINF:-1,It | Sky Sport 2 Hd
+http://force102.com:8080/mahmut49/sen49/11171
+#EXTINF:-1,It | Sky Sport 3 Hd
+http://force102.com:8080/mahmut49/sen49/11170
+#EXTINF:-1,It | Sky Sport F1 Hd
+http://force102.com:8080/mahmut49/sen49/11169
+#EXTINF:-1,It | Sky Uno
+http://force102.com:8080/mahmut49/sen49/11195
+#EXTINF:-1,It | Skycalcio2
+http://force102.com:8080/mahmut49/sen49/11149
+#EXTINF:-1,It | Skycalcio3
+http://force102.com:8080/mahmut49/sen49/11148
+#EXTINF:-1,It | Skycalcio4
+http://force102.com:8080/mahmut49/sen49/11147
+#EXTINF:-1,It | Skycalcio6
+http://force102.com:8080/mahmut49/sen49/11145
+#EXTINF:-1,It | Skyprimafila1
+http://force102.com:8080/mahmut49/sen49/11161
+#EXTINF:-1,It | Skyprimafila10
+http://force102.com:8080/mahmut49/sen49/11152
+#EXTINF:-1,It | Skyprimafila2
+http://force102.com:8080/mahmut49/sen49/11160
+#EXTINF:-1,It | Skyprimafila3
+http://force102.com:8080/mahmut49/sen49/11159
+#EXTINF:-1,It | Skyprimafila4
+http://force102.com:8080/mahmut49/sen49/11158
+#EXTINF:-1,It | Skyprimafila5
+http://force102.com:8080/mahmut49/sen49/11157
+#EXTINF:-1,It | Skyprimafila6
+http://force102.com:8080/mahmut49/sen49/11156
+#EXTINF:-1,It | Skyprimafila7
+http://force102.com:8080/mahmut49/sen49/11155
+#EXTINF:-1,It | Skyprimafila8
+http://force102.com:8080/mahmut49/sen49/11154
+#EXTINF:-1,It | Skyprimafila9
+http://force102.com:8080/mahmut49/sen49/11153
+#EXTINF:-1,It | Skysupercalcio
+http://force102.com:8080/mahmut49/sen49/11151
+#EXTINF:-1,It | Skytg24
+http://force102.com:8080/mahmut49/sen49/11164
+#EXTINF:-1,It | Super Tennis
+http://force102.com:8080/mahmut49/sen49/11168
+#EXTINF:-1,-------------- | NETHERLANDS | --------------
+http://force102.com:8080/mahmut49/sen49/11337
+#EXTINF:-1,NL | NPO 1 HD
+http://force102.com:8080/mahmut49/sen49/11314
+#EXTINF:-1,NL | NPO 2 HD
+http://force102.com:8080/mahmut49/sen49/11313
+#EXTINF:-1,NL | NPO 3 HD
+http://force102.com:8080/mahmut49/sen49/11312
+#EXTINF:-1,Nl | Npo Politiek
+http://force102.com:8080/mahmut49/sen49/11278
+#EXTINF:-1,Nl | Npo Zapp Xtra/npo Best
+http://force102.com:8080/mahmut49/sen49/11277
+#EXTINF:-1,NL | RTL 4 HD
+http://force102.com:8080/mahmut49/sen49/11311
+#EXTINF:-1,NL | RTL 5 HD
+http://force102.com:8080/mahmut49/sen49/11310
+#EXTINF:-1,NL | RTL 7 HD
+http://force102.com:8080/mahmut49/sen49/11309
+#EXTINF:-1,NL | RTL 8 HD
+http://force102.com:8080/mahmut49/sen49/11308
+#EXTINF:-1,Nl | Rtl Crime Hd
+http://force102.com:8080/mahmut49/sen49/11274
+#EXTINF:-1,Nl | Rtl Lounge-nl
+http://force102.com:8080/mahmut49/sen49/11273
+#EXTINF:-1,NL | RTL Z
+http://force102.com:8080/mahmut49/sen49/11305
+#EXTINF:-1,Nl | Fox
+http://force102.com:8080/mahmut49/sen49/11292
+#EXTINF:-1,NL | SBS 6 HD
+http://force102.com:8080/mahmut49/sen49/11307
+#EXTINF:-1,NL | SBS 9
+http://force102.com:8080/mahmut49/sen49/11306
+#EXTINF:-1,NL | FILM 1 ACTION
+http://force102.com:8080/mahmut49/sen49/11333
+#EXTINF:-1,NL | FILM 1 COMEDY
+http://force102.com:8080/mahmut49/sen49/11328
+#EXTINF:-1,NL | FILM 1 DRAMA
+http://force102.com:8080/mahmut49/sen49/11334
+#EXTINF:-1,NL | FILM 1 PREMIER HD
+http://force102.com:8080/mahmut49/sen49/11327
+#EXTINF:-1,Nl | Tlc Hd
+http://force102.com:8080/mahmut49/sen49/11269
+#EXTINF:-1,Nl | Omroep Brabant
+http://force102.com:8080/mahmut49/sen49/11276
+#EXTINF:-1,Nl | Omroep Gelderland
+http://force102.com:8080/mahmut49/sen49/11275
+#EXTINF:-1,NL | 24 KITCHEN
+http://force102.com:8080/mahmut49/sen49/11332
+#EXTINF:-1,Nl | Food Network
+http://force102.com:8080/mahmut49/sen49/11293
+#EXTINF:-1,NL | AT5
+http://force102.com:8080/mahmut49/sen49/11301
+#EXTINF:-1,Nl | Mtv Nl
+http://force102.com:8080/mahmut49/sen49/11284
+#EXTINF:-1,NL | Djazz TV
+http://force102.com:8080/mahmut49/sen49/11296
+#EXTINF:-1,Nl | Ketnet
+http://force102.com:8080/mahmut49/sen49/11286
+#EXTINF:-1,Nl | L1 Limburg Hd
+http://force102.com:8080/mahmut49/sen49/11285
+#EXTINF:-1,Nl | N1 Nijmegen Tv
+http://force102.com:8080/mahmut49/sen49/11283
+#EXTINF:-1,NL | NET 5 HD
+http://force102.com:8080/mahmut49/sen49/11315
+#EXTINF:-1,Nl | Rtv Drenthe
+http://force102.com:8080/mahmut49/sen49/11272
+#EXTINF:-1,Nl | Slam Tv
+http://force102.com:8080/mahmut49/sen49/11271
+#EXTINF:-1,Nl | Spike
+http://force102.com:8080/mahmut49/sen49/11270
+#EXTINF:-1,Nl | Tv Oost Hd
+http://force102.com:8080/mahmut49/sen49/11268
+#EXTINF:-1,Nl | Tv Oranje
+http://force102.com:8080/mahmut49/sen49/11267
+#EXTINF:-1,Nl | Tv West
+http://force102.com:8080/mahmut49/sen49/11266
+#EXTINF:-1,Nl | Xite
+http://force102.com:8080/mahmut49/sen49/11265
+#EXTINF:-1,Nl | Jim Jam
+http://force102.com:8080/mahmut49/sen49/11287
+#EXTINF:-1,Nl | Nick Jr Hd
+http://force102.com:8080/mahmut49/sen49/11281
+#EXTINF:-1,Nl | Nick Music
+http://force102.com:8080/mahmut49/sen49/11280
+#EXTINF:-1,NL | NICKELODEON HD
+http://force102.com:8080/mahmut49/sen49/11326
+#EXTINF:-1,NL | VERONICA DISNEY XD
+http://force102.com:8080/mahmut49/sen49/11336
+#EXTINF:-1,Nl | Nicktoons Hd
+http://force102.com:8080/mahmut49/sen49/11279
+#EXTINF:-1,NL | Animal Planet NL
+http://force102.com:8080/mahmut49/sen49/11302
+#EXTINF:-1,NL | BABY TV
+http://force102.com:8080/mahmut49/sen49/11300
+#EXTINF:-1,NL | Boomerang
+http://force102.com:8080/mahmut49/sen49/11299
+#EXTINF:-1,NL | CARTOON NETWORK HD
+http://force102.com:8080/mahmut49/sen49/11298
+#EXTINF:-1,NL | COMEDY CENTRAL
+http://force102.com:8080/mahmut49/sen49/11331
+#EXTINF:-1,NL | DISNEY JUNIOR HD
+http://force102.com:8080/mahmut49/sen49/11297
+#EXTINF:-1,Nl | History Chanel Hd
+http://force102.com:8080/mahmut49/sen49/11289
+#EXTINF:-1,NL | DISCOVERY CHANNEL  HD
+http://force102.com:8080/mahmut49/sen49/11335
+#EXTINF:-1,Nl | Investigation Discovery Hd
+http://force102.com:8080/mahmut49/sen49/11288
+#EXTINF:-1,NL | NATIONAL GEO HD
+http://force102.com:8080/mahmut49/sen49/11329
+#EXTINF:-1,Nl | National Geopraphic Hd
+http://force102.com:8080/mahmut49/sen49/11282
+#EXTINF:-1,NL | EUROSPORT 1 HD
+http://force102.com:8080/mahmut49/sen49/11295
+#EXTINF:-1,Nl | Eurosport 2 Hd
+http://force102.com:8080/mahmut49/sen49/11294
+#EXTINF:-1,Nl | Ziggo Sport Extra 1
+http://force102.com:8080/mahmut49/sen49/11264
+#EXTINF:-1,Nl | Ziggo Sport Extra 2
+http://force102.com:8080/mahmut49/sen49/11263
+#EXTINF:-1,NL | ZIGGO SPORT GOLF
+http://force102.com:8080/mahmut49/sen49/11317
+#EXTINF:-1,Nl | Ziggo Sport Hd
+http://force102.com:8080/mahmut49/sen49/11262
+#EXTINF:-1,NL | ZIGGO SPORT RACING
+http://force102.com:8080/mahmut49/sen49/11318
+#EXTINF:-1,NL | ZIGGO SPORT SELECT HD
+http://force102.com:8080/mahmut49/sen49/11319
+#EXTINF:-1,NL | ZIGGO SPORT VOETBAL
+http://force102.com:8080/mahmut49/sen49/11320
+#EXTINF:-1,NL | FOX SPORT 1  HD EREDIVISIE
+http://force102.com:8080/mahmut49/sen49/11325
+#EXTINF:-1,NL | FOX SPORTS 2 INTERNATIONAL
+http://force102.com:8080/mahmut49/sen49/11324
+#EXTINF:-1,NL | FOX SPORTS 3 EREDIVISIE
+http://force102.com:8080/mahmut49/sen49/11323
+#EXTINF:-1,NL | FOX SPORTS 4 INTERNATIONAL
+http://force102.com:8080/mahmut49/sen49/11322
+#EXTINF:-1,NL | FOX SPORTS 5 EREDIVISIE HD
+http://force102.com:8080/mahmut49/sen49/11321
+#EXTINF:-1,Nl | FOX SPORT 6 HD
+http://force102.com:8080/mahmut49/sen49/11291
+#EXTINF:-1,-------------- | UK | --------------
+http://force102.com:8080/mahmut49/sen49/11261
+#EXTINF:-1,Uk | Itv1
+http://force102.com:8080/mahmut49/sen49/11209
+#EXTINF:-1,Uk | Itv2
+http://force102.com:8080/mahmut49/sen49/11210
+#EXTINF:-1,Uk | Itv3
+http://force102.com:8080/mahmut49/sen49/11211
+#EXTINF:-1,Uk | Itv4
+http://force102.com:8080/mahmut49/sen49/11212
+#EXTINF:-1,Uk | Bbc1
+http://force102.com:8080/mahmut49/sen49/11213
+#EXTINF:-1,Uk | Bbc2
+http://force102.com:8080/mahmut49/sen49/11214
+#EXTINF:-1,Uk | Bbc3
+http://force102.com:8080/mahmut49/sen49/11215
+#EXTINF:-1,Uk | Btsport1
+http://force102.com:8080/mahmut49/sen49/11257
+#EXTINF:-1,Uk | Btsport2
+http://force102.com:8080/mahmut49/sen49/11258
+#EXTINF:-1,Uk | Btsport Espn
+http://force102.com:8080/mahmut49/sen49/11259
+#EXTINF:-1,Uk | Btsporteurope
+http://force102.com:8080/mahmut49/sen49/11256
+#EXTINF:-1,Uk | Rte One
+http://force102.com:8080/mahmut49/sen49/11243
+#EXTINF:-1,Uk | Rte Two
+http://force102.com:8080/mahmut49/sen49/11242
+#EXTINF:-1,Uk | Cbsaction
+http://force102.com:8080/mahmut49/sen49/11218
+#EXTINF:-1,Uk | Cbs Drama
+http://force102.com:8080/mahmut49/sen49/11217
+#EXTINF:-1,Uk | Cbs Reality
+http://force102.com:8080/mahmut49/sen49/11216
+#EXTINF:-1,Uk | Channel4
+http://force102.com:8080/mahmut49/sen49/11219
+#EXTINF:-1,Uk | Channel5
+http://force102.com:8080/mahmut49/sen49/11220
+#EXTINF:-1,Uk | Movies 4men
+http://force102.com:8080/mahmut49/sen49/11235
+#EXTINF:-1,Uk | Sky Movies Action
+http://force102.com:8080/mahmut49/sen49/11238
+#EXTINF:-1,Uk | Sky Movies Comedy
+http://force102.com:8080/mahmut49/sen49/11237
+#EXTINF:-1,Uk | Sky Movies Family Hd
+http://force102.com:8080/mahmut49/sen49/11239
+#EXTINF:-1,Uk | Sky Movies Premiere Hd
+http://force102.com:8080/mahmut49/sen49/11241
+#EXTINF:-1,Uk | Sky Movies Scifi / Horror Hd
+http://force102.com:8080/mahmut49/sen49/11240
+#EXTINF:-1,Uk | Sky Movies Drama Hd
+http://force102.com:8080/mahmut49/sen49/11231
+#EXTINF:-1,Uk | Sky Movies Select Hd
+http://force102.com:8080/mahmut49/sen49/11230
+#EXTINF:-1,Uk | Sky Movies Thriller
+http://force102.com:8080/mahmut49/sen49/11229
+#EXTINF:-1,Uk | Skymtv
+http://force102.com:8080/mahmut49/sen49/11236
+#EXTINF:-1,Uk | Skyone Hd
+http://force102.com:8080/mahmut49/sen49/11234
+#EXTINF:-1,Uk | True Movies1 Hd
+http://force102.com:8080/mahmut49/sen49/11233
+#EXTINF:-1,Uk | Yesterday
+http://force102.com:8080/mahmut49/sen49/11244
+#EXTINF:-1,Uk | Comedy Central
+http://force102.com:8080/mahmut49/sen49/11221
+#EXTINF:-1,Uk | Discovery Science Hd
+http://force102.com:8080/mahmut49/sen49/11226
+#EXTINF:-1,Uk | Discovery Turbo Hd
+http://force102.com:8080/mahmut49/sen49/11227
+#EXTINF:-1,Uk | Discovery Channelhd
+http://force102.com:8080/mahmut49/sen49/11224
+#EXTINF:-1,Uk | Discovery Shed
+http://force102.com:8080/mahmut49/sen49/11225
+#EXTINF:-1,Uk | Disneychannel
+http://force102.com:8080/mahmut49/sen49/11223
+#EXTINF:-1,Uk | Disneyjunior
+http://force102.com:8080/mahmut49/sen49/11222
+#EXTINF:-1,UK | Dmax.
+http://force102.com:8080/mahmut49/sen49/11245
+#EXTINF:-1,Uk | National Geographic
+http://force102.com:8080/mahmut49/sen49/11228
+#EXTINF:-1,Uk | Premier Sport
+http://force102.com:8080/mahmut49/sen49/11260
+#EXTINF:-1,Uk | Racing
+http://force102.com:8080/mahmut49/sen49/11232
+#EXTINF:-1,Uk | Eurosport1
+http://force102.com:8080/mahmut49/sen49/11246
+#EXTINF:-1,Uk | Eurosport 2
+http://force102.com:8080/mahmut49/sen49/11247
+#EXTINF:-1,Uk | Sky Sport News
+http://force102.com:8080/mahmut49/sen49/11255
+#EXTINF:-1,Uk | Sky Sport News
+http://force102.com:8080/mahmut49/sen49/11254
+#EXTINF:-1,Uk | Sky Sport Premier League
+http://force102.com:8080/mahmut49/sen49/11252
+#EXTINF:-1,Uk | Sky Sports Action
+http://force102.com:8080/mahmut49/sen49/11248
+#EXTINF:-1,Uk | Sky Sports Cricket
+http://force102.com:8080/mahmut49/sen49/11249
+#EXTINF:-1,Uk | Sky Sports F1
+http://force102.com:8080/mahmut49/sen49/11253
+#EXTINF:-1,Uk | Sky Sports Golf
+http://force102.com:8080/mahmut49/sen49/11251
+#EXTINF:-1,Uk | Sky Sports Main Event
+http://force102.com:8080/mahmut49/sen49/11250
+#EXTINF:-1,-------------- | ALBANIAN | --------------
+http://force102.com:8080/mahmut49/sen49/11134
+#EXTINF:-1,Al | 3 Plus
+http://force102.com:8080/mahmut49/sen49/11118
+#EXTINF:-1,Al | Ant 1
+http://force102.com:8080/mahmut49/sen49/11113
+#EXTINF:-1,Al | Canale 5
+http://force102.com:8080/mahmut49/sen49/11112
+#EXTINF:-1,Al | Cartoon Network
+http://force102.com:8080/mahmut49/sen49/11111
+#EXTINF:-1,Al | Channel One
+http://force102.com:8080/mahmut49/sen49/11110
+#EXTINF:-1,Al | Click
+http://force102.com:8080/mahmut49/sen49/11109
+#EXTINF:-1,Al | Club Fm Radio
+http://force102.com:8080/mahmut49/sen49/11108
+#EXTINF:-1,Al | Fax News
+http://force102.com:8080/mahmut49/sen49/11107
+#EXTINF:-1,Al | Fox
+http://force102.com:8080/mahmut49/sen49/11106
+#EXTINF:-1,Al | Fox Crime
+http://force102.com:8080/mahmut49/sen49/11105
+#EXTINF:-1,Al | Fox Life
+http://force102.com:8080/mahmut49/sen49/11104
+#EXTINF:-1,Al | Italia 1
+http://force102.com:8080/mahmut49/sen49/11103
+#EXTINF:-1,Al | Kanali 7
+http://force102.com:8080/mahmut49/sen49/11102
+#EXTINF:-1,Al | Kids
+http://force102.com:8080/mahmut49/sen49/11101
+#EXTINF:-1,Al | Klan Kosova
+http://force102.com:8080/mahmut49/sen49/11126
+#EXTINF:-1,Al | Klan Plus Hd
+http://force102.com:8080/mahmut49/sen49/11100
+#EXTINF:-1,Al | Living Hd
+http://force102.com:8080/mahmut49/sen49/11099
+#EXTINF:-1,Al | Luxe Tv
+http://force102.com:8080/mahmut49/sen49/11098
+#EXTINF:-1,Al | Muse
+http://force102.com:8080/mahmut49/sen49/11097
+#EXTINF:-1,Al | Nat Geographic
+http://force102.com:8080/mahmut49/sen49/11096
+#EXTINF:-1,Al | News 24
+http://force102.com:8080/mahmut49/sen49/11095
+#EXTINF:-1,Al | Ora News Hd
+http://force102.com:8080/mahmut49/sen49/11094
+#EXTINF:-1,Al | Rtk 1
+http://force102.com:8080/mahmut49/sen49/11093
+#EXTINF:-1,Al | Rtsh 1 Hd
+http://force102.com:8080/mahmut49/sen49/11092
+#EXTINF:-1,Al | Rtsh 2
+http://force102.com:8080/mahmut49/sen49/11091
+#EXTINF:-1,Al | Rtsh 2 Hd
+http://force102.com:8080/mahmut49/sen49/11090
+#EXTINF:-1,Al | Rtsh 24
+http://force102.com:8080/mahmut49/sen49/11089
+#EXTINF:-1,Al | Rtsh 3 Hd
+http://force102.com:8080/mahmut49/sen49/11088
+#EXTINF:-1,Al | Rtsh Film
+http://force102.com:8080/mahmut49/sen49/11087
+#EXTINF:-1,Al | Rtsh Film 2
+http://force102.com:8080/mahmut49/sen49/11086
+#EXTINF:-1,Al | Rtsh Hd
+http://force102.com:8080/mahmut49/sen49/11085
+#EXTINF:-1,Al | Rtsh Kuvend
+http://force102.com:8080/mahmut49/sen49/11084
+#EXTINF:-1,Al | Rtsh Muzike
+http://force102.com:8080/mahmut49/sen49/11083
+#EXTINF:-1,Al | Rtsh Shqip
+http://force102.com:8080/mahmut49/sen49/11082
+#EXTINF:-1,Al | Rtsh Shqip Hd
+http://force102.com:8080/mahmut49/sen49/11081
+#EXTINF:-1,Al | Rtsh Sport
+http://force102.com:8080/mahmut49/sen49/11080
+#EXTINF:-1,Al | Rtsh Sport Hd
+http://force102.com:8080/mahmut49/sen49/11079
+#EXTINF:-1,Al | Rtv 21
+http://force102.com:8080/mahmut49/sen49/11078
+#EXTINF:-1,Al | Super Sport 1
+http://force102.com:8080/mahmut49/sen49/11121
+#EXTINF:-1,Al | Super Sport 2
+http://force102.com:8080/mahmut49/sen49/11124
+#EXTINF:-1,Al | Super Sport 3
+http://force102.com:8080/mahmut49/sen49/11123
+#EXTINF:-1,Al | Super Sport 4
+http://force102.com:8080/mahmut49/sen49/11122
+#EXTINF:-1,Al | Telesport
+http://force102.com:8080/mahmut49/sen49/11077
+#EXTINF:-1,Al | Tip Tv
+http://force102.com:8080/mahmut49/sen49/11120
+#EXTINF:-1,Al | Travel Channel
+http://force102.com:8080/mahmut49/sen49/11114
+#EXTINF:-1,Al | Tring Action
+http://force102.com:8080/mahmut49/sen49/11132
+#EXTINF:-1,Al | Tring Comedy
+http://force102.com:8080/mahmut49/sen49/11115
+#EXTINF:-1,Al | Tring Fantasy
+http://force102.com:8080/mahmut49/sen49/11119
+#EXTINF:-1,Al | Tring History
+http://force102.com:8080/mahmut49/sen49/11127
+#EXTINF:-1,Al | Tring Jolly
+http://force102.com:8080/mahmut49/sen49/11116
+#EXTINF:-1,Al | Tring Life
+http://force102.com:8080/mahmut49/sen49/11117
+#EXTINF:-1,Al | Tring Planet
+http://force102.com:8080/mahmut49/sen49/11076
+#EXTINF:-1,Al | Tring Shqip
+http://force102.com:8080/mahmut49/sen49/11075
+#EXTINF:-1,Al | Tring Smile
+http://force102.com:8080/mahmut49/sen49/11130
+#EXTINF:-1,Al | Tring Sport News Hd
+http://force102.com:8080/mahmut49/sen49/11125
+#EXTINF:-1,Al | Tring Super
+http://force102.com:8080/mahmut49/sen49/11131
+#EXTINF:-1,Al | Tring Tring
+http://force102.com:8080/mahmut49/sen49/11133
+#EXTINF:-1,Al | Tring World
+http://force102.com:8080/mahmut49/sen49/11129
+#EXTINF:-1,Al | Vizion Plus
+http://force102.com:8080/mahmut49/sen49/11128
+#EXTINF:-1,-------------- | EX YU | --------------
+http://force102.com:8080/mahmut49/sen49/11074
+#EXTINF:-1,Ex-yu | Bht Hd
+http://force102.com:8080/mahmut49/sen49/17553
+#EXTINF:-1,Ex-yu | Bosnatv1
+http://force102.com:8080/mahmut49/sen49/17537
+#EXTINF:-1,Ex-yu | Discovery Channel
+http://force102.com:8080/mahmut49/sen49/17536
+#EXTINF:-1,Ex-yu | Dm Sat
+http://force102.com:8080/mahmut49/sen49/17561
+#EXTINF:-1,Ex-yu | Doma Tv
+http://force102.com:8080/mahmut49/sen49/17548
+#EXTINF:-1,Ex-yu | Face Tv
+http://force102.com:8080/mahmut49/sen49/17560
+#EXTINF:-1,Ex-yu | Glas Drine
+http://force102.com:8080/mahmut49/sen49/17546
+#EXTINF:-1,Ex-yu | Happy Tv
+http://force102.com:8080/mahmut49/sen49/17540
+#EXTINF:-1,Ex-yu | Hrt 1
+http://force102.com:8080/mahmut49/sen49/17564
+#EXTINF:-1,Ex-yu | Hrt 2
+http://force102.com:8080/mahmut49/sen49/17563
+#EXTINF:-1,Ex-yu | Hrt 3
+http://force102.com:8080/mahmut49/sen49/17565
+#EXTINF:-1,Ex-yu | Hrt 4
+http://force102.com:8080/mahmut49/sen49/17562
+#EXTINF:-1,Ex-yu | Kanal 5
+http://force102.com:8080/mahmut49/sen49/17542
+#EXTINF:-1,Ex-yu | Nova
+http://force102.com:8080/mahmut49/sen49/17545
+#EXTINF:-1,Ex-yu | Obn
+http://force102.com:8080/mahmut49/sen49/17539
+#EXTINF:-1,EX-YU | Pink
+http://force102.com:8080/mahmut49/sen49/17544
+#EXTINF:-1,Ex-yu | Pink Western
+http://force102.com:8080/mahmut49/sen49/17538
+#EXTINF:-1,Ex-yu | Pink Comedy
+http://force102.com:8080/mahmut49/sen49/17543
+#EXTINF:-1,Ex-yu | Pink Crime&mistery
+http://force102.com:8080/mahmut49/sen49/17535
+#EXTINF:-1,Ex-yu | Pink Film
+http://force102.com:8080/mahmut49/sen49/17550
+#EXTINF:-1,Ex-yu | Pink Folk 1
+http://force102.com:8080/mahmut49/sen49/17556
+#EXTINF:-1,Ex-yu | Pink Horror
+http://force102.com:8080/mahmut49/sen49/17554
+#EXTINF:-1,Ex-yu | Pink Plus
+http://force102.com:8080/mahmut49/sen49/17559
+#EXTINF:-1,Ex-yu | Prva
+http://force102.com:8080/mahmut49/sen49/17541
+#EXTINF:-1,Ex-yu | Rtl
+http://force102.com:8080/mahmut49/sen49/17557
+#EXTINF:-1,Ex-yu | Rtl 2
+http://force102.com:8080/mahmut49/sen49/17558
+#EXTINF:-1,Ex-yu | Rtl Kockica
+http://force102.com:8080/mahmut49/sen49/17551
+#EXTINF:-1,Ex-yu | Rtl Kockica
+http://force102.com:8080/mahmut49/sen49/17555
+#EXTINF:-1,Ex-yu | Rts1
+http://force102.com:8080/mahmut49/sen49/17552
+#EXTINF:-1,Ex-yu | Rts2
+http://force102.com:8080/mahmut49/sen49/17547
+#EXTINF:-1,Ex-yu | Valentino Tv
+http://force102.com:8080/mahmut49/sen49/17549
+#EXTINF:-1,EX YU: SPORT KLUB 1
+http://force102.com:8080/mahmut49/sen49/20364
+#EXTINF:-1,EX YU: SPORT KLUB 2
+http://force102.com:8080/mahmut49/sen49/20363
+#EXTINF:-1,EX YU: SPORT KLUB 3
+http://force102.com:8080/mahmut49/sen49/20362
+#EXTINF:-1,EX YU: SPORT KLUB 4
+http://force102.com:8080/mahmut49/sen49/20361
+#EXTINF:-1,Ex-Yu | Arena Sport 1 (SRB)
+http://force102.com:8080/mahmut49/sen49/20353
+#EXTINF:-1,Ex-Yu | ARENA SPORT 2 SRB
+http://force102.com:8080/mahmut49/sen49/20360
+#EXTINF:-1,Ex-Yu | ARENA SPORT 3 SRB
+http://force102.com:8080/mahmut49/sen49/20359
+#EXTINF:-1,Ex-Yu | ARENA SPORT 4 SRB
+http://force102.com:8080/mahmut49/sen49/20358
+#EXTINF:-1,Ex-Yu | ARENA SPORT 5 SRB
+http://force102.com:8080/mahmut49/sen49/20357
+#EXTINF:-1,Ex-Yu | Arena Sport 6 HR
+http://force102.com:8080/mahmut49/sen49/20322
+#EXTINF:-1,Ex-Yu | AXN
+http://force102.com:8080/mahmut49/sen49/20356
+#EXTINF:-1,Ex-Yu | AXN SPIN
+http://force102.com:8080/mahmut49/sen49/20355
+#EXTINF:-1,Ex-Yu | BABY TV
+http://force102.com:8080/mahmut49/sen49/20354
+#EXTINF:-1,Ex-Yu | Eurosport 1
+http://force102.com:8080/mahmut49/sen49/20352
+#EXTINF:-1,Ex-Yu | Eurosport 2
+http://force102.com:8080/mahmut49/sen49/20351
+#EXTINF:-1,Ex-Yu | FOX
+http://force102.com:8080/mahmut49/sen49/20350
+#EXTINF:-1,Ex-Yu | FOX CRIME
+http://force102.com:8080/mahmut49/sen49/20349
+#EXTINF:-1,Ex-Yu | FOX LIFE
+http://force102.com:8080/mahmut49/sen49/20348
+#EXTINF:-1,Ex-Yu | FOX MOVIES
+http://force102.com:8080/mahmut49/sen49/20347
+#EXTINF:-1,Ex-Yu | HBO 1
+http://force102.com:8080/mahmut49/sen49/20346
+#EXTINF:-1,Ex-Yu | HBO 2
+http://force102.com:8080/mahmut49/sen49/20345
+#EXTINF:-1,Ex-Yu | HBO 3
+http://force102.com:8080/mahmut49/sen49/20344
+#EXTINF:-1,Ex-Yu | IDJ TV
+http://force102.com:8080/mahmut49/sen49/20343
+#EXTINF:-1,Ex-Yu | JUGOTON TV
+http://force102.com:8080/mahmut49/sen49/20342
+#EXTINF:-1,Ex-Yu | KINO TV
+http://force102.com:8080/mahmut49/sen49/20341
+#EXTINF:-1,Ex-Yu | KLASIK TV
+http://force102.com:8080/mahmut49/sen49/20340
+#EXTINF:-1,Ex-Yu | KREATOR TV
+http://force102.com:8080/mahmut49/sen49/20339
+#EXTINF:-1,Ex-Yu | MINI TV
+http://force102.com:8080/mahmut49/sen49/20338
+#EXTINF:-1,Ex-Yu | MINIMAX
+http://force102.com:8080/mahmut49/sen49/20337
+#EXTINF:-1,Ex-Yu | MTV ADRIA
+http://force102.com:8080/mahmut49/sen49/20336
+#EXTINF:-1,Ex-Yu | NARODNI TV
+http://force102.com:8080/mahmut49/sen49/20335
+#EXTINF:-1,Ex-Yu | NICK JR.
+http://force102.com:8080/mahmut49/sen49/20334
+#EXTINF:-1,Ex-Yu | NOVA TV
+http://force102.com:8080/mahmut49/sen49/20333
+#EXTINF:-1,Ex-Yu | NOVA WORLD
+http://force102.com:8080/mahmut49/sen49/20332
+#EXTINF:-1,Ex-Yu | PINK CLASSIC
+http://force102.com:8080/mahmut49/sen49/20331
+#EXTINF:-1,Ex-Yu | PINK CRIME & MISTERY
+http://force102.com:8080/mahmut49/sen49/20330
+#EXTINF:-1,Ex-Yu | PINK FOLK 2
+http://force102.com:8080/mahmut49/sen49/20329
+#EXTINF:-1,Ex-Yu | PINK MUSIC
+http://force102.com:8080/mahmut49/sen49/20328
+#EXTINF:-1,Ex-Yu | PINK PREMIUM
+http://force102.com:8080/mahmut49/sen49/20327
+#EXTINF:-1,Ex-Yu | PINK SCI FI & FANTASY
+http://force102.com:8080/mahmut49/sen49/20326
+#EXTINF:-1,Ex-Yu | PINK SERIJE
+http://force102.com:8080/mahmut49/sen49/20325
+#EXTINF:-1,Ex-Yu | PINK THRILLER
+http://force102.com:8080/mahmut49/sen49/20324
+#EXTINF:-1,Ex-Yu | PINK ZABAVA
+http://force102.com:8080/mahmut49/sen49/20323
+#EXTINF:-1,Ex-Yu | PRVA MAX
+http://force102.com:8080/mahmut49/sen49/20321
+#EXTINF:-1,Ex-Yu | PRVA PLUS
+http://force102.com:8080/mahmut49/sen49/20320
+#EXTINF:-1,Ex-Yu | PRVA WORLD
+http://force102.com:8080/mahmut49/sen49/20319
+#EXTINF:-1,Ex-Yu | RTL CRIME
+http://force102.com:8080/mahmut49/sen49/20318
+#EXTINF:-1,Ex-Yu | RTL LIVING
+http://force102.com:8080/mahmut49/sen49/20317
+#EXTINF:-1,Ex-Yu | RTL PASSION
+http://force102.com:8080/mahmut49/sen49/20316
+#EXTINF:-1,Ex-Yu | RTS 2
+http://force102.com:8080/mahmut49/sen49/20315
+#EXTINF:-1,Ex-Yu | TV 1000
+http://force102.com:8080/mahmut49/sen49/20314
+#EXTINF:-1,-------------- | BULGARIA | --------------
+http://force102.com:8080/mahmut49/sen49/15221
+#EXTINF:-1,Bg | Amc
+http://force102.com:8080/mahmut49/sen49/10887
+#EXTINF:-1,Bg | Action Plus Hd
+http://force102.com:8080/mahmut49/sen49/10886
+#EXTINF:-1,Bg | Animal Planet
+http://force102.com:8080/mahmut49/sen49/10885
+#EXTINF:-1,Bg | Balkanika Music Tv Hd
+http://force102.com:8080/mahmut49/sen49/10884
+#EXTINF:-1,Bg | Bnt 1 Hd
+http://force102.com:8080/mahmut49/sen49/10883
+#EXTINF:-1,Bg | Bnt 2 Hd
+http://force102.com:8080/mahmut49/sen49/10882
+#EXTINF:-1,Bg | Btv Action Hd
+http://force102.com:8080/mahmut49/sen49/10881
+#EXTINF:-1,Bg | Btv Cinema
+http://force102.com:8080/mahmut49/sen49/10880
+#EXTINF:-1,Bg | Btv Comedy
+http://force102.com:8080/mahmut49/sen49/10879
+#EXTINF:-1,Bg | Btv Hd
+http://force102.com:8080/mahmut49/sen49/10878
+#EXTINF:-1,Bg | Btv Lady
+http://force102.com:8080/mahmut49/sen49/10877
+#EXTINF:-1,Bg | Diema Family
+http://force102.com:8080/mahmut49/sen49/10876
+#EXTINF:-1,Bg | Diema Tv
+http://force102.com:8080/mahmut49/sen49/10875
+#EXTINF:-1,Bg | Fen Tv Hd
+http://force102.com:8080/mahmut49/sen49/10874
+#EXTINF:-1,Bg | Film Plus
+http://force102.com:8080/mahmut49/sen49/10873
+#EXTINF:-1,Bg | Fox Crime Hd
+http://force102.com:8080/mahmut49/sen49/10872
+#EXTINF:-1,Bg | Fox Hd
+http://force102.com:8080/mahmut49/sen49/10871
+#EXTINF:-1,Bg | History Hd
+http://force102.com:8080/mahmut49/sen49/10870
+#EXTINF:-1,Bg | Hobby Tv
+http://force102.com:8080/mahmut49/sen49/10869
+#EXTINF:-1,Bg | Kanal 3
+http://force102.com:8080/mahmut49/sen49/10868
+#EXTINF:-1,Bg | Kino Nova
+http://force102.com:8080/mahmut49/sen49/10867
+#EXTINF:-1,Bg | Music Tv
+http://force102.com:8080/mahmut49/sen49/10866
+#EXTINF:-1,Bg | Nova Tv Hd
+http://force102.com:8080/mahmut49/sen49/10865
+#EXTINF:-1,Bg | Planeta Hd
+http://force102.com:8080/mahmut49/sen49/10864
+#EXTINF:-1,Bg | Ring Bg Hd
+http://force102.com:8080/mahmut49/sen49/10863
+#EXTINF:-1,-------------- | MUSIC | --------------
+http://force102.com:8080/mahmut49/sen49/323
+#EXTINF:-1,Music | Box Hits
+http://force102.com:8080/mahmut49/sen49/10760
+#EXTINF:-1,Music | Capital
+http://force102.com:8080/mahmut49/sen49/10759
+#EXTINF:-1,Music | Channel Aka
+http://force102.com:8080/mahmut49/sen49/10758
+#EXTINF:-1,Music | Heart
+http://force102.com:8080/mahmut49/sen49/10757
+#EXTINF:-1,Music | Hip Hop 24/7
+http://force102.com:8080/mahmut49/sen49/10756
+#EXTINF:-1,Music | Kiss Tv
+http://force102.com:8080/mahmut49/sen49/10755
+#EXTINF:-1,Music | Mtv Base
+http://force102.com:8080/mahmut49/sen49/10754
+#EXTINF:-1,Music | Mtv Classic
+http://force102.com:8080/mahmut49/sen49/10752
+#EXTINF:-1,Music | Mtv Dance
+http://force102.com:8080/mahmut49/sen49/10751
+#EXTINF:-1,Music | Mtv Hits
+http://force102.com:8080/mahmut49/sen49/10750
+#EXTINF:-1,Music | Mtv Music
+http://force102.com:8080/mahmut49/sen49/10749
+#EXTINF:-1,Music | Trace Mizki
+http://force102.com:8080/mahmut49/sen49/10747
+#EXTINF:-1,Music | Trace Naija
+http://force102.com:8080/mahmut49/sen49/10746
+#EXTINF:-1,Music | Trace Toca
+http://force102.com:8080/mahmut49/sen49/10745
+#EXTINF:-1,Music | Trace Urban
+http://force102.com:8080/mahmut49/sen49/10743
+#EXTINF:-1,Music | Vh1
+http://force102.com:8080/mahmut49/sen49/10742
+#EXTINF:-1,Music | Vh1 Classic
+http://force102.com:8080/mahmut49/sen49/10741
+#EXTINF:-1,Music | Vintage Tv
+http://force102.com:8080/mahmut49/sen49/10739
+#EXTINF:-1,-------------- | SWEDEN | --------------
+http://force102.com:8080/mahmut49/sen49/10907
+#EXTINF:-1,Se | Animal Planet Hd
+http://force102.com:8080/mahmut49/sen49/10862
+#EXTINF:-1,Se | Bomerang
+http://force102.com:8080/mahmut49/sen49/10861
+#EXTINF:-1,Se | C More Emotion
+http://force102.com:8080/mahmut49/sen49/10860
+#EXTINF:-1,Se | C More First
+http://force102.com:8080/mahmut49/sen49/10859
+#EXTINF:-1,Se | C More First Hd
+http://force102.com:8080/mahmut49/sen49/10858
+#EXTINF:-1,Se | C More Fotboll Hd
+http://force102.com:8080/mahmut49/sen49/10857
+#EXTINF:-1,Se | C More Fotboll Sd
+http://force102.com:8080/mahmut49/sen49/10856
+#EXTINF:-1,Se | C More Hits Hd
+http://force102.com:8080/mahmut49/sen49/10855
+#EXTINF:-1,Se | C More Hockey
+http://force102.com:8080/mahmut49/sen49/10854
+#EXTINF:-1,Se | C More Hockey Hd
+http://force102.com:8080/mahmut49/sen49/10853
+#EXTINF:-1,Se | C More Live
+http://force102.com:8080/mahmut49/sen49/10852
+#EXTINF:-1,Se | C More Live Hd
+http://force102.com:8080/mahmut49/sen49/10851
+#EXTINF:-1,Se | C More Series Hd
+http://force102.com:8080/mahmut49/sen49/10850
+#EXTINF:-1,Se | C More Sport
+http://force102.com:8080/mahmut49/sen49/10849
+#EXTINF:-1,Se | C More Sport Hd
+http://force102.com:8080/mahmut49/sen49/10848
+#EXTINF:-1,Se | C More Stars
+http://force102.com:8080/mahmut49/sen49/10847
+#EXTINF:-1,Se | C More Stars Hd
+http://force102.com:8080/mahmut49/sen49/10846
+#EXTINF:-1,Se | Cartoon Network
+http://force102.com:8080/mahmut49/sen49/10845
+#EXTINF:-1,Se | Comedy Central
+http://force102.com:8080/mahmut49/sen49/10844
+#EXTINF:-1,Se | Disc. Channel
+http://force102.com:8080/mahmut49/sen49/10843
+#EXTINF:-1,Se | Discovery Channel
+http://force102.com:8080/mahmut49/sen49/10842
+#EXTINF:-1,Se | Discovery World
+http://force102.com:8080/mahmut49/sen49/10841
+#EXTINF:-1,Se | Disney Channel
+http://force102.com:8080/mahmut49/sen49/10840
+#EXTINF:-1,Se | Disney Junior
+http://force102.com:8080/mahmut49/sen49/10839
+#EXTINF:-1,Se | Eurosport 1
+http://force102.com:8080/mahmut49/sen49/10838
+#EXTINF:-1,Se | Film Action
+http://force102.com:8080/mahmut49/sen49/10837
+#EXTINF:-1,Se | Film Premiere
+http://force102.com:8080/mahmut49/sen49/10836
+#EXTINF:-1,Se | Film Premiere 1
+http://force102.com:8080/mahmut49/sen49/10835
+#EXTINF:-1,Se | Fox
+http://force102.com:8080/mahmut49/sen49/10834
+#EXTINF:-1,Se | Kanal 9 Hd
+http://force102.com:8080/mahmut49/sen49/10833
+#EXTINF:-1,Se | Kunskapskanalen
+http://force102.com:8080/mahmut49/sen49/10832
+#EXTINF:-1,Se | Mtv
+http://force102.com:8080/mahmut49/sen49/10831
+#EXTINF:-1,Se | Nat Geo Wild
+http://force102.com:8080/mahmut49/sen49/10830
+#EXTINF:-1,Se | National Geographic
+http://force102.com:8080/mahmut49/sen49/10829
+#EXTINF:-1,Se | Nick Jr
+http://force102.com:8080/mahmut49/sen49/10828
+#EXTINF:-1,Se | Sport Premium
+http://force102.com:8080/mahmut49/sen49/10827
+#EXTINF:-1,Se | Travel Channel
+http://force102.com:8080/mahmut49/sen49/10826
+#EXTINF:-1,Se | Tv 10
+http://force102.com:8080/mahmut49/sen49/10825
+#EXTINF:-1,Se | Tv 12
+http://force102.com:8080/mahmut49/sen49/10824
+#EXTINF:-1,Se | Tv 5 Hd
+http://force102.com:8080/mahmut49/sen49/10823
+#EXTINF:-1,Se | Tv 6
+http://force102.com:8080/mahmut49/sen49/10822
+#EXTINF:-1,Se | Tv 9 Hd
+http://force102.com:8080/mahmut49/sen49/10821
+#EXTINF:-1,Se | Tv3 Hd
+http://force102.com:8080/mahmut49/sen49/10820
+#EXTINF:-1,Se | Tv3 Sport
+http://force102.com:8080/mahmut49/sen49/10819
+#EXTINF:-1,Se | Tv4 Film
+http://force102.com:8080/mahmut49/sen49/10818
+#EXTINF:-1,Se | Tv4 Guld
+http://force102.com:8080/mahmut49/sen49/10817
+#EXTINF:-1,Se | Tv4 Komedi
+http://force102.com:8080/mahmut49/sen49/10816
+#EXTINF:-1,Se | Viasat Explorer
+http://force102.com:8080/mahmut49/sen49/10815
+#EXTINF:-1,Se | Viasat Film Comedy
+http://force102.com:8080/mahmut49/sen49/10814
+#EXTINF:-1,Se | Viasat Film Family
+http://force102.com:8080/mahmut49/sen49/10813
+#EXTINF:-1,Se | Viasat Film Hits
+http://force102.com:8080/mahmut49/sen49/10812
+#EXTINF:-1,Se | Viasat Film Premiere
+http://force102.com:8080/mahmut49/sen49/10811
+#EXTINF:-1,Se | Viasat Film Premiere Sd
+http://force102.com:8080/mahmut49/sen49/10810
+#EXTINF:-1,Se | Viasat Fotboll
+http://force102.com:8080/mahmut49/sen49/10809
+#EXTINF:-1,Se | Viasat Golf
+http://force102.com:8080/mahmut49/sen49/10808
+#EXTINF:-1,Se | Viasat History
+http://force102.com:8080/mahmut49/sen49/10807
+#EXTINF:-1,Se | Viasat Motor
+http://force102.com:8080/mahmut49/sen49/10806
+#EXTINF:-1,Se | Viasat Nature
+http://force102.com:8080/mahmut49/sen49/10805
+#EXTINF:-1,Se | Viasat Series
+http://force102.com:8080/mahmut49/sen49/10804
+#EXTINF:-1,Se | Viasat Sport
+http://force102.com:8080/mahmut49/sen49/10803
+#EXTINF:-1,Se | Viasat Sport Premium
+http://force102.com:8080/mahmut49/sen49/10802
+#EXTINF:-1,-------------- | SPAIN | --------------
+http://force102.com:8080/mahmut49/sen49/11042
+#EXTINF:-1,Sp | Antena 3 Hd
+http://force102.com:8080/mahmut49/sen49/11034
+#EXTINF:-1,Sp | Andalucia Tv
+http://force102.com:8080/mahmut49/sen49/17192
+#EXTINF:-1,Sp | Antena 3
+http://force102.com:8080/mahmut49/sen49/17191
+#EXTINF:-1,Sp | Antena Nova
+http://force102.com:8080/mahmut49/sen49/17190
+#EXTINF:-1,Sp | Axn Spain
+http://force102.com:8080/mahmut49/sen49/17189
+#EXTINF:-1,Sp | Axn White Spain
+http://force102.com:8080/mahmut49/sen49/17188
+#EXTINF:-1,Sp | C AcciÃ“n
+http://force102.com:8080/mahmut49/sen49/17187
+#EXTINF:-1,Sp | C Comedia
+http://force102.com:8080/mahmut49/sen49/17186
+#EXTINF:-1,Sp | C Dcine
+http://force102.com:8080/mahmut49/sen49/17185
+#EXTINF:-1,Sp | Calle 13
+http://force102.com:8080/mahmut49/sen49/17184
+#EXTINF:-1,Sp | Canal FÃºtbol
+http://force102.com:8080/mahmut49/sen49/17183
+#EXTINF:-1,Sp | Canal Golf
+http://force102.com:8080/mahmut49/sen49/17182
+#EXTINF:-1,Sp | Canal Liga
+http://force102.com:8080/mahmut49/sen49/17181
+#EXTINF:-1,Sp | Canal Xtra
+http://force102.com:8080/mahmut49/sen49/17180
+#EXTINF:-1,Sp | Canal 24 Horas
+http://force102.com:8080/mahmut49/sen49/17179
+#EXTINF:-1,Sp | Canal Decasa
+http://force102.com:8080/mahmut49/sen49/17178
+#EXTINF:-1,Sp | Clan Tve
+http://force102.com:8080/mahmut49/sen49/17177
+#EXTINF:-1,Sp | Disney Junior Spain
+http://force102.com:8080/mahmut49/sen49/17176
+#EXTINF:-1,Sp | Factoria De Ficcion
+http://force102.com:8080/mahmut49/sen49/17175
+#EXTINF:-1,Sp | Fox Life Portugal
+http://force102.com:8080/mahmut49/sen49/17174
+#EXTINF:-1,Sp | Fox Spain
+http://force102.com:8080/mahmut49/sen49/17173
+#EXTINF:-1,Sp | Garage Tv
+http://force102.com:8080/mahmut49/sen49/17172
+#EXTINF:-1,Sp | La 1
+http://force102.com:8080/mahmut49/sen49/17171
+#EXTINF:-1,Sp | La 2
+http://force102.com:8080/mahmut49/sen49/17170
+#EXTINF:-1,Sp | La Sexta
+http://force102.com:8080/mahmut49/sen49/17169
+#EXTINF:-1,Sp | Movistar F1
+http://force102.com:8080/mahmut49/sen49/17168
+#EXTINF:-1,Sp | Movistar Moto Gp
+http://force102.com:8080/mahmut49/sen49/17167
+#EXTINF:-1,Sp | Natgeo Wild
+http://force102.com:8080/mahmut49/sen49/17166
+#EXTINF:-1,Sp | National Geographic Spain
+http://force102.com:8080/mahmut49/sen49/17165
+#EXTINF:-1,Sp | Odisea
+http://force102.com:8080/mahmut49/sen49/17164
+#EXTINF:-1,Sp | Sol MÃºsica
+http://force102.com:8080/mahmut49/sen49/17163
+#EXTINF:-1,Sp | Syfy Universal Spain
+http://force102.com:8080/mahmut49/sen49/17162
+#EXTINF:-1,Sp | Telecinco
+http://force102.com:8080/mahmut49/sen49/17161
+#EXTINF:-1,Sp | Tnt
+http://force102.com:8080/mahmut49/sen49/17160
+#EXTINF:-1,Sp | Tve Internacional
+http://force102.com:8080/mahmut49/sen49/17159
+#EXTINF:-1,Sp | Bein Sport Es
+http://force102.com:8080/mahmut49/sen49/11025
+#EXTINF:-1,Sp | Canal Comedia Hd
+http://force102.com:8080/mahmut49/sen49/11027
+#EXTINF:-1,Sp | Canal Deportes
+http://force102.com:8080/mahmut49/sen49/11031
+#EXTINF:-1,Sp | Canal Liga Hd
+http://force102.com:8080/mahmut49/sen49/11023
+#EXTINF:-1,Sp | Canal Estrenos
+http://force102.com:8080/mahmut49/sen49/11028
+#EXTINF:-1,Sp | Canal Hollywood
+http://force102.com:8080/mahmut49/sen49/11037
+#EXTINF:-1,Sp | Canal Series
+http://force102.com:8080/mahmut49/sen49/11038
+#EXTINF:-1,Sp | Caza Y Pesca
+http://force102.com:8080/mahmut49/sen49/11029
+#EXTINF:-1,Sp | Cuatro
+http://force102.com:8080/mahmut49/sen49/11036
+#EXTINF:-1,Sp | Dcine
+http://force102.com:8080/mahmut49/sen49/11040
+#EXTINF:-1,Sp | Discovery Channel
+http://force102.com:8080/mahmut49/sen49/11041
+#EXTINF:-1,Sp | Energy
+http://force102.com:8080/mahmut49/sen49/11035
+#EXTINF:-1,Sp | Mega
+http://force102.com:8080/mahmut49/sen49/11033
+#EXTINF:-1,Sp | Nat Geo Wild
+http://force102.com:8080/mahmut49/sen49/11022
+#EXTINF:-1,Sp | Nova
+http://force102.com:8080/mahmut49/sen49/11026
+#EXTINF:-1,Sp | Taquilla1
+http://force102.com:8080/mahmut49/sen49/11030
+#EXTINF:-1,Sp | Taquilla2
+http://force102.com:8080/mahmut49/sen49/11032
+#EXTINF:-1,Sp | Taquilla3
+http://force102.com:8080/mahmut49/sen49/11039
+#EXTINF:-1,Sp | Taquilla4
+http://force102.com:8080/mahmut49/sen49/11021
+#EXTINF:-1,Sp | Tve La1
+http://force102.com:8080/mahmut49/sen49/11024
+#EXTINF:-1,-------------- | DENMARK | --------------
+http://force102.com:8080/mahmut49/sen49/7544
+#EXTINF:-1,Dk | 6 Eren
+http://force102.com:8080/mahmut49/sen49/10801
+#EXTINF:-1,Dk | Boomerang
+http://force102.com:8080/mahmut49/sen49/10800
+#EXTINF:-1,Dk | Dicovery Channel Hd
+http://force102.com:8080/mahmut49/sen49/10799
+#EXTINF:-1,Dk | Discovery Channel
+http://force102.com:8080/mahmut49/sen49/10798
+#EXTINF:-1,Dk | Disney Xd
+http://force102.com:8080/mahmut49/sen49/10797
+#EXTINF:-1,Dk | Dk4
+http://force102.com:8080/mahmut49/sen49/10796
+#EXTINF:-1,Dk | Dr 2
+http://force102.com:8080/mahmut49/sen49/10795
+#EXTINF:-1,Dk | Dr K
+http://force102.com:8080/mahmut49/sen49/10794
+#EXTINF:-1,Dk | Kanal 5
+http://force102.com:8080/mahmut49/sen49/10793
+#EXTINF:-1,Dk | Kanal 9
+http://force102.com:8080/mahmut49/sen49/10792
+#EXTINF:-1,Dk | Nat Geo
+http://force102.com:8080/mahmut49/sen49/10791
+#EXTINF:-1,Dk | Nickelodeon
+http://force102.com:8080/mahmut49/sen49/10790
+#EXTINF:-1,Dk | Tv2
+http://force102.com:8080/mahmut49/sen49/10789
+#EXTINF:-1,Dk | Tv2 Zulu
+http://force102.com:8080/mahmut49/sen49/10788
+#EXTINF:-1,Dk | Tv3
+http://force102.com:8080/mahmut49/sen49/10787
+#EXTINF:-1,Dk | Tv3 Puls
+http://force102.com:8080/mahmut49/sen49/10786
+#EXTINF:-1,Dk | Tv3 Sport 1 Hd
+http://force102.com:8080/mahmut49/sen49/10785
+#EXTINF:-1,Dk | Tv3 Sport 2 Hd
+http://force102.com:8080/mahmut49/sen49/10784
+#EXTINF:-1,Dk | Tv6
+http://force102.com:8080/mahmut49/sen49/10783
+#EXTINF:-1,Dk | Viasat Exploerer Hd
+http://force102.com:8080/mahmut49/sen49/10782
+#EXTINF:-1,Dk | Viasat Film Comedy Hd
+http://force102.com:8080/mahmut49/sen49/10781
+#EXTINF:-1,Dk | Viasat Film Family Hd
+http://force102.com:8080/mahmut49/sen49/10780
+#EXTINF:-1,Dk | Viasat Film Premiere Hd
+http://force102.com:8080/mahmut49/sen49/10779
+#EXTINF:-1,Dk | Viasat Football Hd
+http://force102.com:8080/mahmut49/sen49/10778
+#EXTINF:-1,Dk | Viasat History Hd
+http://force102.com:8080/mahmut49/sen49/10777
+#EXTINF:-1,Dk | Viasat Hockey
+http://force102.com:8080/mahmut49/sen49/10776
+#EXTINF:-1,Dk | Viasat Nature Hd
+http://force102.com:8080/mahmut49/sen49/10775
+#EXTINF:-1,Dk | Viasat Sport Hd
+http://force102.com:8080/mahmut49/sen49/10774
+#EXTINF:-1,-------------- | FINLAND | --------------
+http://force102.com:8080/mahmut49/sen49/328
+#EXTINF:-1,Fi | 4 Maailma
+http://force102.com:8080/mahmut49/sen49/10767
+#EXTINF:-1,Fi | C More Juniori
+http://force102.com:8080/mahmut49/sen49/10771
+#EXTINF:-1,Fi | C More Sports 1
+http://force102.com:8080/mahmut49/sen49/10762
+#EXTINF:-1,Fi | C More Sports 2
+http://force102.com:8080/mahmut49/sen49/10772
+#EXTINF:-1,Fi | Discovery
+http://force102.com:8080/mahmut49/sen49/10766
+#EXTINF:-1,Fi | Mtv 3 Hd
+http://force102.com:8080/mahmut49/sen49/10769
+#EXTINF:-1,Fi | Nelonen
+http://force102.com:8080/mahmut49/sen49/10768
+#EXTINF:-1,Fi | Sub
+http://force102.com:8080/mahmut49/sen49/10765
+#EXTINF:-1,Fi | Tv7
+http://force102.com:8080/mahmut49/sen49/10764
+#EXTINF:-1,Fi | Yle Fem
+http://force102.com:8080/mahmut49/sen49/10763
+#EXTINF:-1,Fi | Yle 1 Hd
+http://force102.com:8080/mahmut49/sen49/10770
+#EXTINF:-1,Fi | Yle 2 Fhd
+http://force102.com:8080/mahmut49/sen49/10773
+#EXTINF:-1,-------------- | MACEDONIA | --------------
+http://force102.com:8080/mahmut49/sen49/10943
+#EXTINF:-1,Mk | Alfa Tv
+http://force102.com:8080/mahmut49/sen49/10941
+#EXTINF:-1,Mk | Alsat M
+http://force102.com:8080/mahmut49/sen49/10940
+#EXTINF:-1,Mk | Folk Tv
+http://force102.com:8080/mahmut49/sen49/10939
+#EXTINF:-1,Mk | Kanal 5
+http://force102.com:8080/mahmut49/sen49/10938
+#EXTINF:-1,Mk | Makedonska Tv
+http://force102.com:8080/mahmut49/sen49/10937
+#EXTINF:-1,Mk | Mrt Sobraniski
+http://force102.com:8080/mahmut49/sen49/10936
+#EXTINF:-1,Mk | Mtm Tv
+http://force102.com:8080/mahmut49/sen49/10935
+#EXTINF:-1,Mk | Mtv 1
+http://force102.com:8080/mahmut49/sen49/10934
+#EXTINF:-1,Mk | Nasa Tv
+http://force102.com:8080/mahmut49/sen49/10933
+#EXTINF:-1,Mk | Nova Tv
+http://force102.com:8080/mahmut49/sen49/10932
+#EXTINF:-1,Mk | Shutel
+http://force102.com:8080/mahmut49/sen49/10931
+#EXTINF:-1,Mk | Sitel
+http://force102.com:8080/mahmut49/sen49/10930
+#EXTINF:-1,Mk | Sitel 2
+http://force102.com:8080/mahmut49/sen49/10929
+#EXTINF:-1,Mk | Sitel 3
+http://force102.com:8080/mahmut49/sen49/10928
+#EXTINF:-1,Mk | Sky Folk
+http://force102.com:8080/mahmut49/sen49/10927
+#EXTINF:-1,Mk | Sonce Tv
+http://force102.com:8080/mahmut49/sen49/10926
+#EXTINF:-1,Mk | Telma
+http://force102.com:8080/mahmut49/sen49/10925
+#EXTINF:-1,Mk | Tv Kumanovo
+http://force102.com:8080/mahmut49/sen49/10924
+#EXTINF:-1,-------------- | POLAND | --------------
+http://force102.com:8080/mahmut49/sen49/10996
+#EXTINF:-1,Pl | Axn
+http://force102.com:8080/mahmut49/sen49/10995
+#EXTINF:-1,Pl | Axn Black
+http://force102.com:8080/mahmut49/sen49/10994
+#EXTINF:-1,Pl | Axn White
+http://force102.com:8080/mahmut49/sen49/10993
+#EXTINF:-1,Pl | Bbc
+http://force102.com:8080/mahmut49/sen49/10992
+#EXTINF:-1,Pl | Bbc Earth
+http://force102.com:8080/mahmut49/sen49/10991
+#EXTINF:-1,Pl | Canal Hd
+http://force102.com:8080/mahmut49/sen49/10990
+#EXTINF:-1,Pl | Canal Sport
+http://force102.com:8080/mahmut49/sen49/10989
+#EXTINF:-1,Pl | Canal Sport 2 Hd
+http://force102.com:8080/mahmut49/sen49/10988
+#EXTINF:-1,Pl | Canal Discovery Hd
+http://force102.com:8080/mahmut49/sen49/10987
+#EXTINF:-1,Pl | Canal Family Hd
+http://force102.com:8080/mahmut49/sen49/10986
+#EXTINF:-1,Pl | Canal Film Hd
+http://force102.com:8080/mahmut49/sen49/10985
+#EXTINF:-1,Pl | Canal Seriale Hd
+http://force102.com:8080/mahmut49/sen49/10984
+#EXTINF:-1,Pl | Cartoon Network Hd
+http://force102.com:8080/mahmut49/sen49/10983
+#EXTINF:-1,Pl | Cbs Reality
+http://force102.com:8080/mahmut49/sen49/10982
+#EXTINF:-1,Pl | Cinemax
+http://force102.com:8080/mahmut49/sen49/10981
+#EXTINF:-1,Pl | Cinemax 2
+http://force102.com:8080/mahmut49/sen49/10980
+#EXTINF:-1,Pl | Comedy Central
+http://force102.com:8080/mahmut49/sen49/10979
+#EXTINF:-1,Pl | Eurosport 1
+http://force102.com:8080/mahmut49/sen49/10978
+#EXTINF:-1,Pl | Eurosport 2
+http://force102.com:8080/mahmut49/sen49/10977
+#EXTINF:-1,Pl | Filmbox
+http://force102.com:8080/mahmut49/sen49/10976
+#EXTINF:-1,Pl | Filmbox Action
+http://force102.com:8080/mahmut49/sen49/10975
+#EXTINF:-1,Pl | Filmbox Family
+http://force102.com:8080/mahmut49/sen49/10974
+#EXTINF:-1,Pl | Filmbox Preimuim
+http://force102.com:8080/mahmut49/sen49/10973
+#EXTINF:-1,Pl | Filmbox Premier
+http://force102.com:8080/mahmut49/sen49/10972
+#EXTINF:-1,Pl | Hbo
+http://force102.com:8080/mahmut49/sen49/10971
+#EXTINF:-1,Pl | Hbo 2 Hd
+http://force102.com:8080/mahmut49/sen49/10970
+#EXTINF:-1,Pl | Hbo 3 Hd
+http://force102.com:8080/mahmut49/sen49/10969
+#EXTINF:-1,Pl | National Geo Graphic
+http://force102.com:8080/mahmut49/sen49/10968
+#EXTINF:-1,Pl | Nick Jr
+http://force102.com:8080/mahmut49/sen49/10967
+#EXTINF:-1,Pl | Nicleodeon
+http://force102.com:8080/mahmut49/sen49/10966
+#EXTINF:-1,Pl | Nsport
+http://force102.com:8080/mahmut49/sen49/10965
+#EXTINF:-1,Pl | Polsat 1
+http://force102.com:8080/mahmut49/sen49/10964
+#EXTINF:-1,Pl | Polsat 2
+http://force102.com:8080/mahmut49/sen49/10963
+#EXTINF:-1,Pl | Polsat 2 Hd
+http://force102.com:8080/mahmut49/sen49/10962
+#EXTINF:-1,Pl | Polsat Cafe
+http://force102.com:8080/mahmut49/sen49/10961
+#EXTINF:-1,Pl | Polsat Film
+http://force102.com:8080/mahmut49/sen49/10960
+#EXTINF:-1,Pl | Polsat Food
+http://force102.com:8080/mahmut49/sen49/10959
+#EXTINF:-1,Pl | Polsat Play
+http://force102.com:8080/mahmut49/sen49/10958
+#EXTINF:-1,Pl | Polsat Romans
+http://force102.com:8080/mahmut49/sen49/10957
+#EXTINF:-1,Pl | Polsat Sport
+http://force102.com:8080/mahmut49/sen49/10956
+#EXTINF:-1,Pl | Polsat Sport Extra Hd
+http://force102.com:8080/mahmut49/sen49/10955
+#EXTINF:-1,Pl | Polsat Sports News
+http://force102.com:8080/mahmut49/sen49/10954
+#EXTINF:-1,Pl | Tvn 24
+http://force102.com:8080/mahmut49/sen49/10953
+#EXTINF:-1,Pl | Tvn Style
+http://force102.com:8080/mahmut49/sen49/10952
+#EXTINF:-1,Pl | Tvn Turbo
+http://force102.com:8080/mahmut49/sen49/10951
+#EXTINF:-1,Pl | Tvp 1
+http://force102.com:8080/mahmut49/sen49/10950
+#EXTINF:-1,Pl | Tvp 2
+http://force102.com:8080/mahmut49/sen49/10949
+#EXTINF:-1,Pl | Tvp 3
+http://force102.com:8080/mahmut49/sen49/10948
+#EXTINF:-1,Pl | Tvp Historia
+http://force102.com:8080/mahmut49/sen49/10947
+#EXTINF:-1,Pl | Tvp Info
+http://force102.com:8080/mahmut49/sen49/10946
+#EXTINF:-1,Pl | Tvp Kulture
+http://force102.com:8080/mahmut49/sen49/10945
+#EXTINF:-1,Pl | Tvp Sport Hd
+http://force102.com:8080/mahmut49/sen49/10944
+#EXTINF:-1,-------------- | PORTUGAL | --------------
+http://force102.com:8080/mahmut49/sen49/11020
+#EXTINF:-1,Pt | Axn Hd
+http://force102.com:8080/mahmut49/sen49/11000
+#EXTINF:-1,Pt | Canal Panda
+http://force102.com:8080/mahmut49/sen49/10997
+#EXTINF:-1,Pt | Cmtv
+http://force102.com:8080/mahmut49/sen49/11014
+#EXTINF:-1,Pt | Crime Investigation
+http://force102.com:8080/mahmut49/sen49/10998
+#EXTINF:-1,Pt | Rtp 1
+http://force102.com:8080/mahmut49/sen49/11009
+#EXTINF:-1,Pt | Rtp 2
+http://force102.com:8080/mahmut49/sen49/11010
+#EXTINF:-1,Pt | Rtp 3
+http://force102.com:8080/mahmut49/sen49/11007
+#EXTINF:-1,Pt | Sic
+http://force102.com:8080/mahmut49/sen49/11008
+#EXTINF:-1,Pt | Sic Mulher
+http://force102.com:8080/mahmut49/sen49/11011
+#EXTINF:-1,Pt | Sic Noticias
+http://force102.com:8080/mahmut49/sen49/11013
+#EXTINF:-1,Pt | Sport Tv
+http://force102.com:8080/mahmut49/sen49/10999
+#EXTINF:-1,Pt | Sport Tv 1 Hd
+http://force102.com:8080/mahmut49/sen49/11006
+#EXTINF:-1,Pt | Sport Tv 2 Hd
+http://force102.com:8080/mahmut49/sen49/11005
+#EXTINF:-1,Pt | Sport Tv 3 Hd
+http://force102.com:8080/mahmut49/sen49/11004
+#EXTINF:-1,Pt | Sport Tv 4 Hd
+http://force102.com:8080/mahmut49/sen49/11003
+#EXTINF:-1,Pt | Tv Series
+http://force102.com:8080/mahmut49/sen49/11001
+#EXTINF:-1,Pt | Tvcine 1
+http://force102.com:8080/mahmut49/sen49/11015
+#EXTINF:-1,Pt | Tvcine 2
+http://force102.com:8080/mahmut49/sen49/11016
+#EXTINF:-1,Pt | Tvcine 3
+http://force102.com:8080/mahmut49/sen49/11017
+#EXTINF:-1,Pt | Tvcine 4
+http://force102.com:8080/mahmut49/sen49/11018
+#EXTINF:-1,Pt | Tvi
+http://force102.com:8080/mahmut49/sen49/11019
+#EXTINF:-1,Pt | Tvi 24
+http://force102.com:8080/mahmut49/sen49/11002
+#EXTINF:-1,Pt | Tvi Ficcao
+http://force102.com:8080/mahmut49/sen49/11012
+#EXTINF:-1,-------------- | RUSSIA | --------------
+http://force102.com:8080/mahmut49/sen49/15279
+#EXTINF:-1,Rus | 2x2
+http://force102.com:8080/mahmut49/sen49/15278
+#EXTINF:-1,Rus | Amedia Premuim Hd
+http://force102.com:8080/mahmut49/sen49/15277
+#EXTINF:-1,Rus | Animal Planet Hd
+http://force102.com:8080/mahmut49/sen49/15276
+#EXTINF:-1,Rus | Boks Tv
+http://force102.com:8080/mahmut49/sen49/15274
+#EXTINF:-1,Rus | Cartoon Network
+http://force102.com:8080/mahmut49/sen49/15273
+#EXTINF:-1,Rus | Detektiv Tv
+http://force102.com:8080/mahmut49/sen49/15271
+#EXTINF:-1,Rus | Discney Channel
+http://force102.com:8080/mahmut49/sen49/15270
+#EXTINF:-1,Rus | Discovery Channel
+http://force102.com:8080/mahmut49/sen49/15269
+#EXTINF:-1,Rus | Eurosport
+http://force102.com:8080/mahmut49/sen49/15268
+#EXTINF:-1,Rus | Eurosport 2 Hd
+http://force102.com:8080/mahmut49/sen49/15267
+#EXTINF:-1,Rus | Eurosport Hd Russia
+http://force102.com:8080/mahmut49/sen49/15266
+#EXTINF:-1,Rus | Extreme Sport
+http://force102.com:8080/mahmut49/sen49/15265
+#EXTINF:-1,Rus | Fox Hd
+http://force102.com:8080/mahmut49/sen49/15262
+#EXTINF:-1,Rus | Fox Life
+http://force102.com:8080/mahmut49/sen49/15261
+#EXTINF:-1,Rus | Futbol
+http://force102.com:8080/mahmut49/sen49/15260
+#EXTINF:-1,Rus | Kinosemya
+http://force102.com:8080/mahmut49/sen49/15258
+#EXTINF:-1,Rus | Match
+http://force102.com:8080/mahmut49/sen49/15257
+#EXTINF:-1,Rus | Match Arena
+http://force102.com:8080/mahmut49/sen49/15256
+#EXTINF:-1,Rus | Match Futbal 1
+http://force102.com:8080/mahmut49/sen49/15255
+#EXTINF:-1,Rus | Match Futbal 3
+http://force102.com:8080/mahmut49/sen49/15254
+#EXTINF:-1,Rus | Match Futbol 2
+http://force102.com:8080/mahmut49/sen49/15253
+#EXTINF:-1,Rus | Match Hd
+http://force102.com:8080/mahmut49/sen49/15252
+#EXTINF:-1,Rus | Mujskoe Kino
+http://force102.com:8080/mahmut49/sen49/15249
+#EXTINF:-1,Rus | Music Box Ua
+http://force102.com:8080/mahmut49/sen49/15248
+#EXTINF:-1,Rus | Nat Geo Wild Hd
+http://force102.com:8080/mahmut49/sen49/15246
+#EXTINF:-1,Rus | National Geographic
+http://force102.com:8080/mahmut49/sen49/15245
+#EXTINF:-1,Rus | Nick Jr
+http://force102.com:8080/mahmut49/sen49/15244
+#EXTINF:-1,Rus | Ntv Mir
+http://force102.com:8080/mahmut49/sen49/15243
+#EXTINF:-1,Rus | Nvestigation Discovery Id Extra
+http://force102.com:8080/mahmut49/sen49/15242
+#EXTINF:-1,Rus | Rodnoe Kino
+http://force102.com:8080/mahmut49/sen49/15239
+#EXTINF:-1,Rus | Russkiy Roman
+http://force102.com:8080/mahmut49/sen49/15238
+#EXTINF:-1,Rus | Tlc Russia
+http://force102.com:8080/mahmut49/sen49/15234
+#EXTINF:-1,Rus | Tv 1000
+http://force102.com:8080/mahmut49/sen49/15233
+#EXTINF:-1,Rus | Tv 1000 Action
+http://force102.com:8080/mahmut49/sen49/15232
+#EXTINF:-1,Rus | Tv 1000 Comedy Hd
+http://force102.com:8080/mahmut49/sen49/15231
+#EXTINF:-1,Rus | Tv 1000 Mega Hit Hd
+http://force102.com:8080/mahmut49/sen49/15230
+#EXTINF:-1,Rus | Tv 1000 Premuim Hd
+http://force102.com:8080/mahmut49/sen49/15229
+#EXTINF:-1,Rus | Tv 21m
+http://force102.com:8080/mahmut49/sen49/15228
+#EXTINF:-1,Rus | Tv Center
+http://force102.com:8080/mahmut49/sen49/15227
+#EXTINF:-1,Rus | Viasat Explore
+http://force102.com:8080/mahmut49/sen49/15226
+#EXTINF:-1,Rus | Viasat History Hd
+http://force102.com:8080/mahmut49/sen49/15225
+#EXTINF:-1,Rus | Viasat Nature
+http://force102.com:8080/mahmut49/sen49/15224
+#EXTINF:-1,Rus | Viasat Sport
+http://force102.com:8080/mahmut49/sen49/15223
+#EXTINF:-1,Rus | Viasat Sport Hd
+http://force102.com:8080/mahmut49/sen49/15222
+#EXTINF:-1,-------------- | KURDISH | --------------
+http://force102.com:8080/mahmut49/sen49/10923
+#EXTINF:-1,Krd | Arti Tv
+http://force102.com:8080/mahmut49/sen49/10912
+#EXTINF:-1,Krd | Cira Tv
+http://force102.com:8080/mahmut49/sen49/10922
+#EXTINF:-1,Krd | Gem Kurd
+http://force102.com:8080/mahmut49/sen49/10920
+#EXTINF:-1,Krd | Gem Kurd Tv
+http://force102.com:8080/mahmut49/sen49/10908
+#EXTINF:-1,Krd | Kurdistan Tv
+http://force102.com:8080/mahmut49/sen49/10909
+#EXTINF:-1,Krd | Kurdmax
+http://force102.com:8080/mahmut49/sen49/10918
+#EXTINF:-1,Krd | Kurdsat
+http://force102.com:8080/mahmut49/sen49/10917
+#EXTINF:-1,Krd | Med Muzik
+http://force102.com:8080/mahmut49/sen49/10911
+#EXTINF:-1,Krd | Medya Haber
+http://force102.com:8080/mahmut49/sen49/10913
+#EXTINF:-1,Krd | Nrt
+http://force102.com:8080/mahmut49/sen49/10914
+#EXTINF:-1,Krd | Rohani
+http://force102.com:8080/mahmut49/sen49/10916
+#EXTINF:-1,Krd | Rojava Tv
+http://force102.com:8080/mahmut49/sen49/10915
+#EXTINF:-1,Krd | Rudaw Live
+http://force102.com:8080/mahmut49/sen49/10919
+#EXTINF:-1,Krd | Sterk
+http://force102.com:8080/mahmut49/sen49/10921
+#EXTINF:-1,Krd | Tv10
+http://force102.com:8080/mahmut49/sen49/10910
+#EXTINF:-1,-------------- | ARABIC | --------------
+http://force102.com:8080/mahmut49/sen49/2463
+#EXTINF:-1,AL EKHBARIA
+http://force102.com:8080/mahmut49/sen49/20696
+#EXTINF:-1,AR : BBC Arabic
+http://force102.com:8080/mahmut49/sen49/20695
+#EXTINF:-1,AR:  AL JAZEERA
+http://force102.com:8080/mahmut49/sen49/20694
+#EXTINF:-1,AR:  AL SHARQIA NEWS
+http://force102.com:8080/mahmut49/sen49/20693
+#EXTINF:-1,AR:  Alkass 1 HD
+http://force102.com:8080/mahmut49/sen49/20692
+#EXTINF:-1,AR:  MASRAWIA AFLAM
+http://force102.com:8080/mahmut49/sen49/20691
+#EXTINF:-1,AR:  Sama TV
+http://force102.com:8080/mahmut49/sen49/20690
+#EXTINF:-1,AR: Abu Dhabi Drama
+http://force102.com:8080/mahmut49/sen49/20689
+#EXTINF:-1,AR: ABU DHABI NAT GEO
+http://force102.com:8080/mahmut49/sen49/20688
+#EXTINF:-1,AR: AbuDhabi TV
+http://force102.com:8080/mahmut49/sen49/20687
+#EXTINF:-1,AR: AD Sport 1
+http://force102.com:8080/mahmut49/sen49/20686
+#EXTINF:-1,AR: AD Sport 2
+http://force102.com:8080/mahmut49/sen49/20685
+#EXTINF:-1,AR: AD Sport 3
+http://force102.com:8080/mahmut49/sen49/20684
+#EXTINF:-1,AR: AD Sport 4
+http://force102.com:8080/mahmut49/sen49/20683
+#EXTINF:-1,AR: AD Sport 5
+http://force102.com:8080/mahmut49/sen49/20682
+#EXTINF:-1,AR: ADEN TV
+http://force102.com:8080/mahmut49/sen49/20681
+#EXTINF:-1,AR: AFRAH
+http://force102.com:8080/mahmut49/sen49/20680
+#EXTINF:-1,AR: Aghani
+http://force102.com:8080/mahmut49/sen49/20679
+#EXTINF:-1,AR: AHWAZNA TV
+http://force102.com:8080/mahmut49/sen49/20678
+#EXTINF:-1,AR: Ajyal
+http://force102.com:8080/mahmut49/sen49/20677
+#EXTINF:-1,AR: AL ALAM
+http://force102.com:8080/mahmut49/sen49/20676
+#EXTINF:-1,AR: AL ARABIYA
+http://force102.com:8080/mahmut49/sen49/20675
+#EXTINF:-1,AR: AL EKhbaria
+http://force102.com:8080/mahmut49/sen49/20674
+#EXTINF:-1,AR: Al Hadath
+http://force102.com:8080/mahmut49/sen49/20673
+#EXTINF:-1,AR: AL HAYAT DZ
+http://force102.com:8080/mahmut49/sen49/20672
+#EXTINF:-1,AR: AL Hilal
+http://force102.com:8080/mahmut49/sen49/20671
+#EXTINF:-1,AR: AL JAMAHIRIA
+http://force102.com:8080/mahmut49/sen49/20670
+#EXTINF:-1,AR: Al JAMELA
+http://force102.com:8080/mahmut49/sen49/20669
+#EXTINF:-1,AR: AL JAZEERA MUBASHER
+http://force102.com:8080/mahmut49/sen49/20668
+#EXTINF:-1,AR: AL MAAREF
+http://force102.com:8080/mahmut49/sen49/20667
+#EXTINF:-1,AR: AL MAJD
+http://force102.com:8080/mahmut49/sen49/20666
+#EXTINF:-1,AR: AL MANAR
+http://force102.com:8080/mahmut49/sen49/20665
+#EXTINF:-1,AR: Al Mayadeen
+http://force102.com:8080/mahmut49/sen49/20664
+#EXTINF:-1,AR: AL Minbar
+http://force102.com:8080/mahmut49/sen49/20663
+#EXTINF:-1,AR: Al Nahar Drama
+http://force102.com:8080/mahmut49/sen49/20662
+#EXTINF:-1,AR: AL Nahar One
+http://force102.com:8080/mahmut49/sen49/20661
+#EXTINF:-1,AR: AL OSTORA
+http://force102.com:8080/mahmut49/sen49/20660
+#EXTINF:-1,AR: AL QUDS
+http://force102.com:8080/mahmut49/sen49/20659
+#EXTINF:-1,AR: AL RAHMA
+http://force102.com:8080/mahmut49/sen49/20658
+#EXTINF:-1,AR: AL Resala
+http://force102.com:8080/mahmut49/sen49/20657
+#EXTINF:-1,AR: AL SAAA COMEDY
+http://force102.com:8080/mahmut49/sen49/20656
+#EXTINF:-1,AR: AL Sahraa
+http://force102.com:8080/mahmut49/sen49/20655
+#EXTINF:-1,AR: AL SERAJ
+http://force102.com:8080/mahmut49/sen49/20654
+#EXTINF:-1,AR: AL SHALLAL
+http://force102.com:8080/mahmut49/sen49/20653
+#EXTINF:-1,AR: AL SHARQIYA HD
+http://force102.com:8080/mahmut49/sen49/20652
+#EXTINF:-1,AR: AL SIRAT
+http://force102.com:8080/mahmut49/sen49/20651
+#EXTINF:-1,AR: AL TALEAA TV
+http://force102.com:8080/mahmut49/sen49/20650
+#EXTINF:-1,AR: Al Thanya
+http://force102.com:8080/mahmut49/sen49/20649
+#EXTINF:-1,AR: Al Waad Channel
+http://force102.com:8080/mahmut49/sen49/20648
+#EXTINF:-1,AR: AL WAHA
+http://force102.com:8080/mahmut49/sen49/20647
+#EXTINF:-1,AR: AL Yawm
+http://force102.com:8080/mahmut49/sen49/20646
+#EXTINF:-1,AR: AL-SHAREYYAH CHANNEL
+http://force102.com:8080/mahmut49/sen49/20645
+#EXTINF:-1,AR: ALAAN TV
+http://force102.com:8080/mahmut49/sen49/20644
+#EXTINF:-1,AR: ALBAIT BAITAK  CINEMA
+http://force102.com:8080/mahmut49/sen49/20643
+#EXTINF:-1,AR: ALDAWAA ALSHAFY
+http://force102.com:8080/mahmut49/sen49/20642
+#EXTINF:-1,AR: ALGERIA  3
+http://force102.com:8080/mahmut49/sen49/20641
+#EXTINF:-1,AR: AlGhad AlMushreq
+http://force102.com:8080/mahmut49/sen49/20640
+#EXTINF:-1,AR: ALHAYAT
+http://force102.com:8080/mahmut49/sen49/20639
+#EXTINF:-1,AR: ALHAYAT ALAAN
+http://force102.com:8080/mahmut49/sen49/20638
+#EXTINF:-1,AR: ALHAYAT MUSALSALAT
+http://force102.com:8080/mahmut49/sen49/20637
+#EXTINF:-1,AR: Alhurra
+http://force102.com:8080/mahmut49/sen49/20636
+#EXTINF:-1,AR: aljadeed
+http://force102.com:8080/mahmut49/sen49/20635
+#EXTINF:-1,AR: ALJANOUBIA
+http://force102.com:8080/mahmut49/sen49/20634
+#EXTINF:-1,AR: Aljazeera Documentaire
+http://force102.com:8080/mahmut49/sen49/20633
+#EXTINF:-1,AR: Alkass 2 HD
+http://force102.com:8080/mahmut49/sen49/20632
+#EXTINF:-1,AR: Alkass 3
+http://force102.com:8080/mahmut49/sen49/20631
+#EXTINF:-1,AR: Alkass 4 HD
+http://force102.com:8080/mahmut49/sen49/20630
+#EXTINF:-1,AR: Alkass 5 HD
+http://force102.com:8080/mahmut49/sen49/20629
+#EXTINF:-1,AR: Alkass Online
+http://force102.com:8080/mahmut49/sen49/20628
+#EXTINF:-1,AR: ALMAGHARABIA
+http://force102.com:8080/mahmut49/sen49/20627
+#EXTINF:-1,AR: ALMAGHARABIA 2
+http://force102.com:8080/mahmut49/sen49/20626
+#EXTINF:-1,AR: AlMajd Quran
+http://force102.com:8080/mahmut49/sen49/20625
+#EXTINF:-1,AR: ALMASSAR AL OULA
+http://force102.com:8080/mahmut49/sen49/20624
+#EXTINF:-1,AR: ALNABAA HD
+http://force102.com:8080/mahmut49/sen49/20623
+#EXTINF:-1,AR: ALOULA MARROCO
+http://force102.com:8080/mahmut49/sen49/20622
+#EXTINF:-1,AR: Alqanat 9
+http://force102.com:8080/mahmut49/sen49/20621
+#EXTINF:-1,AR: ANN
+http://force102.com:8080/mahmut49/sen49/20620
+#EXTINF:-1,AR: APPLE AFLAM
+http://force102.com:8080/mahmut49/sen49/20619
+#EXTINF:-1,AR: APPLE CINEMALocal
+http://force102.com:8080/mahmut49/sen49/20618
+#EXTINF:-1,AR: APPLE COMEDY
+http://force102.com:8080/mahmut49/sen49/20617
+#EXTINF:-1,AR: APPLE HEKAYAT
+http://force102.com:8080/mahmut49/sen49/20616
+#EXTINF:-1,AR: APPLE MOSLSALAT
+http://force102.com:8080/mahmut49/sen49/20615
+#EXTINF:-1,AR: APPLE TODAY
+http://force102.com:8080/mahmut49/sen49/20614
+#EXTINF:-1,AR: ARABICA TV
+http://force102.com:8080/mahmut49/sen49/20613
+#EXTINF:-1,AR: ART AFLAM 1
+http://force102.com:8080/mahmut49/sen49/20612
+#EXTINF:-1,AR: ART AFLAM 2
+http://force102.com:8080/mahmut49/sen49/20611
+#EXTINF:-1,AR: ART CINEMA
+http://force102.com:8080/mahmut49/sen49/20610
+#EXTINF:-1,AR: ART HEKAYAT 1
+http://force102.com:8080/mahmut49/sen49/20609
+#EXTINF:-1,AR: ART HEKAYAT 2
+http://force102.com:8080/mahmut49/sen49/20608
+#EXTINF:-1,AR: Attessia
+http://force102.com:8080/mahmut49/sen49/20607
+#EXTINF:-1,AR: B4U AFLAM
+http://force102.com:8080/mahmut49/sen49/20606
+#EXTINF:-1,AR: Bahia
+http://force102.com:8080/mahmut49/sen49/20605
+#EXTINF:-1,AR: BAHRAIN SPORT
+http://force102.com:8080/mahmut49/sen49/20604
+#EXTINF:-1,AR: Baraem
+http://force102.com:8080/mahmut49/sen49/20603
+#EXTINF:-1,AR: BELODY AFLAM
+http://force102.com:8080/mahmut49/sen49/20602
+#EXTINF:-1,AR: Belqees
+http://force102.com:8080/mahmut49/sen49/20601
+#EXTINF:-1,AR: Beur
+http://force102.com:8080/mahmut49/sen49/20600
+#EXTINF:-1,AR: Carthage TV
+http://force102.com:8080/mahmut49/sen49/20599
+#EXTINF:-1,AR: CARTOON NETWORK
+http://force102.com:8080/mahmut49/sen49/20598
+#EXTINF:-1,AR: Cbc
+http://force102.com:8080/mahmut49/sen49/20597
+#EXTINF:-1,AR: CBC DRAMA
+http://force102.com:8080/mahmut49/sen49/20596
+#EXTINF:-1,AR: CBC EXTRA
+http://force102.com:8080/mahmut49/sen49/20595
+#EXTINF:-1,AR: CBC SOFRA
+http://force102.com:8080/mahmut49/sen49/20594
+#EXTINF:-1,AR: CHADA TV
+http://force102.com:8080/mahmut49/sen49/20593
+#EXTINF:-1,AR: CHAMS TV loacl
+http://force102.com:8080/mahmut49/sen49/20592
+#EXTINF:-1,AR: CIMA ALIBABA
+http://force102.com:8080/mahmut49/sen49/20591
+#EXTINF:-1,AR: CINEMA2
+http://force102.com:8080/mahmut49/sen49/20590
+#EXTINF:-1,AR: CITRUSS TV
+http://force102.com:8080/mahmut49/sen49/20589
+#EXTINF:-1,AR: Direct
+http://force102.com:8080/mahmut49/sen49/20588
+#EXTINF:-1,AR: Djazairia
+http://force102.com:8080/mahmut49/sen49/20587
+#EXTINF:-1,AR: DMC
+http://force102.com:8080/mahmut49/sen49/20586
+#EXTINF:-1,AR: DMC Drama
+http://force102.com:8080/mahmut49/sen49/20585
+#EXTINF:-1,AR: DOLLY MOSALSALAT
+http://force102.com:8080/mahmut49/sen49/20584
+#EXTINF:-1,AR: DR. ABO ELNASR
+http://force102.com:8080/mahmut49/sen49/20583
+#EXTINF:-1,AR: DREAM 2
+http://force102.com:8080/mahmut49/sen49/20582
+#EXTINF:-1,AR: DREAM TV
+http://force102.com:8080/mahmut49/sen49/20581
+#EXTINF:-1,AR: DUBAI
+http://force102.com:8080/mahmut49/sen49/20580
+#EXTINF:-1,AR: Dubai Drama
+http://force102.com:8080/mahmut49/sen49/20579
+#EXTINF:-1,AR: DUBAI ONE
+http://force102.com:8080/mahmut49/sen49/20578
+#EXTINF:-1,AR: Dubai Racing
+http://force102.com:8080/mahmut49/sen49/20577
+#EXTINF:-1,AR: Dubai Sport 2
+http://force102.com:8080/mahmut49/sen49/20576
+#EXTINF:-1,AR: Dubai Sports 1
+http://force102.com:8080/mahmut49/sen49/20575
+#EXTINF:-1,AR: Dubai Zaman
+http://force102.com:8080/mahmut49/sen49/20574
+#EXTINF:-1,AR: DubaiSport 3
+http://force102.com:8080/mahmut49/sen49/20573
+#EXTINF:-1,AR: Dzair
+http://force102.com:8080/mahmut49/sen49/20572
+#EXTINF:-1,AR: Echorouk
+http://force102.com:8080/mahmut49/sen49/20571
+#EXTINF:-1,AR: Echorouk Benna
+http://force102.com:8080/mahmut49/sen49/20570
+#EXTINF:-1,AR: Echorouk News
+http://force102.com:8080/mahmut49/sen49/20569
+#EXTINF:-1,AR: El Bilad
+http://force102.com:8080/mahmut49/sen49/20568
+#EXTINF:-1,AR: El Fadjr
+http://force102.com:8080/mahmut49/sen49/20567
+#EXTINF:-1,AR: El Haddaf
+http://force102.com:8080/mahmut49/sen49/20566
+#EXTINF:-1,AR: El Hiwar Tounsi
+http://force102.com:8080/mahmut49/sen49/20565
+#EXTINF:-1,AR: EL Sharq
+http://force102.com:8080/mahmut49/sen49/20564
+#EXTINF:-1,AR: Ennahar
+http://force102.com:8080/mahmut49/sen49/20563
+#EXTINF:-1,AR: Extra news
+http://force102.com:8080/mahmut49/sen49/20562
+#EXTINF:-1,AR: FRANCE 24
+http://force102.com:8080/mahmut49/sen49/20561
+#EXTINF:-1,AR: Funoon
+http://force102.com:8080/mahmut49/sen49/20560
+#EXTINF:-1,AR: GREEN LIFELocal
+http://force102.com:8080/mahmut49/sen49/20559
+#EXTINF:-1,AR: HABESHA
+http://force102.com:8080/mahmut49/sen49/20558
+#EXTINF:-1,AR: HALABA
+http://force102.com:8080/mahmut49/sen49/20557
+#EXTINF:-1,AR: HANNIBAL
+http://force102.com:8080/mahmut49/sen49/20556
+#EXTINF:-1,AR: HAREEM ELSULTAN
+http://force102.com:8080/mahmut49/sen49/20555
+#EXTINF:-1,AR: HAWAS TV
+http://force102.com:8080/mahmut49/sen49/20554
+#EXTINF:-1,AR: HEKAYA TV
+http://force102.com:8080/mahmut49/sen49/20553
+#EXTINF:-1,AR: Imagine Movie
+http://force102.com:8080/mahmut49/sen49/20552
+#EXTINF:-1,AR: IMAM REDA TV
+http://force102.com:8080/mahmut49/sen49/20551
+#EXTINF:-1,AR: Insen TV
+http://force102.com:8080/mahmut49/sen49/20550
+#EXTINF:-1,AR: IRAQIA SPORTS
+http://force102.com:8080/mahmut49/sen49/20549
+#EXTINF:-1,AR: IUC
+http://force102.com:8080/mahmut49/sen49/20548
+#EXTINF:-1,AR: JORDAN ADWAA
+http://force102.com:8080/mahmut49/sen49/20547
+#EXTINF:-1,AR: JORDAN LEQAA TV
+http://force102.com:8080/mahmut49/sen49/20546
+#EXTINF:-1,AR: JORDAN NOOR
+http://force102.com:8080/mahmut49/sen49/20545
+#EXTINF:-1,AR: Karameesh
+http://force102.com:8080/mahmut49/sen49/20544
+#EXTINF:-1,AR: KARBALA
+http://force102.com:8080/mahmut49/sen49/20543
+#EXTINF:-1,AR: KBS WORLD
+http://force102.com:8080/mahmut49/sen49/20542
+#EXTINF:-1,AR: KOKKY TV
+http://force102.com:8080/mahmut49/sen49/20541
+#EXTINF:-1,AR: KSA SPORT 1
+http://force102.com:8080/mahmut49/sen49/20540
+#EXTINF:-1,AR: KSA SPORT 2  Loal
+http://force102.com:8080/mahmut49/sen49/20539
+#EXTINF:-1,AR: KSA Sports 2
+http://force102.com:8080/mahmut49/sen49/20538
+#EXTINF:-1,AR: KTO
+http://force102.com:8080/mahmut49/sen49/20537
+#EXTINF:-1,AR: KUWAIT AL-ARABI
+http://force102.com:8080/mahmut49/sen49/20536
+#EXTINF:-1,AR: LANA TV
+http://force102.com:8080/mahmut49/sen49/20535
+#EXTINF:-1,AR: LBC LEBANON
+http://force102.com:8080/mahmut49/sen49/20534
+#EXTINF:-1,AR: LCD
+http://force102.com:8080/mahmut49/sen49/20533
+#EXTINF:-1,AR: LCD MOVIES
+http://force102.com:8080/mahmut49/sen49/20532
+#EXTINF:-1,AR: ldc
+http://force102.com:8080/mahmut49/sen49/20531
+#EXTINF:-1,AR: Libya Almarsad
+http://force102.com:8080/mahmut49/sen49/20530
+#EXTINF:-1,AR: Libya elwatan
+http://force102.com:8080/mahmut49/sen49/20529
+#EXTINF:-1,AR: LIBYA WAAD FM
+http://force102.com:8080/mahmut49/sen49/20528
+#EXTINF:-1,AR: M CINEMA
+http://force102.com:8080/mahmut49/sen49/20527
+#EXTINF:-1,AR: M TUNISIA
+http://force102.com:8080/mahmut49/sen49/20526
+#EXTINF:-1,AR: MAJID KIDS
+http://force102.com:8080/mahmut49/sen49/20525
+#EXTINF:-1,AR: MARJAEYAT 2
+http://force102.com:8080/mahmut49/sen49/20524
+#EXTINF:-1,AR: MASDAR TV
+http://force102.com:8080/mahmut49/sen49/20523
+#EXTINF:-1,AR: Maspero Zaman
+http://force102.com:8080/mahmut49/sen49/20522
+#EXTINF:-1,AR: Mazzika HITS
+http://force102.com:8080/mahmut49/sen49/20521
+#EXTINF:-1,AR: Mazzika TV
+http://force102.com:8080/mahmut49/sen49/20520
+#EXTINF:-1,AR: MBC 1
+http://force102.com:8080/mahmut49/sen49/20519
+#EXTINF:-1,AR: MBC 2
+http://force102.com:8080/mahmut49/sen49/20518
+#EXTINF:-1,AR: MBC Masr1
+http://force102.com:8080/mahmut49/sen49/20517
+#EXTINF:-1,AR: MBC Masr2
+http://force102.com:8080/mahmut49/sen49/20516
+#EXTINF:-1,AR: MBC MAX
+http://force102.com:8080/mahmut49/sen49/20515
+#EXTINF:-1,AR: MBCODE TV
+http://force102.com:8080/mahmut49/sen49/20514
+#EXTINF:-1,AR: MD
+http://force102.com:8080/mahmut49/sen49/20513
+#EXTINF:-1,AR: MEDIA SLIDE
+http://force102.com:8080/mahmut49/sen49/20512
+#EXTINF:-1,AR: MESAT HD
+http://force102.com:8080/mahmut49/sen49/20511
+#EXTINF:-1,AR: MICKEY TV
+http://force102.com:8080/mahmut49/sen49/20510
+#EXTINF:-1,AR: Modern Sport
+http://force102.com:8080/mahmut49/sen49/20509
+#EXTINF:-1,AR: MODY KIDS
+http://force102.com:8080/mahmut49/sen49/20508
+#EXTINF:-1,AR: MOSALSALAT TUBE
+http://force102.com:8080/mahmut49/sen49/20507
+#EXTINF:-1,AR: MTV LEBNON
+http://force102.com:8080/mahmut49/sen49/20506
+#EXTINF:-1,AR: MUSTAKILLAH
+http://force102.com:8080/mahmut49/sen49/20505
+#EXTINF:-1,AR: Nat Geo Kids
+http://force102.com:8080/mahmut49/sen49/20504
+#EXTINF:-1,AR: Nessma
+http://force102.com:8080/mahmut49/sen49/20503
+#EXTINF:-1,AR: Nile Cinema
+http://force102.com:8080/mahmut49/sen49/20502
+#EXTINF:-1,AR: Nile Comedy
+http://force102.com:8080/mahmut49/sen49/20501
+#EXTINF:-1,AR: Nile Culture
+http://force102.com:8080/mahmut49/sen49/20500
+#EXTINF:-1,AR: Nile Drama
+http://force102.com:8080/mahmut49/sen49/20499
+#EXTINF:-1,AR: Nile Life
+http://force102.com:8080/mahmut49/sen49/20498
+#EXTINF:-1,AR: Nile News
+http://force102.com:8080/mahmut49/sen49/20497
+#EXTINF:-1,AR | ALAnwar
+http://force102.com:8080/mahmut49/sen49/10651
+#EXTINF:-1,AR: NILE SPORT
+http://force102.com:8080/mahmut49/sen49/20496
+#EXTINF:-1,AR: Noor Dudai
+http://force102.com:8080/mahmut49/sen49/20495
+#EXTINF:-1,AR: NOUR ELSHAM
+http://force102.com:8080/mahmut49/sen49/20494
+#EXTINF:-1,AR: NUMIDIA
+http://force102.com:8080/mahmut49/sen49/20493
+#EXTINF:-1,AR: ON Drama
+http://force102.com:8080/mahmut49/sen49/20492
+#EXTINF:-1,AR: ON Live
+http://force102.com:8080/mahmut49/sen49/20491
+#EXTINF:-1,AR: ON SPORT
+http://force102.com:8080/mahmut49/sen49/20490
+#EXTINF:-1,AR: ON-E
+http://force102.com:8080/mahmut49/sen49/20489
+#EXTINF:-1,AR: One dream
+http://force102.com:8080/mahmut49/sen49/20488
+#EXTINF:-1,AR: ORIENT
+http://force102.com:8080/mahmut49/sen49/20487
+#EXTINF:-1,AR: Oscar TV
+http://force102.com:8080/mahmut49/sen49/20486
+#EXTINF:-1,AR: Palestine
+http://force102.com:8080/mahmut49/sen49/20485
+#EXTINF:-1,AR: PANORAMA DRAMA
+http://force102.com:8080/mahmut49/sen49/20484
+#EXTINF:-1,AR: PANORAMA DRAMA 2
+http://force102.com:8080/mahmut49/sen49/20483
+#EXTINF:-1,AR: Panorama-Film
+http://force102.com:8080/mahmut49/sen49/20482
+#EXTINF:-1,AR: PUBLITOOLS
+http://force102.com:8080/mahmut49/sen49/20481
+#EXTINF:-1,AR: QUEST ARABIA (DOC)
+http://force102.com:8080/mahmut49/sen49/20480
+#EXTINF:-1,AR: QURAN TV
+http://force102.com:8080/mahmut49/sen49/20479
+#EXTINF:-1,AR: RASHEED
+http://force102.com:8080/mahmut49/sen49/20478
+#EXTINF:-1,AR: ROTANA
+http://force102.com:8080/mahmut49/sen49/20477
+#EXTINF:-1,AR: Rotana Cinema EGY
+http://force102.com:8080/mahmut49/sen49/20476
+#EXTINF:-1,AR: Rotana Cinema KSA
+http://force102.com:8080/mahmut49/sen49/20475
+#EXTINF:-1,AR: Rotana Clip
+http://force102.com:8080/mahmut49/sen49/20474
+#EXTINF:-1,AR: Rotana Drama
+http://force102.com:8080/mahmut49/sen49/20473
+#EXTINF:-1,AR: Rotana Khalijiah
+http://force102.com:8080/mahmut49/sen49/20472
+#EXTINF:-1,AR: RT ARABIC
+http://force102.com:8080/mahmut49/sen49/20471
+#EXTINF:-1,AR: SAHAR TV
+http://force102.com:8080/mahmut49/sen49/20470
+#EXTINF:-1,AR: Sama Dubai
+http://force102.com:8080/mahmut49/sen49/20469
+#EXTINF:-1,AR: SAMIRA TV
+http://force102.com:8080/mahmut49/sen49/20468
+#EXTINF:-1,AR: SAT TV
+http://force102.com:8080/mahmut49/sen49/20467
+#EXTINF:-1,AR: Saudi 1
+http://force102.com:8080/mahmut49/sen49/20466
+#EXTINF:-1,AR: SAUDI 24
+http://force102.com:8080/mahmut49/sen49/20465
+#EXTINF:-1,AR: Saudi Al Haj
+http://force102.com:8080/mahmut49/sen49/20464
+#EXTINF:-1,AR: SAUDI ANTI TERRORISM
+http://force102.com:8080/mahmut49/sen49/20463
+#EXTINF:-1,AR: SAUDI FAMILY
+http://force102.com:8080/mahmut49/sen49/20462
+#EXTINF:-1,AR: Saudi Quran
+http://force102.com:8080/mahmut49/sen49/20461
+#EXTINF:-1,AR: Saudi Sunnah
+http://force102.com:8080/mahmut49/sen49/20460
+#EXTINF:-1,AR: SBC
+http://force102.com:8080/mahmut49/sen49/20459
+#EXTINF:-1,AR: SHAABEYAT
+http://force102.com:8080/mahmut49/sen49/20458
+#EXTINF:-1,AR: Shahrazad Alkher
+http://force102.com:8080/mahmut49/sen49/20457
+#EXTINF:-1,AR: SKY NEWS ARABIA
+http://force102.com:8080/mahmut49/sen49/20456
+#EXTINF:-1,AR: South TV
+http://force102.com:8080/mahmut49/sen49/20455
+#EXTINF:-1,AR: SPACETOON
+http://force102.com:8080/mahmut49/sen49/20454
+#EXTINF:-1,AR: Star Cinema 1
+http://force102.com:8080/mahmut49/sen49/20453
+#EXTINF:-1,AR: Star Cinema 2
+http://force102.com:8080/mahmut49/sen49/20452
+#EXTINF:-1,AR: SUHAIL TV
+http://force102.com:8080/mahmut49/sen49/20451
+#EXTINF:-1,AR: Sumaria
+http://force102.com:8080/mahmut49/sen49/20450
+#EXTINF:-1,AR: Syria
+http://force102.com:8080/mahmut49/sen49/20449
+#EXTINF:-1,AR: SYRIA DRAMA
+http://force102.com:8080/mahmut49/sen49/20448
+#EXTINF:-1,AR: SYRIA EDUCATION
+http://force102.com:8080/mahmut49/sen49/20447
+#EXTINF:-1,AR: SYRIA FM
+http://force102.com:8080/mahmut49/sen49/20446
+#EXTINF:-1,AR: SYRIA SATELLITE
+http://force102.com:8080/mahmut49/sen49/20445
+#EXTINF:-1,AR: TAHA
+http://force102.com:8080/mahmut49/sen49/20444
+#EXTINF:-1,AR: TANASUH TV
+http://force102.com:8080/mahmut49/sen49/20443
+#EXTINF:-1,AR: TATT7
+http://force102.com:8080/mahmut49/sen49/20442
+#EXTINF:-1,AR: TCHAD
+http://force102.com:8080/mahmut49/sen49/20441
+#EXTINF:-1,AR: TELE MAROC
+http://force102.com:8080/mahmut49/sen49/20440
+#EXTINF:-1,AR: Telvza
+http://force102.com:8080/mahmut49/sen49/20439
+#EXTINF:-1,AR: TOKTOK CIMA
+http://force102.com:8080/mahmut49/sen49/20438
+#EXTINF:-1,AR: TOYOR ALJANNAH
+http://force102.com:8080/mahmut49/sen49/20437
+#EXTINF:-1,AR: TOYOR-BABY
+http://force102.com:8080/mahmut49/sen49/20436
+#EXTINF:-1,AR: TRT Arabia
+http://force102.com:8080/mahmut49/sen49/20435
+#EXTINF:-1,AR: Tunisia NAT 1
+http://force102.com:8080/mahmut49/sen49/20434
+#EXTINF:-1,AR: TUNISIA NAT 2
+http://force102.com:8080/mahmut49/sen49/20433
+#EXTINF:-1,AR: TUNISNA
+http://force102.com:8080/mahmut49/sen49/20432
+#EXTINF:-1,AR: Wanasah
+http://force102.com:8080/mahmut49/sen49/20431
+#EXTINF:-1,AR: Yas Tv
+http://force102.com:8080/mahmut49/sen49/20430
+#EXTINF:-1,AR: ZAYTOONA TV
+http://force102.com:8080/mahmut49/sen49/20429
+#EXTINF:-1,AR: ZEE AFLAM
+http://force102.com:8080/mahmut49/sen49/20428
+#EXTINF:-1,AR: ZEE ALWAN
+http://force102.com:8080/mahmut49/sen49/20427
+#EXTINF:-1,AR:Al Kahera Wal Nas 1
+http://force102.com:8080/mahmut49/sen49/20426
+#EXTINF:-1,AR:Al Kahera Wal Nas 2
+http://force102.com:8080/mahmut49/sen49/20425
+#EXTINF:-1,AR:MBC 3
+http://force102.com:8080/mahmut49/sen49/20424
+#EXTINF:-1,AR:MBC 4
+http://force102.com:8080/mahmut49/sen49/20423
+#EXTINF:-1,AR:MBC Action
+http://force102.com:8080/mahmut49/sen49/20422
+#EXTINF:-1,AR:MBC Bollywood
+http://force102.com:8080/mahmut49/sen49/20421
+#EXTINF:-1,AR:MBC DRAMA
+http://force102.com:8080/mahmut49/sen49/20420
+#EXTINF:-1,MA: 2M TV
+http://force102.com:8080/mahmut49/sen49/20418
+#EXTINF:-1,MA: aflam 7 TV
+http://force102.com:8080/mahmut49/sen49/20417
+#EXTINF:-1,MA: Al Aoula Inter
+http://force102.com:8080/mahmut49/sen49/20416
+#EXTINF:-1,MA: AL Maghribia
+http://force102.com:8080/mahmut49/sen49/20415
+#EXTINF:-1,MA: Arrabiaa
+http://force102.com:8080/mahmut49/sen49/20414
+#EXTINF:-1,MA: Arryadia
+http://force102.com:8080/mahmut49/sen49/20413
+#EXTINF:-1,MA: Assadissa
+http://force102.com:8080/mahmut49/sen49/20412
+#EXTINF:-1,MA: Tamazight
+http://force102.com:8080/mahmut49/sen49/20411
+#EXTINF:-1,MA:al_aoula_laayoune
+http://force102.com:8080/mahmut49/sen49/20410
+#EXTINF:-1,MA:Medi1
+http://force102.com:8080/mahmut49/sen49/20409
+#EXTINF:-1,MA:Tele_Maroc
+http://force102.com:8080/mahmut49/sen49/20408
+#EXTINF:-1,MAR: ALMAGHARIBIA 2
+http://force102.com:8080/mahmut49/sen49/20419
+#EXTINF:-1,Ar | Bein 1 Hd
+http://force102.com:8080/mahmut49/sen49/10901
+#EXTINF:-1,Ar | Bein 2 Hd
+http://force102.com:8080/mahmut49/sen49/10900
+#EXTINF:-1,Ar | Bein 3 Hd
+http://force102.com:8080/mahmut49/sen49/10899
+#EXTINF:-1,Ar | Bein 4 Hd
+http://force102.com:8080/mahmut49/sen49/10898
+#EXTINF:-1,Ar | Bein 5 Hd
+http://force102.com:8080/mahmut49/sen49/10897
+#EXTINF:-1,Ar | Bein 6 Hd
+http://force102.com:8080/mahmut49/sen49/10896
+#EXTINF:-1,Ar | Bein 7 Hd
+http://force102.com:8080/mahmut49/sen49/10895
+#EXTINF:-1,Ar | Bein 8 Hd
+http://force102.com:8080/mahmut49/sen49/10894
+#EXTINF:-1,Ar | Bein 9 Hd
+http://force102.com:8080/mahmut49/sen49/10893
+#EXTINF:-1,Ar | Bein 10 Hd
+http://force102.com:8080/mahmut49/sen49/10892
+#EXTINF:-1,Ar| Bein Sports-11hd
+http://force102.com:8080/mahmut49/sen49/10242
+#EXTINF:-1,Ar| Bein Sports-12hd
+http://force102.com:8080/mahmut49/sen49/10241
+#EXTINF:-1,Ar| Bein Sports-13hd
+http://force102.com:8080/mahmut49/sen49/10240
+#EXTINF:-1,PT: 24 Kitchen
+http://force102.com:8080/mahmut49/sen49/20275
+#EXTINF:-1,PT: A Bola TV
+http://force102.com:8080/mahmut49/sen49/20274
+#EXTINF:-1,PT: AMC
+http://force102.com:8080/mahmut49/sen49/20273
+#EXTINF:-1,PT: AXN Black HD
+http://force102.com:8080/mahmut49/sen49/20272
+#EXTINF:-1,PT: AXN White
+http://force102.com:8080/mahmut49/sen49/20271
+#EXTINF:-1,PT: Baby TV
+http://force102.com:8080/mahmut49/sen49/20270
+#EXTINF:-1,PT: Barca TV
+http://force102.com:8080/mahmut49/sen49/20269
+#EXTINF:-1,PT: Benfica TV HD
+http://force102.com:8080/mahmut49/sen49/20268
+#EXTINF:-1,PT: Biggs
+http://force102.com:8080/mahmut49/sen49/20267
+#EXTINF:-1,PT: CaÃ§a e Pesca
+http://force102.com:8080/mahmut49/sen49/20266
+#EXTINF:-1,PT: CAÃ‡AVISION
+http://force102.com:8080/mahmut49/sen49/20265
+#EXTINF:-1,PT: Canal Q
+http://force102.com:8080/mahmut49/sen49/20264
+#EXTINF:-1,PT: Cartoon Network
+http://force102.com:8080/mahmut49/sen49/20263
+#EXTINF:-1,PT: CBS Reality
+http://force102.com:8080/mahmut49/sen49/20262
+#EXTINF:-1,PT: Cinemundo
+http://force102.com:8080/mahmut49/sen49/20261
+#EXTINF:-1,PT: Discovery Channel
+http://force102.com:8080/mahmut49/sen49/20260
+#EXTINF:-1,PT: Discovery Showcase
+http://force102.com:8080/mahmut49/sen49/20259
+#EXTINF:-1,PT: Disney Channel
+http://force102.com:8080/mahmut49/sen49/20258
+#EXTINF:-1,PT: Disney Junior
+http://force102.com:8080/mahmut49/sen49/20257
+#EXTINF:-1,PT: Eleven Sports 1HD
+http://force102.com:8080/mahmut49/sen49/20256
+#EXTINF:-1,PT: Eleven Sports 2HD
+http://force102.com:8080/mahmut49/sen49/20255
+#EXTINF:-1,PT: Eleven Sports 3HD
+http://force102.com:8080/mahmut49/sen49/20254
+#EXTINF:-1,PT: Eleven Sports 4HD
+http://force102.com:8080/mahmut49/sen49/20253
+#EXTINF:-1,PT: Eleven Sports 5HD
+http://force102.com:8080/mahmut49/sen49/20252
+#EXTINF:-1,PT: Eleven Sports 6HD
+http://force102.com:8080/mahmut49/sen49/20251
+#EXTINF:-1,PT: Eurosport 1
+http://force102.com:8080/mahmut49/sen49/20250
+#EXTINF:-1,PT: Eurosport 2
+http://force102.com:8080/mahmut49/sen49/20249
+#EXTINF:-1,PT: FOX Comedy
+http://force102.com:8080/mahmut49/sen49/20248
+#EXTINF:-1,PT: Fox Crime
+http://force102.com:8080/mahmut49/sen49/20247
+#EXTINF:-1,PT: FOX HD
+http://force102.com:8080/mahmut49/sen49/20246
+#EXTINF:-1,PT: FOX Life HD
+http://force102.com:8080/mahmut49/sen49/20245
+#EXTINF:-1,PT: FOX Movies
+http://force102.com:8080/mahmut49/sen49/20244
+#EXTINF:-1,PT: Fuel TV
+http://force102.com:8080/mahmut49/sen49/20243
+#EXTINF:-1,PT: Historia
+http://force102.com:8080/mahmut49/sen49/20242
+#EXTINF:-1,PT: Hollywood
+http://force102.com:8080/mahmut49/sen49/20241
+#EXTINF:-1,PT: JimJam
+http://force102.com:8080/mahmut49/sen49/20240
+#EXTINF:-1,PT: Kombat Sport
+http://force102.com:8080/mahmut49/sen49/20239
+#EXTINF:-1,PT: Motorvision
+http://force102.com:8080/mahmut49/sen49/20238
+#EXTINF:-1,PT: Nat Geo
+http://force102.com:8080/mahmut49/sen49/20237
+#EXTINF:-1,PT: Nat Geo Wild
+http://force102.com:8080/mahmut49/sen49/20236
+#EXTINF:-1,PT: Nickelodeon
+http://force102.com:8080/mahmut49/sen49/20235
+#EXTINF:-1,PT: Odissea
+http://force102.com:8080/mahmut49/sen49/20234
+#EXTINF:-1,PT: PFC
+http://force102.com:8080/mahmut49/sen49/20233
+#EXTINF:-1,PT: Porto Canal
+http://force102.com:8080/mahmut49/sen49/20232
+#EXTINF:-1,PT: Real Madrid TV
+http://force102.com:8080/mahmut49/sen49/20231
+#EXTINF:-1,PT: RTP Africa
+http://force102.com:8080/mahmut49/sen49/20230
+#EXTINF:-1,PT: SIC
+http://force102.com:8080/mahmut49/sen49/20229
+#EXTINF:-1,PT: SIC CARAS
+http://force102.com:8080/mahmut49/sen49/20228
+#EXTINF:-1,PT: SIC K
+http://force102.com:8080/mahmut49/sen49/20227
+#EXTINF:-1,PT: SIC Radical
+http://force102.com:8080/mahmut49/sen49/20226
+#EXTINF:-1,PT: Sport TV
+http://force102.com:8080/mahmut49/sen49/20225
+#EXTINF:-1,PT: Sport TV 1HD
+http://force102.com:8080/mahmut49/sen49/20224
+#EXTINF:-1,PT: Sport TV 2HD
+http://force102.com:8080/mahmut49/sen49/20223
+#EXTINF:-1,PT: Sport TV 3HD
+http://force102.com:8080/mahmut49/sen49/20222
+#EXTINF:-1,PT: Sport TV 4 HD
+http://force102.com:8080/mahmut49/sen49/20221
+#EXTINF:-1,PT: Sport TV 5 HD
+http://force102.com:8080/mahmut49/sen49/20220
+#EXTINF:-1,PT: Sporting TV
+http://force102.com:8080/mahmut49/sen49/20219
+#EXTINF:-1,PT: SYFY
+http://force102.com:8080/mahmut49/sen49/20218
+#EXTINF:-1,PT: TLC
+http://force102.com:8080/mahmut49/sen49/20217
+#EXTINF:-1,PT: Toros TV
+http://force102.com:8080/mahmut49/sen49/20216
+#EXTINF:-1,PT: TV Globo
+http://force102.com:8080/mahmut49/sen49/20215
+#EXTINF:-1,PT: TV Globo Premium
+http://force102.com:8080/mahmut49/sen49/20214
+#EXTINF:-1,PT: TV Record
+http://force102.com:8080/mahmut49/sen49/20213
+#EXTINF:-1,PT: TVi Reality
+http://force102.com:8080/mahmut49/sen49/20212
+#EXTINF:-1,Ro | Antena Stars
+http://force102.com:8080/mahmut49/sen49/20313
+#EXTINF:-1,Ro | AXN
+http://force102.com:8080/mahmut49/sen49/20312
+#EXTINF:-1,Ro | AXN Black
+http://force102.com:8080/mahmut49/sen49/20311
+#EXTINF:-1,Ro | AXN White
+http://force102.com:8080/mahmut49/sen49/20310
+#EXTINF:-1,Ro | B1
+http://force102.com:8080/mahmut49/sen49/20309
+#EXTINF:-1,Ro | Digi 24 HD
+http://force102.com:8080/mahmut49/sen49/20308
+#EXTINF:-1,Ro | DIGI Animal World
+http://force102.com:8080/mahmut49/sen49/20307
+#EXTINF:-1,Ro | Digi Life
+http://force102.com:8080/mahmut49/sen49/20306
+#EXTINF:-1,Ro | Digi World
+http://force102.com:8080/mahmut49/sen49/20305
+#EXTINF:-1,Ro | Disney Channel
+http://force102.com:8080/mahmut49/sen49/20304
+#EXTINF:-1,Ro | Disney Junior
+http://force102.com:8080/mahmut49/sen49/20303
+#EXTINF:-1,Ro | ETNO TV
+http://force102.com:8080/mahmut49/sen49/20302
+#EXTINF:-1,Ro | Eurosport 2
+http://force102.com:8080/mahmut49/sen49/20301
+#EXTINF:-1,Ro | Fishing & Hunting
+http://force102.com:8080/mahmut49/sen49/20300
+#EXTINF:-1,Ro | Happy Channel
+http://force102.com:8080/mahmut49/sen49/20299
+#EXTINF:-1,Ro | HAPPY TV
+http://force102.com:8080/mahmut49/sen49/20298
+#EXTINF:-1,Ro | HBO 1
+http://force102.com:8080/mahmut49/sen49/20297
+#EXTINF:-1,Ro | HBO 2
+http://force102.com:8080/mahmut49/sen49/20296
+#EXTINF:-1,Ro | HBO 3
+http://force102.com:8080/mahmut49/sen49/20295
+#EXTINF:-1,Ro | KANAL D
+http://force102.com:8080/mahmut49/sen49/20294
+#EXTINF:-1,Ro | Kiss TV
+http://force102.com:8080/mahmut49/sen49/20293
+#EXTINF:-1,Ro | MiniMax
+http://force102.com:8080/mahmut49/sen49/20292
+#EXTINF:-1,Ro | Music Channel
+http://force102.com:8080/mahmut49/sen49/20291
+#EXTINF:-1,Ro | Music Channel HU
+http://force102.com:8080/mahmut49/sen49/20290
+#EXTINF:-1,Ro | Nat Geo Wild
+http://force102.com:8080/mahmut49/sen49/20289
+#EXTINF:-1,Ro | National Geographic
+http://force102.com:8080/mahmut49/sen49/20288
+#EXTINF:-1,Ro | Nickelodeon
+http://force102.com:8080/mahmut49/sen49/20287
+#EXTINF:-1,Ro | Paramount Channel
+http://force102.com:8080/mahmut49/sen49/20286
+#EXTINF:-1,Ro | PRO CINEMA
+http://force102.com:8080/mahmut49/sen49/20285
+#EXTINF:-1,Ro | PRO TV
+http://force102.com:8080/mahmut49/sen49/20284
+#EXTINF:-1,Ro | Realitatea TV
+http://force102.com:8080/mahmut49/sen49/20283
+#EXTINF:-1,Ro | Romania TV
+http://force102.com:8080/mahmut49/sen49/20282
+#EXTINF:-1,Ro | SPORT ROMANIA
+http://force102.com:8080/mahmut49/sen49/20281
+#EXTINF:-1,Ro | Taraf TV
+http://force102.com:8080/mahmut49/sen49/20280
+#EXTINF:-1,Ro | TV 1000
+http://force102.com:8080/mahmut49/sen49/20279
+#EXTINF:-1,Ro | TVR1
+http://force102.com:8080/mahmut49/sen49/20278
+#EXTINF:-1,Ro | TVR2
+http://force102.com:8080/mahmut49/sen49/20277
