@@ -1,74 +1,75 @@
 #EXTM3U
-http://red-vip.com:8080/talha/17042018/10885
-#EXTINF:-1,Srf Sport 1
-http://red-vip.com:8080/talha/17042018/221
-#EXTINF:-1,Sport1+ HD
-http://red-vip.com:8080/talha/17042018/211
-#EXTINF:-1,Sport1 US HD
-http://red-vip.com:8080/talha/17042018/212
-#EXTINF:-1,Sky Sport HD 1
-http://red-vip.com:8080/talha/17042018/238
-#EXTINF:-1,*Sky Sport 1 HD
-http://red-vip.com:8080/talha/17042018/21317
-#EXTINF:-1,*Sky Sport 2 HD
-http://red-vip.com:8080/talha/17042018/21316
-#EXTINF:-1,Sky Sport HD 2
-http://red-vip.com:8080/talha/17042018/237
-#EXTINF:-1,Sky Sport HD 3
-http://red-vip.com:8080/talha/17042018/20819
-#EXTINF:-1,Sky Sport HD 4
-http://red-vip.com:8080/talha/17042018/20818
-#EXTINF:-1,Sky Sport HD 5
-http://red-vip.com:8080/talha/17042018/20817
-#EXTINF:-1,Sky Sport HD 6
-http://red-vip.com:8080/talha/17042018/20816
-#EXTINF:-1,Sky Sport HD 7
-http://red-vip.com:8080/talha/17042018/20815
-#EXTINF:-1,Sky Sport HD 8
-http://red-vip.com:8080/talha/17042018/20814
-#EXTINF:-1,Sky Sport HD 9
-http://red-vip.com:8080/talha/17042018/20813
-#EXTINF:-1,Sky Sport HD 10
-http://red-vip.com:8080/talha/17042018/20820
-#EXTINF:-1,Sky Sport News HD
-http://red-vip.com:8080/talha/17042018/214
-#EXTINF:-1,Sky Sport Austria HD
-http://red-vip.com:8080/talha/17042018/213
-#EXTINF:-1,Sky Bundesliga 1
-http://red-vip.com:8080/talha/17042018/215
-#EXTINF:-1,Sky Bundesliga HD 1
-http://red-vip.com:8080/talha/17042018/649
-#EXTINF:-1,*Sky Bundesliga 1 SD
-http://red-vip.com:8080/talha/17042018/21319
-#EXTINF:-1,*Sky Bundesliga HD 1
-http://red-vip.com:8080/talha/17042018/21320
-#EXTINF:-1,*Sky Bundesliga HD 2
-http://red-vip.com:8080/talha/17042018/21318
-#EXTINF:-1,Sky Bundesliga HD 2
-http://red-vip.com:8080/talha/17042018/648
-#EXTINF:-1,Sky Bundesliga HD 3
-http://red-vip.com:8080/talha/17042018/647
-#EXTINF:-1,Sky Bundesliga HD 4
-http://red-vip.com:8080/talha/17042018/646
-#EXTINF:-1,Sky Bundesliga HD 5
-http://red-vip.com:8080/talha/17042018/645
-#EXTINF:-1,Sky Bundesliga HD 6
-http://red-vip.com:8080/talha/17042018/20824
-#EXTINF:-1,Sky Bundesliga HD 7
-http://red-vip.com:8080/talha/17042018/20823
-#EXTINF:-1,Sky Bundesliga HD 8
-http://red-vip.com:8080/talha/17042018/20822
-#EXTINF:-1,Sky Bundesliga HD 9
-http://red-vip.com:8080/talha/17042018/20821
-#EXTINF:-1,Sky Bundesliga HD 10
-http://red-vip.com:8080/talha/17042018/20825
-#EXTINF:-1,Eurosport 2 Xtra
-http://red-vip.com:8080/talha/17042018/4878
-#EXTINF:-1,Eurosport 1 HD
-http://red-vip.com:8080/talha/17042018/236
-#EXTINF:-1,Eurosport 2 HD
-http://red-vip.com:8080/talha/17042018/235
-#EXTINF:-1,Dazn 1 HD
-http://red-vip.com:8080/talha/17042018/20017
-#EXTINF:-1,Dazn 2 HD
-http://red-vip.com:8080/talha/17042018/20018
+#EXTINF:-1,Bein Sports Hd 1
+http://red-vip.com:8080/talha/17042018/826
+#EXTINF:-1,Bein Sports 1 Hd 265.hevc
+http://red-vip.com:8080/talha/17042018/825
+#EXTINF:-1,Bein Sports 1 Sd
+http://red-vip.com:8080/talha/17042018/4740
+#EXTINF:-1,Bein Sports 1 1080i
+http://red-vip.com:8080/talha/17042018/4738
+#EXTINF:-1,Bein Sports 1 Mobile
+http://red-vip.com:8080/talha/17042018/4521
+#EXTINF:-1,Bein Sports 1 1080i 265.hevc
+http://red-vip.com:8080/talha/17042018/4739
+#EXTINF:-1,Bein Sports 1 4k & Bein Iz
+http://red-vip.com:8080/talha/17042018/4982
+#EXTINF:-1,Bein Sports 2 Hd
+http://red-vip.com:8080/talha/17042018/824
+#EXTINF:-1,Bein Sports 2 Sd
+http://red-vip.com:8080/talha/17042018/9368
+#EXTINF:-1,Bein Sports 3 Hd
+http://red-vip.com:8080/talha/17042018/823
+#EXTINF:-1,Bein Sports 3 Sd
+http://red-vip.com:8080/talha/17042018/9369
+#EXTINF:-1,Bein Sports 4 Hd
+http://red-vip.com:8080/talha/17042018/822
+#EXTINF:-1,Bein Sports 4 Sd
+http://red-vip.com:8080/talha/17042018/20835
+#EXTINF:-1,Bein Sports Max 1 Hd
+http://red-vip.com:8080/talha/17042018/820
+#EXTINF:-1,Bein Sports Max 1 Sd
+http://red-vip.com:8080/talha/17042018/20837
+#EXTINF:-1,Bein Sports Max 2 Hd
+http://red-vip.com:8080/talha/17042018/821
+#EXTINF:-1,Bein Sports Max 2 Sd
+http://red-vip.com:8080/talha/17042018/20836
+#EXTINF:-1,Bein Sports Haber Hd
+http://red-vip.com:8080/talha/17042018/4743
+#EXTINF:-1,S Sport HD
+http://red-vip.com:8080/talha/17042018/807
+#EXTINF:-1,D-Smart Spor 1 HD
+http://red-vip.com:8080/talha/17042018/808
+#EXTINF:-1,D-Smart EuroSport 2 HD
+http://red-vip.com:8080/talha/17042018/805
+#EXTINF:-1,D-smart Nba Tv Hd
+http://red-vip.com:8080/talha/17042018/817
+#EXTINF:-1,Tivibu Spor 1 Hd
+http://red-vip.com:8080/talha/17042018/812
+#EXTINF:-1,Tivibu Spor 2 Hd
+http://red-vip.com:8080/talha/17042018/811
+#EXTINF:-1,Tivibu Spor 3 Hd
+http://red-vip.com:8080/talha/17042018/810
+#EXTINF:-1,Filbox EuroSport 1 HD
+http://red-vip.com:8080/talha/17042018/806
+#EXTINF:-1,Sports TV
+http://red-vip.com:8080/talha/17042018/686
+#EXTINF:-1,A Spor HD
+http://red-vip.com:8080/talha/17042018/697
+#EXTINF:-1,Dmax
+http://red-vip.com:8080/talha/17042018/692
+#EXTINF:-1,Trt Spor
+http://red-vip.com:8080/talha/17042018/690
+#EXTINF:-1,Gs Tv
+http://red-vip.com:8080/talha/17042018/818
+#EXTINF:-1,Fb Tv
+http://red-vip.com:8080/talha/17042018/687
+#EXTINF:-1,Bjk TV
+http://red-vip.com:8080/talha/17042018/819
+#EXTINF:-1,Trt 3 Spor
+http://red-vip.com:8080/talha/17042018/689
+#EXTINF:-1,Tjk Tv
+http://red-vip.com:8080/talha/17042018/12770
+#EXTINF:-1,Tay TV
+http://red-vip.com:8080/talha/17042018/695
+#EXTINF:-1,Bursa Spor Tv
+http://red-vip.com:8080/talha/17042018/10421
