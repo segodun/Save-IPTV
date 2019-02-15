@@ -69,3 +69,42 @@ http://m-iptv.net:6204/Peshraw/Peshraw/13608
 http://m-iptv.net:6204/Peshraw/Peshraw/13607
 #EXTINF:-1,AF- Trace Urbaine
 http://m-iptv.net:6204/Peshraw/Peshraw/13605
+#EXTM3U
+#EXTINF:-1,ABN TV
+http://217.33.10.154:8000/play/a00l/index.m3u8
+#EXTINF:-1,AIT Int'l
+http://217.33.10.154:8000/play/a00j/index.m3u8
+#EXTINF:-1,BEN
+http://217.33.10.154:8000/play/a01k/index.m3u8
+#EXTINF:-1,CNN
+http://217.33.10.154:8000/play/a031/index.m3u8
+#EXTINF:-1,Channel 5
+http://217.33.10.154:8000/play/a02x/index.m3u8
+#EXTINF:-1,Channels 24
+http://217.33.10.154:8000/play/a032/index.m3u8
+#EXTINF:-1,KICC TV
+http://217.33.10.154:8000/play/a01v/index.m3u8
+#EXTINF:-1,ORTB TV
+http://217.33.10.154:8000/play/a00f/index.m3u8
+#EXTINF:-1,ORTM
+http://217.33.10.154:8000/play/a01m/index.m3u8
+#EXTINF:-1,ROK
+http://217.33.10.154:8000/play/a02i/index.m3u8
+#EXTINF:-1,RT
+http://217.33.10.154:8000/play/a02g/index.m3u8
+#EXTINF:-1,RTB TV
+http://217.33.10.154:8000/play/a00n/index.m3u8
+#EXTINF:-1,RTI
+http://217.33.10.154:8000/play/a02z/index.m3u8
+#EXTINF:-1,RTI
+http://217.33.10.154:8000/play/a02l/index.m3u8
+#EXTINF:-1,RTS 1
+http://217.33.10.154:8000/play/a01n/index.m3u8
+#EXTINF:-1,TFM Senegal
+http://217.33.10.154:8000/play/a02d/index.m3u8
+#EXTINF:-1,TPAI
+http://217.33.10.154:8000/play/a02e/index.m3u8
+#EXTINF:-1,TV Congo
+http://217.33.10.154:8000/play/a00a/index.m3u8
+#EXTINF:-1,TVT International
+http://217.33.10.154:8000/play/a00m/index.m3u8
