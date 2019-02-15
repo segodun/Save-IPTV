@@ -1,532 +1,71 @@
 #EXTM3U
-#EXTINF:-1,AF- TV Continental ( Nigeria )
-#EXTINF:-1,AF-  Nollywood Movies ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13976
-#EXTINF:-1,AF-  NTA NEWS ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13975
-#EXTINF:-1,AF- Channels 24 ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13956
-#EXTINF:-1,AF-  TV Continental ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13966
-#EXTINF:-1,AF-  TVC Entertainment ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13965
-#EXTINF:-1,AF- AIT INTERNATINAL ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13964
-#EXTINF:-1,AF-  African Entertainment ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13993
-#EXTINF:-1,AF- Nollywood ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13939
-#EXTINF:-1,AF- Nollywood MOVIE ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13938
-#EXTINF:-1,AF- NTA LIVE ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13937
-#EXTINF:-1,AF- Rave TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13936
-#EXTINF:-1,AF-  AIT ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13992
-#EXTINF:-1,AF-  ACBN ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13994
-#EXTINF:-1,AF-  Comedy ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13990
-#EXTINF:-1,AF-  Dunamis TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13989
-#EXTINF:-1,AF-  EBONY LIFE TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13988
-#EXTINF:-1,AF-  Eko4Show ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13987
+http://m-iptv.net:6204/Peshraw/Peshraw/13995
 #EXTINF:-1,AF-  EMCI TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13986
-#EXTINF:-1,AF-  ET ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13985
+http://m-iptv.net:6204/Peshraw/Peshraw/13986
 #EXTINF:-1,AF-  Hope ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13983
+http://m-iptv.net:6204/Peshraw/Peshraw/13983
 #EXTINF:-1,AF-  ITV Networks ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13982
-#EXTINF:-1,AF-  Kings word ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13981
+http://m-iptv.net:6204/Peshraw/Peshraw/13982
 #EXTINF:-1,AF-  Light TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13980
-#EXTINF:-1,AF-  Metro TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13979
-#EXTINF:-1,AF-  Movee4U Tv ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13978
-#EXTINF:-1,AF-  New Beginning ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13977
+http://m-iptv.net:6204/Peshraw/Peshraw/13980
 #EXTINF:-1,AF-  NUSMILES TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13974
-#EXTINF:-1,AF-  Ogun State ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13973
-#EXTINF:-1,AF-  Once Spoken ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13972
-#EXTINF:-1,AF-  Silver bird ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13969
+http://m-iptv.net:6204/Peshraw/Peshraw/13974
+#EXTINF:-1,AF-  QVC ( Nigeria )
+http://m-iptv.net:6204/Peshraw/Peshraw/13971
+#EXTINF:-1,AF-  QVC Plus ( Nigeria )
+http://m-iptv.net:6204/Peshraw/Peshraw/13970
 #EXTINF:-1,AF-  Spydar Tv ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13968
-#EXTINF:-1,AF-  TEMPO ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13967
+http://m-iptv.net:6204/Peshraw/Peshraw/13968
+#EXTINF:-1,AF-  TV Continental ( Nigeria )
+http://m-iptv.net:6204/Peshraw/Peshraw/13966
+#EXTINF:-1,AF-  TVC Entertainment ( Nigeria )
+http://m-iptv.net:6204/Peshraw/Peshraw/13965
 #EXTINF:-1,AF- Amen TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13963
+http://m-iptv.net:6204/Peshraw/Peshraw/13963
 #EXTINF:-1,AF- BET  ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13961
+http://m-iptv.net:6204/Peshraw/Peshraw/13961
 #EXTINF:-1,AF- Biafra ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13960
+http://m-iptv.net:6204/Peshraw/Peshraw/13960
 #EXTINF:-1,AF- Biafra TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13959
-#EXTINF:-1,AF- Bride TV  ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13958
-#EXTINF:-1,AF- Bride TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13957
-#EXTINF:-1,AF- Core TV News ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13955
+http://m-iptv.net:6204/Peshraw/Peshraw/13959
+#EXTINF:-1,AF- Channels 24 ( Nigeria )
+http://m-iptv.net:6204/Peshraw/Peshraw/13956
 #EXTINF:-1,AF- Dove TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13954
+http://m-iptv.net:6204/Peshraw/Peshraw/13954
 #EXTINF:-1,AF- Dunamis TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13953
-#EXTINF:-1,AF- Ebru Africa ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13952
-#EXTINF:-1,AF- Fashion TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13951
-#EXTINF:-1,AF- Fusion Plus TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13950
-#EXTINF:-1,AF- GALAXY TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13949
+http://m-iptv.net:6204/Peshraw/Peshraw/13953
 #EXTINF:-1,AF- God TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13948
-#EXTINF:-1,AF- Gospel Channel ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13947
+http://m-iptv.net:6204/Peshraw/Peshraw/13948
 #EXTINF:-1,AF- Kings Word ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13946
+http://m-iptv.net:6204/Peshraw/Peshraw/13946
 #EXTINF:-1,AF- Liberation TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13945
-#EXTINF:-1,AF- Life Destiny ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13944
+http://m-iptv.net:6204/Peshraw/Peshraw/13945
 #EXTINF:-1,AF- Love world 2 plus ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13943
+http://m-iptv.net:6204/Peshraw/Peshraw/13943
 #EXTINF:-1,AF- Love World TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13942
+http://m-iptv.net:6204/Peshraw/Peshraw/13942
 #EXTINF:-1,AF- LoveWorld PLUS ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13941
+http://m-iptv.net:6204/Peshraw/Peshraw/13941
 #EXTINF:-1,AF- More Grace TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13940
+http://m-iptv.net:6204/Peshraw/Peshraw/13940
+#EXTINF:-1,AF- Nollywood MOVIE ( Nigeria )
+http://m-iptv.net:6204/Peshraw/Peshraw/13938
+#EXTINF:-1,AF- NTA LIVE ( Nigeria )
+http://m-iptv.net:6204/Peshraw/Peshraw/13937
+#EXTINF:-1,AF- Rave TV ( Nigeria )
+http://m-iptv.net:6204/Peshraw/Peshraw/13936
 #EXTINF:-1,AF- Salvation TV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13935
-#EXTINF:-1,AF- TV360 ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13933
-#EXTINF:-1,AF- VHTV ( Nigeria )
-http://linux-app.tv:6204/Hejazi/Hejazi/13932
-#EXTINF:-1,AF-  Ghana Broadcasting ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13842
-#EXTINF:-1,AF-  GI SPORTS TV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13841
-#EXTINF:-1,AF-  STUDIO1 TV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13840
-#EXTINF:-1,AF- 3ABN Fran
-http://linux-app.tv:6204/Hejazi/Hejazi/13839
-#EXTINF:-1,AF- 3ABN International ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13838
-#EXTINF:-1,AF- 3ABN KIDS ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13837
-#EXTINF:-1,AF- adom tv ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13836
-#EXTINF:-1,AF- AkonobeaTV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13835
-#EXTINF:-1,AF- ALJAZEERA ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13834
-#EXTINF:-1,AF- ASAEDA TV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13833
-#EXTINF:-1,AF- ATINKA TV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13832
-#EXTINF:-1,AF- BEN ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13831
-#EXTINF:-1,AF- Cine Plus Africa ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13830
-#EXTINF:-1,AF- ELIJAH TV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13829
-#EXTINF:-1,AF- Emmanuel TV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13828
-#EXTINF:-1,AF- GBC 24 ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13827
-#EXTINF:-1,AF- GH ONE TV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13826
-#EXTINF:-1,AF- Ghana KessbenTV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13825
-#EXTINF:-1,AF- ghtva broad ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13824
-#EXTINF:-1,AF- GTV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13823
-#EXTINF:-1,AF- GTV 2 TV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13822
-#EXTINF:-1,AF- GTV SPORTS  ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13821
-#EXTINF:-1,AF- GTV TV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13820
-#EXTINF:-1,AF- HOMEBASE TV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13819
-#EXTINF:-1,AF- Hope Africa ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13818
-#EXTINF:-1,AF- JOY NEWS ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13817
-#EXTINF:-1,AF- JOY PRIME ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13816
-#EXTINF:-1,AF- Music TV Plus ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13815
-#EXTINF:-1,AF- OBICE TV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13814
-#EXTINF:-1,AF- OBONU TV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13813
-#EXTINF:-1,AF- PENTV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13812
-#EXTINF:-1,AF- PIWC APOSTLE ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13811
-#EXTINF:-1,AF- PIWC AUSTIN ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13810
-#EXTINF:-1,AF- PIWC AUSTIN SERMON
-http://linux-app.tv:6204/Hejazi/Hejazi/13809
-#EXTINF:-1,AF- PIWC AUSTIN WORSHIP
-http://linux-app.tv:6204/Hejazi/Hejazi/13808
-#EXTINF:-1,AF- ROK TV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13807
-#EXTINF:-1,AF- ROYAL TV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13806
-#EXTINF:-1,AF- RTV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13805
-#EXTINF:-1,AF- TV AFRICA ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13804
-#EXTINF:-1,AF- TV3 ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13803
-#EXTINF:-1,AF- UTV ( Ghana )
-http://linux-app.tv:6204/Hejazi/Hejazi/13802
-#EXTINF:-1,AF- EBC 1
-http://linux-app.tv:6204/Hejazi/Hejazi/9933
-#EXTINF:-1,AF- EBC2
-http://linux-app.tv:6204/Hejazi/Hejazi/9932
-#EXTINF:-1,AF- EBC3 TV
-http://linux-app.tv:6204/Hejazi/Hejazi/8099
-#EXTINF:-1,AF- ERI 1 TV
-http://linux-app.tv:6204/Hejazi/Hejazi/9931
-#EXTINF:-1,AF- Fana TV
-http://linux-app.tv:6204/Hejazi/Hejazi/9930
-#EXTINF:-1,AF- Maezer TV
-http://linux-app.tv:6204/Hejazi/Hejazi/9929
-#EXTINF:-1,AF- Nahoo TV
-http://linux-app.tv:6204/Hejazi/Hejazi/9928
-#EXTINF:-1,AF- Tigray TV
-http://linux-app.tv:6204/Hejazi/Hejazi/9927
-#EXTINF:-1,AF- Walta TV
-http://linux-app.tv:6204/Hejazi/Hejazi/9926
-#EXTINF:-1,AF- ESTV
-http://linux-app.tv:6204/Hejazi/Hejazi/9935
-#EXTINF:-1,AF- Arise News ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13698
-#EXTINF:-1,AF- C News ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13697
-#EXTINF:-1,AF- CGTN Africa ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13696
-#EXTINF:-1,AF- CGTN English ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13695
-#EXTINF:-1,AF- CGTN FRANCE ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13694
-#EXTINF:-1,AF- Euronews ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13693
-#EXTINF:-1,AF- FAITH TV ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13692
-#EXTINF:-1,AF- Holy Spirit TV ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13691
-#EXTINF:-1,AF- i24 News ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13690
-#EXTINF:-1,AF- JTV ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13689
-#EXTINF:-1,AF- Kale Awadi TV ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13688
-#EXTINF:-1,AF- Presence TV ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13687
-#EXTINF:-1,AF- Presence TV Ethiopia
-http://linux-app.tv:6204/Hejazi/Hejazi/13686
-#EXTINF:-1,AF- RT ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13685
-#EXTINF:-1,AF- RT FRANCE ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13684
-#EXTINF:-1,AF- TV5 Afrique ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13683
-#EXTINF:-1,AF- TV5 MONDE ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13682
-#EXTINF:-1,AF- TV7 Colmar ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13681
-#EXTINF:-1,AF- TvFrancophonie24 ( Ethiopia )
-http://linux-app.tv:6204/Hejazi/Hejazi/13680
-#EXTINF:-1,AF- RTI 1
-http://linux-app.tv:6204/Hejazi/Hejazi/1999
-#EXTINF:-1,AF- RTD Djibouti
-http://linux-app.tv:6204/Hejazi/Hejazi/13435
-#EXTINF:-1,AF- Afrique Media TV
-http://linux-app.tv:6204/Hejazi/Hejazi/6529
-#EXTINF:-1,AF- Kana TV
-http://linux-app.tv:6204/Hejazi/Hejazi/1762
-#EXTINF:-1,AF- EBS TV
-http://linux-app.tv:6204/Hejazi/Hejazi/8108
-#EXTINF:-1,AF- ONN TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13553
-#EXTINF:-1,AF- Amhara TV
-http://linux-app.tv:6204/Hejazi/Hejazi/8100
-#EXTINF:-1,AF- TV Oromiyaa
-http://linux-app.tv:6204/Hejazi/Hejazi/6530
-#EXTINF:-1,AF- AFRICA
-http://linux-app.tv:6204/Hejazi/Hejazi/13716
-#EXTINF:-1,AF- Africa 24
-http://linux-app.tv:6204/Hejazi/Hejazi/13715
-#EXTINF:-1,AF- Africa TV 1
-http://linux-app.tv:6204/Hejazi/Hejazi/13714
-#EXTINF:-1,AF- Africa TV 2
-http://linux-app.tv:6204/Hejazi/Hejazi/13713
-#EXTINF:-1,AF- Africa TV 3
-http://linux-app.tv:6204/Hejazi/Hejazi/13712
-#EXTINF:-1,AF- Al Horreya tv
-http://linux-app.tv:6204/Hejazi/Hejazi/13711
-#EXTINF:-1,AF- BNTV
-http://linux-app.tv:6204/Hejazi/Hejazi/6909
-#EXTINF:-1,AF- Khartoum TV
-http://linux-app.tv:6204/Hejazi/Hejazi/1994
-#EXTINF:-1,AF- Om Dorman TV
-http://linux-app.tv:6204/Hejazi/Hejazi/6942
-#EXTINF:-1,AF- Sudan Sport HD
-http://linux-app.tv:6204/Hejazi/Hejazi/3514
-#EXTINF:-1,AF- Sudan Music
-http://linux-app.tv:6204/Hejazi/Hejazi/3513
-#EXTINF:-1,AF- Sudan Malayeeb
-http://linux-app.tv:6204/Hejazi/Hejazi/3512
-#EXTINF:-1,AF- Sudan TV
-http://linux-app.tv:6204/Hejazi/Hejazi/1948
-#EXTINF:-1,AF- Sudania24
-http://linux-app.tv:6204/Hejazi/Hejazi/3516
-#EXTINF:-1,AF- Kassala TV
-http://linux-app.tv:6204/Hejazi/Hejazi/6941
-#EXTINF:-1,AF- Neelain Sport
-http://linux-app.tv:6204/Hejazi/Hejazi/6920
-#EXTINF:-1,AF- Sudan monwaat
-http://linux-app.tv:6204/Hejazi/Hejazi/6924
-#EXTINF:-1,AF- Tanasuh TV
-http://linux-app.tv:6204/Hejazi/Hejazi/8106
-#EXTINF:-1,AF- A Shorooq TV
-http://linux-app.tv:6204/Hejazi/Hejazi/6908
-#EXTINF:-1,AF- Souther TV
-http://linux-app.tv:6204/Hejazi/Hejazi/6915
-#EXTINF:-1,AF- Sahour TV
-http://linux-app.tv:6204/Hejazi/Hejazi/8107
-#EXTINF:-1,AF- Somali Cable
-http://linux-app.tv:6204/Hejazi/Hejazi/6910
-#EXTINF:-1,AF- Somali National News TV
-http://linux-app.tv:6204/Hejazi/Hejazi/6911
-#EXTINF:-1,AF- Somaliland National
-http://linux-app.tv:6204/Hejazi/Hejazi/6912
-#EXTINF:-1,AF- Kalsan TV Somali
-http://linux-app.tv:6204/Hejazi/Hejazi/5051
-#EXTINF:-1,AF- Telefeshinka Caalamiga HD
-http://linux-app.tv:6204/Hejazi/Hejazi/6914
-#EXTINF:-1,AF- SBC
-http://linux-app.tv:6204/Hejazi/Hejazi/13434
-#EXTINF:-1,AF- Puntland TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13433
-#EXTINF:-1,AF- Bulsho Somali TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13666
-#EXTINF:-1,AF- Eryal TV ( Somalia tv  )
-http://linux-app.tv:6204/Hejazi/Hejazi/13665
-#EXTINF:-1,AF- Galmudug Somali TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13664
-#EXTINF:-1,AF- Horn Cable TV (SOMALIA)
-http://linux-app.tv:6204/Hejazi/Hejazi/13663
-#EXTINF:-1,AF- Jubbaland Somali
-http://linux-app.tv:6204/Hejazi/Hejazi/13662
-#EXTINF:-1,AF- Jubbaland TV (SOMALIA
-http://linux-app.tv:6204/Hejazi/Hejazi/13661
-#EXTINF:-1,AF- Saab Somali TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13658
-#EXTINF:-1,AF- So-Quran Hidayah Somali
-http://linux-app.tv:6204/Hejazi/Hejazi/13657
-#EXTINF:-1,AF- Somali Dayax TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13655
-#EXTINF:-1,AF- Somalia PLTV
-http://linux-app.tv:6204/Hejazi/Hejazi/13653
-#EXTINF:-1,AF- TV Slovenija 3 (somalia)
-http://linux-app.tv:6204/Hejazi/Hejazi/13651
-#EXTINF:-1,AF- Universal Somali TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13650
-#EXTINF:-1,--||  MALI  ||--
-http://linux-app.tv:6204/Hejazi/Hejazi/13617
-#EXTINF:-1,AF- M7 Mali
-http://linux-app.tv:6204/Hejazi/Hejazi/13615
-#EXTINF:-1,AF- ORTB
-http://linux-app.tv:6204/Hejazi/Hejazi/13614
-#EXTINF:-1,AF- ORTM
-http://linux-app.tv:6204/Hejazi/Hejazi/13613
-#EXTINF:-1,AF- RTB
-http://linux-app.tv:6204/Hejazi/Hejazi/13612
-#EXTINF:-1,AF- TM2
-http://linux-app.tv:6204/Hejazi/Hejazi/13611
-#EXTINF:-1,--|| Sengal ||--
-http://linux-app.tv:6204/Hejazi/Hejazi/13649
-#EXTINF:-1,AF-  Vision 4 TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13648
-#EXTINF:-1,AF- 2S TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13647
-#EXTINF:-1,AF- 7TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13646
-#EXTINF:-1,AF- A2i TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13645
-#EXTINF:-1,AF- A2i TV Religion
-http://linux-app.tv:6204/Hejazi/Hejazi/13644
-#EXTINF:-1,AF- A2ITV MUSIC
-http://linux-app.tv:6204/Hejazi/Hejazi/13643
-#EXTINF:-1,AF- AsfiyahiTV
-http://linux-app.tv:6204/Hejazi/Hejazi/13642
-#EXTINF:-1,AF- Bichri TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13641
-#EXTINF:-1,AF- D24
-http://linux-app.tv:6204/Hejazi/Hejazi/13640
-#EXTINF:-1,AF- D5TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13639
-#EXTINF:-1,AF- DTV
-http://linux-app.tv:6204/Hejazi/Hejazi/13638
-#EXTINF:-1,AF- Lamp Fall TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13637
-#EXTINF:-1,AF- LOBS TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13636
-#EXTINF:-1,AF- MourchidTV
-http://linux-app.tv:6204/Hejazi/Hejazi/13635
-#EXTINF:-1,AF- mouridetv
-http://linux-app.tv:6204/Hejazi/Hejazi/13634
-#EXTINF:-1,AF- MusicTV Africa
-http://linux-app.tv:6204/Hejazi/Hejazi/13633
-#EXTINF:-1,AF- MusicTV SN
-http://linux-app.tv:6204/Hejazi/Hejazi/13632
-#EXTINF:-1,AF- People TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13631
-#EXTINF:-1,AF- QacaidTV
-http://linux-app.tv:6204/Hejazi/Hejazi/13630
-#EXTINF:-1,AF- RDV
-http://linux-app.tv:6204/Hejazi/Hejazi/13629
-#EXTINF:-1,AF- RTI1
-http://linux-app.tv:6204/Hejazi/Hejazi/13628
-#EXTINF:-1,AF- RTI2
-http://linux-app.tv:6204/Hejazi/Hejazi/13627
-#EXTINF:-1,AF- RTS1
-http://linux-app.tv:6204/Hejazi/Hejazi/13626
-#EXTINF:-1,AF- RTS2
-http://linux-app.tv:6204/Hejazi/Hejazi/13625
-#EXTINF:-1,AF- SEN TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13624
-#EXTINF:-1,AF- TELE SUD
-http://linux-app.tv:6204/Hejazi/Hejazi/13623
-#EXTINF:-1,AF- TFM
-http://linux-app.tv:6204/Hejazi/Hejazi/13622
-#EXTINF:-1,AF- TFM  Religions
-http://linux-app.tv:6204/Hejazi/Hejazi/13621
-#EXTINF:-1,AF- Touba Monde Bi
-http://linux-app.tv:6204/Hejazi/Hejazi/13620
-#EXTINF:-1,AF- TOUBA TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13619
-#EXTINF:-1,AF- WALF TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13618
-#EXTINF:-1,AF- ANTENNE A
-http://linux-app.tv:6204/Hejazi/Hejazi/13678
-#EXTINF:-1,AF- B-ONE
-http://linux-app.tv:6204/Hejazi/Hejazi/13677
-#EXTINF:-1,AF- Congo Planet
-http://linux-app.tv:6204/Hejazi/Hejazi/13676
-#EXTINF:-1,AF- DRTV
-http://linux-app.tv:6204/Hejazi/Hejazi/13675
-#EXTINF:-1,AF- Ouest TV LOCAL
-http://linux-app.tv:6204/Hejazi/Hejazi/13674
-#EXTINF:-1,AF- RTNC
-http://linux-app.tv:6204/Hejazi/Hejazi/13673
-#EXTINF:-1,AF- Tele 50
-http://linux-app.tv:6204/Hejazi/Hejazi/13672
-#EXTINF:-1,AF- TELE congo
-http://linux-app.tv:6204/Hejazi/Hejazi/13671
-#EXTINF:-1,AF- TOP TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13670
-#EXTINF:-1,AF- VOX TV
-http://linux-app.tv:6204/Hejazi/Hejazi/13669
-#EXTINF:-1,AF- Tv Man? ( Mo
-http://linux-app.tv:6204/Hejazi/Hejazi/13735
-#EXTINF:-1,AF- TV Man? Maputo ( Mo
-http://linux-app.tv:6204/Hejazi/Hejazi/13734
-#EXTINF:-1,AF- TV Miramar ( Mo
-http://linux-app.tv:6204/Hejazi/Hejazi/13733
-#EXTINF:-1,AF- TVM1 ( Mo
-http://linux-app.tv:6204/Hejazi/Hejazi/13732
-#EXTINF:-1,AF- TVM2 ( Mo
-http://linux-app.tv:6204/Hejazi/Hejazi/13731
-#EXTINF:-1,AF- Citizen TV ( Kenya )
-http://linux-app.tv:6204/Hejazi/Hejazi/13729
-#EXTINF:-1,AF- Guin
-http://linux-app.tv:6204/Hejazi/Hejazi/13728
-#EXTINF:-1,AF- K24 ( Kenya )
-http://linux-app.tv:6204/Hejazi/Hejazi/13727
-#EXTINF:-1,AF- Kajou TV ( Kenya )
-http://linux-app.tv:6204/Hejazi/Hejazi/13726
-#EXTINF:-1,AF- Kantanka TV ( Kenya )
-http://linux-app.tv:6204/Hejazi/Hejazi/13725
-#EXTINF:-1,AF- Kass TV ( Kenya )
-http://linux-app.tv:6204/Hejazi/Hejazi/13724
-#EXTINF:-1,AF- Kicc tv ( Kenya )
-http://linux-app.tv:6204/Hejazi/Hejazi/13723
-#EXTINF:-1,AF- KTN ( Kenya )
-http://linux-app.tv:6204/Hejazi/Hejazi/13722
-#EXTINF:-1,AF- KTV ( Kenya )
-http://linux-app.tv:6204/Hejazi/Hejazi/13721
-#EXTINF:-1,AF- KTV (Sierra Leone) ( Kenya )
-http://linux-app.tv:6204/Hejazi/Hejazi/13720
-#EXTINF:-1,AF- KWANZA ( Kenya )
-http://linux-app.tv:6204/Hejazi/Hejazi/13719
-#EXTINF:-1,--|| Cameron ||--
-http://linux-app.tv:6204/Hejazi/Hejazi/13931
-#EXTINF:-1,AF- 7Entertainment ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13930
-#EXTINF:-1,AF- africa cable ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13929
-#EXTINF:-1,AF- AFRICA NEWS ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13928
-#EXTINF:-1,AF- Africanews (ferance)
-http://linux-app.tv:6204/Hejazi/Hejazi/13927
-#EXTINF:-1,AF- Afrique Media TV ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13926
-#EXTINF:-1,AF- CANAL2 ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13925
-#EXTINF:-1,AF- CANAL2 MOVIES ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13924
-#EXTINF:-1,AF- CRTV ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13923
-#EXTINF:-1,AF- CRTV NEWS ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13922
-#EXTINF:-1,AF- EQUINOXE ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13921
-#EXTINF:-1,AF- Espace TV ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13920
-#EXTINF:-1,AF- France info ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13919
-#EXTINF:-1,AF- France24 ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13918
-#EXTINF:-1,AF- Impac TV ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13917
-#EXTINF:-1,AF- MY COMEDY ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13916
-#EXTINF:-1,AF- Suivez SIKKA ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13915
-#EXTINF:-1,AF- Tele Colombe ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13914
-#EXTINF:-1,AF- Vox Africa ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13913
-#EXTINF:-1,AF- WES AFRICA TV ( Cameron )
-http://linux-app.tv:6204/Hejazi/Hejazi/13912
+http://m-iptv.net:6204/Peshraw/Peshraw/13935
+#EXTINF:-1,AF- TV Continental ( Nigeria )
+http://m-iptv.net:6204/Peshraw/Peshraw/13934
+http://m-iptv.net:6204/Peshraw/Peshraw/13616
 #EXTINF:-1,AF- TRACE AFRICA
-http://linux-app.tv:6204/Hejazi/Hejazi/13610
+http://m-iptv.net:6204/Peshraw/Peshraw/13610
 #EXTINF:-1,AF- TRACE GOSPEL
-http://linux-app.tv:6204/Hejazi/Hejazi/13609
+http://m-iptv.net:6204/Peshraw/Peshraw/13609
 #EXTINF:-1,AF- TRACE MISIKI
-http://linux-app.tv:6204/Hejazi/Hejazi/13608
+http://m-iptv.net:6204/Peshraw/Peshraw/13608
 #EXTINF:-1,AF- Trace Naija
-http://linux-app.tv:6204/Hejazi/Hejazi/13607
-#EXTINF:-1,AF- TRACE TOPICAL
-http://linux-app.tv:6204/Hejazi/Hejazi/13606
+http://m-iptv.net:6204/Peshraw/Peshraw/13607
 #EXTINF:-1,AF- Trace Urbaine
-http://linux-app.tv:6204/Hejazi/Hejazi/13605
+http://m-iptv.net:6204/Peshraw/Peshraw/13605
