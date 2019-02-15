@@ -1,75 +1,83 @@
 #EXTM3U
-#EXTINF:-1,Bein Sports Hd 1
-http://red-vip.com:8080/talha/17042018/826
-#EXTINF:-1,Bein Sports 1 Hd 265.hevc
-http://red-vip.com:8080/talha/17042018/825
-#EXTINF:-1,Bein Sports 1 Sd
-http://red-vip.com:8080/talha/17042018/4740
-#EXTINF:-1,Bein Sports 1 1080i
-http://red-vip.com:8080/talha/17042018/4738
-#EXTINF:-1,Bein Sports 1 Mobile
-http://red-vip.com:8080/talha/17042018/4521
-#EXTINF:-1,Bein Sports 1 1080i 265.hevc
-http://red-vip.com:8080/talha/17042018/4739
-#EXTINF:-1,Bein Sports 1 4k & Bein Iz
-http://red-vip.com:8080/talha/17042018/4982
-#EXTINF:-1,Bein Sports 2 Hd
-http://red-vip.com:8080/talha/17042018/824
-#EXTINF:-1,Bein Sports 2 Sd
-http://red-vip.com:8080/talha/17042018/9368
-#EXTINF:-1,Bein Sports 3 Hd
-http://red-vip.com:8080/talha/17042018/823
-#EXTINF:-1,Bein Sports 3 Sd
-http://red-vip.com:8080/talha/17042018/9369
-#EXTINF:-1,Bein Sports 4 Hd
-http://red-vip.com:8080/talha/17042018/822
-#EXTINF:-1,Bein Sports 4 Sd
-http://red-vip.com:8080/talha/17042018/20835
-#EXTINF:-1,Bein Sports Max 1 Hd
-http://red-vip.com:8080/talha/17042018/820
-#EXTINF:-1,Bein Sports Max 1 Sd
-http://red-vip.com:8080/talha/17042018/20837
-#EXTINF:-1,Bein Sports Max 2 Hd
-http://red-vip.com:8080/talha/17042018/821
-#EXTINF:-1,Bein Sports Max 2 Sd
-http://red-vip.com:8080/talha/17042018/20836
-#EXTINF:-1,Bein Sports Haber Hd
-http://red-vip.com:8080/talha/17042018/4743
-#EXTINF:-1,S Sport HD
-http://red-vip.com:8080/talha/17042018/807
-#EXTINF:-1,D-Smart Spor 1 HD
-http://red-vip.com:8080/talha/17042018/808
-#EXTINF:-1,D-Smart EuroSport 2 HD
-http://red-vip.com:8080/talha/17042018/805
-#EXTINF:-1,D-smart Nba Tv Hd
-http://red-vip.com:8080/talha/17042018/817
-#EXTINF:-1,Tivibu Spor 1 Hd
-http://red-vip.com:8080/talha/17042018/812
-#EXTINF:-1,Tivibu Spor 2 Hd
-http://red-vip.com:8080/talha/17042018/811
-#EXTINF:-1,Tivibu Spor 3 Hd
-http://red-vip.com:8080/talha/17042018/810
-#EXTINF:-1,Filbox EuroSport 1 HD
-http://red-vip.com:8080/talha/17042018/806
-#EXTINF:-1,Sports TV
-http://red-vip.com:8080/talha/17042018/686
-#EXTINF:-1,A Spor HD
-http://red-vip.com:8080/talha/17042018/697
-#EXTINF:-1,Dmax
-http://red-vip.com:8080/talha/17042018/692
-#EXTINF:-1,Trt Spor
-http://red-vip.com:8080/talha/17042018/690
-#EXTINF:-1,Gs Tv
-http://red-vip.com:8080/talha/17042018/818
-#EXTINF:-1,Fb Tv
-http://red-vip.com:8080/talha/17042018/687
-#EXTINF:-1,Bjk TV
-http://red-vip.com:8080/talha/17042018/819
-#EXTINF:-1,Trt 3 Spor
-http://red-vip.com:8080/talha/17042018/689
-#EXTINF:-1,Tjk Tv
-http://red-vip.com:8080/talha/17042018/12770
-#EXTINF:-1,Tay TV
-http://red-vip.com:8080/talha/17042018/695
-#EXTINF:-1,Bursa Spor Tv
-http://red-vip.com:8080/talha/17042018/10421
+#EXTINF:-1,Bein Sport HD
+http://m-iptv.net:6204/Peshraw/Peshraw/2568
+#EXTINF:-1,Bein Sport News HD
+http://m-iptv.net:6204/Peshraw/Peshraw/2567
+#EXTINF:-1,Bein Sport HD1 1080i
+http://m-iptv.net:6204/Peshraw/Peshraw/127
+#EXTINF:-1,Bein Sport HD2 1080i
+http://m-iptv.net:6204/Peshraw/Peshraw/128
+#EXTINF:-1,Bein Sport HD3 1080i
+http://m-iptv.net:6204/Peshraw/Peshraw/129
+#EXTINF:-1,Bein Sport HD4 1080i
+http://m-iptv.net:6204/Peshraw/Peshraw/130
+#EXTINF:-1,Bein Sport HD5 1080i
+http://m-iptv.net:6204/Peshraw/Peshraw/132
+#EXTINF:-1,Bein Sport HD6 1080i
+http://m-iptv.net:6204/Peshraw/Peshraw/133
+#EXTINF:-1,Bein Sport HD8 1080i
+http://m-iptv.net:6204/Peshraw/Peshraw/135
+#EXTINF:-1,Bein Sport HD7 1080i
+http://m-iptv.net:6204/Peshraw/Peshraw/134
+#EXTINF:-1,Bein Sport HD9 1080i
+http://m-iptv.net:6204/Peshraw/Peshraw/186
+#EXTINF:-1,Bein Sport HD10 1080i
+http://m-iptv.net:6204/Peshraw/Peshraw/187
+#EXTINF:-1,Bein Sport HD11 EN 1080i
+http://m-iptv.net:6204/Peshraw/Peshraw/188
+#EXTINF:-1,Bein Sport HD12 EN 1080i
+http://m-iptv.net:6204/Peshraw/Peshraw/189
+#EXTINF:-1,Bein Sport HD13 EN 1080i
+http://m-iptv.net:6204/Peshraw/Peshraw/1694
+#EXTINF:-1,Bein Sport HD14 Fr 1080i
+http://m-iptv.net:6204/Peshraw/Peshraw/2555
+#EXTINF:-1,Bein Sport HD15 Fr 1080i
+http://m-iptv.net:6204/Peshraw/Peshraw/4763
+#EXTINF:-1,Bein Sport HD16 Fr 1080i
+http://m-iptv.net:6204/Peshraw/Peshraw/4762
+#EXTINF:-1,Bein Sport NBA HD
+http://m-iptv.net:6204/Peshraw/Peshraw/6434
+#EXTINF:-1,Bein Sport HD1 720P
+http://m-iptv.net:6204/Peshraw/Peshraw/9022
+#EXTINF:-1,Bein Sport HD2 720P
+http://m-iptv.net:6204/Peshraw/Peshraw/9021
+#EXTINF:-1,Bein Sport HD3 720P
+http://m-iptv.net:6204/Peshraw/Peshraw/9020
+#EXTINF:-1,Bein Sport HD4 720P
+http://m-iptv.net:6204/Peshraw/Peshraw/9019
+#EXTINF:-1,Bein Sport HD5 720P
+http://m-iptv.net:6204/Peshraw/Peshraw/9018
+#EXTINF:-1,Bein Sport HD6 720P
+http://m-iptv.net:6204/Peshraw/Peshraw/9017
+#EXTINF:-1,Bein Sport HD7 720P
+http://m-iptv.net:6204/Peshraw/Peshraw/9016
+#EXTINF:-1,Bein Sport HD8 720P
+http://m-iptv.net:6204/Peshraw/Peshraw/9015
+#EXTINF:-1,Bein Sport HD9 720P
+http://m-iptv.net:6204/Peshraw/Peshraw/9014
+#EXTINF:-1,Bein Sport HD10 720P
+http://m-iptv.net:6204/Peshraw/Peshraw/9013
+#EXTINF:-1,Bein Sport HD11 EN 720P
+http://m-iptv.net:6204/Peshraw/Peshraw/9012
+#EXTINF:-1,bein Sport SD1
+http://m-iptv.net:6204/Peshraw/Peshraw/1913
+#EXTINF:-1,Bein Sport SD2
+http://m-iptv.net:6204/Peshraw/Peshraw/1914
+#EXTINF:-1,Bein Sport SD3
+http://m-iptv.net:6204/Peshraw/Peshraw/1915
+#EXTINF:-1,Bein Sport SD4
+http://m-iptv.net:6204/Peshraw/Peshraw/1916
+#EXTINF:-1,Bein Sport SD5
+http://m-iptv.net:6204/Peshraw/Peshraw/1917
+#EXTINF:-1,Bein Sport SD6
+http://m-iptv.net:6204/Peshraw/Peshraw/1918
+#EXTINF:-1,Bein Sport SD7
+http://m-iptv.net:6204/Peshraw/Peshraw/1919
+#EXTINF:-1,Bein Sport SD8
+http://m-iptv.net:6204/Peshraw/Peshraw/1920
+#EXTINF:-1,Bein Sport SD9
+http://m-iptv.net:6204/Peshraw/Peshraw/1921
+#EXTINF:-1,Bein Sport SD10
+http://m-iptv.net:6204/Peshraw/Peshraw/1922
+#EXTINF:-1,Bein Sport SD11
+http://m-iptv.net:6204/Peshraw/Peshraw/1923
