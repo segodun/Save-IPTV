@@ -3,29 +3,19 @@
 http://91.109.113.38:8000/play/a06o
 #EXTINF:-1,BT Sport 1 HD
 http://91.109.113.38:8000/play/a0ay
-#EXTINF:-1,BT Sport 1 HD
-http://91.109.113.38:8000/play/a0az
 #EXTINF:-1,BT Sport 2
 http://91.109.113.38:8000/play/a07e
 #EXTINF:-1,BT Sport 3
 http://91.109.113.38:8000/play/a070
 #EXTINF:-1,BT Sport 3 HD
 http://91.109.113.38:8000/play/a0b2
-#EXTINF:-1,BT Sport 3 HD
-http://91.109.113.38:8000/play/a0b1
-#EXTINF:-1,BT Sport Extra 1
-http://91.109.113.38:8000/play/a06u
-#EXTINF:-1,BT Sport Extra 2
-http://91.109.113.38:8000/play/a079
-#EXTINF:-1,BT Sport Extra 3
-http://91.109.113.38:8000/play/a07a
-#EXTINF:-1,BT Sport Extra 4
-http://91.109.113.38:8000/play/a07b
-#EXTINF:-1,BT Sport Extra 5
-http://91.109.113.38:8000/play/a07c
-#EXTINF:-1,BT Sport Extra 6
-http://91.109.113.38:8000/play/a07d
-#EXTINF:-1,BT Sport Mosaic
-http://91.109.113.38:8000/play/a06y
-#EXTINF:-1,BT Sport Mosaic 2
-http://91.109.113.38:8000/play/a07h
+http://93.107.96.60:9981/stream/channelid/1653168809?ticket=CD6B1E25890090B303DCA21C36F4F64A9F7A7C4C&profile=pass
+#EXTINF:-1 tvg-id="53166a2b1229590c94dd0eaf8596571d",Eleven Sports 1 HD
+http://93.107.96.60:9981/stream/channelid/728372819?ticket=568BCE2DE4F7C6EAF23AA635589A625BC98637D9&profile=pass
+#EXTINF:-1 tvg-id="3eed03468a33a1098ea73effc95788c9",Eleven Sports 2 HD
+http://93.107.96.60:9981/stream/channelid/1174662462?ticket=9BCAE1E61C0D842CBBAA4B7A8620D8BE21984F08&profile=pass
+#EXTINF:-1 tvg-id="1b1477413010b206873b065d74c36d55",Eleven Sports 3 HD
+http://93.107.96.60:9981/stream/channelid/1098322971?ticket=D43B5680530CDDF304718805809DA8F9376CC064&profile=pass
+#EXTINF:-1 tvg-id="3b6726c87326c8890f90e7140826765c",ELEVEN SPORTS 4 HD
+
+
