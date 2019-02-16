@@ -1,21 +1,216 @@
 #EXTM3U
+#EXTINF:-1,SFR SPORT 1
+http://51.15.161.236:25461/live/allchannels/all_pannels/729.ts
+#EXTINF:-1,SFR SPORT 2
+http://51.15.161.236:25461/live/allchannels/all_pannels/730.ts
+#EXTINF:-1,SFR SPORT 3
+http://51.15.161.236:25461/live/allchannels/all_pannels/731.ts
+#EXTINF:-1,bein france 1
+http://51.15.161.236:25461/live/allchannels/all_pannels/143.ts
+#EXTINF:-1,bein france 2
+http://51.15.161.236:25461/live/allchannels/all_pannels/144.ts
+#EXTINF:-1,bein france 3
+http://51.15.161.236:25461/live/allchannels/all_pannels/145.ts
+#EXTINF:-1,beINSport 1 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/161.ts
+#EXTINF:-1,beINSport 2 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/162.ts
+#EXTINF:-1,beINSport 3 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/163.ts
+#EXTINF:-1,beINSport 4 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/164.ts
+#EXTINF:-1,beINSport 5 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/165.ts
+#EXTINF:-1,beINSport 6 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/166.ts
+#EXTINF:-1,beINSport 7 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/167.ts
+#EXTINF:-1,beINSport 8 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/168.ts
+#EXTINF:-1,beINSport 9 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/169.ts
+#EXTINF:-1,beINSport 10 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/170.ts
+#EXTINF:-1,beINSport 11 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/171.ts
+#EXTINF:-1,beINSport 12 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/172.ts
+#EXTINF:-1,Ziggo Sport eXtra 1
+http://51.15.161.236:25461/live/allchannels/all_pannels/368.ts
+#EXTINF:-1,Ziggo Sport eXtra 2
+http://51.15.161.236:25461/live/allchannels/all_pannels/369.ts
+#EXTINF:-1,Ziggo Sport Voetbal
+http://51.15.161.236:25461/live/allchannels/all_pannels/370.ts
+#EXTINF:-1,USA NBC GOLF
+http://51.15.161.236:25461/live/allchannels/all_pannels/845.ts
+#EXTINF:-1,BEin Sports EPL 1
+http://51.15.161.236:25461/live/allchannels/all_pannels/893.ts
+#EXTINF:-1,BEin Sports EPL 2
+http://51.15.161.236:25461/live/allchannels/all_pannels/894.ts
+#EXTINF:-1,BEin Sports EPL 3
+http://51.15.161.236:25461/live/allchannels/all_pannels/895.ts
+#EXTINF:-1,BEin Sports EPL 4
+http://51.15.161.236:25461/live/allchannels/all_pannels/896.ts
+#EXTINF:-1,USA FOX SPORTS 1
+http://51.15.161.236:25461/live/allchannels/all_pannels/1205.ts
+#EXTINF:-1,USA FOX SPORTS 2
+http://51.15.161.236:25461/live/allchannels/all_pannels/1206.ts
+#EXTINF:-1,NBA TV (US)
+http://51.15.161.236:25461/live/allchannels/all_pannels/1304.ts
+#EXTINF:-1,SPORTS NET EAST HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1828.ts
+#EXTINF:-1,SPORTS NET ONTARIO HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1826.ts
+#EXTINF:-1,SPORTS NET PACIFIC HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1825.ts
+#EXTINF:-1,SPORTS NET WEST HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1824.ts
+#EXTINF:-1,SPORTS NET WORLD HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1823.ts
+#EXTINF:-1,SPORTSNET ONE HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1829.ts
+#EXTINF:-1,SPORTS NET 360 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1815.ts
+#EXTINF:-1,4seven
+http://51.15.161.236:25461/live/allchannels/all_pannels/1880.ts
+#EXTINF:-1,BBC One
+http://51.15.161.236:25461/live/allchannels/all_pannels/1892.ts
+#EXTINF:-1,BBC TWO
+http://51.15.161.236:25461/live/allchannels/all_pannels/1891.ts
+#EXTINF:-1,BBC1 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1901.ts
+#EXTINF:-1,BBC2 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1900.ts
+#EXTINF:-1,eir Sport 1
+http://51.15.161.236:25461/live/allchannels/all_pannels/1912.ts
+#EXTINF:-1,eir Sport 2
+http://51.15.161.236:25461/live/allchannels/all_pannels/1911.ts
+#EXTINF:-1,Eurosport 1
+http://51.15.161.236:25461/live/allchannels/all_pannels/1915.ts
+#EXTINF:-1,Eurosport 2
+http://51.15.161.236:25461/live/allchannels/all_pannels/1914.ts
+#EXTINF:-1,FreeSports
+http://51.15.161.236:25461/live/allchannels/all_pannels/1913.ts
+#EXTINF:-1,Premier Sports
+http://51.15.161.236:25461/live/allchannels/all_pannels/1906.ts
+#EXTINF:-1,Premier Sports HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1907.ts
 #EXTINF:-1,BT Sport 1
-http://91.109.113.38:8000/play/a06o
+http://51.15.161.236:25461/live/allchannels/all_pannels/1932.ts
 #EXTINF:-1,BT Sport 1 HD
-http://91.109.113.38:8000/play/a0ay
+http://51.15.161.236:25461/live/allchannels/all_pannels/1933.ts
 #EXTINF:-1,BT Sport 2
-http://91.109.113.38:8000/play/a07e
+http://51.15.161.236:25461/live/allchannels/all_pannels/1930.ts
+#EXTINF:-1,BT Sport 2 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1931.ts
 #EXTINF:-1,BT Sport 3
-http://91.109.113.38:8000/play/a070
+http://51.15.161.236:25461/live/allchannels/all_pannels/1928.ts
 #EXTINF:-1,BT Sport 3 HD
-http://91.109.113.38:8000/play/a0b2
-http://93.107.96.60:9981/stream/channelid/1653168809?ticket=CD6B1E25890090B303DCA21C36F4F64A9F7A7C4C&profile=pass
-#EXTINF:-1 tvg-id="53166a2b1229590c94dd0eaf8596571d",Eleven Sports 1 HD
-http://93.107.96.60:9981/stream/channelid/728372819?ticket=568BCE2DE4F7C6EAF23AA635589A625BC98637D9&profile=pass
-#EXTINF:-1 tvg-id="3eed03468a33a1098ea73effc95788c9",Eleven Sports 2 HD
-http://93.107.96.60:9981/stream/channelid/1174662462?ticket=9BCAE1E61C0D842CBBAA4B7A8620D8BE21984F08&profile=pass
-#EXTINF:-1 tvg-id="1b1477413010b206873b065d74c36d55",Eleven Sports 3 HD
-http://93.107.96.60:9981/stream/channelid/1098322971?ticket=D43B5680530CDDF304718805809DA8F9376CC064&profile=pass
-#EXTINF:-1 tvg-id="3b6726c87326c8890f90e7140826765c",ELEVEN SPORTS 4 HD
-
+http://51.15.161.236:25461/live/allchannels/all_pannels/1929.ts
+#EXTINF:-1,BT Sport ESPN
+http://51.15.161.236:25461/live/allchannels/all_pannels/1926.ts
+#EXTINF:-1,BT Sport ESPN HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1927.ts
+#EXTINF:-1,Sly Sports Action
+http://51.15.161.236:25461/live/allchannels/all_pannels/1951.ts
+#EXTINF:-1,Sly Sports Action HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1952.ts
+#EXTINF:-1,Sly Sports Arena
+http://51.15.161.236:25461/live/allchannels/all_pannels/1949.ts
+#EXTINF:-1,Sly Sports Arena HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1950.ts
+#EXTINF:-1,Sly Sports F1
+http://51.15.161.236:25461/live/allchannels/all_pannels/1945.ts
+#EXTINF:-1,Sly Sports Football
+http://51.15.161.236:25461/live/allchannels/all_pannels/1943.ts
+#EXTINF:-1,Sly Sports Football HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1944.ts
+#EXTINF:-1,Sly Sports PL
+http://51.15.161.236:25461/live/allchannels/all_pannels/1935.ts
+#EXTINF:-1,Sly Sports PL HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1936.ts
+#EXTINF:-1,Sly Spts F1 HD
+http://51.15.161.236:25461/live/allchannels/all_pannels/1946.ts
+#EXTINF:-1,Eleven 1 (France)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2287.ts
+#EXTINF:-1,Eleven 1 (NL)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2284.ts
+#EXTINF:-1,Eleven 1 (Poland)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2280.ts
+#EXTINF:-1,Eleven 1 UK
+http://51.15.161.236:25461/live/allchannels/all_pannels/2290.ts
+#EXTINF:-1,Eleven 1 (Taiwan)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2292.ts
+#EXTINF:-1,Eleven 2 (France)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2288.ts
+#EXTINF:-1,Eleven 2 (NL)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2285.ts
+#EXTINF:-1,Eleven 2 (Poland)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2281.ts
+#EXTINF:-1,Eleven 2 UK
+http://51.15.161.236:25461/live/allchannels/all_pannels/2291.ts
+#EXTINF:-1,Eleven 2 (Taiwan)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2293.ts
+#EXTINF:-1,Eleven 3 (France)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2289.ts
+#EXTINF:-1,Eleven 3 (NL)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2286.ts
+#EXTINF:-1,Eleven 3 (Poland)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2282.ts
+#EXTINF:-1,Eleven 4 (Poland)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2283.ts
+#EXTINF:-1,Eleven Plus (Taiwan)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2294.ts
+#EXTINF:-1,Sport TV 1
+http://51.15.161.236:25461/live/allchannels/all_pannels/2295.ts
+#EXTINF:-1,Sport TV 2
+http://51.15.161.236:25461/live/allchannels/all_pannels/2296.ts
+#EXTINF:-1,Sport TV 3
+http://51.15.161.236:25461/live/allchannels/all_pannels/2297.ts
+#EXTINF:-1,Sport TV 4
+http://51.15.161.236:25461/live/allchannels/all_pannels/2298.ts
+#EXTINF:-1,Sport TV 5
+http://51.15.161.236:25461/live/allchannels/all_pannels/2299.ts
+#EXTINF:-1,BEin Football 1
+http://51.15.161.236:25461/live/allchannels/all_pannels/2309.ts
+#EXTINF:-1,BEin Football 2
+http://51.15.161.236:25461/live/allchannels/all_pannels/2310.ts
+#EXTINF:-1,BEin Football 3
+http://51.15.161.236:25461/live/allchannels/all_pannels/2311.ts
+#EXTINF:-1,ELEVEN 1 (Portugal)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2350.ts
+#EXTINF:-1,ELEVEN 2 (Portugal)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2349.ts
+#EXTINF:-1,ELEVEN 3 (Portugal)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2348.ts
+#EXTINF:-1,ELEVEN 4 (Portugal)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2347.ts
+#EXTINF:-1,ELEVEN 5 (Portugal)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2346.ts
+#EXTINF:-1,ELEVEN 6 (Portugal)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2345.ts
+#EXTINF:-1,La Liga TV (UK)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2351.ts
+#EXTINF:-1,EPL 1 (not uk telivised)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2353.ts
+#EXTINF:-1,EPL 10 (not uk telivised)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2361.ts
+#EXTINF:-1,EPL 11 (not uk telivised)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2362.ts
+#EXTINF:-1,EPL 12 (not uk telivised)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2363.ts
+#EXTINF:-1,EPL 2 (not uk telivised)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2354.ts
+#EXTINF:-1,EPL 3 (not uk telivised)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2355.ts
+#EXTINF:-1,EPL 4 (not uk telivised)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2356.ts
+#EXTINF:-1,EPL 5 (not uk telivised)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2357.ts
+#EXTINF:-1,EPL 6 (not uk telivised)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2358.ts
+#EXTINF:-1,EPL 7 (not uk telivised)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2359.ts
+#EXTINF:-1,EPL 9 (not uk telivised)
+http://51.15.161.236:25461/live/allchannels/all_pannels/2360.ts
 
