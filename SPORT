@@ -1,23 +1,49 @@
 #EXTM3U
-NEW BeIN Sports 1 HD
+#EXTINF:0,NEW BeIN Sports 1 HD
 http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26276.m3u8
-NEW BeIN Sports 2 HD
+#EXTINF:0,NEW BeIN Sports 2 HD
 http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26275.m3u8
-NEW BeIN Sports 3 HD
+#EXTINF:0,NEW BeIN Sports 3 HD
 http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26274.m3u8
-NEW BeIN Sports 4 HD
+#EXTINF:0,NEW BeIN Sports 4 HD
 http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26273.m3u8
-NEW BeIN Sports 5 HD
+#EXTINF:0,NEW BeIN Sports 5 HD
 http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26272.m3u8
-NEW BeIN Sports 6 HD
+#EXTINF:0,NEW BeIN Sports 6 HD
 http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26271.m3u8
-NEW BeIN Sports 7 HD
+#EXTINF:0,NEW BeIN Sports 7 HD
 http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26270.m3u8
-NEW BeIN Sports 8 HD
+#EXTINF:0,NEW BeIN Sports 8 HD
 http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26269.m3u8
-NEW BeIN Sports 9 HD
+#EXTINF:0,NEW BeIN Sports 9 HD
 http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26268.m3u8
-NEW BeIN Sports 10 HD
+#EXTINF:0,NEW BeIN Sports 10 HD
 http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26267.m3u8
-NEW BeIN Sports 13 HD
+#EXTINF:0,NEW BeIN Sports 13 HD
 http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26265.m3u8
+#EXTINF:0, H264| Bein-Sport-1HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30274.m3u8
+#EXTINF:0, H264| Bein-Sport-2HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30273.m3u8
+#EXTINF:0, H264| Bein-Sport-3HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30281.m3u8
+#EXTINF:0, H264| Bein-Sport-4HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30283.m3u8
+#EXTINF:0, H264| Bein-Sport-5HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30270.m3u8
+#EXTINF:0, H264| Bein-Sport-6HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30280.m3u8
+#EXTINF:0, H264| Bein-Sport-7HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30279.m3u8
+#EXTINF:0, H264| Bein-Sport-8HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30269.m3u8
+#EXTINF:0, H264| Bein-Sport-9HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30272.m3u8
+#EXTINF:0, H264| Bein-Sport-10HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30277.m3u8
+#EXTINF:0, H264| Bein-Sport-11HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30284.m3u8
+#EXTINF:0, H264| Bein-Sport-12HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30271.m3u8
+#EXTINF:0, H264| Bein-Sport-13-HD
+http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30282.m3u8
