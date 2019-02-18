@@ -7,3 +7,5 @@ http://91.109.113.38:8000/play/a06o
 http://91.109.113.38:8000/play/a07e
 #EXTINF:-1,BT Sport 3
 http://91.109.113.38:8000/play/a070
+http://85.240.105.100:9981/stream/channelid/331258872?ticket=4A6985045D83E16A02F1B2B39D1E3D19518E3A70&profile=pass
+#EXTINF:-1 logo="http://85.240.105.100:9981/imagecache/111" tvg-id="ed8090c2e0a6365b44e44d0ec2e04e69",SPORT TV + HD
