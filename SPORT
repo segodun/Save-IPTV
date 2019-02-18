@@ -1,49 +1,205 @@
 #EXTM3U
-#EXTINF:0,NEW BeIN Sports 1 HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26276.m3u8
-#EXTINF:0,NEW BeIN Sports 2 HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26275.m3u8
-#EXTINF:0,NEW BeIN Sports 3 HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26274.m3u8
-#EXTINF:0,NEW BeIN Sports 4 HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26273.m3u8
-#EXTINF:0,NEW BeIN Sports 5 HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26272.m3u8
-#EXTINF:0,NEW BeIN Sports 6 HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26271.m3u8
-#EXTINF:0,NEW BeIN Sports 7 HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26270.m3u8
-#EXTINF:0,NEW BeIN Sports 8 HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26269.m3u8
-#EXTINF:0,NEW BeIN Sports 9 HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26268.m3u8
-#EXTINF:0,NEW BeIN Sports 10 HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26267.m3u8
-#EXTINF:0,NEW BeIN Sports 13 HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/26265.m3u8
-#EXTINF:0, H264| Bein-Sport-1HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30274.m3u8
-#EXTINF:0, H264| Bein-Sport-2HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30273.m3u8
-#EXTINF:0, H264| Bein-Sport-3HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30281.m3u8
-#EXTINF:0, H264| Bein-Sport-4HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30283.m3u8
-#EXTINF:0, H264| Bein-Sport-5HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30270.m3u8
-#EXTINF:0, H264| Bein-Sport-6HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30280.m3u8
-#EXTINF:0, H264| Bein-Sport-7HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30279.m3u8
-#EXTINF:0, H264| Bein-Sport-8HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30269.m3u8
-#EXTINF:0, H264| Bein-Sport-9HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30272.m3u8
-#EXTINF:0, H264| Bein-Sport-10HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30277.m3u8
-#EXTINF:0, H264| Bein-Sport-11HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30284.m3u8
-#EXTINF:0, H264| Bein-Sport-12HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30271.m3u8
-#EXTINF:0, H264| Bein-Sport-13-HD
-http://tvtv.pro:9696/live/nlfreindanis/qnQiBC5SAk/30282.m3u8
+#EXTINF:0,[DE] SKY BUNDESLIGA 1 HD-By : twitter.com/dailyfreeiptv
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/354.ts
+#EXTINF:0,[DE] SKY BUNDESLIGA 2 HD !!! weekend only !!!
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/355.ts
+#EXTINF:0,[DE] SKY BUNDESLIGA 3 HD !!! weekend only !!!
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/356.ts
+#EXTINF:0,[DE] SKY BUNDESLIGA 4 HD !!! weekend only !!!
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/357.ts
+#EXTINF:0,[DE] SKY BUNDESLIGA 5 HD !!! weekend only !!!
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/358.ts
+#EXTINF:0,[DE] SKY BUNDESLIGA 6 HD !!! weekend only !!!
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/359.ts
+#EXTINF:0,[DE] SKY BUNDESLIGA 7 HD !!! weekend only !!!
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/360.ts
+#EXTINF:0,[DE] SKY SPORT AUSTRIA-By : twitter.com/dailyfreeiptv
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/353.ts
+#EXTINF:0,[DE] SKY SPORT NEWS HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/352.ts
+#EXTINF:0,[DE] SKY SPORT 1 Full HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/348.ts
+#EXTINF:0,[DE] SKY SPORT 2 Full HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/350.ts
+#EXTINF:0,[DE] SKY SPORT 1 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/347.ts
+#EXTINF:0,[DE] SKY SPORT 2 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/349.ts
+#EXTINF:0,[DE] AUTO MOTOR SPORT HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/340.ts
+#EXTINF:0,[DE] MOTORVISON TV-By : twitter.com/dailyfreeiptv
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/339.ts
+#EXTINF:0,[DE] FILMBOX GERMANY HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1751.ts
+#EXTINF:0,[DE] EUROSPORT 2XTRA HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1752.ts
+#EXTINF:0,[DE] EUROSPORT 1 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/342.ts
+#EXTINF:0,[DE] EUROSPORT 2 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/343.ts
+#EXTINF:0,[DE] SPORT 1 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/344.ts
+#EXTINF:0,[DE] SPORT DIGITAL HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/351.ts
+#EXTINF:0,[DE] SPORT+1 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/345.ts
+#EXTINF:0,[DE] SPORT1 US HD-By : twitter.com/dailyfreeiptv
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/346.ts
+#EXTINF:0,[TR] BEIN SPORT MAX HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/200.ts
+#EXTINF:0,[TR] BEIN SPORTS 1 HD [VIP]
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/184.ts
+#EXTINF:0,[TR] BEIN SPORTS 2 HD [VIP]
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/185.ts
+#EXTINF:0,[TR] BEIN SPORTS 3 HD [VIP]
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/186.ts
+#EXTINF:0,[TR] BEIN SPORTS 1 HD [Y]
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/188.ts
+#EXTINF:0,[TR] BEIN SPORTS 2 HD [Y]
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/190.ts
+#EXTINF:0,[TR] BEIN SPORTS 3 HD [Y]
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/192.ts
+#EXTINF:0,[TR] BEIN SPORTS 1 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/187.ts
+#EXTINF:0,[TR] BEIN SPORTS 2 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/189.ts
+#EXTINF:0,[TR] BEIN SPORTS 3 HD-By : twitter.com/dailyfreeiptv
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/191.ts
+#EXTINF:0,[TR] BEIN SPORTS 4 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/199.ts
+#EXTINF:0,[IT] PREMIUM SPORT 1 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/483.ts
+#EXTINF:0,[IT] PREMIUM SPORT 2 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/484.ts
+#EXTINF:0,[IT] PREMIUM SPORT HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/482.ts
+#EXTINF:0,[NL] FOX SPORTS 1 Full HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/698.ts
+#EXTINF:0,[NL] FOX SPORTS 2 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/699.ts
+#EXTINF:0,[NL] FOX SPORTS 3 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/700.ts
+#EXTINF:0,[NL] FOX SPORTS 4 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/701.ts
+#EXTINF:0,[NL] FOX SPORTS 5 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/702.ts
+#EXTINF:0,[NL] FOX SPORTS 6 HD-By : twitter.com/dailyfreeiptv
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/703.ts
+#EXTINF:0,[NL] ZIGGO SPORT EXTRA 1
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/706.ts
+#EXTINF:0,[NL] ZIGGO SPORT GOLF
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/704.ts
+#EXTINF:0,[NL] ZIGGO SPORT RACING
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/705.ts
+#EXTINF:0,[NL] ZIGGO SPORT SELECT HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/708.ts
+#EXTINF:0,[NL] ZIGGO SPORT VOETBAL
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/707.ts
+#EXTINF:0,[PT] SPORT TV
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1049.ts
+#EXTINF:0,[PT] SPORT TV 1
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1076.ts
+#EXTINF:0,[PT] SPORT TV 1 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1050.ts
+#EXTINF:0,[PT] SPORT TV 2-By : twitter.com/dailyfreeiptv
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1077.ts
+#EXTINF:0,[PT] SPORT TV 2 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1051.ts
+#EXTINF:0,[PT] SPORT TV 3
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1078.ts
+#EXTINF:0,[PT] SPORT TV 3 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1052.ts
+#EXTINF:0,[PT] SPORT TV 4
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1079.ts
+#EXTINF:0,[PT] SPORT TV 4 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1053.ts
+#EXTINF:0,[PT] SPORT TV 5
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1080.ts
+#EXTINF:0,[PT] SPORT TV 5 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1054.ts
+#EXTINF:0,[PT] SPORTING TV
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1081.ts
+#EXTINF:0,[AR] BEINSPORT NEWS HD-By : twitter.com/dailyfreeiptv
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1444.ts
+#EXTINF:0,[AR] BEINSPORT 1 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1431.ts
+#EXTINF:0,[AR] BEINSPORT 2 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1432.ts
+#EXTINF:0,[AR] BEINSPORT 3 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1433.ts
+#EXTINF:0,[AR] BEINSPORT 4 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1434.ts
+#EXTINF:0,[AR] BEINSPORT 5 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1435.ts
+#EXTINF:0,[AR] BEINSPORT 6 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1436.ts
+#EXTINF:0,[AR] BEINSPORT 7 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1437.ts
+#EXTINF:0,[AR] BEIN SPORTS 8 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1438.ts
+#EXTINF:0,[AR] BEIN SPORTS 9 HD-By : twitter.com/dailyfreeiptv
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1439.ts
+#EXTINF:0,[AR] BEINSPORT 10 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1440.ts
+#EXTINF:0,[AR] BEIN SPORTS 11 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1441.ts
+#EXTINF:0,[AR] BEIN SPORTS 12 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1442.ts
+#EXTINF:0,[AR] BEIN SPORTS 13 HD (MATCH DAYS ONLY)
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1443.ts
+#EXTINF:0,[AR] MBC PRO SPORT 1 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1378.ts
+#EXTINF:0,[AR] MBC PRO SPORT 2 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1379.ts
+#EXTINF:0,[AR] MBC PRO SPORT 3 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1380.ts
+#EXTINF:0,[AR] MBC PRO SPORT 4 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1381.ts
+#EXTINF:0,[UK] BOXNATION
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/838.ts
+#EXTINF:0,[UK] BT SPORT 1 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/825.ts
+#EXTINF:0,[UK] BT SPORT 2 HD-By : twitter.com/dailyfreeiptv
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/826.ts
+#EXTINF:0,[UK] BT SPORT 3 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/827.ts
+#EXTINF:0,[UK] BT SPORT EUROPE
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/835.ts
+#EXTINF:0,[UK] BT SPORT EXTRA 1
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/828.ts
+#EXTINF:0,[UK] BT SPORT EXTRA 2
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/829.ts
+#EXTINF:0,[UK] BT SPORT EXTRA 3
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/830.ts
+#EXTINF:0,[UK] BT SPORT EXTRA 4
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/831.ts
+#EXTINF:0,[UK] BT SPORT EXTRA 5
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/832.ts
+#EXTINF:0,[UK] BT SPORT EXTRA 6
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/833.ts
+#EXTINF:0,[UK] BT SPORTS ESPN
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/834.ts
+#EXTINF:0,[AL] SUPER SPORT 1 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1230.ts
+#EXTINF:0,[AL] SUPER SPORT 2 HD-By : twitter.com/dailyfreeiptv
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1231.ts
+#EXTINF:0,[AL] SUPER SPORT 3 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1232.ts
+#EXTINF:0,[AL] SUPER SPORT 4 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1233.ts
+#EXTINF:0,[AL] SUPER SPORT 5 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1234.ts
+#EXTINF:0,[AL] SUPER SPORT 6 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1235.ts
+#EXTINF:0,[AL] SUPER SPORT KOSAVA 1 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1236.ts
+#EXTINF:0,[AL] TRING SPORT  1 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1237.ts
+#EXTINF:0,[AL] TRING SPORT 2 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1238.ts
+#EXTINF:0,[AL] TRING SPORT 3 HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1239.ts
+#EXTINF:0,[AL] TRING SPORT 4 HD-By : twitter.com/dailyfreeiptv
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1240.ts
+#EXTINF:0,[AL] TRING SPORT NEWS HD
+http://stars.managercw.com:8000/live/boran2002Sky12345/RedboxIPTV67890/1241.ts
