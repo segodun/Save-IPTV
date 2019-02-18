@@ -1,74 +1,4 @@
 #EXTM3U
-http://m-iptv.net:6204/Peshraw/Peshraw/13995
-#EXTINF:-1,AF-  EMCI TV ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13986
-#EXTINF:-1,AF-  Hope ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13983
-#EXTINF:-1,AF-  ITV Networks ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13982
-#EXTINF:-1,AF-  Light TV ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13980
-#EXTINF:-1,AF-  NUSMILES TV ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13974
-#EXTINF:-1,AF-  QVC ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13971
-#EXTINF:-1,AF-  QVC Plus ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13970
-#EXTINF:-1,AF-  Spydar Tv ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13968
-#EXTINF:-1,AF-  TV Continental ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13966
-#EXTINF:-1,AF-  TVC Entertainment ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13965
-#EXTINF:-1,AF- Amen TV ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13963
-#EXTINF:-1,AF- BET  ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13961
-#EXTINF:-1,AF- Biafra ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13960
-#EXTINF:-1,AF- Biafra TV ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13959
-#EXTINF:-1,AF- Channels 24 ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13956
-#EXTINF:-1,AF- Dove TV ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13954
-#EXTINF:-1,AF- Dunamis TV ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13953
-#EXTINF:-1,AF- God TV ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13948
-#EXTINF:-1,AF- Kings Word ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13946
-#EXTINF:-1,AF- Liberation TV ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13945
-#EXTINF:-1,AF- Love world 2 plus ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13943
-#EXTINF:-1,AF- Love World TV ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13942
-#EXTINF:-1,AF- LoveWorld PLUS ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13941
-#EXTINF:-1,AF- More Grace TV ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13940
-#EXTINF:-1,AF- Nollywood MOVIE ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13938
-#EXTINF:-1,AF- NTA LIVE ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13937
-#EXTINF:-1,AF- Rave TV ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13936
-#EXTINF:-1,AF- Salvation TV ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13935
-#EXTINF:-1,AF- TV Continental ( Nigeria )
-http://m-iptv.net:6204/Peshraw/Peshraw/13934
-http://m-iptv.net:6204/Peshraw/Peshraw/13616
-#EXTINF:-1,AF- TRACE AFRICA
-http://m-iptv.net:6204/Peshraw/Peshraw/13610
-#EXTINF:-1,AF- TRACE GOSPEL
-http://m-iptv.net:6204/Peshraw/Peshraw/13609
-#EXTINF:-1,AF- TRACE MISIKI
-http://m-iptv.net:6204/Peshraw/Peshraw/13608
-#EXTINF:-1,AF- Trace Naija
-http://m-iptv.net:6204/Peshraw/Peshraw/13607
-#EXTINF:-1,AF- Trace Urbaine
-http://m-iptv.net:6204/Peshraw/Peshraw/13605
 #EXTINF:-1,ABN TV
 http://217.33.10.154:8000/play/a00l/index.m3u8
 #EXTINF:-1,AIT Int'l
@@ -95,6 +25,13 @@ http://91.109.113.38:8000/play/a02e
 http://91.109.113.38:8000/play/a01z
 #EXTINF:-1 logo="http://85.240.105.100:9981/imagecache/80" tvg-id="080294a4992837a2cded79593a2d6bef",Afro Music
 http://85.240.105.100:9981/stream/channelid/613679624?ticket=
+#EXTINF:-1 logo="http://85.240.105.100:9981/imagecache/37" tvg-id="89407c9afc7cd701cb37bbfb3793196b",Trace Urban
+#EXTINF:-1 logo="http://85.240.105.100:9981/imagecache/80" tvg-id="080294a4992837a2cded79593a2d6bef",Afro Music
+http://85.240.105.100:9981/stream/channelid/613679624?ticket=5AD75CFDA86F26BBE955EE2B92C53DAE380905D1&profile=pass
+#EXTINF:-1 logo="http://85.240.105.100:9981/imagecache/25" tvg-id="adb9b8c503a184cb927d1ddd7622dd58",RDP Ãfrica
+http://85.240.105.100:9981/stream/channelid/1169734061?ticket=F997F9B07C71A757906751C3B14CA25665C245E2&profile=pass
+#EXTINF:-1 logo="http://85.240.105.100:9981/imagecache/87" tvg-id="114b474f9214ba4d8244f342eb82b019",RTP Ãfrica
+http://85.240.105.100:9981/stream/channelid/1330072337?ticket=F7A3A3058FF1FF39641BFF1D261B4F14590B03F8&profile=pass
 #EXTINF:-1,RT
 http://217.33.10.154:8000/play/a02g/index.m3u8
 #EXTINF:-1,RTB TV
