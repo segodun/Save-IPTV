@@ -3,6 +3,10 @@
 http://217.33.10.154:8000/play/a00l/index.m3u8
 #EXTINF:-1,AIT Int'l
 http://217.33.10.154:8000/play/a00j/index.m3u8
+#EXTINF:-1,ABN TV
+http://217.33.10.154:8000/play/a00l/index.m3u8
+#EXTINF:-1,AIT Int'l
+http://217.33.10.154:8000/play/a00j/index.m3u8
 #EXTINF:-1,BEN
 http://217.33.10.154:8000/play/a01k/index.m3u8
 #EXTINF:-1,CNN
@@ -23,15 +27,8 @@ http://217.33.10.154:8000/play/a02i/index.m3u8
 http://91.109.113.38:8000/play/a02e
 #EXTINF:-1,ROK+1
 http://91.109.113.38:8000/play/a01z
-#EXTINF:-1 logo="http://85.240.105.100:9981/imagecache/80" tvg-id="080294a4992837a2cded79593a2d6bef",Afro Music
-http://85.240.105.100:9981/stream/channelid/613679624?ticket=
 #EXTINF:-1 logo="http://85.240.105.100:9981/imagecache/37" tvg-id="89407c9afc7cd701cb37bbfb3793196b",Trace Urban
-#EXTINF:-1 logo="http://85.240.105.100:9981/imagecache/80" tvg-id="080294a4992837a2cded79593a2d6bef",Afro Music
 http://85.240.105.100:9981/stream/channelid/613679624?ticket=5AD75CFDA86F26BBE955EE2B92C53DAE380905D1&profile=pass
-#EXTINF:-1 logo="http://85.240.105.100:9981/imagecache/25" tvg-id="adb9b8c503a184cb927d1ddd7622dd58",RDP Ãfrica
-http://85.240.105.100:9981/stream/channelid/1169734061?ticket=F997F9B07C71A757906751C3B14CA25665C245E2&profile=pass
-#EXTINF:-1 logo="http://85.240.105.100:9981/imagecache/87" tvg-id="114b474f9214ba4d8244f342eb82b019",RTP Ãfrica
-http://85.240.105.100:9981/stream/channelid/1330072337?ticket=F7A3A3058FF1FF39641BFF1D261B4F14590B03F8&profile=pass
 #EXTINF:-1,RT
 http://217.33.10.154:8000/play/a02g/index.m3u8
 #EXTINF:-1,RTB TV
@@ -50,3 +47,4 @@ http://217.33.10.154:8000/play/a02e/index.m3u8
 http://217.33.10.154:8000/play/a00a/index.m3u8
 #EXTINF:-1,TVT International
 http://217.33.10.154:8000/play/a00m/index.m3u8
+
