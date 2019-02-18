@@ -69,7 +69,6 @@ http://m-iptv.net:6204/Peshraw/Peshraw/13608
 http://m-iptv.net:6204/Peshraw/Peshraw/13607
 #EXTINF:-1,AF- Trace Urbaine
 http://m-iptv.net:6204/Peshraw/Peshraw/13605
-#EXTM3U
 #EXTINF:-1,ABN TV
 http://217.33.10.154:8000/play/a00l/index.m3u8
 #EXTINF:-1,AIT Int'l
@@ -90,6 +89,10 @@ http://217.33.10.154:8000/play/a00f/index.m3u8
 http://217.33.10.154:8000/play/a01m/index.m3u8
 #EXTINF:-1,ROK
 http://217.33.10.154:8000/play/a02i/index.m3u8
+#EXTINF:-1,ROK
+http://91.109.113.38:8000/play/a02e
+#EXTINF:-1,ROK+1
+http://91.109.113.38:8000/play/a01z
 #EXTINF:-1,RT
 http://217.33.10.154:8000/play/a02g/index.m3u8
 #EXTINF:-1,RTB TV
