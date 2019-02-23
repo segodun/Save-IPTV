@@ -11,76 +11,45 @@ http://85.240.105.100:9981/stream/channelid/331258872?ticket=4A6985045D83E16A02F
 #EXTINF:-1 logo="http://85.240.105.100:9981/imagecache/111" tvg-id="ed8090c2e0a6365b44e44d0ec2e04e69",SPORT TV + HD
 #EXTINF:-1,Fox Sports 2 latino
 http://192.99.19.55:25461/skioltyo/4VIrhLpbSc/158
-#EXTINF:-1,FOX Family
-http://192.99.19.55:25461/skioltyo/4VIrhLpbSc/103
-#EXTINF:-1,DirecTV Sports 2
-http://192.99.19.55:25461/skioltyo/4VIrhLpbSc/6
-#EXTINF:-1,ESPN 2 latino
-http://192.99.19.55:25461/skioltyo/4VIrhLpbSc/146
-#EXTINF:-1,ESPN 3 latino
-http://192.99.19.55:25461/skioltyo/4VIrhLpbSc/8
-#EXTINF:-1,Bein La Liga
-http://192.99.19.55:25461/skioltyo/4VIrhLpbSc/159
-#EXTINF:-1,FOX
-http://192.99.19.55:25461/skioltyo/4VIrhLpbSc/147
-#EXTINF:-1,TyC Sports
-http://192.99.19.55:25461/sssjiolimoncon89ty/3lCrkbJsviu/43
-#EXTINF:-1,Fox Sports 1 Latino
-http://192.99.19.55:25461/sssjiolimoncon89ty/3lCrkbJsviu/37
-#EXTINF:-1,Fox Sports Premium
-http://192.99.19.55:25461/sssjiolimoncon89ty/3lCrkbJsviu/39
-#EXTINF:-1,SPORTâ€¢TV+ HD
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6113
-#EXTINF:-1,SPORTâ€¢TV + FHD
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6115
-#EXTINF:-1,SPORTâ€¢TV 1
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6108
-#EXTINF:-1,Sport TV 1 HD (LOW)
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/65601
-#EXTINF:-1,SPORTâ€¢TV 1 LOW
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6110
-#EXTINF:-1,SPORTâ€¢TV 1 HD
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6109
-#EXTINF:-1,SPORTâ€¢TV 1 FHD
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6111
-#EXTINF:-1,SPORTâ€¢TV 2
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6103
-#EXTINF:-1,Sport TV 2 HD (LOW)
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/65600
-#EXTINF:-1,SPORTâ€¢TV 2  LOW
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6105
-#EXTINF:-1,SPORTâ€¢TV 2 HD
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6104
-#EXTINF:-1,SPORTâ€¢TV 2 FHD
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6107
-#EXTINF:-1,SPORTâ€¢TV 3
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6099
-#EXTINF:-1,Sport TV 3 HD (LOW)
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/65599
-#EXTINF:-1,SPORTâ€¢TV 3 LOW
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6101
-#EXTINF:-1,SPORTâ€¢TV 3 HD
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6100
-#EXTINF:-1,SPORTâ€¢TV 3 FHD
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6102
-#EXTINF:-1,SPORTâ€¢TV 4
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6095
-#EXTINF:-1,Sport TV 4 HD (LOW)
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/65598
-#EXTINF:-1,SPORTâ€¢TV 4 LOW
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6097
-#EXTINF:-1,SPORTâ€¢TV 4 HD
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6096
-#EXTINF:-1,SPORTâ€¢TV 4 FHD
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6098
-#EXTINF:-1,Sport TV 5 HD (LOW)
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/65597
-#EXTINF:-1,SPORTâ€¢TV 5 LOW
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6093
-#EXTINF:-1,SPORTâ€¢TV 5
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6091
-#EXTINF:-1,SPORTâ€¢TV 5 HD
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6092
-#EXTINF:-1,SPORTâ€¢TV 5 FHD
-http://lcmniptv.selfip.com:8000/JOHNNY/1234/6094
-
+#EXTINF:-1,Bein sport 1
+http://145.239.2.221:25461/greg/greg/95
+#EXTINF:-1,Bein Sport 1 HD FR
+http://145.239.2.221:25461/greg/greg/112
+#EXTINF:-1,Bein sport 10
+http://145.239.2.221:25461/greg/greg/104
+#EXTINF:-1,Bein sport 11
+http://145.239.2.221:25461/greg/greg/105
+#EXTINF:-1,Bein sport 12
+http://145.239.2.221:25461/greg/greg/106
+#EXTINF:-1,Bein sport 2
+http://145.239.2.221:25461/greg/greg/96
+#EXTINF:-1,Bein Sport 2 HD FR
+http://145.239.2.221:25461/greg/greg/113
+#EXTINF:-1,Bein sport 3
+http://145.239.2.221:25461/greg/greg/97
+#EXTINF:-1,Bein Sport 3 HD FR
+http://145.239.2.221:25461/greg/greg/114
+#EXTINF:-1,Bein sport 4
+http://145.239.2.221:25461/greg/greg/98
+#EXTINF:-1,Bein sport 5
+http://145.239.2.221:25461/greg/greg/99
+#EXTINF:-1,Bein sport 6
+http://145.239.2.221:25461/greg/greg/100
+#EXTINF:-1,Bein sport 7
+http://145.239.2.221:25461/greg/greg/101
+#EXTINF:-1,Bein sport 8
+http://145.239.2.221:25461/greg/greg/102
+#EXTINF:-1,Bein sport 9
+http://145.239.2.221:25461/greg/greg/103
+#EXTINF:-1,Bein Sports
+http://145.239.2.221:25461/greg/greg/111
+#EXTINF:-1,beIN MAX 1
+http://145.239.2.221:25461/greg/greg/2643
+#EXTINF:-1,beIN MAX 2
+http://145.239.2.221:25461/greg/greg/2642
+#EXTINF:-1,beIN MAX 3
+http://145.239.2.221:25461/greg/greg/2641
+#EXTINF:-1,beIN MAX 4
+http://145.239.2.221:25461/greg/greg/2640
+#EXTINF:-1,KSA Sport 1
+http://145.239.2.221:25461/greg/greg/2658
