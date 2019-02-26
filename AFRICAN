@@ -1,50 +1,21 @@
 #EXTM3U
-#EXTINF:-1,ABN TV
-http://217.33.10.154:8000/play/a00l/index.m3u8
-#EXTINF:-1,AIT Int'l
-http://217.33.10.154:8000/play/a00j/index.m3u8
-#EXTINF:-1,ABN TV
-http://217.33.10.154:8000/play/a00l/index.m3u8
-#EXTINF:-1,AIT Int'l
-http://217.33.10.154:8000/play/a00j/index.m3u8
-#EXTINF:-1,BEN
-http://217.33.10.154:8000/play/a01k/index.m3u8
-#EXTINF:-1,CNN
-http://217.33.10.154:8000/play/a031/index.m3u8
-#EXTINF:-1,Channel 5
-http://217.33.10.154:8000/play/a02x/index.m3u8
-#EXTINF:-1,Channels 24
-http://217.33.10.154:8000/play/a032/index.m3u8
-#EXTINF:-1,KICC TV
-http://217.33.10.154:8000/play/a01v/index.m3u8
-#EXTINF:-1,ORTB TV
-http://217.33.10.154:8000/play/a00f/index.m3u8
-#EXTINF:-1,ORTM
-http://217.33.10.154:8000/play/a01m/index.m3u8
-#EXTINF:-1,ROK
-http://217.33.10.154:8000/play/a02i/index.m3u8
+#EXTINF:-1,Arise News
+http://91.109.113.38:8000/play/a08z
+#EXTINF:-1,TVC News
+http://91.109.113.38:8000/play/a00e
+#EXTINF:-1,Vox Africa
+http://91.109.113.38:8000/play/a08u
 #EXTINF:-1,ROK
 http://91.109.113.38:8000/play/a02e
 #EXTINF:-1,ROK+1
 http://91.109.113.38:8000/play/a01z
 #EXTINF:-1 logo="http://85.240.105.100:9981/imagecache/37" tvg-id="89407c9afc7cd701cb37bbfb3793196b",Trace Urban
 http://85.240.105.100:9981/stream/channelid/613679624?ticket=5AD75CFDA86F26BBE955EE2B92C53DAE380905D1&profile=pass
+#EXTINF:-1,ETV1
+http://91.109.113.38:8000/play/a084
+#EXTINF:-1,Eman Channel
+http://91.109.113.38:8000/play/a02u
+#EXTINF:-1,NTAI
+http://91.109.113.38:8000/play/a02a
 #EXTINF:-1,RT
-http://217.33.10.154:8000/play/a02g/index.m3u8
-#EXTINF:-1,RTB TV
-http://217.33.10.154:8000/play/a00n/index.m3u8
-#EXTINF:-1,RTI
-http://217.33.10.154:8000/play/a02z/index.m3u8
-#EXTINF:-1,RTI
-http://217.33.10.154:8000/play/a02l/index.m3u8
-#EXTINF:-1,RTS 1
-http://217.33.10.154:8000/play/a01n/index.m3u8
-#EXTINF:-1,TFM Senegal
-http://217.33.10.154:8000/play/a02d/index.m3u8
-#EXTINF:-1,TPAI
-http://217.33.10.154:8000/play/a02e/index.m3u8
-#EXTINF:-1,TV Congo
-http://217.33.10.154:8000/play/a00a/index.m3u8
-#EXTINF:-1,TVT International
-http://217.33.10.154:8000/play/a00m/index.m3u8
 
