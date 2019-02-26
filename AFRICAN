@@ -18,4 +18,8 @@ http://91.109.113.38:8000/play/a02u
 #EXTINF:-1,NTAI
 http://91.109.113.38:8000/play/a02a
 #EXTINF:-1,RT
+#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_1_1263_3458_13E_820000_0_0_0.png" tvg-id="bf1ef2bfb7b640804365694ad7882d58",MTA Africa
+http://5.44.126.198:9981/stream/channelid/1072832191?ticket=F31B3217FA85BCA97884F1CA50C8B70CA230A39C&profile=pass
+#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_1_1134_2AF8_13E_820000_0_0_0.png" tvg-id="9c1b6a2557f90bd3896fc8fa2b270169",TRACE TV
+http://5.44.126.198:9981/stream/channelid/627710876?ticket=37CAB4E6B7BF430A2E4FCDC64EBF2F7A6DF4251D&profile=pass
 
