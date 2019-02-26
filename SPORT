@@ -23,3 +23,65 @@ http://5.44.126.198:9981/stream/channelid/554368770?ticket=68005E68C330993457E59
 http://5.44.126.198:9981/stream/channelid/1677763206?ticket=308C3077E7DEA9C8B93C50B3A262385E013845AF&profile=pass
 #EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_19_98E_261_6_FFFF0000_0_0_0.png" tvg-id="554af886b57b847dde3d58a53ebc93a9",sport1 HD
 http://5.44.126.198:9981/stream/channelid/116935253?ticket=D7CCFE108E8E4DB4C38D02772A3ED965C7BB12AD&profile=pass
+#EXTINF:-1,Eleven Sports 1
+http://185.236.229.14:8000/play/a12o
+#EXTINF:-1,Eleven Sports 1
+http://185.236.229.14:8000/play/a12p
+#EXTINF:-1,Eleven Sports 1 HD
+http://185.236.229.14:8000/play/a132
+#EXTINF:-1,Eleven Sports 2 HD
+http://185.236.229.14:8000/play/a11q
+#EXTINF:-1,Eleven Sports 3
+http://185.236.229.14:8000/play/a10s
+#EXTINF:-1,Eleven Sports 4
+http://185.236.229.14:8000/play/a12q
+#EXTINF:-1,Eleven Sports 4
+http://185.236.229.14:8000/play/a133
+#EXTINF:-1,Eleven Sports 5
+http://185.236.229.14:8000/play/a12r
+#EXTINF:-1,Eleven Sports 5
+http://185.236.229.14:8000/play/a134
+#EXTINF:-1,Eleven Sports 6
+http://185.236.229.14:8000/play/a10h
+#EXTINF:-1,Eleven Sports 6
+http://185.236.229.14:8000/play/a113
+#EXTINF:-1,Eurosport 1
+http://185.236.229.14:8000/play/a11z
+#EXTINF:-1,Eurosport 2
+http://185.236.229.14:8000/play/a10f
+#EXTINF:-1,SPORT TV +
+http://185.236.229.14:8000/play/a14e
+#EXTINF:-1,SPORT TV 1
+http://185.236.229.14:8000/play/a0zv
+#EXTINF:-1,SPORT TV 1 HD
+http://185.236.229.14:8000/play/a11k
+#EXTINF:-1,SPORT TV 2
+http://185.236.229.14:8000/play/a0za
+#EXTINF:-1,SPORT TV 2 HD
+http://185.236.229.14:8000/play/a11l
+#EXTINF:-1,SPORT TV 3
+http://185.236.229.14:8000/play/a0zh
+#EXTINF:-1,SPORT TV 3 HD
+http://185.236.229.14:8000/play/a11m
+#EXTINF:-1,SPORT TV 5
+http://185.236.229.14:8000/play/a14p
+#EXTINF:-1,SPORT TV+
+http://185.236.229.14:8000/play/a13t
+#EXTINF:-1,Sky Sport 1
+http://185.236.229.14:8000/play/a0xd
+#EXTINF:-1,Sky Sport 1 HD
+http://185.236.229.14:8000/play/a0xs
+#EXTINF:-1,Sky Sport 2
+http://185.236.229.14:8000/play/a0y6
+#EXTINF:-1,Sky Sport 2 HD
+http://185.236.229.14:8000/play/a0xm
+#EXTINF:-1,Sky Sport 5
+http://185.236.229.14:8000/play/a0y7
+#EXTINF:-1,Sky Sport Austria
+http://185.236.229.14:8000/play/a0y2
+#EXTINF:-1,Sky Sport Austria HD
+http://185.236.229.14:8000/play/a0wn
+#EXTINF:-1,Sky Sport Bundesliga 1
+http://185.236.229.14:8000/play/a0xe
+#EXTINF:-1,Sky Sport Bundesliga UHD
+http://185.236.229.14:8000/play/a0xz
