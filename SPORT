@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,|FR| BEINSPORTS 1 FHD
+http://163.172.52.182:8789/live/serversportp2/PMM106scdO/4.ts
 #EXTINF:-1,BT Sport 3
 http://91.109.113.38:8000/play/a070
 #EXTINF:-1,Arena 1 HD.
@@ -17,3 +19,41 @@ http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/6.ts
 http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/5.ts
 #EXTINF:-1,BeinSportsHD4 720p
 http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/4.ts
+#EXTINF:-1,Deportes | Aym Sports
+http://micine.club:25461/12345/12345/2077
+#EXTINF:-1,Deportes | BeIN Sports Ã‘
+http://micine.club:25461/12345/12345/1841
+#EXTINF:-1,Deportes | DIRECTV Sports 1
+http://micine.club:25461/12345/12345/1844
+#EXTINF:-1,Deportes | DIRECTV Sports 2
+http://micine.club:25461/12345/12345/1843
+#EXTINF:-1,Deportes | DIRECTV Sports Plus
+http://micine.club:25461/12345/12345/1842
+#EXTINF:-1,Deportes | Espn
+http://micine.club:25461/12345/12345/2034
+#EXTINF:-1,Deportes | Espn 2
+http://micine.club:25461/12345/12345/2033
+#EXTINF:-1,Deportes | Espn 2 Sur
+http://micine.club:25461/12345/12345/2029
+#EXTINF:-1,Deportes | Espn 3
+http://micine.club:25461/12345/12345/2032
+#EXTINF:-1,Deportes | Espn 3 Sur
+http://micine.club:25461/12345/12345/2028
+#EXTINF:-1,Deportes | Espn Plus
+http://micine.club:25461/12345/12345/2031
+#EXTINF:-1,Deportes | Espn Plus Sur
+http://micine.club:25461/12345/12345/2027
+#EXTINF:-1,Deportes | Espn Sur
+http://micine.club:25461/12345/12345/2030
+#EXTINF:-1,Deportes | Fox Sports
+http://micine.club:25461/12345/12345/2015
+#EXTINF:-1,Deportes | Fox Sports 2
+http://micine.club:25461/12345/12345/2014
+#EXTINF:-1,Deportes | Fox Sports 2 Sur
+http://micine.club:25461/12345/12345/2011
+#EXTINF:-1,Deportes | Fox Sports 3
+http://micine.club:25461/12345/12345/2013
+#EXTINF:-1,Deportes | Fox Sports 3 Sur
+http://micine.club:25461/12345/12345/2010
+#EXTINF:-1,Deportes | Fox Sports Sur
+http://micine.club:25461/12345/12345/2012
