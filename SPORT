@@ -1,87 +1,19 @@
 #EXTM3U
-#EXTINF:-1,BBC One West
-http://91.109.113.38:8000/play/a089
-#EXTINF:-1,BT Sport 1
-http://91.109.113.38:8000/play/a06o
-#EXTINF:-1,BT Sport 2
-http://91.109.113.38:8000/play/a07e
 #EXTINF:-1,BT Sport 3
 http://91.109.113.38:8000/play/a070
-http://85.240.105.100:9981/stream/channelid/331258872?ticket=4A6985045D83E16A02F1B2B39D1E3D19518E3A70&profile=pass
-#EXTINF:-1 logo="http://85.240.105.100:9981/imagecache/111" tvg-id="ed8090c2e0a6365b44e44d0ec2e04e69",SPORT TV + HD
 #EXTINF:-1,Arena 1 HD.
 http://85.2.11.187:8000/play/a009
-#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_16_DD_4_85_FF0000_0_0_0.png" tvg-id="1ce3cc4404c5049d06970309f0acfe4d",Sky Sport 1
-http://5.44.126.198:9981/stream/channelid/1154278172?ticket=86A9507E9AC4E1165C0D078509B6DB5CBC434585&profile=pass
-#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_19_72_D_85_FF0000_0_0_0.png" tvg-id="746458fa166e307ab7c8dc9e406c7823",Sky Sport 2 HD
-http://5.44.126.198:9981/stream/channelid/2052613236?ticket=F42A84B217764FFD641F8FD44B86AD86C9EE0E12&profile=pass
-#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_16_DF_4_85_FF0000_0_0_0.png" tvg-id="168f789c64d29ec38701ff7f43180518",Sky Sport Bundesliga 1
-http://5.44.126.198:9981/stream/channelid/477662998?ticket=759CBA011902B2518F3B8CE2E58462D2812CD0E6&profile=pass
-#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_1_DAF_2D50_13E_820000_0_0_0.png" tvg-id="02ff0a219e3ad08d3084dfab7fc30e6f",Sportklub HD
-http://5.44.126.198:9981/stream/channelid/554368770?ticket=68005E68C330993457E595D04CF27E67ED9EE7CE&profile=pass
-#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_19_993_29A_6_FFFF0000_0_0_0.png" tvg-id="86a200644e1f7faa3d8a8dddd894bcb3",Eurosport 1 HD
-http://5.44.126.198:9981/stream/channelid/1677763206?ticket=308C3077E7DEA9C8B93C50B3A262385E013845AF&profile=pass
-#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_19_98E_261_6_FFFF0000_0_0_0.png" tvg-id="554af886b57b847dde3d58a53ebc93a9",sport1 HD
-http://5.44.126.198:9981/stream/channelid/116935253?ticket=D7CCFE108E8E4DB4C38D02772A3ED965C7BB12AD&profile=pass
-#EXTINF:-1,Eleven Sports 1
-http://185.236.229.14:8000/play/a12o
-#EXTINF:-1,Eleven Sports 1
-http://185.236.229.14:8000/play/a12p
-#EXTINF:-1,Eleven Sports 1 HD
-http://185.236.229.14:8000/play/a132
-#EXTINF:-1,Eleven Sports 2 HD
-http://185.236.229.14:8000/play/a11q
-#EXTINF:-1,Eleven Sports 3
-http://185.236.229.14:8000/play/a10s
-#EXTINF:-1,Eleven Sports 4
-http://185.236.229.14:8000/play/a12q
-#EXTINF:-1,Eleven Sports 4
-http://185.236.229.14:8000/play/a133
-#EXTINF:-1,Eleven Sports 5
-http://185.236.229.14:8000/play/a12r
-#EXTINF:-1,Eleven Sports 5
-http://185.236.229.14:8000/play/a134
-#EXTINF:-1,Eleven Sports 6
-http://185.236.229.14:8000/play/a10h
-#EXTINF:-1,Eleven Sports 6
-http://185.236.229.14:8000/play/a113
-#EXTINF:-1,Eurosport 1
-http://185.236.229.14:8000/play/a11z
-#EXTINF:-1,Eurosport 2
-http://185.236.229.14:8000/play/a10f
-#EXTINF:-1,SPORT TV +
-http://185.236.229.14:8000/play/a14e
-#EXTINF:-1,SPORT TV 1
-http://185.236.229.14:8000/play/a0zv
-#EXTINF:-1,SPORT TV 1 HD
-http://185.236.229.14:8000/play/a11k
-#EXTINF:-1,SPORT TV 2
-http://185.236.229.14:8000/play/a0za
-#EXTINF:-1,SPORT TV 2 HD
-http://185.236.229.14:8000/play/a11l
-#EXTINF:-1,SPORT TV 3
-http://185.236.229.14:8000/play/a0zh
-#EXTINF:-1,SPORT TV 3 HD
-http://185.236.229.14:8000/play/a11m
-#EXTINF:-1,SPORT TV 5
-http://185.236.229.14:8000/play/a14p
-#EXTINF:-1,SPORT TV+
-http://185.236.229.14:8000/play/a13t
-#EXTINF:-1,Sky Sport 1
-http://185.236.229.14:8000/play/a0xd
-#EXTINF:-1,Sky Sport 1 HD
-http://185.236.229.14:8000/play/a0xs
-#EXTINF:-1,Sky Sport 2
-http://185.236.229.14:8000/play/a0y6
-#EXTINF:-1,Sky Sport 2 HD
-http://185.236.229.14:8000/play/a0xm
-#EXTINF:-1,Sky Sport 5
-http://185.236.229.14:8000/play/a0y7
-#EXTINF:-1,Sky Sport Austria
-http://185.236.229.14:8000/play/a0y2
-#EXTINF:-1,Sky Sport Austria HD
-http://185.236.229.14:8000/play/a0wn
-#EXTINF:-1,Sky Sport Bundesliga 1
-http://185.236.229.14:8000/play/a0xe
-#EXTINF:-1,Sky Sport Bundesliga UHD
-http://185.236.229.14:8000/play/a0xz
+#EXTINF:-1,beIN SPORTS HD1 FR
+http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/14.ts
+#EXTINF:-1,RMC SPORT 1
+http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/11.ts
+#EXTINF:-1,BeinSportsHD8 720p
+http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/8.ts
+#EXTINF:-1,BeinSportsHD7 720p
+http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/7.ts
+#EXTINF:-1,BeinSportsHD6 720p
+http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/6.ts
+#EXTINF:-1,BeinSportsHD5 720p
+http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/5.ts
+#EXTINF:-1,BeinSportsHD4 720p
+http://185.180.221.217:8080/live/DREAMTVPANELLE/s2yKmL202P/4.ts
