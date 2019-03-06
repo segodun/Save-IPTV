@@ -17,123 +17,17 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 #EXTINF:-1,NHK World (Opt-1)
 http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1,UK- Sky News HD
-http://smart-hdip.com:6204/faiez/123/8533
-#EXTINF:-1,Uk- Sky Sports Main Event HD
-http://smart-hdip.com:6204/faiez/123/8517
-#EXTINF:-1,Uk- Sky Sports Cricket HD
-http://smart-hdip.com:6204/faiez/123/8516
-#EXTINF:-1,Uk- Sky Sports Action HD
-http://smart-hdip.com:6204/faiez/123/8515
-#EXTINF:-1,Uk- Sky Sports Golf HD
-http://smart-hdip.com:6204/faiez/123/8514
-#EXTINF:-1,Uk- Sky Sports Premier League HD
-http://smart-hdip.com:6204/faiez/123/8513
-#EXTINF:-1,UK- Sky Sports Arena HD
-http://smart-hdip.com:6204/faiez/123/9059
-#EXTINF:-1,Uk- Sky Sport Football
-http://smart-hdip.com:6204/faiez/123/8523
-#EXTINF:-1,Uk- Sky Sports MixHD
-http://smart-hdip.com:6204/faiez/123/8511
-#EXTINF:-1,Uk- Sky BoxNation
-http://smart-hdip.com:6204/faiez/123/8583
-#EXTINF:-1,Uk- Sky Sports F1 HD
-http://smart-hdip.com:6204/faiez/123/8512
-#EXTINF:-1,Uk- Sky Sports F1 HD Backup S
-http://smart-hdip.com:6204/faiez/123/11099
-#EXTINF:-1,Uk- Sky BT Sport 1 HD
-http://smart-hdip.com:6204/faiez/123/8582
-#EXTINF:-1,Uk- Sky BT Sport 2 HD
-http://smart-hdip.com:6204/faiez/123/8580
-#EXTINF:-1,Uk- Sky BT Sport 3 HD
-http://smart-hdip.com:6204/faiez/123/10166
-#EXTINF:-1,Uk- Sky BT Sports Extra 1
-http://smart-hdip.com:6204/faiez/123/8581
-#EXTINF:-1,Uk- Sky BT Sports Extra 2
-http://smart-hdip.com:6204/faiez/123/8579
-#EXTINF:-1,Uk- Sky BT Sports Extra 3
-http://smart-hdip.com:6204/faiez/123/8578
-#EXTINF:-1,Uk- Uk- Sky BT Sport ESPN HD
-http://smart-hdip.com:6204/faiez/123/8577
-#EXTINF:-1,Uk- Sky Eurosport 1 HD
-http://smart-hdip.com:6204/faiez/123/8560
-#EXTINF:-1,Uk- Sky Eurosport 2 HD
-http://smart-hdip.com:6204/faiez/123/8559
-#EXTINF:-1,Uk- Sky Eir Sport 1
-http://smart-hdip.com:6204/faiez/123/11118
-#EXTINF:-1,Uk- Sky Eir Sport 2
-http://smart-hdip.com:6204/faiez/123/11117
-#EXTINF:-1,Uk- Sky YourTV HD
-http://smart-hdip.com:6204/faiez/123/11114
-#EXTINF:-1,Uk- Sky MUTV
-http://smart-hdip.com:6204/faiez/123/8536
-#EXTINF:-1,Uk- Sky Chelsea TV HD
-http://smart-hdip.com:6204/faiez/123/8572
-#EXTINF:-1,Uk- Sky Liverpool FC TV HD
-http://smart-hdip.com:6204/faiez/123/8548
-#EXTINF:-1,UK- Sky BBC News
-http://smart-hdip.com:6204/faiez/123/8589
-#EXTINF:-1,Uk- Sky BBC One HD
-http://smart-hdip.com:6204/faiez/123/8587
-#EXTINF:-1,Uk- Sky BBC Two HD
-http://smart-hdip.com:6204/faiez/123/8585
-#EXTINF:-1,Uk- Sky BBC Three HD
-http://smart-hdip.com:6204/faiez/123/8586
-#EXTINF:-1,Uk- Sky BBC Four HD
-http://smart-hdip.com:6204/faiez/123/8588
-#EXTINF:-1,Uk- Sky More 4 HD
-http://smart-hdip.com:6204/faiez/123/8547
-#EXTINF:-1,Uk- Sky Sports Box Office HD
-http://smart-hdip.com:6204/faiez/123/11115
-#EXTINF:-1,Uk- Sky Movies Action HD
-http://smart-hdip.com:6204/faiez/123/8545
-#EXTINF:-1,Uk- Sky Movies Drama HD
-http://smart-hdip.com:6204/faiez/123/8541
-#EXTINF:-1,Uk- Sky Movies Family HD
-http://smart-hdip.com:6204/faiez/123/8540
-#EXTINF:-1,Uk- Sky Movies Premiere HD
-http://smart-hdip.com:6204/faiez/123/8538
-#EXTINF:-1,Uk- Sky Movies Select HD
-http://smart-hdip.com:6204/faiez/123/8537
-#EXTINF:-1,Uk- Sky Movies 24
-http://smart-hdip.com:6204/faiez/123/8546
-#EXTINF:-1,Uk- Sky Movies Crime
-http://smart-hdip.com:6204/faiez/123/8543
-#EXTINF:-1,Uk- Sky Movies Disney
-http://smart-hdip.com:6204/faiez/123/8542
-#EXTINF:-1,Uk- Sky Movies Greats
-http://smart-hdip.com:6204/faiez/123/8539
-#EXTINF:-1,Uk- Sky Atlantic
-http://smart-hdip.com:6204/faiez/123/8591
-#EXTINF:-1,Uk- Sky Cbs Action
-http://smart-hdip.com:6204/faiez/123/8575
-#EXTINF:-1,Uk- Sky Cbs Drama
-http://smart-hdip.com:6204/faiez/123/8574
-#EXTINF:-1,Uk- Sky CBS Reality
-http://smart-hdip.com:6204/faiez/123/8573
-#EXTINF:-1,Uk- Sky RTE One
-http://smart-hdip.com:6204/faiez/123/8525
-#EXTINF:-1,Uk- Sky RTE Two
-http://smart-hdip.com:6204/faiez/123/8524
-#EXTINF:-1,Uk- Sky True Movies 1
-http://smart-hdip.com:6204/faiez/123/8510
-#EXTINF:-1,Uk- Sky True Movies 2
-http://smart-hdip.com:6204/faiez/123/8509
-#EXTINF:-1,Uk- Sky ITV 1
-http://smart-hdip.com:6204/faiez/123/8552
-#EXTINF:-1,Uk- Sky ITV 2
-http://smart-hdip.com:6204/faiez/123/8551
-#EXTINF:-1,Uk- Sky ITV 3
-http://smart-hdip.com:6204/faiez/123/8550
-#EXTINF:-1,Uk- Sky ITV 4
-http://smart-hdip.com:6204/faiez/123/8549
-#EXTINF:-1,Uk- Sky 1
-http://smart-hdip.com:6204/faiez/123/11120
-#EXTINF:-1,Uk- Sky 2
-http://smart-hdip.com:6204/faiez/123/11119
-#EXTINF:-1,Uk- Sky 4 Music
-http://smart-hdip.com:6204/faiez/123/8595
-#EXTINF:-1,Uk- Sky 5 USA
-http://smart-hdip.com:6204/faiez/123/8594
-#EXTINF:-1,Uk- Sky Arts 1 HD
-http://smart-hdip.com:6204/faiez/123/8592
+#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="USA",RT America
+https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
+ #EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="USA",RT Documentary
+https://rt-doc.secure.footprint.net/1101-inadv-qidx-2k_v5.m3u8?fluxustv.m3u8
+ #EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="USA",RT News
+https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="USA",Sky News America
+http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png" group-title="USA",TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7zieaS3.png" group-title="USA",Voice of America
+http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YEs2cGe.png" group-title="UK",DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
