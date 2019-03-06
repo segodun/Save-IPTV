@@ -1,4 +1,56 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.icon2s.com/wp-content/uploads/2012/12/Ghana-flag-icon.png" group-title="LABEL",~ Ghana TV ~
+http://www.lengua.com/anthems/Ghana.mp3
+
+#EXTINF:-1 tvg-logo="http://channelpear.com/images/media/6814.jpg" group-title="GHANA",TV Africa (Ghana)
+http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://topbandeiras.com.br/images/botoes/Nigeria-01.png" group-title="LABEL",~ Nigeria TV ~
+http://www.lengua.com/anthems/Nigeria.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.africawebtv.com/wp-content/uploads/2015/02/TVC-Ent.png" group-title="NIGERIA",TVC
+http://77.92.76.135:1935/tvce/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.consat.tv/images/1475327925.jpg" group-title="NIGERIA",TVC News
+http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://icons.iconarchive.com/icons/custom-icon-design/all-country-flag/256/Sierra-Leone-Flag-icon.png" group-title="LABEL",~ Sierra Leone TV ~
+http://www.lengua.com/anthems/SierraLeone.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.cfmstreaming.com/img/ayvtv__Ayvnewlogo1.jpg" group-title="SIERRA LEONE",AYV TV
+http://gghdlive-lh.akamaihd.net/i/ayvtv5_1@323148/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.i2clipart.com/cliparts/d/e/e/2/clipart-za-256x256-dee2.png" group-title="LABEL",~ South Africa TV ~
+http://www.lengua.com/anthems/SouthAfrica.mp3
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://businesstech.co.za/news/wp-content/uploads/2013/10/ANN7.jpg" group-title="SOUTH AFRICA",ANN7
+rtmp://46.4.25.213/live-ann7/ann7-hi.stream
+
+#EXTINF:-1 tvg-logo="http://blackbeautyfair.com/wp-content/uploads/2015/08/logo_bblack_africa-820x442.png" group-title="FRANCE",Bblack! Africa
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/vjdid.com/wp-content/uploads/2017/10/logo-bblack-caribbean-contour-noir.png" group-title="FRANCE",Bblack! Caribbean
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="FRANCE",Trace Africa
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="FRANCE",Trace Gospel
+https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="FRANCE",Trace Kitoko
+https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="FRANCE",Trace Mziki
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija1.png" group-title="FRANCE",Trace Naija
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="FRANCE",Trace Tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/FashionOneLogo.jpg/200px-FashionOneLogo.jpg" group-title="SOUTH AFRICA",Fashion One
+http://mn-i.mncdn.com/birnumaramedya_mobile/fashionone.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="9d6209d3a9643338385eb55a18469ed1",ORTB TV
 http://37.235.38.67:9981/stream/channelid/1393123997?profile=pass
 #EXTINF:-1 tvg-id="655007c84ff7c6a7ea907edff1fab34b",ORTM
