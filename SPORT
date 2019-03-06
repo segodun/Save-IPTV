@@ -1,8 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/shows/fs1/logo_fs1.vresize.1200.630.high.0.png" group-title="USA",Fox Sports 1 (New!)
 http://23.237.22.82:8086/udp/127.0.0.1:56046
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA",Fox Sports 2 (New!)
 http://23.237.22.82:8086/udp/127.0.0.1:56047
+
 #EXTINF:-1 tvg-logo="http://www.jainvite.com/wp-content/uploads/2015/03/TVJSN-logo800x400-300x150.jpg" group-title="JAMAICA",TVJ Sports Network
 http://uvodscp-lh.akamaihd.net//i//rjrtvjsndirect_1@506693//master.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="TAIWAN",Eleven Sports 1 (UK)
+http://61.58.60.230:9000/live/75.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2017/09/ELEVEN-SPORTS-logo1.png" group-title="TAIWAN",Eleven Sports 2 (UK)
+http://61.58.60.230:9000/live/102.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="24/7 PLUTO TV",Fox Sports
+http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
