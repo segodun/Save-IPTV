@@ -1,23 +1,118 @@
 #EXTM3U
-#EXTINF:-1,RTL.
-http://85.2.11.187:8000/play/a00j
-#EXTINF:-1,RTL2.
-http://85.2.11.187:8000/play/a008
-#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_19_8A3_26E_6_FFFF0000_0_0_0.png" tvg-id="2cb6e8d7089463b73eeef2f2111d2e72",Das Erste HD
-http://5.44.126.198:9981/stream/channelid/1474868780?ticket=F134BAE9E871D3209CEF174947EA050D2271D34B&profile=pass
-#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_19_8A5_26E_6_FFFF0000_0_0_0.png" tvg-id="f70086871681f783394fd1a4ccc42a78",ZDF HD
-http://5.44.126.198:9981/stream/channelid/126222583?ticket=A357D5E89F80C89DC8171CC607880906C77FF2A9&profile=pass
-#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_19_8D1_25C_6_FFFF0000_0_0_0.png" tvg-id="2de633fd1c813b23d04e932fd67521fd",hr-fernsehen HD
-http://5.44.126.198:9981/stream/channelid/2100553261?ticket=092CD849FA09D79D7078F9B333960A257AE4B906&profile=pass
-#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_19_957_26E_6_FFFF0000_0_0_0.png" tvg-id="0035e67795ef4bf9391e189ae06db603",3sat HD
-http://5.44.126.198:9981/stream/channelid/2011575552?ticket=CD3C2EC07B6AEAB16653792E5C08E00EB0DB6DE1&profile=pass
-#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_19_959_26E_6_FFFF0000_0_0_0.png" tvg-id="ba03b406baadcdf2533b555d1fcf369e",arte HD
-http://5.44.126.198:9981/stream/channelid/112460730?ticket=CCD859E4480739E23E84FE293E6AD94434CD2169&profile=pass
-#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_19_912_261_6_FFFF0000_0_0_0.png" tvg-id="c779fc50e1d4a343477d398c9ad7e789",DMAX HD
-http://5.44.126.198:9981/stream/channelid/1358723527?ticket=E3C66EE59450093FD68C22320AABEEE6C6F1A3C9&profile=pass
-#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_19_9AF_25D_6_FFFF0000_0_0_0.png" tvg-id="5f3c993c497ae255abd03356077dc741",MTV CH HD
-http://5.44.126.198:9981/stream/channelid/1016675423?ticket=589D63BD214D9B78478370DF624FE74FEA756306&profile=pass
-#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_1_9A2_25D_6_FFFF0000_0_0_0.png" tvg-id="1c85b514c2a54e52a327437132806b0f",Disney Channel
-http://5.44.126.198:9981/stream/channelid/347440412?ticket=7EC3046C58C3090F47A646F9D0AF5D0F5A88D8A1&profile=pass
-#EXTINF:-1 logo="http://nicoleundpascal.ch/tvhlogos/1_0_19_99E_25D_6_FFFF0000_0_0_0.png" tvg-id="07fb678998d2bb9490da81529ce732e8",KiKA HD
-http://5.44.126.198:9981/stream/channelid/157809415?ticket=9B926A022434729BBDEB404C025AF476491CB3A5&profile=pass
+#EXTM3U
+#EXTINF:-1,|DE| ZDF
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/290
+#EXTINF:-1,|DE| Kabel 1
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/335
+#EXTINF:-1,|DE| Kabel 1 Doku
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/334
+#EXTINF:-1,|DE| RTL
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/325
+#EXTINF:-1,|DE| RTL 2
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/321
+#EXTINF:-1,|DE| ProSieben
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/327
+#EXTINF:-1,|DE| Das Erste
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/351
+#EXTINF:-1,|DE| ARTE HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/352
+#EXTINF:-1,|DE| 3sat
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/354
+#EXTINF:-1,|DE| MTV HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/331
+#EXTINF:-1,|DE| N24
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/330
+#EXTINF:-1,|DE| Sat 1
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/320
+#EXTINF:-1,|DE| VOX
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/291
+#EXTINF:-1,|DE| SUPER RTL
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/297
+#EXTINF:-1,|DE| 13th Street
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/355
+#EXTINF:-1,|DE| Discovery ch
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/350
+#EXTINF:-1,|DE| Disney Channel HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/349
+#EXTINF:-1,|DE| Disney Cinemagic
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/348
+#EXTINF:-1,|DE| Disney Junior
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/347
+#EXTINF:-1,|DE| Disney XD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/346
+#EXTINF:-1,|DE| Eurosport1 HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/345
+#EXTINF:-1,|DE| Eurosport2 HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/344
+#EXTINF:-1,|DE| Eurosport2 Xtra HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/343
+#EXTINF:-1,|DE| FOX HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/341
+#EXTINF:-1,|DE| HR HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/337
+#EXTINF:-1,|DE| Junior
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/336
+#EXTINF:-1,|DE| Kabel Eins HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/333
+#EXTINF:-1,|DE| KiKA
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/332
+#EXTINF:-1,|DE| Nat Geo HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/357
+#EXTINF:-1,|DE| Nat Geo Wild
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/329
+#EXTINF:-1,|DE| Nickelodeon HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/328
+#EXTINF:-1,|DE| ProSieben MAXX
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/326
+#EXTINF:-1,|DE| RTL Crime
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/324
+#EXTINF:-1,|DE| RTL Nitro
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/323
+#EXTINF:-1,|DE| RTL Passion
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/322
+#EXTINF:-1,|DE| SAT 1 Gold
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/319
+#EXTINF:-1,|DE| SIXX HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/318
+#EXTINF:-1,|DE| Sky Action
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/317
+#EXTINF:-1,|DE| Sky ARTS HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/316
+#EXTINF:-1,|DE| Sky Atlantic
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/315
+#EXTINF:-1,|DE| Sky Bundesliga 1
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/314
+#EXTINF:-1,|DE| Sky Cinama
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/313
+#EXTINF:-1,|DE| Sky Cinema 1
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/312
+#EXTINF:-1,|DE| Sky Cinema 24
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/311
+#EXTINF:-1,|DE| Sky Cinema Family
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/310
+#EXTINF:-1,|DE| Sky Cinema Hits
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/309
+#EXTINF:-1,|DE| Sky Cinema Nostalgie
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/308
+#EXTINF:-1,|DE| Sky Comedy
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/307
+#EXTINF:-1,|DE| Sky Emotion
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/306
+#EXTINF:-1,|DE| Sky Krimi
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/305
+#EXTINF:-1,|DE| Sky Sport 1 HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/304
+#EXTINF:-1,|DE| Sky SPort 1 SD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/303
+#EXTINF:-1,|DE| Sky Sport 2 HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/302
+#EXTINF:-1,|DE| SKY SPORT 2 SD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/301
+#EXTINF:-1,|DE| Sky Sport News
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/300
+#EXTINF:-1,|DE| Sport1 HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/298
+#EXTINF:-1,|DE| ZDF Infokanal
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/289
+#EXTINF:-1,|DE| ZDF Neo
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/288
