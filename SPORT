@@ -16,3 +16,28 @@ http://61.58.60.230:9000/live/102.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" group-title="24/7 PLUTO TV",Fox Sports
 http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:0,|DE| SKY SPORT 1 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4683
+#EXTINF:0,|DE| SKY SPORT 2 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4682
+#EXTINF:0,|DE| SKY SPORT 3 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4681
+#EXTINF:0,|DE| SKY SPORT 4 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4680
+#EXTINF:0,|DE| SKY SPORT 5 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4679
+#EXTINF:0,|DE| SKY SPORT 6 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4678
+#EXTINF:0,|DE| SKY SPORT 7 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4677
+#EXTINF:0,|DE| SKY SPORT 8 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4676
+#EXTINF:0,|DE| SKY SPORT 9 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4675
+#EXTINF:0,|DE| SKY SPORT 10 HD
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4674
+#EXTINF:0,|DE| SKY SPORT 1
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4673
+#EXTINF:0,|DE| SKY SPORT 2
+http://tv.hotboxtv.net:8000/madagascar/madagascar/4672
