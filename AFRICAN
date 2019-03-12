@@ -5,6 +5,10 @@ http://185.130.215.44:8080/WuYC3qhd9/65udrOt48Y/133396
 http://185.130.215.44:8080/WuYC3qhd9/65udrOt48Y/75742
 #EXTINF:-1,UK: ROK TV
 http://185.130.215.44:8080/WuYC3qhd9/65udrOt48Y/102185
+#EXTINF:-1,.iptv-m3u-playlist.com l AF: TVC HD
+http://111.90.151.57:8080/live/uu/1234/92411.ts
+#EXTINF:-1,.iptv-m3u-playlist.com l AF: TVC News (NAGERIA)
+http://111.90.151.57:8080/live/uu/1234/119986.ts
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="FRANCE",Trace Africa
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="FRANCE",Trace Gospel
