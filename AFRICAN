@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1,BEN
-http://satsni.club:34656/qUdDA75Z7a/Yh5RBYfjMa/46352
-#EXTINF:-1,Vox Africa
-http://satsni.club:34656/qUdDA75Z7a/Yh5RBYfjMa/46337
+#EXTINF:-1,UK: ABN TV
+http://185.130.215.44:8080/WuYC3qhd9/65udrOt48Y/133396
+#EXTINF:-1,UK: BEN
+http://185.130.215.44:8080/WuYC3qhd9/65udrOt48Y/75742
+#EXTINF:-1,UK: ROK TV
+http://185.130.215.44:8080/WuYC3qhd9/65udrOt48Y/102185
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="FRANCE",Trace Africa
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="FRANCE",Trace Gospel
@@ -21,11 +23,6 @@ http://37.235.38.67:9981/stream/channelid/1393123997?profile=pass
 http://37.235.38.67:9981/stream/channelid/1208438885?profile=pass
 #EXTINF:-1 tvg-id="de27b0cbd69316514b115829c4fa6934",RTB TV
 http://37.235.38.67:9981/stream/channelid/1269835742?profile=pass
-#EXTINF:-1 tvg-id="61e3c30bb02f4ce4a8514aa14da4f780",RTI
-http://37.235.38.67:9981/stream/channelid/197387105?profile=pass
 #EXTINF:-1 tvg-id="694e9a4cfa9da5faa6a37f5edeb06298",RTS 1
 http://37.235.38.67:9981/stream/channelid/1285181033?profile=pass
-#EXTINF:-1 tvg-id="a17381e7e82f8c239b5e4906f59e5f8b",RTS2
-http://37.235.38.67:9981/stream/channelid/1736536993?profile=pass
-#EXTINF:-1 tvg-id="e10b466d5453eb712a05c2c0e19b1d5e",RTS2
-http://37.235.38.67:9981/stream/channelid/1833307105?profile=pass
+
