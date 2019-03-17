@@ -1,379 +1,73 @@
 #EXTM3U
-#EXTINF:-1,### TR SPOR ###
-http://can.servervip.eu:80/taylan1/02092018/93
-#EXTINF:-1,TR: beIN SPORTS 1 SD
-http://can.servervip.eu:80/taylan1/02092018/84
-#EXTINF:-1,TR: beIN SPORTS 1 HD (720P)
-http://can.servervip.eu:80/taylan1/02092018/88
-#EXTINF:-1,TR: beIN SPORTS 1 HD (1080p)
-http://can.servervip.eu:80/taylan1/02092018/6473
-#EXTINF:-1,TR: beIN SPORTS 4K
-http://can.servervip.eu:80/taylan1/02092018/92
-#EXTINF:-1,TR: beIN SPORTS 1 HD H265
-http://can.servervip.eu:80/taylan1/02092018/6486
-#EXTINF:-1,TR: beIN SPORTS 2 HD
-http://can.servervip.eu:80/taylan1/02092018/87
-#EXTINF:-1,TR: beIN SPORTS 2 SD
-http://can.servervip.eu:80/taylan1/02092018/83
-#EXTINF:-1,TR: beIN SPORTS 3 HD
-http://can.servervip.eu:80/taylan1/02092018/86
-#EXTINF:-1,TR: beIN SPORTS 3 SD
-http://can.servervip.eu:80/taylan1/02092018/82
-#EXTINF:-1,TR: beIN SPORTS 4 HD
-http://can.servervip.eu:80/taylan1/02092018/85
-#EXTINF:-1,TR: beIN SPORTS 4 SD
-http://can.servervip.eu:80/taylan1/02092018/81
-#EXTINF:-1,TR: beIN SPORTS HABER HD
-http://can.servervip.eu:80/taylan1/02092018/76
-#EXTINF:-1,TR: beIN SPORTS MAX 1 HD
-http://can.servervip.eu:80/taylan1/02092018/80
-#EXTINF:-1,TR: beIN SPORTS MAX 1 SD
-http://can.servervip.eu:80/taylan1/02092018/79
-#EXTINF:-1,TR: beIN SPORTS MAX 2 HD
-http://can.servervip.eu:80/taylan1/02092018/78
-#EXTINF:-1,TR: beIN SPORTS MAX 2 SD
-http://can.servervip.eu:80/taylan1/02092018/77
-#EXTINF:-1,TR: TIVIBUSPOR 1 HD
-http://can.servervip.eu:80/taylan1/02092018/75
-#EXTINF:-1,TR: TIVIBUSPOR 2 HD
-http://can.servervip.eu:80/taylan1/02092018/74
-#EXTINF:-1,TR: TIVIBUSPOR 3 HD
-http://can.servervip.eu:80/taylan1/02092018/73
-#EXTINF:-1,TR: TIVIBUSPOR 4 HD
-http://can.servervip.eu:80/taylan1/02092018/72
-#EXTINF:-1,TR: S Sport SD
-http://can.servervip.eu:80/taylan1/02092018/68
-#EXTINF:-1,TR: SARANSPORT HD
-http://can.servervip.eu:80/taylan1/02092018/69
-#EXTINF:-1,TR: SPORSMART HD
-http://can.servervip.eu:80/taylan1/02092018/71
-#EXTINF:-1,TR: SPORSMART SD
-http://can.servervip.eu:80/taylan1/02092018/70
-#EXTINF:-1,TR: Eurosport 1 HD
-http://can.servervip.eu:80/taylan1/02092018/65
-#EXTINF:-1,TR: Eurosport 2 HD
-http://can.servervip.eu:80/taylan1/02092018/64
-#EXTINF:-1,TR: NBA TV HD
-http://can.servervip.eu:80/taylan1/02092018/67
-#EXTINF:-1,TR: NBA TV SD
-http://can.servervip.eu:80/taylan1/02092018/66
-#EXTINF:-1,TR: TRT SPOR SD
-http://can.servervip.eu:80/taylan1/02092018/63
-#EXTINF:-1,TR: TRT SPOR HD
-http://can.servervip.eu:80/taylan1/02092018/62
-#EXTINF:-1,TR: ASPOR HD
-http://can.servervip.eu:80/taylan1/02092018/60
-#EXTINF:-1,TR: ASPOR SD
-http://can.servervip.eu:80/taylan1/02092018/61
-#EXTINF:-1,TR: FBTV HD
-http://can.servervip.eu:80/taylan1/02092018/57
-#EXTINF:-1,TR: GSTV HD
-http://can.servervip.eu:80/taylan1/02092018/58
-#EXTINF:-1,TR: BJKTV HD
-http://can.servervip.eu:80/taylan1/02092018/56
-#EXTINF:-1,TR: BURSASPORTV HD
-http://can.servervip.eu:80/taylan1/02092018/55
-#EXTINF:-1,TR: TAY TV
-http://can.servervip.eu:80/taylan1/02092018/53
-#EXTINF:-1,TR: TJK
-http://can.servervip.eu:80/taylan1/02092018/54
-#EXTINF:-1,### TR BELGESEL ###
-http://can.servervip.eu:80/taylan1/02092018/10700
-#EXTINF:-1,TR: BEIN GURME HD
-http://can.servervip.eu:80/taylan1/02092018/11320
-#EXTINF:-1,TR: BEIN IZ
-http://can.servervip.eu:80/taylan1/02092018/11321
-#EXTINF:-1,TR :24 Kitchen HD
-http://can.servervip.eu:80/taylan1/02092018/10692
-#EXTINF:-1,TR :Animaux
-http://can.servervip.eu:80/taylan1/02092018/10697
-#EXTINF:-1,TR :Automoto la Chaine  HD
-http://can.servervip.eu:80/taylan1/02092018/10696
-#EXTINF:-1,TR :BBC Earth HD
-http://can.servervip.eu:80/taylan1/02092018/10695
-#EXTINF:-1,TR :Chasse et Peche
-http://can.servervip.eu:80/taylan1/02092018/10694
-#EXTINF:-1,TR :Discovery Channel HD
-http://can.servervip.eu:80/taylan1/02092018/10687
-#EXTINF:-1,TR :Discovery Science HD
-http://can.servervip.eu:80/taylan1/02092018/10686
-#EXTINF:-1,TR :History Channel HD
-http://can.servervip.eu:80/taylan1/02092018/10699
-#EXTINF:-1,TR :Nat Geo Channel HD
-http://can.servervip.eu:80/taylan1/02092018/10691
-#EXTINF:-1,TR :Nat Geo People HD
-http://can.servervip.eu:80/taylan1/02092018/10690
-#EXTINF:-1,TR :Nat Geo Wild HD
-http://can.servervip.eu:80/taylan1/02092018/10689
-#EXTINF:-1,TR :Science et Vie HD
-http://can.servervip.eu:80/taylan1/02092018/10688
-#EXTINF:-1,TR: Animal Planet  HD
-http://can.servervip.eu:80/taylan1/02092018/10698
-#EXTINF:-1,TR: DA VINCI
-http://can.servervip.eu:80/taylan1/02092018/10685
-#EXTINF:-1,TR: Discovery IDX HD
-http://can.servervip.eu:80/taylan1/02092018/10684
-#EXTINF:-1,TR: Discovery ShowCase HD
-http://can.servervip.eu:80/taylan1/02092018/10683
-#EXTINF:-1,TR: Docubox  FHD
-http://can.servervip.eu:80/taylan1/02092018/10682
-#EXTINF:-1,TR: Investigation Discovery HD
-http://can.servervip.eu:80/taylan1/02092018/10693
-#EXTINF:-1,TR: Science & Vie TV HD
-http://can.servervip.eu:80/taylan1/02092018/10681
-#EXTINF:-1,TR: TGRT-BELGESEL-HD
-http://can.servervip.eu:80/taylan1/02092018/10677
-#EXTINF:-1,TR: TGRT-BELGESEL-SD
-http://can.servervip.eu:80/taylan1/02092018/10676
-#EXTINF:-1,TR: TRT-BELGESEL-HD
-http://can.servervip.eu:80/taylan1/02092018/10679
-#EXTINF:-1,TR: TRT-BELGESEL-SD
-http://can.servervip.eu:80/taylan1/02092018/10678
-#EXTINF:-1,TR: Auto Moto HD
-http://can.servervip.eu:80/taylan1/02092018/10680
-#EXTINF:-1,TR: YABAN TV-HD
-http://can.servervip.eu:80/taylan1/02092018/10675
-#EXTINF:-1,TR: YABAN TV-SD
-http://can.servervip.eu:80/taylan1/02092018/10674
-#EXTINF:-1,TR:  VIASAT HISTORY HD
-http://can.servervip.eu:80/taylan1/02092018/11312
-#EXTINF:-1,TR: ANIMAL PLANET (yedek)
-http://can.servervip.eu:80/taylan1/02092018/11313
-#EXTINF:-1,TR: Animaux (yedek)
-http://can.servervip.eu:80/taylan1/02092018/11307
-#EXTINF:-1,TR: BBC EARTH (yedek)
-http://can.servervip.eu:80/taylan1/02092018/11314
-#EXTINF:-1,TR: CHASSE & PECHE HD (yedek)
-http://can.servervip.eu:80/taylan1/02092018/11308
-#EXTINF:-1,TR: DA VINCI (yedek)
-http://can.servervip.eu:80/taylan1/02092018/11316
-#EXTINF:-1,TR: DISCOVERY CHANNEL (yedek)
-http://can.servervip.eu:80/taylan1/02092018/11317
-#EXTINF:-1,TR: DISCOVERY SCIENCE (yedek)
-http://can.servervip.eu:80/taylan1/02092018/11318
-#EXTINF:-1,TR: DTX HD (yedek)
-http://can.servervip.eu:80/taylan1/02092018/11315
-#EXTINF:-1,TR: IDX DISCOVERY (yedek)
-http://can.servervip.eu:80/taylan1/02092018/11319
-#EXTINF:-1,TR: NAT GEO (yedek)
-http://can.servervip.eu:80/taylan1/02092018/11309
-#EXTINF:-1,TR: NAT GEO WILD (yedek)
-http://can.servervip.eu:80/taylan1/02092018/11310
-#EXTINF:-1,TR: NATGEO PEOPLE (yedek)
-http://can.servervip.eu:80/taylan1/02092018/11311
-#EXTINF:-1,### TR HABER ###
-http://can.servervip.eu:80/taylan1/02092018/153
-#EXTINF:-1,TR: A HABER HD (plus)
-http://can.servervip.eu:80/taylan1/02092018/10904
-#EXTINF:-1,TR: BLOOMBERG HT HD (plus)
-http://can.servervip.eu:80/taylan1/02092018/10905
-#EXTINF:-1,TR: CNNTURK HD (plus)
-http://can.servervip.eu:80/taylan1/02092018/10906
-#EXTINF:-1,TR: HABERTURK HD (plus)
-http://can.servervip.eu:80/taylan1/02092018/10907
-#EXTINF:-1,TR: KANAL7 HD (plus)
-http://can.servervip.eu:80/taylan1/02092018/10895
-#EXTINF:-1,TR: NTV HD (plus)
-http://can.servervip.eu:80/taylan1/02092018/10901
-#EXTINF:-1,TR: TRT HABER HD (plus)
-http://can.servervip.eu:80/taylan1/02092018/10902
-#EXTINF:-1,TR: ULKETV HD (plus)
-http://can.servervip.eu:80/taylan1/02092018/10903
-#EXTINF:-1,TR: A HABER HD
-http://can.servervip.eu:80/taylan1/02092018/10744
-#EXTINF:-1,TR: A HABER SD
-http://can.servervip.eu:80/taylan1/02092018/10743
-#EXTINF:-1,TR: BLOOMBERG HD
-http://can.servervip.eu:80/taylan1/02092018/10726
-#EXTINF:-1,TR: BLOOMBERG SD
-http://can.servervip.eu:80/taylan1/02092018/10725
-#EXTINF:-1,TR: CNN TURK SD
-http://can.servervip.eu:80/taylan1/02092018/10739
-#EXTINF:-1,TR: CNNTURK HD
-http://can.servervip.eu:80/taylan1/02092018/10740
-#EXTINF:-1,TR: HABER GLOBAL HD
-http://can.servervip.eu:80/taylan1/02092018/10735
-#EXTINF:-1,TR: HABER GLOBAL SD
-http://can.servervip.eu:80/taylan1/02092018/10734
-#EXTINF:-1,TR: HABERTURK HD
-http://can.servervip.eu:80/taylan1/02092018/10738
-#EXTINF:-1,TR: HABERTURK SD
-http://can.servervip.eu:80/taylan1/02092018/10737
-#EXTINF:-1,TR: HALK TV SD
-http://can.servervip.eu:80/taylan1/02092018/10736
-#EXTINF:-1,TR: KANAL 24 HD
-http://can.servervip.eu:80/taylan1/02092018/10728
-#EXTINF:-1,TR: KANAL 24 SD
-http://can.servervip.eu:80/taylan1/02092018/10727
-#EXTINF:-1,TR: NTV HD
-http://can.servervip.eu:80/taylan1/02092018/10742
-#EXTINF:-1,TR: NTV SD
-http://can.servervip.eu:80/taylan1/02092018/10741
-#EXTINF:-1,TR: TELE 1 HD
-http://can.servervip.eu:80/taylan1/02092018/10724
-#EXTINF:-1,TR: TELE 1 SD
-http://can.servervip.eu:80/taylan1/02092018/10723
-#EXTINF:-1,TR: TGRT HABER HD
-http://can.servervip.eu:80/taylan1/02092018/10722
-#EXTINF:-1,TR: TGRT HABER SD
-http://can.servervip.eu:80/taylan1/02092018/10721
-#EXTINF:-1,TR: TRT HABER HD
-http://can.servervip.eu:80/taylan1/02092018/10746
-#EXTINF:-1,TR: TRT HABER SD
-http://can.servervip.eu:80/taylan1/02092018/10745
-#EXTINF:-1,TR: TVNET HD
-http://can.servervip.eu:80/taylan1/02092018/10733
-#EXTINF:-1,TR: TVNET SD
-http://can.servervip.eu:80/taylan1/02092018/10732
-#EXTINF:-1,TR: ULKE TV HD
-http://can.servervip.eu:80/taylan1/02092018/10731
-#EXTINF:-1,TR: ULKE TV SD
-http://can.servervip.eu:80/taylan1/02092018/10730
-#EXTINF:-1,TR: ULUSAL KANAL SD
-http://can.servervip.eu:80/taylan1/02092018/10729
-#EXTINF:-1,### TR SINEMA ###
-http://can.servervip.eu:80/taylan1/02092018/251
-#EXTINF:-1,TR: beIN Box Office INFO
-http://can.servervip.eu:80/taylan1/02092018/10804
-#EXTINF:-1,TR: beIN Box Office 1
-http://can.servervip.eu:80/taylan1/02092018/10803
-#EXTINF:-1,TR: beIN Box Office 2
-http://can.servervip.eu:80/taylan1/02092018/10802
-#EXTINF:-1,TR: beIN Box Office 3
-http://can.servervip.eu:80/taylan1/02092018/10801
-#EXTINF:-1,TR: beIN Box Office 4
-http://can.servervip.eu:80/taylan1/02092018/10800
-#EXTINF:-1,TR: beIN Box Office 5
-http://can.servervip.eu:80/taylan1/02092018/10799
-#EXTINF:-1,TR: beIN Box Office 6
-http://can.servervip.eu:80/taylan1/02092018/10798
-#EXTINF:-1,TR: beIN Box Office 7
-http://can.servervip.eu:80/taylan1/02092018/10797
-#EXTINF:-1,TR: beIN Box Office 8
-http://can.servervip.eu:80/taylan1/02092018/10796
-#EXTINF:-1,TR: beIN Box Office 9
-http://can.servervip.eu:80/taylan1/02092018/10795
-#EXTINF:-1,TR: beIN Box Office 10
-http://can.servervip.eu:80/taylan1/02092018/10794
-#EXTINF:-1,TR: beIN Box Office 11
-http://can.servervip.eu:80/taylan1/02092018/10793
-#EXTINF:-1,TR: beIN Box Office 12
-http://can.servervip.eu:80/taylan1/02092018/10792
-#EXTINF:-1,TR: beIN Box Office 13
-http://can.servervip.eu:80/taylan1/02092018/10791
-#EXTINF:-1,TR: beIN Box Office 14
-http://can.servervip.eu:80/taylan1/02092018/10790
-#EXTINF:-1,TR: beIN Box Office 15
-http://can.servervip.eu:80/taylan1/02092018/10789
-#EXTINF:-1,TR: beIN Box Office 16
-http://can.servervip.eu:80/taylan1/02092018/10788
-#EXTINF:-1,TR: beIN Box Office 17
-http://can.servervip.eu:80/taylan1/02092018/10787
-#EXTINF:-1,TR: beIN Box Office 18
-http://can.servervip.eu:80/taylan1/02092018/10786
-#EXTINF:-1,TR: beIN Box Office 19
-http://can.servervip.eu:80/taylan1/02092018/10785
-#EXTINF:-1,TR: beIN Box Office 20
-http://can.servervip.eu:80/taylan1/02092018/10784
-#EXTINF:-1,TR: beIN Movies Action 2 HD
-http://can.servervip.eu:80/taylan1/02092018/10782
-#EXTINF:-1,TR: beIN Movies Action HD
-http://can.servervip.eu:80/taylan1/02092018/10783
-#EXTINF:-1,TR: beIN Movies Family HD
-http://can.servervip.eu:80/taylan1/02092018/10781
-#EXTINF:-1,TR: beIN Movies Premiere 2 HD
-http://can.servervip.eu:80/taylan1/02092018/10780
-#EXTINF:-1,TR: beIN Movies Premiere HD
-http://can.servervip.eu:80/taylan1/02092018/10779
-#EXTINF:-1,TR: beIN Movies Stars HD
-http://can.servervip.eu:80/taylan1/02092018/10778
-#EXTINF:-1,TR: beIN Movies Turk HD
-http://can.servervip.eu:80/taylan1/02092018/10777
-#EXTINF:-1,TR: beIN Series Comedy HD
-http://can.servervip.eu:80/taylan1/02092018/10776
-#EXTINF:-1,TR: beIN Series Drama HD
-http://can.servervip.eu:80/taylan1/02092018/10775
-#EXTINF:-1,TR: beIN Series Scif-Fi HD
-http://can.servervip.eu:80/taylan1/02092018/10774
-#EXTINF:-1,TR: beIN Series Vice HD
-http://can.servervip.eu:80/taylan1/02092018/10773
-#EXTINF:-1,TR: Dizismart Premium HD
-http://can.servervip.eu:80/taylan1/02092018/10772
-#EXTINF:-1,TR: MOVIESMART Action HD
-http://can.servervip.eu:80/taylan1/02092018/10771
-#EXTINF:-1,TR: MOVIESMART Classic HD
-http://can.servervip.eu:80/taylan1/02092018/10770
-#EXTINF:-1,TR: MOVIESMART Family HD
-http://can.servervip.eu:80/taylan1/02092018/10769
-#EXTINF:-1,TR: MOVIESMART Fest HD
-http://can.servervip.eu:80/taylan1/02092018/10768
-#EXTINF:-1,TR: MOVIESMART Gold HD
-http://can.servervip.eu:80/taylan1/02092018/10767
-#EXTINF:-1,TR: MOVIESMART Platin 2 HD
-http://can.servervip.eu:80/taylan1/02092018/10766
-#EXTINF:-1,TR: MOVIESMART Platin HD
-http://can.servervip.eu:80/taylan1/02092018/10765
-#EXTINF:-1,TR: MOVIESMART Premium 2 HD
-http://can.servervip.eu:80/taylan1/02092018/10764
-#EXTINF:-1,TR: MOVIESMART Premium HD
-http://can.servervip.eu:80/taylan1/02092018/10763
-#EXTINF:-1,TR: MOVIESMART Turk HD
-http://can.servervip.eu:80/taylan1/02092018/10762
-#EXTINF:-1,TR: SiNEMA TV 1001 HD
-http://can.servervip.eu:80/taylan1/02092018/10756
-#EXTINF:-1,TR: SiNEMA TV AiLE HD
-http://can.servervip.eu:80/taylan1/02092018/10757
-#EXTINF:-1,TR: SiNEMA TV AKSiYON HD
-http://can.servervip.eu:80/taylan1/02092018/10758
-#EXTINF:-1,TR: SiNEMA TV HD
-http://can.servervip.eu:80/taylan1/02092018/10759
-#EXTINF:-1,TR: SiNEMA TV KOMEDi HD
-http://can.servervip.eu:80/taylan1/02092018/10760
-#EXTINF:-1,TR: SiNEMA TV YERLi HD
-http://can.servervip.eu:80/taylan1/02092018/10761
-#EXTINF:-1,TR:: CINEBOX1
-http://can.servervip.eu:80/taylan1/02092018/15022
-#EXTINF:-1,TR:: CINEBOX2
-http://can.servervip.eu:80/taylan1/02092018/15021
-#EXTINF:-1,TR:: CINEBOX3
-http://can.servervip.eu:80/taylan1/02092018/15020
-#EXTINF:-1,TR:: CINEBOX4
-http://can.servervip.eu:80/taylan1/02092018/15019
-#EXTINF:-1,TR:: CINEBOX5
-http://can.servervip.eu:80/taylan1/02092018/15018
-#EXTINF:-1,TR:: CINEBOX6
-http://can.servervip.eu:80/taylan1/02092018/15017
-#EXTINF:-1,TR:: CINEBOX7
-http://can.servervip.eu:80/taylan1/02092018/15016
-#EXTINF:-1,TR:: CINEBOX_DE
-http://can.servervip.eu:80/taylan1/02092018/15015
-#EXTINF:-1,TR:: CINEBOX_TR
-http://can.servervip.eu:80/taylan1/02092018/15014
-#EXTINF:-1,FiLMBOXHD ADRENALiN
-http://can.servervip.eu:80/taylan1/02092018/15000
-#EXTINF:-1,FiLMBOXHD AiLE
-http://can.servervip.eu:80/taylan1/02092018/15001
-#EXTINF:-1,FiLMBOXHD AKSiYON
-http://can.servervip.eu:80/taylan1/02092018/15002
-#EXTINF:-1,FiLMBOXHD ANiMASYON
-http://can.servervip.eu:80/taylan1/02092018/15003
-#EXTINF:-1,FiLMBOXHD BiLiMKURGU
-http://can.servervip.eu:80/taylan1/02092018/15004
-#EXTINF:-1,FiLMBOXHD DRAM
-http://can.servervip.eu:80/taylan1/02092018/15005
-#EXTINF:-1,FiLMBOXHD FANTASTiK
-http://can.servervip.eu:80/taylan1/02092018/15006
-#EXTINF:-1,FiLMBOXHD GERMANY
-http://can.servervip.eu:80/taylan1/02092018/15007
-#EXTINF:-1,FiLMBOXHD KEMAL SUNAL TV
-http://can.servervip.eu:80/taylan1/02092018/15008
-#EXTINF:-1,FiLMBOXHD KOMEDi
-http://can.servervip.eu:80/taylan1/02092018/15009
-#EXTINF:-1,FiLMBOXHD KORKU
-http://can.servervip.eu:80/taylan1/02092018/15010
-#EXTINF:-1,FiLMBOXHD SiNEViZYON
-http://can.servervip.eu:80/taylan1/02092018/15011
-#EXTINF:-1,FiLMBOXHD TURK
-http://can.servervip.eu:80/taylan1/02092018/15012
-#EXTINF:-1,FiLMBOXHD YESiLCAM
-http://can.servervip.eu:80/taylan1/02092018/15013
+#EXTINF:-1,TR SPOR:BeIN Sports 1 VIP (1)
+http://bizimip.com:8000/onur1/04082018/147
+#EXTINF:-1,TR SPOR:BeIN Sports 1 VIP (2) HD
+http://bizimip.com:8000/onur1/04082018/3
+#EXTINF:-1,TR SPOR:BeIN Sports 1 VIP (3)  Ultra HD
+http://bizimip.com:8000/onur1/04082018/1
+#EXTINF:-1,TR SPOR:BeIN Sports 1 VIP HD
+http://bizimip.com:8000/onur1/04082018/1670
+#EXTINF:-1,TR SPOR:BeIN Sports 1 (4) DUSUK KALiTE
+http://bizimip.com:8000/onur1/04082018/129
+#EXTINF:-1,TR SPOR: BEIN SPORTS HABER SD
+http://bizimip.com:8000/onur1/04082018/1297
+#EXTINF:-1,TR SPOR:BeIN Sports MAX 1 (MAC ZAMANI)
+http://bizimip.com:8000/onur1/04082018/4
+#EXTINF:-1,TR SPOR:BeIN Sports MAXX 1 (TTNET)
+http://bizimip.com:8000/onur1/04082018/1470
+#EXTINF:-1,TR SPOR:BEIN SPORTS MAX 2 (MAC ZAMANI)
+http://bizimip.com:8000/onur1/04082018/186
+#EXTINF:-1,TR SPOR:BeIN Sports MAXX 2 (TTNET)
+http://bizimip.com:8000/onur1/04082018/1472
+#EXTINF:-1,TR SPOR:BeIN Sports 2
+http://bizimip.com:8000/onur1/04082018/20
+#EXTINF:-1,TR SPOR: BEINSPORT2 HD (TTNET)
+http://bizimip.com:8000/onur1/04082018/1477
+#EXTINF:-1,TR SPOR: belN Sport 2 Ultra HD
+http://bizimip.com:8000/onur1/04082018/1671
+#EXTINF:-1,TR SPOR:BeIN Sports 3
+http://bizimip.com:8000/onur1/04082018/465
+#EXTINF:-1,TR SPOR:BEINSPORT3 HD (TTNET)
+http://bizimip.com:8000/onur1/04082018/1478
+#EXTINF:-1,TR SPOR: belN Sport 3 Ultra HD
+http://bizimip.com:8000/onur1/04082018/1672
+#EXTINF:-1,TR SPOR:BeIN Sports 4
+http://bizimip.com:8000/onur1/04082018/64
+#EXTINF:-1,TR SPOR:BEINSPORT4 HD (TTNET)
+http://bizimip.com:8000/onur1/04082018/1479
+#EXTINF:-1,TR SPOR:TIVIBU SPOR
+http://bizimip.com:8000/onur1/04082018/5
+#EXTINF:-1,TR SPOR:TIVIBU SPOR 2
+http://bizimip.com:8000/onur1/04082018/590
+#EXTINF:-1,TR SPOR:TIVIBU SPOR 3
+http://bizimip.com:8000/onur1/04082018/316
+#EXTINF:-1,TR SPOR:TIVIBU SPOR 4
+http://bizimip.com:8000/onur1/04082018/343
+#EXTINF:-1,TR SPOR:SMART SPOR HD
+http://bizimip.com:8000/onur1/04082018/469
+#EXTINF:-1,TR SPOR:S SPOR HD
+http://bizimip.com:8000/onur1/04082018/470
+#EXTINF:-1,TR SPOR: NBA TV HD
+http://bizimip.com:8000/onur1/04082018/51
+#EXTINF:-1,TR SPOR:GS TV
+http://bizimip.com:8000/onur1/04082018/471
+#EXTINF:-1,TR SPOR:FB TV
+http://bizimip.com:8000/onur1/04082018/526
+#EXTINF:-1,TR SPOR:BJK TV
+http://bizimip.com:8000/onur1/04082018/527
+#EXTINF:-1,TR SPOR:EUROSPORT 1
+http://bizimip.com:8000/onur1/04082018/311
+#EXTINF:-1,TR SPOR:EUROSPORT 2
+http://bizimip.com:8000/onur1/04082018/81
+#EXTINF:-1,TR SPOR:BURSASPOR
+http://bizimip.com:8000/onur1/04082018/216
+#EXTINF:-1,TR SPOR:TRT SPOR
+http://bizimip.com:8000/onur1/04082018/36
+#EXTINF:-1,TR SPOR: FANATiK TV
+http://bizimip.com:8000/onur1/04082018/94
+#EXTINF:-1,TR SPOR:A SPOR
+http://bizimip.com:8000/onur1/04082018/387
+#EXTINF:-1,TR SPOR: A SPOR YDK.
+http://bizimip.com:8000/onur1/04082018/828
+#EXTINF:-1,TR SPOR:TJK TV
+http://bizimip.com:8000/onur1/04082018/409
