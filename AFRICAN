@@ -1,53 +1,62 @@
 #EXTM3U
-#EXTINF:-1,AF- ROK TV ( Ghana )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13807
-#EXTINF:-1,AF- Nollywood MOVIE ( Nigeria )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13938
-#EXTINF:-1,AF-  TV Continental ( Nigeria )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13966
-#EXTINF:-1,AF-  TVC Entertainment ( Nigeria )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13965
-#EXTINF:-1,AF- Channels 24 ( Nigeria )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13956
-#EXTINF:-1,AF: Channels Television
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/95401
-#EXTINF:-1,AF- TV Continental ( Nigeria )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13934
-#EXTINF:-1,AF: AIT
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/114901
+#EXTINF:-1,AF: ROK (Nigeria)
+http://31.220.1.190:8080/Jessica/Jessica1/210211
+#EXTINF:-1,AF: ROK TV
+http://31.220.1.190:8080/Jessica/Jessica1/96496
+#EXTINF:-1,AF: TVC Entertainment (Nigeria)
+http://31.220.1.190:8080/Jessica/Jessica1/210228
+#EXTINF:-1,AF: TVC HD
+http://31.220.1.190:8080/Jessica/Jessica1/92411
+#EXTINF:-1,AF: TVC News (Nigeria)
+http://31.220.1.190:8080/Jessica/Jessica1/119986
+#EXTINF:-1,AF: AFRO MUSIC
+http://31.220.1.190:8080/Jessica/Jessica1/95387
+#EXTINF:-1,AF: AIT (Nigeria)
+http://31.220.1.190:8080/Jessica/Jessica1/210176
+#EXTINF:-1,AF: Ait Inter (Nigeria)
+http://31.220.1.190:8080/Jessica/Jessica1/210175
 #EXTINF:-1,AF: AIT International HD
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/96467
-#EXTINF:-1,AF- BEN ( Ghana )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13831
-#EXTINF:-1,AF- NTA LIVE ( Nigeria )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13937
+http://31.220.1.190:8080/Jessica/Jessica1/96467
+#EXTINF:-1,AF: BEN TV
+http://31.220.1.190:8080/Jessica/Jessica1/92376
+#EXTINF:-1,AF: Channels 24 (Nigeria)
+http://31.220.1.190:8080/Jessica/Jessica1/210185
+#EXTINF:-1,AF: Channels Television
+http://31.220.1.190:8080/Jessica/Jessica1/95401
+#EXTINF:-1,AF: Channels TV (Nigeria)
+http://31.220.1.190:8080/Jessica/Jessica1/210186
+#EXTINF:-1,AF: Lagos TV
+http://31.220.1.190:8080/Jessica/Jessica1/119950
+#EXTINF:-1,AF: ABN TV
+http://31.220.1.190:8080/Jessica/Jessica1/120098
+#EXTINF:-1,AF: ADOM TV
+http://31.220.1.190:8080/Jessica/Jessica1/92346
+#EXTINF:-1,AF: Adom TV (Ghana)
+http://31.220.1.190:8080/Jessica/Jessica1/210173
+#EXTINF:-1,AF: AFRICA WOOD
+http://31.220.1.190:8080/Jessica/Jessica1/144310
 #EXTINF:-1,AF: AFRICAN ENTERTAIMENT TV
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/114980
-#EXTINF:-1,AF: AFRO MUSIC CHANNEL
-http://31.220.1.190:8080/iRCcIIWu4M/MzHdwFdqzD/95387
-#EXTINF:-1,Ar- Sahara Tv
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/7574
-#EXTINF:-1,AF- 3ABN Fran
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13839
-#EXTINF:-1,AF- 3ABN International ( Ghana )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13838
-#EXTINF:-1,AF- adom tv ( Ghana )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13836
-#EXTINF:-1,AF- GH ONE TV ( Ghana )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13826
-#EXTINF:-1,AF- GTV 2 TV ( Ghana )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13822
-#EXTINF:-1,AF- Hope Africa ( Ghana )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13818
-#EXTINF:-1,AF- Music TV Plus ( Ghana )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13815
-#EXTINF:-1,AF- RTV ( Ghana )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13805
-#EXTINF:-1,AF-  ITV Networks ( Nigeria )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13982
-#EXTINF:-1,AF- Rave TV ( Nigeria )
-http://m-iptv.net:6204/OoesIRzgNP/8kW83aN4dr/13936
-
+http://31.220.1.190:8080/Jessica/Jessica1/114980
+#EXTINF:-1,AF: EYE AFRICA
+http://31.220.1.190:8080/Jessica/Jessica1/207316
+#EXTINF:-1,AF: FuFu Kitchen
+http://31.220.1.190:8080/Jessica/Jessica1/114989
+#EXTINF:-1,AF: GH Canada TV
+http://31.220.1.190:8080/Jessica/Jessica1/95415
+#EXTINF:-1,AF: GH TV
+http://31.220.1.190:8080/Jessica/Jessica1/207311
+#EXTINF:-1,AF: GHTV Online
+http://31.220.1.190:8080/Jessica/Jessica1/92384
+#EXTINF:-1,AF: GTV (Ghana)
+http://31.220.1.190:8080/Jessica/Jessica1/210197
+#EXTINF:-1,AF: GTV Sport
+http://31.220.1.190:8080/Jessica/Jessica1/149818
+#EXTINF:-1,AF: GTV2 TV
+http://31.220.1.190:8080/Jessica/Jessica1/95417
+#EXTINF:-1,AF: VOX Africa
+http://31.220.1.190:8080/Jessica/Jessica1/149793
+#EXTINF:-1,AF: VOX TV
+http://31.220.1.190:8080/Jessica/Jessica1/136935
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="FRANCE",Trace Africa
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="FRANCE",Trace Gospel
