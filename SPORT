@@ -1,13 +1,1307 @@
 #EXTM3U
-#EXTINF:-1,BR:FOX SD !
-http://fonte.iptvmaishd.com:25461/6348/6348/141908
-#EXTINF:-1,BR:Fox Sports 2 HD !
-http://fonte.iptvmaishd.com:25461/6348/6348/141895
-#EXTINF:-1,BR:Fox Sports 2 SD !
-http://fonte.iptvmaishd.com:25461/6348/6348/141896
-#EXTINF:-1,BR:Fox Sports HD Principal !
-http://fonte.iptvmaishd.com:25461/6348/6348/141898
-#EXTINF:-1,BR:Fox Sports SD !
-http://fonte.iptvmaishd.com:25461/6348/6348/141899
-#EXTINF:-1,BR:FX HD !
-http://fonte.iptvmaishd.com:25461/6348/6348/141866
+#EXTINF:-1,INFOSPORT
+http://rocksat.ddns.net:25461/bowling/bowling/4196
+#EXTINF:-1,Equipe 21
+http://rocksat.ddns.net:25461/bowling/bowling/4197
+#EXTINF:-1,Golf Channel
+http://rocksat.ddns.net:25461/bowling/bowling/6716
+#EXTINF:-1,Extreme Sports
+http://rocksat.ddns.net:25461/bowling/bowling/6717
+#EXTINF:-1,FR: beIN SPORTS 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/5286
+#EXTINF:-1,FR: beIN SPORTS 1 FHD
+http://rocksat.ddns.net:25461/bowling/bowling/15044
+#EXTINF:-1,FR: beIN SPORTS 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/5288
+#EXTINF:-1,FR: beIN SPORTS 2 FHD
+http://rocksat.ddns.net:25461/bowling/bowling/15042
+#EXTINF:-1,FR: beIN SPORTS 3 HD
+http://rocksat.ddns.net:25461/bowling/bowling/5290
+#EXTINF:-1,FR: beIN SPORTS 3 FHD
+http://rocksat.ddns.net:25461/bowling/bowling/15040
+#EXTINF:-1,FR: beIN SPORTS MAX 4 HD
+http://rocksat.ddns.net:25461/bowling/bowling/6791
+#EXTINF:-1,FR: beIN SPORTS MAX 4 FHD
+http://rocksat.ddns.net:25461/bowling/bowling/15051
+#EXTINF:-1,FR: beIN SPORTS MAX 5 HD
+http://rocksat.ddns.net:25461/bowling/bowling/6790
+#EXTINF:-1,FR: beIN SPORTS MAX 5 FHD
+http://rocksat.ddns.net:25461/bowling/bowling/15049
+#EXTINF:-1,FR: beIN SPORTS MAX 6 HD
+http://rocksat.ddns.net:25461/bowling/bowling/6789
+#EXTINF:-1,FR: beIN SPORTS MAX 7 HD
+http://rocksat.ddns.net:25461/bowling/bowling/6788
+#EXTINF:-1,FR: beIN SPORTS MAX 8 HD
+http://rocksat.ddns.net:25461/bowling/bowling/6787
+#EXTINF:-1,FR: BFM SPORT HD
+http://rocksat.ddns.net:25461/bowling/bowling/16647
+#EXTINF:-1,FR: RMC SPORT NEWS
+http://rocksat.ddns.net:25461/bowling/bowling/16636
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/16635
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/16634
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://rocksat.ddns.net:25461/bowling/bowling/16633
+#EXTINF:-1,FR: RMC SPORT 4 HD
+http://rocksat.ddns.net:25461/bowling/bowling/16632
+#EXTINF:-1,RMC ACCESS SPORT 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/5292
+#EXTINF:-1,RMC ACCESS SPORT 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/5293
+#EXTINF:-1,RMC ACCESS SPORT 3 HD
+http://rocksat.ddns.net:25461/bowling/bowling/5294
+#EXTINF:-1,RMC ACCESS SPORT 4 HD
+http://rocksat.ddns.net:25461/bowling/bowling/4235
+#EXTINF:-1,Foot +
+http://rocksat.ddns.net:25461/bowling/bowling/5295
+#EXTINF:-1,FOOT 24
+http://rocksat.ddns.net:25461/bowling/bowling/4198
+#EXTINF:-1,EUROSPORT 1
+http://rocksat.ddns.net:25461/bowling/bowling/5296
+#EXTINF:-1,EUROSPORT_2
+http://rocksat.ddns.net:25461/bowling/bowling/5297
+#EXTINF:-1,FR: AUTO MOTO
+http://rocksat.ddns.net:25461/bowling/bowling/28765
+#EXTINF:-1,FR-FHD: RMC Sport 01 FULL HD
+http://rocksat.ddns.net:25461/bowling/bowling/25343
+#EXTINF:-1,FR-FHD: RMC Sport 02 FULL HD
+http://rocksat.ddns.net:25461/bowling/bowling/25342
+#EXTINF:-1,FR-FHD: RMC SPORT 03 FULL HD
+http://rocksat.ddns.net:25461/bowling/bowling/25341
+#EXTINF:-1,FR-FHD: RMC SPORT 04 FULL HD
+http://rocksat.ddns.net:25461/bowling/bowling/25340
+#EXTINF:-1,FR-FHD: RMC SPORT NEWS FULL HD
+http://rocksat.ddns.net:25461/bowling/bowling/25344
+#EXTINF:-1,beiN Sports News
+http://rocksat.ddns.net:25461/bowling/bowling/5221
+#EXTINF:-1,beiN Sports HD
+http://rocksat.ddns.net:25461/bowling/bowling/6727
+#EXTINF:-1,beiN Sports 1  FULL HD
+http://rocksat.ddns.net:25461/bowling/bowling/28750
+#EXTINF:-1,beiN Sports 2 FULL HD
+http://rocksat.ddns.net:25461/bowling/bowling/28751
+#EXTINF:-1,beiN Sports 3 FULL HD
+http://rocksat.ddns.net:25461/bowling/bowling/28743
+#EXTINF:-1,beiN Sports 1
+http://rocksat.ddns.net:25461/bowling/bowling/5223
+#EXTINF:-1,beiN Sports 2
+http://rocksat.ddns.net:25461/bowling/bowling/5225
+#EXTINF:-1,beiN Sports 3
+http://rocksat.ddns.net:25461/bowling/bowling/5227
+#EXTINF:-1,beiN Sports 4
+http://rocksat.ddns.net:25461/bowling/bowling/5229
+#EXTINF:-1,beiN Sports 5
+http://rocksat.ddns.net:25461/bowling/bowling/5231
+#EXTINF:-1,beiN Sports 6
+http://rocksat.ddns.net:25461/bowling/bowling/5233
+#EXTINF:-1,beiN Sports 7
+http://rocksat.ddns.net:25461/bowling/bowling/5235
+#EXTINF:-1,beiN Sports 8
+http://rocksat.ddns.net:25461/bowling/bowling/5237
+#EXTINF:-1,beiN Sports 9
+http://rocksat.ddns.net:25461/bowling/bowling/5239
+#EXTINF:-1,beiN Sports 10
+http://rocksat.ddns.net:25461/bowling/bowling/5240
+#EXTINF:-1,beiN Sports 11
+http://rocksat.ddns.net:25461/bowling/bowling/5241
+#EXTINF:-1,beiN Sports 12
+http://rocksat.ddns.net:25461/bowling/bowling/5242
+#EXTINF:-1,beiN Sports 13
+http://rocksat.ddns.net:25461/bowling/bowling/5243
+#EXTINF:-1,beiN Sports 14
+http://rocksat.ddns.net:25461/bowling/bowling/5244
+#EXTINF:-1,beiN Sports 15
+http://rocksat.ddns.net:25461/bowling/bowling/5245
+#EXTINF:-1,beiN Sports 16
+http://rocksat.ddns.net:25461/bowling/bowling/5246
+#EXTINF:-1,beiN Sports 17
+http://rocksat.ddns.net:25461/bowling/bowling/5247
+#EXTINF:-1,beiN SPORTs NBA HD
+http://rocksat.ddns.net:25461/bowling/bowling/11440
+#EXTINF:-1,beiN Sports 1 SD
+http://rocksat.ddns.net:25461/bowling/bowling/5222
+#EXTINF:-1,beiN Sports 2 SD
+http://rocksat.ddns.net:25461/bowling/bowling/5224
+#EXTINF:-1,beiN Sports 3 SD
+http://rocksat.ddns.net:25461/bowling/bowling/5226
+#EXTINF:-1,beiN Sports 4 SD
+http://rocksat.ddns.net:25461/bowling/bowling/5228
+#EXTINF:-1,beiN Sports 5 SD
+http://rocksat.ddns.net:25461/bowling/bowling/5230
+#EXTINF:-1,beiN Sports 6 SD
+http://rocksat.ddns.net:25461/bowling/bowling/5232
+#EXTINF:-1,beiN Sports 7 SD
+http://rocksat.ddns.net:25461/bowling/bowling/5234
+#EXTINF:-1,beiN Sports 8 SD
+http://rocksat.ddns.net:25461/bowling/bowling/6665
+#EXTINF:-1,beiN Sports 9 SD
+http://rocksat.ddns.net:25461/bowling/bowling/5238
+#EXTINF:-1,beiN Sports 10 SD
+http://rocksat.ddns.net:25461/bowling/bowling/6666
+#EXTINF:-1,AL KASS ONE HD
+http://rocksat.ddns.net:25461/bowling/bowling/6807
+#EXTINF:-1,AL KASS TWO HD
+http://rocksat.ddns.net:25461/bowling/bowling/6806
+#EXTINF:-1,AL KASS TREE HD
+http://rocksat.ddns.net:25461/bowling/bowling/6805
+#EXTINF:-1,AL KASS FOUR HD
+http://rocksat.ddns.net:25461/bowling/bowling/6804
+#EXTINF:-1,FR: beIN SPORTS 1 H265/HEVC
+http://rocksat.ddns.net:25461/bowling/bowling/15045
+#EXTINF:-1,FR: beIN SPORTS 2 H265/HEVC
+http://rocksat.ddns.net:25461/bowling/bowling/15043
+#EXTINF:-1,FR: beIN SPORTS 3 H265/HEVC
+http://rocksat.ddns.net:25461/bowling/bowling/15041
+#EXTINF:-1,FR: beIN SPORTS MAX 4 H265/HEVC
+http://rocksat.ddns.net:25461/bowling/bowling/15052
+#EXTINF:-1,FR: beIN SPORTS MAX 5 H265/HEVC
+http://rocksat.ddns.net:25461/bowling/bowling/15050
+#EXTINF:-1,beIN Sport 1 4K
+http://rocksat.ddns.net:25461/bowling/bowling/11311
+#EXTINF:-1,beIN Sport 2 4K
+http://rocksat.ddns.net:25461/bowling/bowling/11310
+#EXTINF:-1,beIN Sport 3 4K
+http://rocksat.ddns.net:25461/bowling/bowling/11309
+#EXTINF:-1,beIN Sport 4 4K
+http://rocksat.ddns.net:25461/bowling/bowling/11308
+#EXTINF:-1,beIN Sport 5 4K
+http://rocksat.ddns.net:25461/bowling/bowling/11307
+#EXTINF:-1,beIN Sport 6 4K
+http://rocksat.ddns.net:25461/bowling/bowling/11306
+#EXTINF:-1,beIN Sport 7 4K
+http://rocksat.ddns.net:25461/bowling/bowling/11305
+#EXTINF:-1,beIN Sport 8 4K
+http://rocksat.ddns.net:25461/bowling/bowling/11304
+#EXTINF:-1,beIN Sports 1 FHD/HEVC
+http://rocksat.ddns.net:25461/bowling/bowling/11295
+#EXTINF:-1,beIN Sports 2 FHD/HEVC
+http://rocksat.ddns.net:25461/bowling/bowling/11294
+#EXTINF:-1,beIN Sports 3 FHD/HEVC
+http://rocksat.ddns.net:25461/bowling/bowling/11293
+#EXTINF:-1,beIN Sports 4 FHD/HEVC
+http://rocksat.ddns.net:25461/bowling/bowling/11292
+#EXTINF:-1,beIN Sports 5 FHD/HEVC
+http://rocksat.ddns.net:25461/bowling/bowling/11291
+#EXTINF:-1,beIN Sports 6 FHD/HEVC
+http://rocksat.ddns.net:25461/bowling/bowling/11290
+#EXTINF:-1,beIN Sports 7 FHD/HEVC
+http://rocksat.ddns.net:25461/bowling/bowling/11289
+#EXTINF:-1,beIN Sports 8 FHD/HEVC
+http://rocksat.ddns.net:25461/bowling/bowling/11288
+#EXTINF:-1,SP: BEIN SPORTS HD
+http://rocksat.ddns.net:25461/bowling/bowling/14993
+#EXTINF:-1,SP: EUROSPORT 1
+http://rocksat.ddns.net:25461/bowling/bowling/14987
+#EXTINF:-1,SP: EUROSPORT 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/14988
+#EXTINF:-1,SP: EUROSPORT 2
+http://rocksat.ddns.net:25461/bowling/bowling/14986
+#EXTINF:-1,SP: FORMULA 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/14985
+#EXTINF:-1,SP: GOL
+http://rocksat.ddns.net:25461/bowling/bowling/14989
+#EXTINF:-1,SP: LA LIGA 123 TV HD
+http://rocksat.ddns.net:25461/bowling/bowling/24470
+#EXTINF:-1,SP: LA LIGA HD
+http://rocksat.ddns.net:25461/bowling/bowling/14991
+#EXTINF:-1,SP: LA LIGA TV HD
+http://rocksat.ddns.net:25461/bowling/bowling/14992
+#EXTINF:-1,SP: M. DEP2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/14966
+#EXTINF:-1,SP: M. DEPORTE 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/14967
+#EXTINF:-1,SP: M. FORMULA 1
+http://rocksat.ddns.net:25461/bowling/bowling/14984
+#EXTINF:-1,SP: M. FTBOL HD
+http://rocksat.ddns.net:25461/bowling/bowling/14990
+#EXTINF:-1,SP: M. GOLF HD
+http://rocksat.ddns.net:25461/bowling/bowling/14981
+#EXTINF:-1,SP: M.CAMPEONES HD
+http://rocksat.ddns.net:25461/bowling/bowling/24469
+#EXTINF:-1,SP: M. Liga De Campeones 2
+http://rocksat.ddns.net:25461/bowling/bowling/31677
+#EXTINF:-1,SP: M. PARTIDAZO HD
+http://rocksat.ddns.net:25461/bowling/bowling/14980
+#EXTINF:-1,SP: MOTOGP HD
+http://rocksat.ddns.net:25461/bowling/bowling/14979
+#EXTINF:-1,SP: R. MADRID TV
+http://rocksat.ddns.net:25461/bowling/bowling/14982
+#EXTINF:-1,SP: TELE DEPORTE
+http://rocksat.ddns.net:25461/bowling/bowling/14965
+#EXTINF:-1,SP: TOROS HD
+http://rocksat.ddns.net:25461/bowling/bowling/14978
+#EXTINF:-1,IT: Sky Sport 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/16304
+#EXTINF:-1,IT: Sky Sport 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/16303
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://rocksat.ddns.net:25461/bowling/bowling/16302
+#EXTINF:-1,IT: Sky Sport 3 HD
+http://rocksat.ddns.net:25461/bowling/bowling/16301
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/16300
+#EXTINF:-1,IT: Sky Sport Mix HD
+http://rocksat.ddns.net:25461/bowling/bowling/16299
+#EXTINF:-1,IT: Sky Sport MotoGP HD
+http://rocksat.ddns.net:25461/bowling/bowling/16298
+#EXTINF:-1,IT: Sky Calcio 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/16321
+#EXTINF:-1,IT: Sky Calcio 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/16320
+#EXTINF:-1,IT: Sky Calcio 3 HD
+http://rocksat.ddns.net:25461/bowling/bowling/16319
+#EXTINF:-1,IT: Sky Calcio 4 HD
+http://rocksat.ddns.net:25461/bowling/bowling/16318
+#EXTINF:-1,IT: Sky Calcio 5 HD
+http://rocksat.ddns.net:25461/bowling/bowling/16317
+#EXTINF:-1,IT: Sky Calcio 6 HD
+http://rocksat.ddns.net:25461/bowling/bowling/16316
+#EXTINF:-1,IT: Sky Calcio HD
+http://rocksat.ddns.net:25461/bowling/bowling/16315
+#EXTINF:-1,IT: Sky TG24 HD
+http://rocksat.ddns.net:25461/bowling/bowling/16297
+#EXTINF:-1,IT: Sky Uno HD
+http://rocksat.ddns.net:25461/bowling/bowling/16296
+#EXTINF:-1,IT: Sport Italia HD
+http://rocksat.ddns.net:25461/bowling/bowling/16295
+#EXTINF:-1,IT: Super Tennis HD
+http://rocksat.ddns.net:25461/bowling/bowling/16294
+#EXTINF:-1,IT: Dazn 1 HD IT
+http://rocksat.ddns.net:25461/bowling/bowling/23271
+#EXTINF:-1,IT: Dazn 10 HD IT
+http://rocksat.ddns.net:25461/bowling/bowling/23270
+#EXTINF:-1,IT: Dazn 11 HD IT
+http://rocksat.ddns.net:25461/bowling/bowling/23269
+#EXTINF:-1,IT: Dazn 12 HD IT
+http://rocksat.ddns.net:25461/bowling/bowling/23268
+#EXTINF:-1,IT: Dazn 13 HD IT
+http://rocksat.ddns.net:25461/bowling/bowling/23267
+#EXTINF:-1,IT: Dazn 14 HD IT
+http://rocksat.ddns.net:25461/bowling/bowling/23266
+#EXTINF:-1,IT: Dazn 2 HD IT
+http://rocksat.ddns.net:25461/bowling/bowling/23265
+#EXTINF:-1,IT: Dazn 3 HD IT
+http://rocksat.ddns.net:25461/bowling/bowling/23264
+#EXTINF:-1,IT: Dazn 4 HD IT
+http://rocksat.ddns.net:25461/bowling/bowling/23263
+#EXTINF:-1,IT: Dazn 5 HD IT
+http://rocksat.ddns.net:25461/bowling/bowling/23262
+#EXTINF:-1,IT: Dazn 6 HD IT
+http://rocksat.ddns.net:25461/bowling/bowling/23261
+#EXTINF:-1,IT: Dazn 7 HD IT
+http://rocksat.ddns.net:25461/bowling/bowling/23260
+#EXTINF:-1,IT: Dazn 8 HD IT
+http://rocksat.ddns.net:25461/bowling/bowling/23259
+#EXTINF:-1,IT: Dazn 9 HD IT
+http://rocksat.ddns.net:25461/bowling/bowling/23258
+#EXTINF:-1,IT: Dazn Sport 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/23208
+#EXTINF:-1,IT: Dazn Sport 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/23207
+#EXTINF:-1,IT: Dazn Sport 3 HD
+http://rocksat.ddns.net:25461/bowling/bowling/23206
+#EXTINF:-1,IT: Dazn Sport 4 HD
+http://rocksat.ddns.net:25461/bowling/bowling/23205
+#EXTINF:-1,IT: Dazn Sport 5 HD
+http://rocksat.ddns.net:25461/bowling/bowling/23204
+#EXTINF:-1,IT: Dazn Sport 7 HD
+http://rocksat.ddns.net:25461/bowling/bowling/23203
+#EXTINF:-1,IT: Dazn Sport 8 HD
+http://rocksat.ddns.net:25461/bowling/bowling/23202
+#EXTINF:-1,IT: Dazn Sport 9 HD
+http://rocksat.ddns.net:25461/bowling/bowling/23201
+#EXTINF:-1,IT: Sky Sport 1 FHD
+http://rocksat.ddns.net:25461/bowling/bowling/22962
+#EXTINF:-1,IT: Sky Sport 1 HD  (VIP)
+http://rocksat.ddns.net:25461/bowling/bowling/23278
+#EXTINF:-1,IT: Sky Sport 10 HD
+http://rocksat.ddns.net:25461/bowling/bowling/22958
+#EXTINF:-1,IT: Sky Sport 2 HD  (VIP)
+http://rocksat.ddns.net:25461/bowling/bowling/23277
+#EXTINF:-1,IT: Sky Sport 24 FHD
+http://rocksat.ddns.net:25461/bowling/bowling/22957
+#EXTINF:-1,IT: Sky Sport 24 HD  (VIP)
+http://rocksat.ddns.net:25461/bowling/bowling/23276
+#EXTINF:-1,IT: Sky Sport 24 IT
+http://rocksat.ddns.net:25461/bowling/bowling/22956
+#EXTINF:-1,IT: Sky Sport 3 HD  (VIP)
+http://rocksat.ddns.net:25461/bowling/bowling/23275
+#EXTINF:-1,IT: Sky Sport 6 HD
+http://rocksat.ddns.net:25461/bowling/bowling/22961
+#EXTINF:-1,IT: Sky Sport 7 HD
+http://rocksat.ddns.net:25461/bowling/bowling/22960
+#EXTINF:-1,IT: Sky Sport 9 HD
+http://rocksat.ddns.net:25461/bowling/bowling/22959
+#EXTINF:-1,IT: Sky Sport Arena HD
+http://rocksat.ddns.net:25461/bowling/bowling/22955
+#EXTINF:-1,IT: SKY SPORT DUE HD
+http://rocksat.ddns.net:25461/bowling/bowling/22954
+#EXTINF:-1,IT: Sky Sport F1 FHD
+http://rocksat.ddns.net:25461/bowling/bowling/22953
+#EXTINF:-1,IT: Sky Sport F1 HD  (VIP)
+http://rocksat.ddns.net:25461/bowling/bowling/23274
+#EXTINF:-1,IT: Sky Sport Football HD
+http://rocksat.ddns.net:25461/bowling/bowling/22952
+#EXTINF:-1,IT: Sky Sport Formula 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/22951
+#EXTINF:-1,IT: Sky Sport Golf HD
+http://rocksat.ddns.net:25461/bowling/bowling/22950
+#EXTINF:-1,IT: Sky Sport International Champions Cup HD
+http://rocksat.ddns.net:25461/bowling/bowling/22949
+#EXTINF:-1,IT: Sky Sport Moto GP FHD
+http://rocksat.ddns.net:25461/bowling/bowling/22948
+#EXTINF:-1,IT: Sky Sport MotoGP HD  (VIP
+http://rocksat.ddns.net:25461/bowling/bowling/23273
+#EXTINF:-1,IT: Sky Sport NBA HD
+http://rocksat.ddns.net:25461/bowling/bowling/22947
+#EXTINF:-1,IT: Sky Sport Serie A
+http://rocksat.ddns.net:25461/bowling/bowling/23256
+#EXTINF:-1,IT: Sky Sport Serie A FHD
+http://rocksat.ddns.net:25461/bowling/bowling/22946
+#EXTINF:-1,IT: Sky Sport UNO HD
+http://rocksat.ddns.net:25461/bowling/bowling/22945
+#EXTINF:-1,IT: Sky Super Calcio HD
+http://rocksat.ddns.net:25461/bowling/bowling/22944
+#EXTINF:-1,IT: Sky TG24 Active
+http://rocksat.ddns.net:25461/bowling/bowling/22943
+#EXTINF:-1,IT: Sky Uno HD (VIP)
+http://rocksat.ddns.net:25461/bowling/bowling/23272
+#EXTINF:-1,NL : Extreme Sport
+http://rocksat.ddns.net:25461/bowling/bowling/9308
+#EXTINF:-1,NL : Motor Sport
+http://rocksat.ddns.net:25461/bowling/bowling/9307
+#EXTINF:-1,NL : Eurosport 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/5184
+#EXTINF:-1,NL : Eurosport 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/9306
+#EXTINF:-1,NL : Fox Sport 1
+http://rocksat.ddns.net:25461/bowling/bowling/5185
+#EXTINF:-1,NL : Fox Sport 2
+http://rocksat.ddns.net:25461/bowling/bowling/5186
+#EXTINF:-1,NL : Fox Sport 3
+http://rocksat.ddns.net:25461/bowling/bowling/5187
+#EXTINF:-1,NL : Fox Sport 4
+http://rocksat.ddns.net:25461/bowling/bowling/5188
+#EXTINF:-1,NL : Fox Sport 5
+http://rocksat.ddns.net:25461/bowling/bowling/5189
+#EXTINF:-1,NL : Fox Sport 6
+http://rocksat.ddns.net:25461/bowling/bowling/5190
+#EXTINF:-1,NL : Ziggo Sport HD
+http://rocksat.ddns.net:25461/bowling/bowling/9305
+#EXTINF:-1,NL : Ziggo Sport Voetbal
+http://rocksat.ddns.net:25461/bowling/bowling/5173
+#EXTINF:-1,NL : Ziggo Sport Select
+http://rocksat.ddns.net:25461/bowling/bowling/5174
+#EXTINF:-1,NL : Ziggo Sport Golf
+http://rocksat.ddns.net:25461/bowling/bowling/5175
+#EXTINF:-1,NL : Ziggo Sport Racing
+http://rocksat.ddns.net:25461/bowling/bowling/5176
+#EXTINF:-1,NL : Ziggo Sport Extra 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/5191
+#EXTINF:-1,NL : Ziggo Sport Extra 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/5192
+#EXTINF:-1,BE: VOOSPORT 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/24576
+#EXTINF:-1,BE: VOOSPORT 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/24575
+#EXTINF:-1,BE: VOOSPORT 3 HD
+http://rocksat.ddns.net:25461/bowling/bowling/24574
+#EXTINF:-1,BE: PLAY SPORTS 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/24573
+#EXTINF:-1,BE: PLAY SPORTS 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/24572
+#EXTINF:-1,BE: PLAY SPORTS 3 HD
+http://rocksat.ddns.net:25461/bowling/bowling/24571
+#EXTINF:-1,BE: PLAY SPORTS 4 HD
+http://rocksat.ddns.net:25461/bowling/bowling/24570
+#EXTINF:-1,BE: PLAY SPORTS 5 HD
+http://rocksat.ddns.net:25461/bowling/bowling/24569
+#EXTINF:-1,BE: Eleven Sport 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/19542
+#EXTINF:-1,BE: Eleven Sport 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/19541
+#EXTINF:-1,BE: Eleven Sport 3 HD
+http://rocksat.ddns.net:25461/bowling/bowling/19540
+#EXTINF:-1,BE: Eleven Sport 4 HD
+http://rocksat.ddns.net:25461/bowling/bowling/19539
+#EXTINF:-1,BE: VOO Sport World 1 FHD
+http://rocksat.ddns.net:25461/bowling/bowling/19538
+#EXTINF:-1,BE: VOO Sport World 2 FHD
+http://rocksat.ddns.net:25461/bowling/bowling/19537
+#EXTINF:-1,BE: VOO Sport World 3 FHD
+http://rocksat.ddns.net:25461/bowling/bowling/19536
+#EXTINF:-1,VOO SPORT 1
+http://rocksat.ddns.net:25461/bowling/bowling/15048
+#EXTINF:-1,VOO SPORT 2
+http://rocksat.ddns.net:25461/bowling/bowling/15047
+#EXTINF:-1,VOO SPORT 3
+http://rocksat.ddns.net:25461/bowling/bowling/15046
+#EXTINF:-1,DE: SKY SPORT NEWS HD
+http://rocksat.ddns.net:25461/bowling/bowling/22426
+#EXTINF:-1,DE: SPORT 1  HD
+http://rocksat.ddns.net:25461/bowling/bowling/22425
+#EXTINF:-1,DE: EUROSPORT 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/22424
+#EXTINF:-1,DE: EUROSPORT 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/22423
+#EXTINF:-1,DE: EUROSPORT 2  XTRA HD
+http://rocksat.ddns.net:25461/bowling/bowling/22422
+#EXTINF:-1,DE: MOTORVISION
+http://rocksat.ddns.net:25461/bowling/bowling/22421
+#EXTINF:-1,DE: DAZN 1 BAR FHD
+http://rocksat.ddns.net:25461/bowling/bowling/22420
+#EXTINF:-1,DE: DAZN 2 BAR FHD
+http://rocksat.ddns.net:25461/bowling/bowling/22419
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/22418
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/22417
+#EXTINF:-1,DE: SKY SPORT 1
+http://rocksat.ddns.net:25461/bowling/bowling/22416
+#EXTINF:-1,DE: SKY SPORT 2
+http://rocksat.ddns.net:25461/bowling/bowling/22415
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/22414
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/bowling/bowling/22413
+#EXTINF:-1,DE: SKY BUNDESLIGA 3 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/bowling/bowling/22412
+#EXTINF:-1,DE: SKY BUNDESLIGA 4 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/bowling/bowling/22411
+#EXTINF:-1,DE: SKY BUNDESLIGA 5 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/bowling/bowling/22410
+#EXTINF:-1,DE: SKY BUNDESLIGA 6 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/bowling/bowling/22409
+#EXTINF:-1,DE: SKY BUNDESLIGA 7 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/bowling/bowling/22408
+#EXTINF:-1,DE: SKY BUNDESLIGA 8 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/bowling/bowling/22407
+#EXTINF:-1,DE: SKY BUNDESLIGA 9 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/bowling/bowling/22406
+#EXTINF:-1,DE: SKY BUNDESLIGA 10 HD (ON MATCH TIME)
+http://rocksat.ddns.net:25461/bowling/bowling/22405
+#EXTINF:-1,UK HD: BT Sports 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/8222
+#EXTINF:-1,UK HD: BT Sports 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/8221
+#EXTINF:-1,UK HD: BT Sports 3 HD
+http://rocksat.ddns.net:25461/bowling/bowling/8220
+#EXTINF:-1,UK HD: BT Sports ESPN HD
+http://rocksat.ddns.net:25461/bowling/bowling/8219
+#EXTINF:-1,UK HD: MUTV HD
+http://rocksat.ddns.net:25461/bowling/bowling/8218
+#EXTINF:-1,UK HD: BT Sports Extra 1
+http://rocksat.ddns.net:25461/bowling/bowling/8217
+#EXTINF:-1,UK HD: BT Sports Extra 2
+http://rocksat.ddns.net:25461/bowling/bowling/8216
+#EXTINF:-1,UK: BT Sports Extra 3
+http://rocksat.ddns.net:25461/bowling/bowling/8215
+#EXTINF:-1,UK: BT Sports Extra 4
+http://rocksat.ddns.net:25461/bowling/bowling/8214
+#EXTINF:-1,UK: BT Sports Extra 5
+http://rocksat.ddns.net:25461/bowling/bowling/8213
+#EXTINF:-1,UK HD: BT Sports FHD 1
+http://rocksat.ddns.net:25461/bowling/bowling/8212
+#EXTINF:-1,UK HD: BT Sports FHD 2
+http://rocksat.ddns.net:25461/bowling/bowling/8211
+#EXTINF:-1,UK HD: BT Sports FHD 3
+http://rocksat.ddns.net:25461/bowling/bowling/8210
+#EXTINF:-1,UK HD: Chelsea TV HD
+http://rocksat.ddns.net:25461/bowling/bowling/8206
+#EXTINF:-1,UK HD: Sky Sports Main Event HD
+http://rocksat.ddns.net:25461/bowling/bowling/8163
+#EXTINF:-1,UK HD: Sky Sports Cricket HD
+http://rocksat.ddns.net:25461/bowling/bowling/8162
+#EXTINF:-1,UK HD: Sky Sports Action HD
+http://rocksat.ddns.net:25461/bowling/bowling/8161
+#EXTINF:-1,UK-HD: Sky Sports Arena HD
+http://rocksat.ddns.net:25461/bowling/bowling/22842
+#EXTINF:-1,UK HD: Sky Sports Golf HD
+http://rocksat.ddns.net:25461/bowling/bowling/8160
+#EXTINF:-1,UK HD: Sky Sports Premier League HD
+http://rocksat.ddns.net:25461/bowling/bowling/8159
+#EXTINF:-1,UK HD: Sky Sports F1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/8158
+#EXTINF:-1,UK HD: Sky Sports Main Event FHD
+http://rocksat.ddns.net:25461/bowling/bowling/8157
+#EXTINF:-1,UK HD: Sky Sports Cricket FHD
+http://rocksat.ddns.net:25461/bowling/bowling/8156
+#EXTINF:-1,UK HD: Sky Sports Action FHD
+http://rocksat.ddns.net:25461/bowling/bowling/8155
+#EXTINF:-1,UK HD: Sky Sports Golf FHD
+http://rocksat.ddns.net:25461/bowling/bowling/8154
+#EXTINF:-1,UK HD: Sky Sports Premier League FHD
+http://rocksat.ddns.net:25461/bowling/bowling/8153
+#EXTINF:-1,UK HD: Sky Sports FHD
+http://rocksat.ddns.net:25461/bowling/bowling/8152
+#EXTINF:-1,UK HD: Sky Sports MIX HD
+http://rocksat.ddns.net:25461/bowling/bowling/8151
+#EXTINF:-1,UK HD: Sky Sports News HD
+http://rocksat.ddns.net:25461/bowling/bowling/8150
+#EXTINF:-1,UK HD: Sports Active 1
+http://rocksat.ddns.net:25461/bowling/bowling/8149
+#EXTINF:-1,UK HD: Sports Active 10
+http://rocksat.ddns.net:25461/bowling/bowling/8148
+#EXTINF:-1,UK HD: Sports Active 2
+http://rocksat.ddns.net:25461/bowling/bowling/8147
+#EXTINF:-1,UK HD: Sports Active 3
+http://rocksat.ddns.net:25461/bowling/bowling/8146
+#EXTINF:-1,UK HD: Sports Active 4
+http://rocksat.ddns.net:25461/bowling/bowling/8145
+#EXTINF:-1,UK HD: Sports Active 5
+http://rocksat.ddns.net:25461/bowling/bowling/8144
+#EXTINF:-1,UK HD: Sports Active 6
+http://rocksat.ddns.net:25461/bowling/bowling/8143
+#EXTINF:-1,UK HD: Sports Active 7
+http://rocksat.ddns.net:25461/bowling/bowling/8142
+#EXTINF:-1,UK HD: Sports Active 8
+http://rocksat.ddns.net:25461/bowling/bowling/8141
+#EXTINF:-1,UK HD: Sports Active 9
+http://rocksat.ddns.net:25461/bowling/bowling/8140
+#EXTINF:-1,UK: At The Races
+http://rocksat.ddns.net:25461/bowling/bowling/20025
+#EXTINF:-1,UK HD: EIR Sports HD 2
+http://rocksat.ddns.net:25461/bowling/bowling/8132
+#EXTINF:-1,UK HD: Eurosports HD
+http://rocksat.ddns.net:25461/bowling/bowling/8131
+#EXTINF:-1,UK HD: Eurosports HD 2
+http://rocksat.ddns.net:25461/bowling/bowling/8130
+#EXTINF:-1,UK HD: Premier Sports HD
+http://rocksat.ddns.net:25461/bowling/bowling/8129
+#EXTINF:-1,UK HD: Racing UK HD
+http://rocksat.ddns.net:25461/bowling/bowling/8128
+#EXTINF:-1,UK HD: Setanta/Premier Sports HD
+http://rocksat.ddns.net:25461/bowling/bowling/8127
+#EXTINF:-1,UK HD: TLC HD
+http://rocksat.ddns.net:25461/bowling/bowling/8126
+#EXTINF:-1,UK-HD: LFC TV
+http://rocksat.ddns.net:25461/bowling/bowling/18989
+#EXTINF:-1,UK-HD: Chelsea TV HD
+http://rocksat.ddns.net:25461/bowling/bowling/18990
+#EXTINF:-1,UK-HD: Manchester United FC FHD
+http://rocksat.ddns.net:25461/bowling/bowling/18991
+#EXTINF:-1,TR: BEIN SPORT 1 UHD
+http://rocksat.ddns.net:25461/bowling/bowling/25869
+#EXTINF:-1,TR: BEIN SPORT 2 UHD
+http://rocksat.ddns.net:25461/bowling/bowling/25868
+#EXTINF:-1,TR: BEIN SPORT 3 UHD
+http://rocksat.ddns.net:25461/bowling/bowling/25867
+#EXTINF:-1,TR: BEIN SPORT 4 UHD
+http://rocksat.ddns.net:25461/bowling/bowling/25866
+#EXTINF:-1,TR: BEIN SPORTS 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/25865
+#EXTINF:-1,TR: BEIN SPORTS 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/25864
+#EXTINF:-1,TR: BEIN SPORTS 3 HD
+http://rocksat.ddns.net:25461/bowling/bowling/25863
+#EXTINF:-1,TR: BEIN SPORTS 4 HD
+http://rocksat.ddns.net:25461/bowling/bowling/25862
+#EXTINF:-1,TR: BEIN MAX 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/25861
+#EXTINF:-1,TR: BEIN MAX 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/25860
+#EXTINF:-1,TR: SMART SPOR HD
+http://rocksat.ddns.net:25461/bowling/bowling/25859
+#EXTINF:-1,TR: SPORTS TV
+http://rocksat.ddns.net:25461/bowling/bowling/25858
+#EXTINF:-1,TR: SARAN SPORT HD
+http://rocksat.ddns.net:25461/bowling/bowling/25857
+#EXTINF:-1,TR: TÄ°VÄ°BU SPOR HD PLUS
+http://rocksat.ddns.net:25461/bowling/bowling/25856
+#EXTINF:-1,TR: TIVIBU SPOR 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/25855
+#EXTINF:-1,TR: TIVIBU SPOR 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/25854
+#EXTINF:-1,TR: TIVIBU SPOR 3 HD
+http://rocksat.ddns.net:25461/bowling/bowling/25853
+#EXTINF:-1,TR: TIVIBU SPOR 4 HD
+http://rocksat.ddns.net:25461/bowling/bowling/25852
+#EXTINF:-1,TR: BEIN SPORTS HABER HD PLUS
+http://rocksat.ddns.net:25461/bowling/bowling/25851
+#EXTINF:-1,TR: TRT SPOR HD PLUS
+http://rocksat.ddns.net:25461/bowling/bowling/25850
+#EXTINF:-1,TR: TAY TV HD PLUS
+http://rocksat.ddns.net:25461/bowling/bowling/25849
+#EXTINF:-1,TR: A SPOR HD PLUS
+http://rocksat.ddns.net:25461/bowling/bowling/25848
+#EXTINF:-1,TR: FB TV HD PLUS
+http://rocksat.ddns.net:25461/bowling/bowling/25847
+#EXTINF:-1,TR: BJK TV
+http://rocksat.ddns.net:25461/bowling/bowling/25846
+#EXTINF:-1,TR: GS TV
+http://rocksat.ddns.net:25461/bowling/bowling/25845
+#EXTINF:-1,US: AFN SPORTS
+http://rocksat.ddns.net:25461/bowling/bowling/23679
+#EXTINF:-1,US: AFN SPORTS 2
+http://rocksat.ddns.net:25461/bowling/bowling/23678
+#EXTINF:-1,US: BEIN SPORTS HD
+http://rocksat.ddns.net:25461/bowling/bowling/23677
+#EXTINF:-1,US: BEIN USA HD
+http://rocksat.ddns.net:25461/bowling/bowling/23676
+#EXTINF:-1,US: CBS SPORTS NETWORK HD
+http://rocksat.ddns.net:25461/bowling/bowling/23675
+#EXTINF:-1,US: ESPN
+http://rocksat.ddns.net:25461/bowling/bowling/23674
+#EXTINF:-1,US: ESPN 2
+http://rocksat.ddns.net:25461/bowling/bowling/23673
+#EXTINF:-1,US: ESPN HD
+http://rocksat.ddns.net:25461/bowling/bowling/23672
+#EXTINF:-1,US: ESPN 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/23671
+#EXTINF:-1,US: ESPN U
+http://rocksat.ddns.net:25461/bowling/bowling/23670
+#EXTINF:-1,US: ESPN U HD
+http://rocksat.ddns.net:25461/bowling/bowling/23669
+#EXTINF:-1,US: FIGHT NETWORK HD
+http://rocksat.ddns.net:25461/bowling/bowling/23668
+#EXTINF:-1,US: Fox Sports Arizona HD
+http://rocksat.ddns.net:25461/bowling/bowling/23424
+#EXTINF:-1,US: Fox Sports College Atlantic HD
+http://rocksat.ddns.net:25461/bowling/bowling/23423
+#EXTINF:-1,US: Fox Sports College Central HD
+http://rocksat.ddns.net:25461/bowling/bowling/23422
+#EXTINF:-1,US: Fox Sports College Pacific HD
+http://rocksat.ddns.net:25461/bowling/bowling/23421
+#EXTINF:-1,US: Fox Sports Detroit HD
+http://rocksat.ddns.net:25461/bowling/bowling/23420
+#EXTINF:-1,US: Fox Sports Florida HD
+http://rocksat.ddns.net:25461/bowling/bowling/23419
+#EXTINF:-1,US: Fox Sports Mid West HD
+http://rocksat.ddns.net:25461/bowling/bowling/23418
+#EXTINF:-1,US: Fox Sports North HD
+http://rocksat.ddns.net:25461/bowling/bowling/23417
+#EXTINF:-1,US: Fox Sports South East HD
+http://rocksat.ddns.net:25461/bowling/bowling/23416
+#EXTINF:-1,US: Fox Sports South HD
+http://rocksat.ddns.net:25461/bowling/bowling/23415
+#EXTINF:-1,US: Fox Sports South West HD
+http://rocksat.ddns.net:25461/bowling/bowling/23414
+#EXTINF:-1,US: Fox Sports Sun HD
+http://rocksat.ddns.net:25461/bowling/bowling/23413
+#EXTINF:-1,US: Fox Sports West HD
+http://rocksat.ddns.net:25461/bowling/bowling/23412
+#EXTINF:-1,US: Fox 11 (Los Angeles) FHD
+http://rocksat.ddns.net:25461/bowling/bowling/22775
+#EXTINF:-1,US: FOX 11 LOS ANGELES HD
+http://rocksat.ddns.net:25461/bowling/bowling/22774
+#EXTINF:-1,US: FOX 13 SEATTLE HD
+http://rocksat.ddns.net:25461/bowling/bowling/22773
+#EXTINF:-1,US: FOX 13 TAMPA HD
+http://rocksat.ddns.net:25461/bowling/bowling/22772
+#EXTINF:-1,US: FOX 2 DETROIT HD
+http://rocksat.ddns.net:25461/bowling/bowling/22780
+#EXTINF:-1,US: FOX 26 HOUSTON HD
+http://rocksat.ddns.net:25461/bowling/bowling/22771
+#EXTINF:-1,US: FOX 29 HD
+http://rocksat.ddns.net:25461/bowling/bowling/22770
+#EXTINF:-1,US: FOX 32 CHICAGO HD
+http://rocksat.ddns.net:25461/bowling/bowling/22769
+#EXTINF:-1,US: FOX 4 DALLAS HD
+http://rocksat.ddns.net:25461/bowling/bowling/22779
+#EXTINF:-1,US: FOX 4 KANSAS
+http://rocksat.ddns.net:25461/bowling/bowling/22778
+#EXTINF:-1,US: FOX 43 HD
+http://rocksat.ddns.net:25461/bowling/bowling/22768
+#EXTINF:-1,US: FOX 43 VA BEACH HD
+http://rocksat.ddns.net:25461/bowling/bowling/22767
+#EXTINF:-1,US: FOX 5 SAN DIEGO
+http://rocksat.ddns.net:25461/bowling/bowling/22777
+#EXTINF:-1,US: Fox 59 News
+http://rocksat.ddns.net:25461/bowling/bowling/22766
+#EXTINF:-1,US: FOX 8 NEW ORLEANS HD
+http://rocksat.ddns.net:25461/bowling/bowling/22776
+#EXTINF:-1,US: FOX ATLANTA HD
+http://rocksat.ddns.net:25461/bowling/bowling/22765
+#EXTINF:-1,US: FOX BUSINESS NETWORK HD
+http://rocksat.ddns.net:25461/bowling/bowling/22764
+#EXTINF:-1,US: FOX COLLEGE SPORTS ATLANTIC HD
+http://rocksat.ddns.net:25461/bowling/bowling/22763
+#EXTINF:-1,US: FOX COLLEGE SPORTS CENTRAL HD
+http://rocksat.ddns.net:25461/bowling/bowling/22762
+#EXTINF:-1,US: FOX COLLEGE SPORTS PACIFIC HD
+http://rocksat.ddns.net:25461/bowling/bowling/22761
+#EXTINF:-1,US: FOX KABB SAA HD
+http://rocksat.ddns.net:25461/bowling/bowling/22760
+#EXTINF:-1,US: FOX KCPQ SEA HD
+http://rocksat.ddns.net:25461/bowling/bowling/22759
+#EXTINF:-1,US: FOX KPTV POR HD
+http://rocksat.ddns.net:25461/bowling/bowling/22758
+#EXTINF:-1,US: FOX KRIV HOU HD
+http://rocksat.ddns.net:25461/bowling/bowling/22757
+#EXTINF:-1,US: FOX KTBC AUS HD
+http://rocksat.ddns.net:25461/bowling/bowling/22756
+#EXTINF:-1,US: FOX KTXH HOU HD
+http://rocksat.ddns.net:25461/bowling/bowling/22755
+#EXTINF:-1,US: FOX KTXL SAC HD
+http://rocksat.ddns.net:25461/bowling/bowling/22754
+#EXTINF:-1,US: FOX NEWS (COLUMBIA)
+http://rocksat.ddns.net:25461/bowling/bowling/22753
+#EXTINF:-1,US: Fox Soccer Match Pass 1 FHD (Match Time Only)
+http://rocksat.ddns.net:25461/bowling/bowling/22752
+#EXTINF:-1,US: Fox Soccer Match Pass 3 FHD (Match Time Only)
+http://rocksat.ddns.net:25461/bowling/bowling/22751
+#EXTINF:-1,US: Fox Soccer Match Pass 4 FHD (Match Time Only)
+http://rocksat.ddns.net:25461/bowling/bowling/22750
+#EXTINF:-1,US: Fox Soccer Match Pass 5 FHD (Match time only)
+http://rocksat.ddns.net:25461/bowling/bowling/22749
+#EXTINF:-1,US: FOX SOCCER SUN FHD
+http://rocksat.ddns.net:25461/bowling/bowling/22748
+#EXTINF:-1,US: Fox Sports (Arizona) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22747
+#EXTINF:-1,US: Fox Sports (Detroit) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22746
+#EXTINF:-1,US: Fox Sports (Florida) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22745
+#EXTINF:-1,US: Fox Sports (Mid West) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22744
+#EXTINF:-1,US: Fox Sports (North) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22743
+#EXTINF:-1,US: Fox Sports (Ohio) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22742
+#EXTINF:-1,US: Fox Sports (South East) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22741
+#EXTINF:-1,US: Fox Sports (South West) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22740
+#EXTINF:-1,US: Fox Sports (South West) Plus
+http://rocksat.ddns.net:25461/bowling/bowling/22739
+#EXTINF:-1,US: Fox Sports (South) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22738
+#EXTINF:-1,US: Fox Sports (Sun) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22737
+#EXTINF:-1,US: Fox Sports (West) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22736
+#EXTINF:-1,US: Fox SPORTS 25 HD
+http://rocksat.ddns.net:25461/bowling/bowling/22732
+#EXTINF:-1,US: Fox Sports 3
+http://rocksat.ddns.net:25461/bowling/bowling/22735
+#EXTINF:-1,US: Fox Sports 4
+http://rocksat.ddns.net:25461/bowling/bowling/22734
+#EXTINF:-1,US: Fox Sports 5
+http://rocksat.ddns.net:25461/bowling/bowling/22733
+#EXTINF:-1,US: Fox SPORTS 506 HD
+http://rocksat.ddns.net:25461/bowling/bowling/22731
+#EXTINF:-1,US: FOX SPORTS ATLANTA HD
+http://rocksat.ddns.net:25461/bowling/bowling/22730
+#EXTINF:-1,US: FOX SPORTS CAROLINAS HD
+http://rocksat.ddns.net:25461/bowling/bowling/22729
+#EXTINF:-1,US: FOX SPORTS CLEVELAND HD
+http://rocksat.ddns.net:25461/bowling/bowling/22728
+#EXTINF:-1,US: FOX SPORTS DEPORTES HD
+http://rocksat.ddns.net:25461/bowling/bowling/22727
+#EXTINF:-1,US: FOX SPORTS HD ASIA
+http://rocksat.ddns.net:25461/bowling/bowling/22726
+#EXTINF:-1,US: FOX SPORTS INDIANA HD
+http://rocksat.ddns.net:25461/bowling/bowling/22725
+#EXTINF:-1,US: FOX SPORTS NET HD
+http://rocksat.ddns.net:25461/bowling/bowling/22724
+#EXTINF:-1,US: FOX SPORTS NEW ORLEANS HD
+http://rocksat.ddns.net:25461/bowling/bowling/22723
+#EXTINF:-1,US: FOX SPORTS NORTH ALT HD
+http://rocksat.ddns.net:25461/bowling/bowling/22722
+#EXTINF:-1,US: FOX SPORTS OKLAHOMA HD
+http://rocksat.ddns.net:25461/bowling/bowling/22721
+#EXTINF:-1,US: FOX SPORTS PRIME TICKET HD
+http://rocksat.ddns.net:25461/bowling/bowling/22720
+#EXTINF:-1,US: FOX SPORTS SAN DIEGO HD
+http://rocksat.ddns.net:25461/bowling/bowling/22719
+#EXTINF:-1,US: FOX SPORTS SPORTSTIME OHIO HD
+http://rocksat.ddns.net:25461/bowling/bowling/22718
+#EXTINF:-1,US: FOX SPORTS TENNESSEE HD
+http://rocksat.ddns.net:25461/bowling/bowling/22717
+#EXTINF:-1,US: FOX SPORTS WISCONSIN HD
+http://rocksat.ddns.net:25461/bowling/bowling/22716
+#EXTINF:-1,US: FOX SPORTS YES HD
+http://rocksat.ddns.net:25461/bowling/bowling/22715
+#EXTINF:-1,US: FOX COLLEGE ATLANTIC
+http://rocksat.ddns.net:25461/bowling/bowling/23667
+#EXTINF:-1,US: FOX COLLEGE CENTRAL
+http://rocksat.ddns.net:25461/bowling/bowling/23666
+#EXTINF:-1,US: FOX COLLEGE PACIFIC
+http://rocksat.ddns.net:25461/bowling/bowling/23665
+#EXTINF:-1,US: FOX COLLEGE SPORTS
+http://rocksat.ddns.net:25461/bowling/bowling/23664
+#EXTINF:-1,US: FOX SOCCER PLUS
+http://rocksat.ddns.net:25461/bowling/bowling/23663
+#EXTINF:-1,US: FOX SOCCER PLUS HD
+http://rocksat.ddns.net:25461/bowling/bowling/23662
+#EXTINF:-1,US: FOX SPORTS 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/23661
+#EXTINF:-1,US: FOX SPORTS 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/23660
+#EXTINF:-1,US: FOX SPORTS FLORIDA
+http://rocksat.ddns.net:25461/bowling/bowling/23659
+#EXTINF:-1,US: FOX SPORTS SUN
+http://rocksat.ddns.net:25461/bowling/bowling/23658
+#EXTINF:-1,US: NBC SPORTS NETWORK
+http://rocksat.ddns.net:25461/bowling/bowling/23657
+#EXTINF:-1,US: NBC GOLF
+http://rocksat.ddns.net:25461/bowling/bowling/23656
+#EXTINF:-1,US: NBC HD
+http://rocksat.ddns.net:25461/bowling/bowling/23655
+#EXTINF:-1,US: NBCSN HD
+http://rocksat.ddns.net:25461/bowling/bowling/23654
+#EXTINF:-1,US: NFL NETWORK HD
+http://rocksat.ddns.net:25461/bowling/bowling/23653
+#EXTINF:-1,US: NFL NOW HD
+http://rocksat.ddns.net:25461/bowling/bowling/23652
+#EXTINF:-1,US: NFL REDZONE HD
+http://rocksat.ddns.net:25461/bowling/bowling/23651
+#EXTINF:-1,US: SPORTSNET NY
+http://rocksat.ddns.net:25461/bowling/bowling/23650
+#EXTINF:-1,US: SPORTSNET LA
+http://rocksat.ddns.net:25461/bowling/bowling/23649
+#EXTINF:-1,US: TENNIS HD
+http://rocksat.ddns.net:25461/bowling/bowling/23648
+#EXTINF:-1,US: ELEVEN SPORTS HD
+http://rocksat.ddns.net:25461/bowling/bowling/23647
+#EXTINF:-1,US: GOLF HD
+http://rocksat.ddns.net:25461/bowling/bowling/23646
+#EXTINF:-1,US: BTN HD
+http://rocksat.ddns.net:25461/bowling/bowling/23645
+#EXTINF:-1,US: NHL NETWORK
+http://rocksat.ddns.net:25461/bowling/bowling/23643
+#EXTINF:-1,US: NHL NETWORK HD
+http://rocksat.ddns.net:25461/bowling/bowling/23642
+#EXTINF:-1,US: HSN
+http://rocksat.ddns.net:25461/bowling/bowling/23641
+#EXTINF:-1,US: UFC FIGHT PASS
+http://rocksat.ddns.net:25461/bowling/bowling/23640
+#EXTINF:-1,US: UFC FIGHT PASS HD
+http://rocksat.ddns.net:25461/bowling/bowling/18109
+#EXTINF:-1,US: UFC Network
+http://rocksat.ddns.net:25461/bowling/bowling/18111
+#EXTINF:-1,US: WWE 24/7 FHD
+http://rocksat.ddns.net:25461/bowling/bowling/22678
+#EXTINF:-1,US: Box Nation
+http://rocksat.ddns.net:25461/bowling/bowling/19197
+#EXTINF:-1,US: AFN Sports 1
+http://rocksat.ddns.net:25461/bowling/bowling/18469
+#EXTINF:-1,US: CINEMAX ACTION MAX EAST
+http://rocksat.ddns.net:25461/bowling/bowling/18467
+#EXTINF:-1,US: CINEMAXX MORE MAXX
+http://rocksat.ddns.net:25461/bowling/bowling/18465
+#EXTINF:-1,US: MAV TV
+http://rocksat.ddns.net:25461/bowling/bowling/18458
+#EXTINF:-1,US: TRU TV
+http://rocksat.ddns.net:25461/bowling/bowling/18452
+#EXTINF:-1,US: TSN SPORT 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18474
+#EXTINF:-1,US: TSN SPORT 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18473
+#EXTINF:-1,US: TSN SPORT 3 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18472
+#EXTINF:-1,US: TSN SPORT 4 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18471
+#EXTINF:-1,US: TSN SPORT 5 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18470
+#EXTINF:-1,US: TVONE
+http://rocksat.ddns.net:25461/bowling/bowling/18450
+#EXTINF:-1,US: NEW ORLEANS TV
+http://rocksat.ddns.net:25461/bowling/bowling/18746
+#EXTINF:-1,US: NEW YORK RANGERS
+http://rocksat.ddns.net:25461/bowling/bowling/18745
+#EXTINF:-1,US: NEWS 12 (Hudson Valley) HD
+http://rocksat.ddns.net:25461/bowling/bowling/18744
+#EXTINF:-1,US: News Channel 12 KTVZ
+http://rocksat.ddns.net:25461/bowling/bowling/18743
+#EXTINF:-1,US: News West 9 KWES
+http://rocksat.ddns.net:25461/bowling/bowling/18742
+#EXTINF:-1,US: News4 (WRC-TV)
+http://rocksat.ddns.net:25461/bowling/bowling/18741
+#EXTINF:-1,US: NBC - Big 5 Networks FHD
+http://rocksat.ddns.net:25461/bowling/bowling/18817
+#EXTINF:-1,US: NBC (East) FHD
+http://rocksat.ddns.net:25461/bowling/bowling/18818
+#EXTINF:-1,US: NBC 10 BOSTON HD
+http://rocksat.ddns.net:25461/bowling/bowling/18805
+#EXTINF:-1,US: NBC 10 PHILADELPHIA HD
+http://rocksat.ddns.net:25461/bowling/bowling/18804
+#EXTINF:-1,US: NBC 12 News (WWBT-TV)
+http://rocksat.ddns.net:25461/bowling/bowling/18803
+#EXTINF:-1,US: NBC 29 (WVIR-TV)
+http://rocksat.ddns.net:25461/bowling/bowling/18802
+#EXTINF:-1,US: NBC 4 (Los Angeles)
+http://rocksat.ddns.net:25461/bowling/bowling/18816
+#EXTINF:-1,US: NBC 4 (NY) FHDs
+http://rocksat.ddns.net:25461/bowling/bowling/18815
+#EXTINF:-1,US: NBC 4 D.C. HD
+http://rocksat.ddns.net:25461/bowling/bowling/18814
+#EXTINF:-1,US: NBC 4 DETROIT HD
+http://rocksat.ddns.net:25461/bowling/bowling/18813
+#EXTINF:-1,US: NBC 4 LOS ANGELES HD
+http://rocksat.ddns.net:25461/bowling/bowling/18812
+#EXTINF:-1,US: NBC 4 NEW YORK HD
+http://rocksat.ddns.net:25461/bowling/bowling/18811
+#EXTINF:-1,US: NBC 4 News (KNBC-TV)
+http://rocksat.ddns.net:25461/bowling/bowling/18810
+#EXTINF:-1,US: NBC 5 CHICAGO HD
+http://rocksat.ddns.net:25461/bowling/bowling/18809
+#EXTINF:-1,US: NBC 5 DALLAS HD
+http://rocksat.ddns.net:25461/bowling/bowling/18808
+#EXTINF:-1,US: NBC 6 MIAMI HD
+http://rocksat.ddns.net:25461/bowling/bowling/18807
+#EXTINF:-1,US: NBC 7 SAN DIEGO HD
+http://rocksat.ddns.net:25461/bowling/bowling/18806
+#EXTINF:-1,US: NBC ATLANTA HD
+http://rocksat.ddns.net:25461/bowling/bowling/18801
+#EXTINF:-1,US: NBC EPL
+http://rocksat.ddns.net:25461/bowling/bowling/18800
+#EXTINF:-1,US: NBC EPL 1 FHD
+http://rocksat.ddns.net:25461/bowling/bowling/18799
+#EXTINF:-1,US: NBC EPL EFL 1
+http://rocksat.ddns.net:25461/bowling/bowling/18798
+#EXTINF:-1,US: NBC EPL EFL 2
+http://rocksat.ddns.net:25461/bowling/bowling/18797
+#EXTINF:-1,US: NBC EPL EFL 3
+http://rocksat.ddns.net:25461/bowling/bowling/18796
+#EXTINF:-1,US: NBC EPL EFL 4
+http://rocksat.ddns.net:25461/bowling/bowling/18795
+#EXTINF:-1,US: NBC EPL EFL 5
+http://rocksat.ddns.net:25461/bowling/bowling/18794
+#EXTINF:-1,US: NBC EPL EFL 6
+http://rocksat.ddns.net:25461/bowling/bowling/18793
+#EXTINF:-1,US: NBC EPL NBCSN EPL 1 (Live Match)
+http://rocksat.ddns.net:25461/bowling/bowling/18792
+#EXTINF:-1,US: NBC EPL NBCSN EPL 2 (Live Match)
+http://rocksat.ddns.net:25461/bowling/bowling/18791
+#EXTINF:-1,US: NBC EPL NBCSN EPL 3 (Live Match)
+http://rocksat.ddns.net:25461/bowling/bowling/18790
+#EXTINF:-1,US: NBC EPL NBCSN EPL 4 (Live Match)
+http://rocksat.ddns.net:25461/bowling/bowling/18789
+#EXTINF:-1,US: NBC EPL NBCSN EPL 5 (Live Match)
+http://rocksat.ddns.net:25461/bowling/bowling/18788
+#EXTINF:-1,US: NBC EPL NBCSN EPL 6 (Live Match)
+http://rocksat.ddns.net:25461/bowling/bowling/18787
+#EXTINF:-1,US: NBC EPL NBCSN EPL 7 (Live Match)
+http://rocksat.ddns.net:25461/bowling/bowling/18786
+#EXTINF:-1,US: NBC EPL NBCSN EPL 8 (Live Match)
+http://rocksat.ddns.net:25461/bowling/bowling/18785
+#EXTINF:-1,US: NBC EPL NBCSN EPL 9 (Live Match)
+http://rocksat.ddns.net:25461/bowling/bowling/18784
+#EXTINF:-1,US: NBC EPL NBCSN EPL 10 (Live Match)
+http://rocksat.ddns.net:25461/bowling/bowling/18783
+#EXTINF:-1,US: NBC EPL NBCSN EPL 11 (Live Match)
+http://rocksat.ddns.net:25461/bowling/bowling/18782
+#EXTINF:-1,US: NBC GOLD GOAL RUSH
+http://rocksat.ddns.net:25461/bowling/bowling/18781
+#EXTINF:-1,US: NBC GOLD Premier League 1
+http://rocksat.ddns.net:25461/bowling/bowling/18780
+#EXTINF:-1,US: NBC GOLD Premier League 2
+http://rocksat.ddns.net:25461/bowling/bowling/18779
+#EXTINF:-1,US: NBC GOLD Premier League 3
+http://rocksat.ddns.net:25461/bowling/bowling/18778
+#EXTINF:-1,US: NBC GOLD Premier League 4
+http://rocksat.ddns.net:25461/bowling/bowling/18777
+#EXTINF:-1,US: NBC GOLD Premier League 5
+http://rocksat.ddns.net:25461/bowling/bowling/18776
+#EXTINF:-1,US: NBC Los Angeles FHD
+http://rocksat.ddns.net:25461/bowling/bowling/18774
+#EXTINF:-1,US: NBC MEMPHIS
+http://rocksat.ddns.net:25461/bowling/bowling/18773
+#EXTINF:-1,US: NBC News Channel 13 (WNYT-TV)
+http://rocksat.ddns.net:25461/bowling/bowling/18772
+#EXTINF:-1,US: NBC SPORT HD
+http://rocksat.ddns.net:25461/bowling/bowling/18771
+#EXTINF:-1,US: NBC SPORTS 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18770
+#EXTINF:-1,US: NBC SPORTS 2 HD (LIVE EPL)
+http://rocksat.ddns.net:25461/bowling/bowling/18769
+#EXTINF:-1,US: NBC SPORTS 3 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18768
+#EXTINF:-1,US: NBC SPORTS 3 HD (LIVE EPL)
+http://rocksat.ddns.net:25461/bowling/bowling/18767
+#EXTINF:-1,US: NBC SPORTS 4 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18766
+#EXTINF:-1,US: NBC SPORTS 4 HD (LIVE EPL)
+http://rocksat.ddns.net:25461/bowling/bowling/18765
+#EXTINF:-1,US: NBC SPORTS 5 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18764
+#EXTINF:-1,US: NBC SPORTS 5 HD (LIVE EPL)
+http://rocksat.ddns.net:25461/bowling/bowling/18763
+#EXTINF:-1,US: NBC Sports HD (Premier League)
+http://rocksat.ddns.net:25461/bowling/bowling/18762
+#EXTINF:-1,US: NBC SPORTS PHILLY HD
+http://rocksat.ddns.net:25461/bowling/bowling/18761
+#EXTINF:-1,US: NBC4 New York News (WNBC-TV)
+http://rocksat.ddns.net:25461/bowling/bowling/18760
+#EXTINF:-1,US: NBC5 News (WMAQ-TV)
+http://rocksat.ddns.net:25461/bowling/bowling/18759
+#EXTINF:-1,US: NBCSN EPL Live Match 1 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18758
+#EXTINF:-1,US: NBCSN EPL Live Match 2 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18757
+#EXTINF:-1,US: NBCSN EPL Live Match 3 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18756
+#EXTINF:-1,US: NBCSN EPL Live Match 4 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18755
+#EXTINF:-1,US: NBCSN EPL Live Match 5 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18754
+#EXTINF:-1,US: NBCSN EPL Live Match 6 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18753
+#EXTINF:-1,US: NBCSN EPL Live Match 7 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18752
+#EXTINF:-1,US: NBCSN EPL Live Match 8 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18751
+#EXTINF:-1,US: NBCSN EPL Live Match 9 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18750
+#EXTINF:-1,US: NBCSN EPL Live Match 10 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18749
+#EXTINF:-1,US: NBCSN EPL Live Match 11 HD
+http://rocksat.ddns.net:25461/bowling/bowling/18748
+#EXTINF:-1,US: NBCSN Washington
+http://rocksat.ddns.net:25461/bowling/bowling/18747
+#EXTINF:-1,US: NRL LIVE 1 DRAGONS V ROOSTERS
+http://rocksat.ddns.net:25461/bowling/bowling/18665
+#EXTINF:-1,US: NRL LIVE 2 STORM V WARRIORS
+http://rocksat.ddns.net:25461/bowling/bowling/18664
+#EXTINF:-1,US: NRL LIVE 3 RABBITOHS V BRONCOS
+http://rocksat.ddns.net:25461/bowling/bowling/18663
+#EXTINF:-1,US: NRL LIVE 4 SEA EAGLES V KNIGHTS
+http://rocksat.ddns.net:25461/bowling/bowling/18662
+#EXTINF:-1,US: NRL LIVE 5 PANTHERS V BULLDOGS
+http://rocksat.ddns.net:25461/bowling/bowling/18661
+#EXTINF:-1,US: NRL LIVE 6 TITANS V SHARKS
+http://rocksat.ddns.net:25461/bowling/bowling/18660
+#EXTINF:-1,US: NRL LIVE 7 COWBOYS V RAIDERS
+http://rocksat.ddns.net:25461/bowling/bowling/18659
+#EXTINF:-1,US: NRL LIVE 8 EELS V WEST TIGERS
+http://rocksat.ddns.net:25461/bowling/bowling/18658
+#EXTINF:-1,US: CBS 11 (Dallas) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22792
+#EXTINF:-1,US: CBS 13 (Baltimore) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22791
+#EXTINF:-1,US: CBS 2 (Chicago)
+http://rocksat.ddns.net:25461/bowling/bowling/22801
+#EXTINF:-1,US: CBS 2 (Greensboro)
+http://rocksat.ddns.net:25461/bowling/bowling/22800
+#EXTINF:-1,US: CBS 2 (Los Angeles)
+http://rocksat.ddns.net:25461/bowling/bowling/22799
+#EXTINF:-1,US: CBS 2 (New York)
+http://rocksat.ddns.net:25461/bowling/bowling/22798
+#EXTINF:-1,US: CBS 4 (Miami) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22797
+#EXTINF:-1,US: CBS 4 ST. LOUIS HD
+http://rocksat.ddns.net:25461/bowling/bowling/22796
+#EXTINF:-1,US: CBS 46 (Atlanta) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22789
+#EXTINF:-1,US: CBS 47 JACKSONVILLE
+http://rocksat.ddns.net:25461/bowling/bowling/22788
+#EXTINF:-1,US: CBS 5 SAN FRANSISCO
+http://rocksat.ddns.net:25461/bowling/bowling/22795
+#EXTINF:-1,US: CBS 62 DETROIT HD
+http://rocksat.ddns.net:25461/bowling/bowling/22787
+#EXTINF:-1,US: CBS 8 (San Diego)
+http://rocksat.ddns.net:25461/bowling/bowling/22793
+#EXTINF:-1,US: CBS ACTION
+http://rocksat.ddns.net:25461/bowling/bowling/22786
+#EXTINF:-1,US: CBS DRAMA
+http://rocksat.ddns.net:25461/bowling/bowling/22785
+#EXTINF:-1,US: CBS Los Angeles FHD
+http://rocksat.ddns.net:25461/bowling/bowling/22784
+#EXTINF:-1,US: CBS REALITY
+http://rocksat.ddns.net:25461/bowling/bowling/22783
+#EXTINF:-1,US: CBS Sports
+http://rocksat.ddns.net:25461/bowling/bowling/22782
+#EXTINF:-1,US: CBS Sports Network (CBSSN) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22781
+#EXTINF:-1,US: NBC 10 (Boston) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22687
+#EXTINF:-1,US: NBC 11 NEWS (BAY AREA)
+http://rocksat.ddns.net:25461/bowling/bowling/22686
+#EXTINF:-1,US: NBC 4 (Detroit) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22694
+#EXTINF:-1,US: NBC 4 (Los Angeles) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22693
+#EXTINF:-1,US: NBC 4 (New York) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22692
+#EXTINF:-1,US: NBC 5 (CHICAGO) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22691
+#EXTINF:-1,US: NBC 5 (Dallas) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22690
+#EXTINF:-1,US: NBC 6 (Miami) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22689
+#EXTINF:-1,US: NBC 7 (San Diego) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22688
+#EXTINF:-1,US: NBC SPORTS CALIFORNIA  HD
+http://rocksat.ddns.net:25461/bowling/bowling/22685
+#EXTINF:-1,US: NBC SPORTS NEW ENGLAND FHD
+http://rocksat.ddns.net:25461/bowling/bowling/22684
+#EXTINF:-1,US: NBCSN (Philly) HD
+http://rocksat.ddns.net:25461/bowling/bowling/22683
+#EXTINF:-1,US: NBCSN FHD
+http://rocksat.ddns.net:25461/bowling/bowling/22682
+#EXTINF:-1,US: NBCSN PHILADELPHIA  HD
+http://rocksat.ddns.net:25461/bowling/bowling/22681
+#EXTINF:-1,US: NBCSN WASHINGTON  HD
+http://rocksat.ddns.net:25461/bowling/bowling/22679
+#EXTINF:-1,US: NBCSN WASHINGTON HD
+http://rocksat.ddns.net:25461/bowling/bowling/22680
+#EXTINF:-1,US: NFL SUNDAY TICKET 705
+http://rocksat.ddns.net:25461/bowling/bowling/23399
+#EXTINF:-1,US: NFL SUNDAY TICKET 706
+http://rocksat.ddns.net:25461/bowling/bowling/23398
+#EXTINF:-1,US: NFL SUNDAY TICKET 707
+http://rocksat.ddns.net:25461/bowling/bowling/23397
+#EXTINF:-1,US: NFL SUNDAY TICKET 708
+http://rocksat.ddns.net:25461/bowling/bowling/23396
+#EXTINF:-1,US: NFL SUNDAY TICKET 709
+http://rocksat.ddns.net:25461/bowling/bowling/23395
+#EXTINF:-1,US: NFL SUNDAY TICKET 710
+http://rocksat.ddns.net:25461/bowling/bowling/23394
+#EXTINF:-1,US: NFL SUNDAY TICKET 711
+http://rocksat.ddns.net:25461/bowling/bowling/23393
+#EXTINF:-1,US: NFL SUNDAY TICKET 712
+http://rocksat.ddns.net:25461/bowling/bowling/23392
+#EXTINF:-1,US: NFL SUNDAY TICKET 713
+http://rocksat.ddns.net:25461/bowling/bowling/23391
+#EXTINF:-1,US: NFL SUNDAY TICKET 714
+http://rocksat.ddns.net:25461/bowling/bowling/23390
+#EXTINF:-1,US: NFL SUNDAY TICKET 715
+http://rocksat.ddns.net:25461/bowling/bowling/23389
+#EXTINF:-1,US: NFL SUNDAY TICKET 716
+http://rocksat.ddns.net:25461/bowling/bowling/23388
+#EXTINF:-1,US: NFL SUNDAY TICKET 717
+http://rocksat.ddns.net:25461/bowling/bowling/23387
+#EXTINF:-1,US: NFL SUNDAY TICKET 718
+http://rocksat.ddns.net:25461/bowling/bowling/23386
+#EXTINF:-1,US: NFL SUNDAY TICKET 719
+http://rocksat.ddns.net:25461/bowling/bowling/23385
+#EXTINF:-1,US: NFL SUNDAY TICKET 720
+http://rocksat.ddns.net:25461/bowling/bowling/23384
+#EXTINF:-1,US: NHL Centre Ice 769
+http://rocksat.ddns.net:25461/bowling/bowling/23383
+#EXTINF:-1,US: NHL Centre Ice 770
+http://rocksat.ddns.net:25461/bowling/bowling/23382
+#EXTINF:-1,US: NHL Centre Ice 771
+http://rocksat.ddns.net:25461/bowling/bowling/23381
+#EXTINF:-1,US: NHL Centre Ice 772
+http://rocksat.ddns.net:25461/bowling/bowling/23380
+#EXTINF:-1,US: NHL Centre Ice 773
+http://rocksat.ddns.net:25461/bowling/bowling/23379
+#EXTINF:-1,US: NHL Centre Ice 774
+http://rocksat.ddns.net:25461/bowling/bowling/23378
+#EXTINF:-1,US: NHL Centre Ice 775
+http://rocksat.ddns.net:25461/bowling/bowling/23377
+#EXTINF:-1,US: NHL Centre Ice 776
+http://rocksat.ddns.net:25461/bowling/bowling/23376
+#EXTINF:-1,US: NHL Centre Ice 777
+http://rocksat.ddns.net:25461/bowling/bowling/23375
+#EXTINF:-1,US: NHL Centre Ice 778
+http://rocksat.ddns.net:25461/bowling/bowling/23374
+#EXTINF:-1,US: NHL Centre Ice 779
+http://rocksat.ddns.net:25461/bowling/bowling/23373
+#EXTINF:-1,US: NHL Centre Ice 780
+http://rocksat.ddns.net:25461/bowling/bowling/23372
+#EXTINF:-1,US: NHL Centre Ice 781
+http://rocksat.ddns.net:25461/bowling/bowling/23371
+#EXTINF:-1,US: NHL Centre Ice 782
+http://rocksat.ddns.net:25461/bowling/bowling/23370
+#EXTINF:-1,US: NHL Centre Ice 783
+http://rocksat.ddns.net:25461/bowling/bowling/23369
+#EXTINF:-1,US: NFL Arizona Cardinals
+http://rocksat.ddns.net:25461/bowling/bowling/18740
+#EXTINF:-1,US: NFL Atlanta Falcons
+http://rocksat.ddns.net:25461/bowling/bowling/18739
+#EXTINF:-1,US: NFL Baltimore Ravens
+http://rocksat.ddns.net:25461/bowling/bowling/18738
+#EXTINF:-1,US: NFL Buffalo Bills
+http://rocksat.ddns.net:25461/bowling/bowling/18737
+#EXTINF:-1,US: NFL Carolina Panthers
+http://rocksat.ddns.net:25461/bowling/bowling/18736
+#EXTINF:-1,US: NFL Chicago Bears
+http://rocksat.ddns.net:25461/bowling/bowling/18735
+#EXTINF:-1,US: NFL Cincinnati Bengals
+http://rocksat.ddns.net:25461/bowling/bowling/18734
+#EXTINF:-1,US: NFL Cleveland Browns
+http://rocksat.ddns.net:25461/bowling/bowling/18733
+#EXTINF:-1,US: NFL Dallas Cowboys
+http://rocksat.ddns.net:25461/bowling/bowling/18732
+#EXTINF:-1,US: NFL Denver Broncos
+http://rocksat.ddns.net:25461/bowling/bowling/18731
+#EXTINF:-1,US: NFL Detroit Lions
+http://rocksat.ddns.net:25461/bowling/bowling/18730
+#EXTINF:-1,US: NFL Green Bay Packers
+http://rocksat.ddns.net:25461/bowling/bowling/18713
+#EXTINF:-1,US: NFL Houston Texans
+http://rocksat.ddns.net:25461/bowling/bowling/18712
+#EXTINF:-1,US: NFL Indianapolis Colts
+http://rocksat.ddns.net:25461/bowling/bowling/18711
+#EXTINF:-1,US: NFL Jacksonville Jaguars
+http://rocksat.ddns.net:25461/bowling/bowling/18710
+#EXTINF:-1,US: NFL Kansas City Chiefs
+http://rocksat.ddns.net:25461/bowling/bowling/18709
+#EXTINF:-1,US: NFL Los Angeles Chargers
+http://rocksat.ddns.net:25461/bowling/bowling/18708
+#EXTINF:-1,US: NFL Los Angeles Rams
+http://rocksat.ddns.net:25461/bowling/bowling/18707
+#EXTINF:-1,US: NFL Miami Dolphins
+http://rocksat.ddns.net:25461/bowling/bowling/18706
+#EXTINF:-1,US: NFL Minnesota Vikings
+http://rocksat.ddns.net:25461/bowling/bowling/18705
+#EXTINF:-1,US: NFL MNF
+http://rocksat.ddns.net:25461/bowling/bowling/18704
+#EXTINF:-1,US: NFL New England Patriots
+http://rocksat.ddns.net:25461/bowling/bowling/18703
+#EXTINF:-1,US: NFL New Orleans Saints
+http://rocksat.ddns.net:25461/bowling/bowling/18702
+#EXTINF:-1,US: NFL New York Giants
+http://rocksat.ddns.net:25461/bowling/bowling/18701
+#EXTINF:-1,US: NFL New York Jets
+http://rocksat.ddns.net:25461/bowling/bowling/18700
+#EXTINF:-1,US: NFL Oakland Raiders
+http://rocksat.ddns.net:25461/bowling/bowling/18698
+#EXTINF:-1,US: NFL Philadelphia Eagles
+http://rocksat.ddns.net:25461/bowling/bowling/18697
+#EXTINF:-1,US: NFL Pittsburgh Steelers
+http://rocksat.ddns.net:25461/bowling/bowling/18696
+#EXTINF:-1,US: NFL RED ZONE HD
+http://rocksat.ddns.net:25461/bowling/bowling/18695
+#EXTINF:-1,US: NFL SNF
+http://rocksat.ddns.net:25461/bowling/bowling/18694
+#EXTINF:-1,US: NFL Tampa Bay Buccaneers
+http://rocksat.ddns.net:25461/bowling/bowling/18693
+#EXTINF:-1,US: NFL Tennessee Titans
+http://rocksat.ddns.net:25461/bowling/bowling/18692
+#EXTINF:-1,US: NFL TNF
+http://rocksat.ddns.net:25461/bowling/bowling/18691
+#EXTINF:-1,US: NFL Washington Redskins
+http://rocksat.ddns.net:25461/bowling/bowling/18690
+#EXTINF:-1,US: NHL ANAHEIM DUCKS
+http://rocksat.ddns.net:25461/bowling/bowling/18689
+#EXTINF:-1,US: NHL ARIZONA COYOTES
+http://rocksat.ddns.net:25461/bowling/bowling/18688
+#EXTINF:-1,US: NHL BOSTON BRUINS
+http://rocksat.ddns.net:25461/bowling/bowling/18687
+#EXTINF:-1,US: NHL CHICAGO BLACKHAWKS
+http://rocksat.ddns.net:25461/bowling/bowling/18686
+#EXTINF:-1,US: NHL COLUMBUS BLUE JACKETS
+http://rocksat.ddns.net:25461/bowling/bowling/18685
+#EXTINF:-1,US: NHL DETROIT REDWINGS
+http://rocksat.ddns.net:25461/bowling/bowling/18684
+#EXTINF:-1,US: NHL LOS ANGELES KINGS
+http://rocksat.ddns.net:25461/bowling/bowling/18683
+#EXTINF:-1,US: NHL MONTREAL CANADIENS
+http://rocksat.ddns.net:25461/bowling/bowling/18682
+#EXTINF:-1,US: NHL NETWORK HD (24/7 Coverage)
+http://rocksat.ddns.net:25461/bowling/bowling/18681
+#EXTINF:-1,US: NHL NEW JERSEY DEVILS
+http://rocksat.ddns.net:25461/bowling/bowling/18680
+#EXTINF:-1,US: NHL NEW YORK RANGERS
+http://rocksat.ddns.net:25461/bowling/bowling/18679
+#EXTINF:-1,US: NHL OTTAWA SENATORS
+http://rocksat.ddns.net:25461/bowling/bowling/18678
+#EXTINF:-1,US: NHL PHILIDELPHIA FLYERS
+http://rocksat.ddns.net:25461/bowling/bowling/18677
+#EXTINF:-1,US: NHL TAMPA BAY LIGHTNING
+http://rocksat.ddns.net:25461/bowling/bowling/18676
+#EXTINF:-1,US: NHL TORONTO MAPLE LEAFS
+http://rocksat.ddns.net:25461/bowling/bowling/18675
+#EXTINF:-1,US: NHL VANCOUVER CANUCKS
+http://rocksat.ddns.net:25461/bowling/bowling/18674
+#EXTINF:-1,US: NHL VEGAS GOLDEN KNIGHTS
+http://rocksat.ddns.net:25461/bowling/bowling/18673
+#EXTINF:-1,US: NHL WASHINGTON CAPITALS
+http://rocksat.ddns.net:25461/bowling/bowling/18672
+#EXTINF:-1,US: NHL WINNEPEG JETS
+http://rocksat.ddns.net:25461/bowling/bowling/18671
