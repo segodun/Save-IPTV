@@ -1,55 +1,13 @@
 #EXTM3U
-#EXTINF:-1,VIP JM: Flow Sport 1 HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/19212
-#EXTINF:-1,VIP JM: Flow Sport 2 HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/20200
-#EXTINF:-1,VIP JM: Flow Sport PL HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/20201
-#EXTINF:-1,VIP JM: Flow Sport PL PPV 1HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/20251
-#EXTINF:-1,VIP JM: Flow Sport PL PPV 2HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/20250
-#EXTINF:-1,VIP JM: Flow Sport PL PPV 3HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/20249
-#EXTINF:-1,VIP JM: Flow Sport PL PPV 4HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/20248
-#EXTINF:-1,VIP JM: Flow Sport PL PPV 5HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/20247
-#EXTINF:-1,VIP JM: Flow Sport PL PPV 6HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/20246
-#EXTINF:-1,VIP HK: LE Sports PL TV FHD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/17845
-#EXTINF:-1,VIP HK: LE Sports 1 FHD  [Match Time Only]
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/17851
-#EXTINF:-1,VIP HK: LE Sports 2 FHD  [Match Time Only]
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/17850
-#EXTINF:-1,VIP HK: LE Sports 3 FHD  [Match Time Only]
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/17849
-#EXTINF:-1,VIP HK: LE Sports 4 FHD  [Match Time Only]
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/17848
-#EXTINF:-1,VIP HK: LE Sports 5 FHD [Match Time Only]
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/17847
-#EXTINF:-1,VIP HK: LE Sports 6 FHD [Match Time Only]
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/17846
-#EXTINF:-1,VIP US: NBCSN Gold HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/15529
-#EXTINF:-1,VIP US: NBC Gold PL 1HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/15783
-#EXTINF:-1,VIP US: NBC Gold PL 2HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/15785
-#EXTINF:-1,VIP US: NBC Gold PL 3HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/15786
-#EXTINF:-1,VIP US: NBC Gold PL 4HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/15787
-#EXTINF:-1,VIP US: NBC Gold PL 5HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/15788
-#EXTINF:-1,VIP US: NBC Gold PL 6HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/15789
-#EXTINF:-1,VIP US: NBC Gold PL 7HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/17858
-#EXTINF:-1,VIP US: NBC Gold PL 8HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/17859
-#EXTINF:-1,VIP US: NBC Gold PL 9HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/17860
-#EXTINF:-1,VIP US: NBC Gold PL 10HD
-http://livegopanel.club:8080/4g8AayFniT/wfxEP2FtD9/17861
+#EXTINF:-1,BR:FOX SD !
+http://fonte.iptvmaishd.com:25461/6348/6348/141908
+#EXTINF:-1,BR:Fox Sports 2 HD !
+http://fonte.iptvmaishd.com:25461/6348/6348/141895
+#EXTINF:-1,BR:Fox Sports 2 SD !
+http://fonte.iptvmaishd.com:25461/6348/6348/141896
+#EXTINF:-1,BR:Fox Sports HD Principal !
+http://fonte.iptvmaishd.com:25461/6348/6348/141898
+#EXTINF:-1,BR:Fox Sports SD !
+http://fonte.iptvmaishd.com:25461/6348/6348/141899
+#EXTINF:-1,BR:FX HD !
+http://fonte.iptvmaishd.com:25461/6348/6348/141866
