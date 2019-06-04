@@ -1,64 +1,157 @@
 #EXTM3U
-#EXTINF:-1,Nollywood ( UK )
-http://185.132.179.43:8000/live/testapp/testapp/828.ts
-#EXTINF:-1,AF: ROK (Nigeria)
-http://31.220.1.190:8080/Jessica/Jessica1/210211
-#EXTINF:-1,AF: ROK TV
-http://31.220.1.190:8080/Jessica/Jessica1/96496
-#EXTINF:-1,AF: TVC Entertainment (Nigeria)
-http://31.220.1.190:8080/Jessica/Jessica1/210228
-#EXTINF:-1,AF: TVC HD
-http://31.220.1.190:8080/Jessica/Jessica1/92411
-#EXTINF:-1,AF: TVC News (Nigeria)
-http://31.220.1.190:8080/Jessica/Jessica1/119986
-#EXTINF:-1,AF: AFRO MUSIC
-http://31.220.1.190:8080/Jessica/Jessica1/95387
-#EXTINF:-1,AF: AIT (Nigeria)
-http://31.220.1.190:8080/Jessica/Jessica1/210176
-#EXTINF:-1,AF: Ait Inter (Nigeria)
-http://31.220.1.190:8080/Jessica/Jessica1/210175
-#EXTINF:-1,AF: AIT International HD
-http://31.220.1.190:8080/Jessica/Jessica1/96467
-#EXTINF:-1,AF: BEN TV
-http://31.220.1.190:8080/Jessica/Jessica1/92376
-#EXTINF:-1,AF: Channels 24 (Nigeria)
-http://31.220.1.190:8080/Jessica/Jessica1/210185
-#EXTINF:-1,AF: Channels Television
-http://31.220.1.190:8080/Jessica/Jessica1/95401
-#EXTINF:-1,AF: Channels TV (Nigeria)
-http://31.220.1.190:8080/Jessica/Jessica1/210186
-#EXTINF:-1,AF: Lagos TV
-http://31.220.1.190:8080/Jessica/Jessica1/119950
-#EXTINF:-1,AF: ABN TV
-http://31.220.1.190:8080/Jessica/Jessica1/120098
-#EXTINF:-1,AF: ADOM TV
-http://31.220.1.190:8080/Jessica/Jessica1/92346
-#EXTINF:-1,AF: Adom TV (Ghana)
-http://31.220.1.190:8080/Jessica/Jessica1/210173
-#EXTINF:-1,AF: AFRICA WOOD
-http://31.220.1.190:8080/Jessica/Jessica1/144310
-#EXTINF:-1,AF: AFRICAN ENTERTAIMENT TV
-http://31.220.1.190:8080/Jessica/Jessica1/114980
-#EXTINF:-1,AF: EYE AFRICA
-http://31.220.1.190:8080/Jessica/Jessica1/207316
-#EXTINF:-1,AF: FuFu Kitchen
-http://31.220.1.190:8080/Jessica/Jessica1/114989
-#EXTINF:-1,AF: GH Canada TV
-http://31.220.1.190:8080/Jessica/Jessica1/95415
-#EXTINF:-1,AF: GH TV
-http://31.220.1.190:8080/Jessica/Jessica1/207311
-#EXTINF:-1,AF: GHTV Online
-http://31.220.1.190:8080/Jessica/Jessica1/92384
-#EXTINF:-1,AF: GTV (Ghana)
-http://31.220.1.190:8080/Jessica/Jessica1/210197
-#EXTINF:-1,AF: GTV Sport
-http://31.220.1.190:8080/Jessica/Jessica1/149818
-#EXTINF:-1,AF: GTV2 TV
-http://31.220.1.190:8080/Jessica/Jessica1/95417
-#EXTINF:-1,AF: VOX Africa
-http://31.220.1.190:8080/Jessica/Jessica1/149793
-#EXTINF:-1,AF: VOX TV
-http://31.220.1.190:8080/Jessica/Jessica1/136935
+#EXTINF:-1,*****AFRIKA*****
+http://iptv.iptivihd.com:8000/goran1/goran1/5049
+#EXTINF:-1,(AF) AFRICA CABLE
+http://iptv.iptivihd.com:8000/goran1/goran1/5045
+#EXTINF:-1,(AF) KALSAN TV
+http://iptv.iptivihd.com:8000/goran1/goran1/5034
+#EXTINF:-1,(AF) Love World Plus (Nigeria)
+http://iptv.iptivihd.com:8000/goran1/goran1/5011
+#EXTINF:-1,(AF) Mourchid TV (Senegal)
+http://iptv.iptivihd.com:8000/goran1/goran1/5013
+#EXTINF:-1,(AF) Nollywood (FR)
+http://iptv.iptivihd.com:8000/goran1/goran1/5016
+#EXTINF:-1,(AF) ORTB
+http://iptv.iptivihd.com:8000/goran1/goran1/5038
+#EXTINF:-1,(AF) ORTM AFRICA
+http://iptv.iptivihd.com:8000/goran1/goran1/5044
+#EXTINF:-1,(AF) Rave TV (Nigeria)
+http://iptv.iptivihd.com:8000/goran1/goran1/5019
+#EXTINF:-1,(AF) RTB
+http://iptv.iptivihd.com:8000/goran1/goran1/5020
+#EXTINF:-1,(AF) SNTV
+http://iptv.iptivihd.com:8000/goran1/goran1/5040
+#EXTINF:-1,(AF) SOMALI CABLE
+http://iptv.iptivihd.com:8000/goran1/goran1/5031
+#EXTINF:-1,(AF) SOMALILAND NATIONAL TV
+http://iptv.iptivihd.com:8000/goran1/goran1/5032
+#EXTINF:-1,(AF) TFM SENEGAL
+http://iptv.iptivihd.com:8000/goran1/goran1/5043
+#EXTINF:-1,(AF) TV CONGO HD
+http://iptv.iptivihd.com:8000/goran1/goran1/5027
+#EXTINF:-1,(AF) Walf TV (Senegal)
+http://iptv.iptivihd.com:8000/goran1/goran1/5030
+#EXTINF:-1,AF: RTG (GUINEE)
+http://iptv.iptivihd.com:8000/goran1/goran1/17147
+#EXTINF:-1,AFK: AFRICA CABLE TV
+http://iptv.iptivihd.com:8000/goran1/goran1/17138
+#EXTINF:-1,AFK: BEN TV
+http://iptv.iptivihd.com:8000/goran1/goran1/17141
+#EXTINF:-1,AFK: NOLLYWOOD
+http://iptv.iptivihd.com:8000/goran1/goran1/17136
+#EXTINF:-1,AFK: ORTB
+http://iptv.iptivihd.com:8000/goran1/goran1/17143
+#EXTINF:-1,AFK: ORTM
+http://iptv.iptivihd.com:8000/goran1/goran1/17133
+#EXTINF:-1,AFK: RTNC
+http://iptv.iptivihd.com:8000/goran1/goran1/17140
+#EXTINF:-1,AFK: RTS 1
+http://iptv.iptivihd.com:8000/goran1/goran1/17145
+#EXTINF:-1,AFK: RTV RWANDA
+http://iptv.iptivihd.com:8000/goran1/goran1/17146
+#EXTINF:-1,AFK: RWANDA TV
+http://iptv.iptivihd.com:8000/goran1/goran1/17134
+#EXTINF:-1,AFK: TELE-SUD
+http://iptv.iptivihd.com:8000/goran1/goran1/17139
+#EXTINF:-1,AFK: TFM
+http://iptv.iptivihd.com:8000/goran1/goran1/17144
+#EXTINF:-1,ANG: TPA
+http://iptv.iptivihd.com:8000/goran1/goran1/17148
+#EXTINF:-1,CN: CCTV 1 HD
+http://iptv.iptivihd.com:8000/goran1/goran1/17126
+#EXTINF:-1,CN: CCTV 2 HD
+http://iptv.iptivihd.com:8000/goran1/goran1/17125
+#EXTINF:-1,CON: TV CONGO
+http://iptv.iptivihd.com:8000/goran1/goran1/17152
+#EXTINF:-1,SEN: SEN TV
+http://iptv.iptivihd.com:8000/goran1/goran1/17150
+#EXTINF:-1,SU: KALSAN TV
+http://iptv.iptivihd.com:8000/goran1/goran1/17132
+#EXTINF:-1,SU: SNTV
+http://iptv.iptivihd.com:8000/goran1/goran1/17130
+#EXTINF:-1,SU: SOMALI CABLE
+http://iptv.iptivihd.com:8000/goran1/goran1/17129
+#EXTINF:-1,SU: UNIVERSAL SOMAL
+http://iptv.iptivihd.com:8000/goran1/goran1/17127
+#EXTINF:-1,2STV HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/31048
+#EXTINF:-1,Adom TV HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/31046
+#EXTINF:-1,Africa 1 HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/31045
+#EXTINF:-1,Africa 24 HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/31039
+#EXTINF:-1,Africa News HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/31043
+#EXTINF:-1,AFRO MUSIC CHANNEL HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/31036
+#EXTINF:-1,Arise News HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/31038
+#EXTINF:-1,CANAL 2 HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/31028
+#EXTINF:-1,CNBC HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/31014
+#EXTINF:-1,D24 HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/31025
+#EXTINF:-1,Dabanga Sudan HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/31024
+#EXTINF:-1,Dabanga TV HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/31023
+#EXTINF:-1,Digital Black Music (DBM) HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/31022
+#EXTINF:-1,GH Canada TV HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30932
+#EXTINF:-1,JUBALAND TV (Somalia) HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/31009
+#EXTINF:-1,KBC Channel 1 HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30994
+#EXTINF:-1,TFM HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/31003
+#EXTINF:-1,Puntland TV HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30999
+#EXTINF:-1,RT FRANCE HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30996
+#EXTINF:-1,RTI 1 (Cote d'Ivoire) HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30992
+#EXTINF:-1,RTi 1 HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30993
+#EXTINF:-1,RTi2 Cote d'ivoire HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30990
+#EXTINF:-1,RTI2 HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30991
+#EXTINF:-1,RTNC (Congo) HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30988
+#EXTINF:-1,RTNC 1 HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30987
+#EXTINF:-1,RTNC HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30989
+#EXTINF:-1,RTP Africa HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30986
+#EXTINF:-1,RTS1 HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30982
+#EXTINF:-1,SBC TV  SOMALI HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/31012
+#EXTINF:-1,SBC TV HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30978
+#EXTINF:-1,Sen TV HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30977
+#EXTINF:-1,Somali Cable HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30973
+#EXTINF:-1,STAD Afric TV HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30931
+#EXTINF:-1,Tele Congo HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30960
+#EXTINF:-1,TPA HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30949
+#EXTINF:-1,TRACE AFRICA HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30947
+#EXTINF:-1,TVC News (Nigeria) HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30944
+#EXTINF:-1,WALF TV (Senegal) HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30938
+#EXTINF:-1,Walf TV HD AF
+http://iptv.iptivihd.com:8000/goran1/goran1/30939
+
 #EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="FRANCE",Trace Africa
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="FRANCE",Trace Gospel
