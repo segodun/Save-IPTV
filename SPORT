@@ -1,23 +1,261 @@
 #EXTM3U
-#PLAYLISTV: pltv-logo="https://png.icons8.com/metro/1600/football2.png" pltv-name="Futebol" pltv-description="Lista de Futebol" pltv-cover="https://images.homedepot-static.com/productImages/05462cc6-6f19-459f-a40f-160ca56ca5fb/svn/brewster-wallpaper-3097-05sam-64_1000.jpg"
-#EXTINF:-1 group-title="Atualizada 02.01.2019 ", Lista Atualizada
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-https://apk25.futeboltvgratis.com/live/4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-https://apk25.futeboltvgratis.com/live/15/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-https://apk25.futeboltvgratis.com/live/7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-https://apk25.futeboltvgratis.com/live/3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-https://apk25.futeboltvgratis.com/live/20/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Futebol ao vivo", Futebol ao vivo
-https://apk25.futeboltvgratis.com/live/19/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 18h - NEWCASTLE X MANCHESTER UNITED
-https://apk25.futeboltvgratis.com/live/3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 18:15h - PORTIMORENSE X BENFICA
-https://apk25.futeboltvgratis.com/live/13/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 19:15h - COPA SP - VILA NOVA/GO X PORTO/PE
-https://apk25.futeboltvgratis.com/live/20/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/2qBP1Ri" group-title="Jogos de Hoje", 21:30h - COPA SP - CORINTHIANS X RICANATO/TO
-https://apk25.futeboltvgratis.com/live/20/playlist.m3u8
+#EXTINF:-1,-------------  SPORT --------------
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/73.m3u8
+#EXTINF:-1,ALB: Supersport 1
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/74.m3u8
+#EXTINF:-1,ALB: Supersport 2
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/75.m3u8
+#EXTINF:-1,ALB: Supersport 3
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/76.m3u8
+#EXTINF:-1,ALB: Supersport 4
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/77.m3u8
+#EXTINF:-1,ALB: Supersport 5
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2640.m3u8
+#EXTINF:-1,ALB: Tring Sport News
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1725.m3u8
+#EXTINF:-1,ALB: Tring Sport 1 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/242.m3u8
+#EXTINF:-1,ALB: Tring Sport 2 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/241.m3u8
+#EXTINF:-1,ALB: Tring Sport 3 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/346.m3u8
+#EXTINF:-1,ALB: Tring Sport 4 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/347.m3u8
+#EXTINF:-1,ALB: Telesport
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/871.m3u8
+#EXTINF:-1,ALB: SUPER SPORT KOSOVO 1 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/574.m3u8
+#EXTINF:-1,ALB: SUPER SPORT KOSOVO 2 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/575.m3u8
+#EXTINF:-1,ALB: K Sport 1
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2643.m3u8
+#EXTINF:-1,ALB: K Sport 2
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2644.m3u8
+#EXTINF:-1,ALB: K Sport 3
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2645.m3u8
+#EXTINF:-1,ALB: K Sport 4
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2646.m3u8
+#EXTINF:-1,DE: DAZN 1 Bar
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/3058.m3u8
+#EXTINF:-1,DE: DAZN 2 Bar
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/3060.m3u8
+#EXTINF:-1,DE: Eurosport 1
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2493.m3u8
+#EXTINF:-1,DE: Eurosport 2
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2494.m3u8
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/142.m3u8
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/143.m3u8
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2624.m3u8
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2625.m3u8
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2626.m3u8
+#EXTINF:-1,DE: SPORT DIGITAL
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1675.m3u8
+#EXTINF:-1,DE: SKY SPORT AUSTRIA
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1676.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/619.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/620.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 3 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2495.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 4 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2496.m3u8
+#EXTINF:-1,DE: SKY BUNDESLIGA 5 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2497.m3u8
+#EXTINF:-1,ELEVEN SPORT 1 pol
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/3118.m3u8
+#EXTINF:-1,ELEVEN SPORT 2 pol
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/3117.m3u8
+#EXTINF:-1,ELEVEN SPORT 3 pol
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/3116.m3u8
+#EXTINF:-1,ELEVEN SPORT 4 pol
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/3115.m3u8
+#EXTINF:-1,ES: Movistar Deportes 1HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2776.m3u8
+#EXTINF:-1,ES: Movistar Deportes 2 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2775.m3u8
+#EXTINF:-1,ES: Real Madrid TV HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2774.m3u8
+#EXTINF:-1,ES: BARCA TV
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/3135.m3u8
+#EXTINF:-1,ES: Bein La Liga
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/3136.m3u8
+#EXTINF:-1,ES: CANAL GOLF
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/3137.m3u8
+#EXTINF:-1,ES: Movistar Moto GP
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/3138.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 1 Srb
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/84.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 2 Srb
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/85.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 3 Srb
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/86.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 4 Srb
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/87.m3u8
+#EXTINF:-1,EX-YU: Arena Sport 5 Srb
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/88.m3u8
+#EXTINF:-1,EX-YU: Arena Sports 1 HD Croatia
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/89.m3u8
+#EXTINF:-1,EX-YU: Arena Sports 2 HD Croatia
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/90.m3u8
+#EXTINF:-1,EX-YU: Arena Sports 3 HD Croatia
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/91.m3u8
+#EXTINF:-1,EX-YU: Arena Sports 4 HD Croatia
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/92.m3u8
+#EXTINF:-1,EX-YU: Arena Sports 5 HD Croatia
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/677.m3u8
+#EXTINF:-1,EX-YU: SporKlub 1 Srb
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/248.m3u8
+#EXTINF:-1,EX-YU: SporKlub 2 Srb
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/249.m3u8
+#EXTINF:-1,EX-YU: SporKlub 3 Srb
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/250.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 1 Cro
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/78.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 2 Cro
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/79.m3u8
+#EXTINF:-1,EX-YU: Sport Klub 3 Cro
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/80.m3u8
+#EXTINF:-1,EX-YU: EuroSport
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/82.m3u8
+#EXTINF:-1,EX-YU: EuroSport 2
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/83.m3u8
+#EXTINF:-1,EX-YU: Eurosport 1 Cro
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/678.m3u8
+#EXTINF:-1,EX-YU: Eurosport 2 Cro
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/109.m3u8
+#EXTINF:-1,TR: Sports TV
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1683.m3u8
+#EXTINF:-1,TR: Tivibu Spor 1 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1681.m3u8
+#EXTINF:-1,TR: Tivibu Spor 2 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1682.m3u8
+#EXTINF:-1,TR: Lig Tv HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/229.m3u8
+#EXTINF:-1,TR: Lig TV 2 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1679.m3u8
+#EXTINF:-1,TR: Lig TV 3 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1680.m3u8
+#EXTINF:-1,NL: FOX SPORTS 1 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/758.m3u8
+#EXTINF:-1,NL: FOX SPORTS 2 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/759.m3u8
+#EXTINF:-1,NL: FOX SPORTS 3 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/760.m3u8
+#EXTINF:-1,NL: FOX SPORTS 4 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/761.m3u8
+#EXTINF:-1,NL: FOX SPORTS 5 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/762.m3u8
+#EXTINF:-1,UK: FOOTBALL HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2684.m3u8
+#EXTINF:-1,UK: SKY SPORTS PREMIER
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2685.m3u8
+#EXTINF:-1,UK: Chelsea TV
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2378.m3u8
+#EXTINF:-1,UK: LIVERPOOL FC
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2498.m3u8
+#EXTINF:-1,UK: BT Sport 1 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/206.m3u8
+#EXTINF:-1,UK: BT Sport 2 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/207.m3u8
+#EXTINF:-1,UK: SKY SPORTS 1
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/221.m3u8
+#EXTINF:-1,UK: SKY SPORTS 2
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/222.m3u8
+#EXTINF:-1,UK: SKY SPORTS 3
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/223.m3u8
+#EXTINF:-1,UK: SKY SPORTS 4
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/224.m3u8
+#EXTINF:-1,UK: SKY SPORTS 5
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/225.m3u8
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2579.m3u8
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2580.m3u8
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2581.m3u8
+#EXTINF:-1,FR: BEIN SPORT 1 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/243.m3u8
+#EXTINF:-1,FR: BEIN SPORT 2 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/244.m3u8
+#EXTINF:-1,FR: BEIN SPORT 3 HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/245.m3u8
+#EXTINF:-1,AR: Bein-Sport-hd1
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/634.m3u8
+#EXTINF:-1,AR: Bein-Sport-hd2
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/635.m3u8
+#EXTINF:-1,AR: Bein-Sport-hd3
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1014.m3u8
+#EXTINF:-1,AR: Bein-Sport-hd4
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/637.m3u8
+#EXTINF:-1,AR: Bein-Sport-hd5
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/638.m3u8
+#EXTINF:-1,AR: Bein-Sport-hd6
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1054.m3u8
+#EXTINF:-1,AR: Bein-Sport-hd7
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1055.m3u8
+#EXTINF:-1,AR: Bein-Sport-hd8
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1056.m3u8
+#EXTINF:-1,AR: Bein-Sport-hd9
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1057.m3u8
+#EXTINF:-1,AR: Bein-Sport-hd10
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1058.m3u8
+#EXTINF:-1,PT: Sport TV+
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2340.m3u8
+#EXTINF:-1,PT: Sport TV 1
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/723.m3u8
+#EXTINF:-1,PT: Sport TV 2
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/724.m3u8
+#EXTINF:-1,PT: Sport TV 3
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/725.m3u8
+#EXTINF:-1,PT: Sport TV 4
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/726.m3u8
+#EXTINF:-1,PT: Sport TV 5
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1021.m3u8
+#EXTINF:-1,RO: Digi Sport 1
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1195.m3u8
+#EXTINF:-1,RO: Digi Sport 2
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1194.m3u8
+#EXTINF:-1,RO: Digi Sport 3
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1193.m3u8
+#EXTINF:-1,RO: Digi Sport 4
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1192.m3u8
+#EXTINF:-1,USA: NBA
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1584.m3u8
+#EXTINF:-1,USA: ESPN HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1583.m3u8
+#EXTINF:-1,TSN Sports 1 (USA)
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1579.m3u8
+#EXTINF:-1,TSN Sports 2 (USA)
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1580.m3u8
+#EXTINF:-1,TSN Sports 3 (USA)
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1581.m3u8
+#EXTINF:-1,TSN Sports 4 (USA)
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/1582.m3u8
+#EXTINF:-1,======  SWITZERLAND  ======
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2297.m3u8
+#EXTINF:-1,CH:TELECLUB_SPORT_1
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2296.m3u8
+#EXTINF:-1,CH:SRF_1_HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2286.m3u8
+#EXTINF:-1,CH:SRF_2_HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2285.m3u8
+#EXTINF:-1,CH:RTS_Deux_HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2288.m3u8
+#EXTINF:-1,CH:RTS_Un_HD
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2287.m3u8
+#EXTINF:-1,CH:Tele_Basel
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2282.m3u8
+#EXTINF:-1,CH:Tele_Zuri
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2281.m3u8
+#EXTINF:-1,CH:Teleclub_Cinema
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2293.m3u8
+#EXTINF:-1,CH:Teleclub_Prime
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2292.m3u8
+#EXTINF:-1,CH:Teleclub_Star
+http://163.172.107.169:8000/live/plav-8260-br21/plav-8260-br21/2291.m3u8
