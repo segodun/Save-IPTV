@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="LATINO",Fox Sports 1
 http://stream.tvpor-internet.net/manifest/01/f0xsports.m3u8?fluxustv.m3u8
- 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="LATINO",Fox Sports 2
 http://stream.tvpor-internet.net/manifest/01/f0xsports2.m3u8?fluxustv.m3u8
- 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="LATINO",Fox Sports 3
 http://stream.tvpor-internet.net/manifest/01/f0xsports3.m3u8?fluxustv.m3u8
-
-#EXTM3U
 #EXTINF:-1,Arabe | Bein Sports 10Hd
 http://quisqueyatv.live:25461/ecuaplay/TIk0JZ8rNi/13944
 #EXTINF:-1,Arabe | Bein Sports 11Hd
