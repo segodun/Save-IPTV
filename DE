@@ -5,3 +5,294 @@ https://mcdn.daserste.de/daserste/de/profile1/index.m3u8
 http://176.10.117.12:8081/aypitv/ArteHd/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/HR_Dachmarke.PNG" group-title="GERMANY",HR Fernsehen (Opt-1)
 http://livestream-1.hr.de/i/hr_fernsehen@75910/master.m3u8?fluxustv.m3u8
+#EXTINF:-1,DE:Sky_Sport1
+http://premium-service.club:9300/live/aa/aa/562.ts
+#EXTINF:-1,DE:Sky_Sport2
+http://premium-service.club:9300/live/aa/aa/561.ts
+#EXTINF:-1,DE:SKY_Bundesliga_HD1
+http://premium-service.club:9300/live/aa/aa/555.ts
+#EXTINF:-1,DE:ORF SPORT+
+http://premium-service.club:9300/live/aa/aa/981.ts
+#EXTINF:-1,Kika
+http://93.189.144.154:8085/media/hls_154/kika/index.m3u8
+#EXTINF:-1,DMAX
+http://93.189.144.154:8085/media/hls_154/dmax/index.m3u8
+#EXTINF:-1,Kabel 1
+http://93.189.144.154:8085/media/hls_154/kabel1/index.m3u8
+#EXTINF:-1,ZDF
+http://93.189.144.154:8085/media/hls_154/zdf/index.m3u8
+#EXTINF:-1,ARD
+http://93.189.144.154:8085/media/hls_154/ard/index.m3u8
+#EXTINF:-1,Vox
+http://93.189.144.154:8085/media/hls_154/vox/index.m3u8
+#EXTINF:-1,RTL 2
+http://93.189.144.154:8085/media/hls_154/rtl2/index.m3u8
+#EXTINF:-1,NTV
+http://93.189.144.154:8085/media/hls_154/n_tv/index.m3u8
+#EXTINF:0,ARD
+http://cdn-03.v-sr.net/gpl/z030402/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,ZDF
+http://cdn-03.v-sr.net/gpl/z030401/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sat.1
+http://cdn-03.v-sr.net/gpl/z010101/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,RTL
+http://cdn-03.v-sr.net/gpl/z030101/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,RTL2
+http://cdn-03.v-sr.net/gpl/z030104/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Pro7
+http://cdn-03.v-sr.net/gpl/z010102/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,VOX iptv German m3u
+http://cdn-03.v-sr.net/gpl/z050220/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Kabel1
+http://cdn-03.v-sr.net/gpl/z010103/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,SIXX
+http://cdn-03.v-sr.net/gpl/z010104/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Tele 5 HD
+http://cdn-03.v-sr.net/gpl/z053064/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,RTL Nitro DE
+http://cdn-03.v-sr.net/gpl/z050545/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Super RTL DE
+http://cdn-03.v-sr.net/gpl/z050546/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+
+#EXTINF:0,DMAX HD DE
+http://cdn-03.v-sr.net/gpl/z053037/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,SRF 1
+http://cdn-03.v-sr.net/gpl/z050581/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,SRF 2
+http://cdn-03.v-sr.net/gpl/z050582/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,SRF info
+http://cdn-03.v-sr.net/gpl/z050687/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,ORF eins HD
+http://cdn-03.v-sr.net/gpl/z050567/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,ORF 2 HD
+http://cdn-03.v-sr.net/gpl/z050568/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,ATV HD DE
+http://cdn-03.v-sr.net/gpl/z053088/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,ATV 2 DE
+http://cdn-03.v-sr.net/gpl/z053089/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Pro 7 MAXX HD
+http://cdn-03.v-sr.net/gpl/z053036/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,3sat HD DE
+http://cdn-03.v-sr.net/gpl/z050497/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Phoenix DE
+http://cdn-03.v-sr.net/gpl/z050496/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,N-TV DE iptv German m3u
+http://cdn-03.v-sr.net/gpl/z050548/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,NDR FS NDS HD DE
+http://cdn-03.v-sr.net/gpl/z053086/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Tagesschau 24 DE
+http://cdn-03.v-sr.net/gpl/z050492/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,BR Sud HD DE
+http://cdn-03.v-sr.net/gpl/z053085/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,HR Fernsehen DE
+http://cdn-03.v-sr.net/gpl/z050610/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,ZDF info HD DE
+http://cdn-03.v-sr.net/gpl/z050499/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,KIKA HD DE
+http://cdn-03.v-sr.net/gpl/z050498/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,MDR Fernsehen Sachsen-Anhalt DE
+http://cdn-03.v-sr.net/gpl/z050612/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Eins Plus DE
+http://cdn-03.v-sr.net/gpl/z050494/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,N24 HD
+http://cdn-03.v-sr.net/gpl/z050008/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Einsfestival DE
+http://cdn-03.v-sr.net/gpl/z050493/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,RBB Berlin DE
+http://cdn-03.v-sr.net/gpl/z050611/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,PHOENIX HD DE
+http://cdn-03.v-sr.net/gpl/z053087/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,EuroNews DE
+http://cdn-03.v-sr.net/gpl/z050504/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,arte
+http://cdn-03.v-sr.net/gpl/z050218/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Cinema HD
+http://cdn-03.v-sr.net/gpl/z050393/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Action HD
+http://cdn-03.v-sr.net/gpl/z050280/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky 007 James Bond HD
+http://cdn-03.v-sr.net/gpl/z050274/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Atlantic HD
+http://cdn-03.v-sr.net/gpl/z050285/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Cinema +24 DE
+http://cdn-03.v-sr.net/gpl/z053061/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,FOX DE
+http://cdn-03.v-sr.net/gpl/z050579/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,MGM DE
+http://cdn-03.v-sr.net/gpl/z050408/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,TNT Film DE
+http://cdn-03.v-sr.net/gpl/z050566/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,TNT Serie HD DE
+http://cdn-03.v-sr.net/gpl/z050407/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,13th Street DE
+http://cdn-03.v-sr.net/gpl/z050561/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,AXN DE
+http://cdn-03.v-sr.net/gpl/z050580/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Syfy DE
+http://cdn-03.v-sr.net/gpl/z050563/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Emotion DE
+http://cdn-03.v-sr.net/gpl/z053060/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Comedy DE
+http://cdn-03.v-sr.net/gpl/z053059/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,History HD DE
+http://cdn-03.v-sr.net/gpl/z050560/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,NatGeoWild HD iptv German m3u
+http://cdn-03.v-sr.net/gpl/z050287/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,National Geographic HD
+http://cdn-03.v-sr.net/gpl/z050288/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Discovery Channel Deutschland
+http://cdn-03.v-sr.net/gpl/z050596/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky 3D DE
+http://cdn-03.v-sr.net/gpl/z050569/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Nickelodeon/Comedy Central
+http://cdn-03.v-sr.net/gpl/z050475/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Disney Channel HD
+http://cdn-03.v-sr.net/gpl/z050592/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Disney Cinemagic HD DE
+http://cdn-03.v-sr.net/gpl/z050562/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Deluxe Music Austria DE
+http://cdn-03.v-sr.net/gpl/z050593/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky HD FanZone
+http://cdn-03.v-sr.net/gpl/z050685/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Nostalgie DE
+http://cdn-03.v-sr.net/gpl/z053063/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,EuroNews DE
+http://cdn-03.v-sr.net/gpl/z090504/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Krimi DE
+http://cdn-03.v-sr.net/gpl/z053075/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,RTL Crime DE
+http://cdn-03.v-sr.net/gpl/z053076/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,RTL Passion DE
+http://cdn-03.v-sr.net/gpl/z053077/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Sport Austria DE
+http://cdn-03.v-sr.net/gpl/z053078/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Motorvision TV DE
+http://cdn-03.v-sr.net/gpl/z053079/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,SAT.1 emotions DE
+http://cdn-03.v-sr.net/gpl/z053080/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Universal HD DE
+http://cdn-03.v-sr.net/gpl/z053081/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Pro7 FUN HD DE
+http://cdn-03.v-sr.net/gpl/z053082/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,E HD DE
+http://cdn-03.v-sr.net/gpl/z053084/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Disney_Junior_DE
+http://cdn-03.v-sr.net/gpl/z053191/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Junior_DE
+http://cdn-03.v-sr.net/gpl/z053190/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Disney_XD_DE
+http://cdn-03.v-sr.net/gpl/z053192/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Boomerang_DE
+http://cdn-03.v-sr.net/gpl/z053195/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Cartoon_Network_DE
+http://cdn-03.v-sr.net/gpl/z053194/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,TNT_Glitz_DE
+http://cdn-03.v-sr.net/gpl/z053196/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Jukebox_DE
+http://cdn-03.v-sr.net/gpl/z053086/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Bundesliga HD 1
+http://cdn-03.v-sr.net/gpl/z050333/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Bundesliga 2 iptv German m3u
+http://cdn-03.v-sr.net/gpl/z050570/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Bundesliga 3
+http://cdn-03.v-sr.net/gpl/z050571/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Bundesliga 4
+http://cdn-03.v-sr.net/gpl/z050572/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Bundesliga 5
+http://cdn-03.v-sr.net/gpl/z050573/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Bundesliga 6 iptv German m3u
+http://cdn-03.v-sr.net/gpl/z050574/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Bundesliga 7
+http://cdn-03.v-sr.net/gpl/z050575/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Bundesliga 8
+http://cdn-03.v-sr.net/gpl/z050576/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Bundesliga 9
+http://cdn-03.v-sr.net/gpl/z050577/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Bundesliga 10
+http://cdn-03.v-sr.net/gpl/z053058/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Sport HD 1
+http://cdn-03.v-sr.net/gpl/z050358/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Sport HD 2
+http://cdn-03.v-sr.net/gpl/z050286/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Sport 3 DE
+http://cdn-03.v-sr.net/gpl/z053050/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Sport 4 DE
+http://cdn-03.v-sr.net/gpl/z053051/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Sport 5 DE
+http://cdn-03.v-sr.net/gpl/z053052/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Sport 6 DE
+http://cdn-03.v-sr.net/gpl/z053053/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Sport 7 DE
+http://cdn-03.v-sr.net/gpl/z053054/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Sport 8 DE
+http://cdn-03.v-sr.net/gpl/z053055/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Sport 9 DE
+http://cdn-03.v-sr.net/gpl/z053056/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Sport 10 DE
+http://cdn-03.v-sr.net/gpl/z053057/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Sport 11 DE
+http://cdn-03.v-sr.net/gpl/z053049/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sky Sport News DE
+http://cdn-03.v-sr.net/gpl/z053062/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,SPORT1 HD DE iptv German m3u
+http://cdn-03.v-sr.net/gpl/z030103/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sport 1+ DE
+http://cdn-03.v-sr.net/gpl/z050578/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Sport 1 US
+http://cdn-03.v-sr.net/gpl/z050686/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,ORF Sport +DE
+http://cdn-03.v-sr.net/gpl/z053090/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:0,Eurosport DE
+http://cdn-03.v-sr.net/gpl/z050503/faridatv/d7fcde9c3f22e0aa6a3e27f403b8a10e9ea00cf6?t=2&d=2
+#EXTINF:-1,BNT 1
+http://145.255.200.18:4022/udp/239.1.1.1:5500
+#EXTINF:-1,NGCHANNEL
+http://145.255.200.18:4022/udp/239.1.1.2:5500
+#EXTINF:-1,DISCOVERY
+http://145.255.200.18:4022/udp/239.1.1.3:5500
+#EXTINF:-1,CI
+http://145.255.200.18:4022/udp/239.1.1.4:5500
+#EXTINF:-1,HISTORY iptv German m3u
+http://145.255.200.18:4022/udp/239.1.1.5:5500
+#EXTINF:-1,NATGEOWILD
+http://145.255.200.18:4022/udp/239.1.1.6:5500
+#EXTINF:-1,ANIMAL PLANET
+http://145.255.200.18:4022/udp/239.1.1.7:5500
+#EXTINF:-1,TRAVEL CHANNEL
+http://145.255.200.18:4022/udp/239.1.1.8:5500
+#EXTINF:-1,FINE LIVING
+http://145.255.200.18:4022/udp/239.1.1.9:5500
+#EXTINF:-1,BBC WORLD NEWS HD
+http://145.255.200.18:4022/udp/239.1.1.10:5500
+#EXTINF:-1,INSIGHT HD iptv German m3u
+http://145.255.200.18:4022/udp/239.1.1.11:5500
+#EXTINF:-1,NHKK WORLD JAPAN HD
+http://145.255.200.18:4022/udp/239.1.1.12:5500
+#EXTINF:-1,ZDE INFO HD
+http://145.255.200.18:4022/udp/239.1.1.13:5500
+#EXTINF:-1,3SAT HD
+http://145.255.200.18:4022/udp/239.1.1.14:5500
+#EXTINF:-1,KIKA HD
+http://145.255.200.18:4022/udp/239.1.1.15:5500
+#EXTINF:-1,Sky Comedy DE
+http://hd.guardatv.eu:8000/live/test/test/1279.ts
+#EXTINF:-1,Sky Cinema 24 DE
+http://hd.guardatv.eu:8000/live/test/test/1287.ts
+#EXTINF:-1,Sky Action DE
+http://hd.guardatv.eu:8000/live/test/test/1288.ts
+#EXTINF:-1,Sky Hits DE
+http://hd.guardatv.eu:8000/live/test/test/1278.ts
+#EXTINF:-1,Sky Sport 1 DE
+http://hd.guardatv.eu:8000/live/test/test/1286.ts
+#EXTINF:-1,Sky Germany Sport 1 HD
+http://hd.guardatv.eu:8000/live/test/test/1566.ts
+#EXTINF:-1,Sky Germany Sport 2 HD
+http://hd.guardatv.eu:8000/live/test/test/1565.ts
+#EXTINF:-1,Sky Germany Sport 3 HD
+http://hd.guardatv.eu:8000/live/test/test/1564.ts
+#EXTINF:-1,National Geographic Channel.
+http://hd.guardatv.eu:8000/live/test/test/1281.ts
+#EXTINF:-1,Arte HD.
+http://hd.guardatv.eu:8000/live/test/test/1280.ts
+#EXTINF:-1,ZDF HD
+http://hd.guardatv.eu:8000/live/test/test/1282.ts
