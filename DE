@@ -1,533 +1,303 @@
 #EXTM3U
-#EXTINF:-1,FR | BEIN SPORT 1 FR  HD
-http://s1.electru.biz:8080/live/christiana/christiana/112118.m3u8
-#EXTINF:-1,FR | BEIN SPORT 2 FR  HD
-http://s1.electru.biz:8080/live/christiana/christiana/112117.m3u8
-#EXTINF:-1,FR | BEIN SPORT 3 FR  HD
-http://s1.electru.biz:8080/live/christiana/christiana/112116.m3u8
-#EXTINF:-1,FR | BEIN SPORT MAX FR 10 HD
-http://s1.electru.biz:8080/live/christiana/christiana/112109.m3u8
-#EXTINF:-1,FR |  BEIN SPORT MAX FR 5  HD
-http://s1.electru.biz:8080/live/christiana/christiana/112114.m3u8
-#EXTINF:-1,FR | BEIN SPORT MAX FR 6  HD
-http://s1.electru.biz:8080/live/christiana/christiana/112113.m3u8
-#EXTINF:-1,FR | BEIN SPORT MAX FR 7  HD
-http://s1.electru.biz:8080/live/christiana/christiana/112112.m3u8
-#EXTINF:-1,FR | BEIN SPORT MAX FR 8  HD
-http://s1.electru.biz:8080/live/christiana/christiana/112111.m3u8
-#EXTINF:-1,FR | BEIN SPORT MAX FR 9 HD
-http://s1.electru.biz:8080/live/christiana/christiana/112110.m3u8
-#EXTINF:-1,FR | BFM SPORT  HD
-http://s1.electru.biz:8080/live/christiana/christiana/112124.m3u8
-#EXTINF:-1,FR | CANAL SPORT HD
-http://s1.electru.biz:8080/live/christiana/christiana/112120.m3u8
-#EXTINF:-1,FR | CANAL SPORT SD
-http://s1.electru.biz:8080/live/christiana/christiana/112029.m3u8
-#EXTINF:-1,FR | EQUIDIA  HD
-http://s1.electru.biz:8080/live/christiana/christiana/112092.m3u8
-#EXTINF:-1,FR | EQUIDIA LIVE  SD
-http://s1.electru.biz:8080/live/christiana/christiana/112005.m3u8
-#EXTINF:-1,FR | EQUIPE  HD
-http://s1.electru.biz:8080/live/christiana/christiana/112101.m3u8
-#EXTINF:-1,FR | EQUIPE21 SD
-http://s1.electru.biz:8080/live/christiana/christiana/112004.m3u8
-#EXTINF:-1,FR | EURONEWS HD
-http://s1.electru.biz:8080/live/christiana/christiana/112108.m3u8
-#EXTINF:-1,FR | EUROSPORT 1  SD
-http://s1.electru.biz:8080/live/christiana/christiana/112003.m3u8
-#EXTINF:-1,FR | EUROSPORT 2 SD
-http://s1.electru.biz:8080/live/christiana/christiana/112002.m3u8
-#EXTINF:-1,FR | EUROSPORT FR 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/112107.m3u8
-#EXTINF:-1,FR | EUROSPORTFR 2 HD
-http://s1.electru.biz:8080/live/christiana/christiana/112106.m3u8
-#EXTINF:-1,FR | FOOT  HD
-http://s1.electru.biz:8080/live/christiana/christiana/112094.m3u8
-#EXTINF:-1,FR | INFOSPORT HD
-http://s1.electru.biz:8080/live/christiana/christiana/112099.m3u8
-#EXTINF:-1,FR | RMC SPORT 1 SD
-http://s1.electru.biz:8080/live/christiana/christiana/111966.m3u8
-#EXTINF:-1,FR | RMC SPORT 2  SD
-http://s1.electru.biz:8080/live/christiana/christiana/111965.m3u8
-#EXTINF:-1,FR | RMC SPORT 3 SD
-http://s1.electru.biz:8080/live/christiana/christiana/111964.m3u8
-#EXTINF:-1,FR | RMC SPORT 4 SD
-http://s1.electru.biz:8080/live/christiana/christiana/111963.m3u8
-#EXTINF:-1,FR | RMC SPORT NEWS  SD
-http://s1.electru.biz:8080/live/christiana/christiana/111962.m3u8
-#EXTINF:-1,FR | SFR SPORT1  HD
-http://s1.electru.biz:8080/live/christiana/christiana/112105.m3u8
-#EXTINF:-1,FR | SFR SPORT 2 HD
-http://s1.electru.biz:8080/live/christiana/christiana/112104.m3u8
-#EXTINF:-1,FR | SFR SPORT 3 HD
-http://s1.electru.biz:8080/live/christiana/christiana/112103.m3u8
-#EXTINF:-1,FR | SFR SPORT 5 HD
-http://s1.electru.biz:8080/live/christiana/christiana/112102.m3u8
-#EXTINF:-1,AR-S |  BEIN SPORT 1HD
-http://s1.electru.biz:8080/live/christiana/christiana/106188.m3u8
-#EXTINF:-1,AR-S |  BEIN SPORT 2HD
-http://s1.electru.biz:8080/live/christiana/christiana/106187.m3u8
-#EXTINF:-1,AR-S |  BEIN SPORT 3HD
-http://s1.electru.biz:8080/live/christiana/christiana/106186.m3u8
-#EXTINF:-1,AR-S |  BEIN SPORT 4HD
-http://s1.electru.biz:8080/live/christiana/christiana/106185.m3u8
-#EXTINF:-1,AR-S |  BEIN SPORT 5HD
-http://s1.electru.biz:8080/live/christiana/christiana/106184.m3u8
-#EXTINF:-1,AR-S |  BEIN SPORT 6HD
-http://s1.electru.biz:8080/live/christiana/christiana/106183.m3u8
-#EXTINF:-1,AR-S |  BEIN SPORT 7HD
-http://s1.electru.biz:8080/live/christiana/christiana/106182.m3u8
-#EXTINF:-1,AR-S |  BEIN SPORT 8HD
-http://s1.electru.biz:8080/live/christiana/christiana/106181.m3u8
-#EXTINF:-1,AR-S |  BEIN SPORT 9HD
-http://s1.electru.biz:8080/live/christiana/christiana/106180.m3u8
-#EXTINF:-1,AR-S |  BEIN SPORT 10HD
-http://s1.electru.biz:8080/live/christiana/christiana/106179.m3u8
-#EXTINF:-1,AR-S |  BEIN SPORT 11HD
-http://s1.electru.biz:8080/live/christiana/christiana/106178.m3u8
-#EXTINF:-1,AR-S |  BEIN SPORT 12HD
-http://s1.electru.biz:8080/live/christiana/christiana/106177.m3u8
-#EXTINF:-1,IT-S | DAZN 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/102757.m3u8
-#EXTINF:-1,IT-S | DAZN 2 HD
-http://s1.electru.biz:8080/live/christiana/christiana/102756.m3u8
-#EXTINF:-1,IT-S | DAZN 3 HD
-http://s1.electru.biz:8080/live/christiana/christiana/102755.m3u8
-#EXTINF:-1,IT-S | DAZN 4 HD
-http://s1.electru.biz:8080/live/christiana/christiana/102754.m3u8
-#EXTINF:-1,IT-S | DAZN 5 HD
-http://s1.electru.biz:8080/live/christiana/christiana/102753.m3u8
-#EXTINF:-1,IT-S | DAZN 6 HD
-http://s1.electru.biz:8080/live/christiana/christiana/102752.m3u8
-#EXTINF:-1,IT-S | DAZN 7 HD
-http://s1.electru.biz:8080/live/christiana/christiana/102751.m3u8
-#EXTINF:-1,IT-S | DAZN 8 HD
-http://s1.electru.biz:8080/live/christiana/christiana/102750.m3u8
-#EXTINF:-1,IT-S | DAZN 9 HD
-http://s1.electru.biz:8080/live/christiana/christiana/102749.m3u8
-#EXTINF:-1,IT-S | DAZN 10 HD
-http://s1.electru.biz:8080/live/christiana/christiana/102748.m3u8
-#EXTINF:-1,IT-S | DAZN 11
-http://s1.electru.biz:8080/live/christiana/christiana/102747.m3u8
-#EXTINF:-1,IT-S | DAZN SPORT  12
-http://s1.electru.biz:8080/live/christiana/christiana/102746.m3u8
-#EXTINF:-1,IT-S | DAZN SPORT13 HD
-http://s1.electru.biz:8080/live/christiana/christiana/102745.m3u8
-#EXTINF:-1,IT-S | DAZN SPORT A 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/102759.m3u8
-#EXTINF:-1,IT-S | DAZN SPORT A 2 HD
-http://s1.electru.biz:8080/live/christiana/christiana/102758.m3u8
-#EXTINF:-1,PT-S | ELEVEN SPORTS 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/100700.m3u8
-#EXTINF:-1,PT-S | ELEVEN SPORTS 2 HD
-http://s1.electru.biz:8080/live/christiana/christiana/100699.m3u8
-#EXTINF:-1,PT-S | ELEVEN SPORTS 3
-http://s1.electru.biz:8080/live/christiana/christiana/100698.m3u8
-#EXTINF:-1,PT-S | ELEVEN SPORTS 4
-http://s1.electru.biz:8080/live/christiana/christiana/100697.m3u8
-#EXTINF:-1,PT | EURONEWS
-http://s1.electru.biz:8080/live/christiana/christiana/100701.m3u8
-#EXTINF:-1,PT-S | EUROSPORT 1
-http://s1.electru.biz:8080/live/christiana/christiana/100696.m3u8
-#EXTINF:-1,PT-S | EUROSPORT 2
-http://s1.electru.biz:8080/live/christiana/christiana/100695.m3u8
-#EXTINF:-1,PT-S | SPORT TV
-http://s1.electru.biz:8080/live/christiana/christiana/100674.m3u8
-#EXTINF:-1,PT-S | SPORT TV 1
-http://s1.electru.biz:8080/live/christiana/christiana/100673.m3u8
-#EXTINF:-1,PT-S | SPORT TV 2
-http://s1.electru.biz:8080/live/christiana/christiana/100672.m3u8
-#EXTINF:-1,PT-S | SPORT TV 3
-http://s1.electru.biz:8080/live/christiana/christiana/100671.m3u8
-#EXTINF:-1,PT-S | SPORT TV 4
-http://s1.electru.biz:8080/live/christiana/christiana/100670.m3u8
-#EXTINF:-1,PT-S | SPORT TV 5
-http://s1.electru.biz:8080/live/christiana/christiana/100669.m3u8
-#EXTINF:-1,PT-S | SPORTING TV
-http://s1.electru.biz:8080/live/christiana/christiana/100668.m3u8
-#EXTINF:-1,ES | EUROSPORTS 2
-http://s1.electru.biz:8080/live/christiana/christiana/100759.m3u8
-#EXTINF:-1,ES | FORMULA 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/100765.m3u8
-#EXTINF:-1,DP | FOX SPORTS 2 SUR*
-http://s1.electru.biz:8080/live/christiana/christiana/35777.m3u8
-#EXTINF:-1,DP | FOX SPORTS PREMIUM HD
-http://s1.electru.biz:8080/live/christiana/christiana/60575.m3u8
-#EXTINF:-1,DP | FOX SPORTS SUR 2 (op2)
-http://s1.electru.biz:8080/live/christiana/christiana/60398.m3u8
-#EXTINF:-1,DP | FOX SPORTS SUR..
-http://s1.electru.biz:8080/live/christiana/christiana/60399.m3u8
-#EXTINF:-1,DP | ESPN 1
-http://s1.electru.biz:8080/live/christiana/christiana/32364.m3u8
-#EXTINF:-1,DP | ESPN 1 (OPT2)
-http://s1.electru.biz:8080/live/christiana/christiana/32363.m3u8
-#EXTINF:-1,DP | ESPN 2**
-http://s1.electru.biz:8080/live/christiana/christiana/68924.m3u8
-#EXTINF:-1,DP | ESPN 3
-http://s1.electru.biz:8080/live/christiana/christiana/32362.m3u8
-#EXTINF:-1,LAT | FOX
-http://s1.electru.biz:8080/live/christiana/christiana/64441.m3u8
-#EXTINF:-1,LAT | FOX LIFE
-http://s1.electru.biz:8080/live/christiana/christiana/35161.m3u8
-#EXTINF:-1,DP | FOX SPORTS 1
-http://s1.electru.biz:8080/live/christiana/christiana/32360.m3u8
-#EXTINF:-1,DP | FOX SPORTS 2
-http://s1.electru.biz:8080/live/christiana/christiana/32361.m3u8
-#EXTINF:-1,DP | FOX SPORTS 2**
-http://s1.electru.biz:8080/live/christiana/christiana/68922.m3u8
-#EXTINF:-1,SP | FIGHT NETWORK
-http://s1.electru.biz:8080/live/christiana/christiana/94577.m3u8
-#EXTINF:-1,UK | SKY SPORTS ACTION
-http://s1.electru.biz:8080/live/christiana/christiana/85645.m3u8
-#EXTINF:-1,UK | SKY SPORTS ARENA
-http://s1.electru.biz:8080/live/christiana/christiana/85644.m3u8
-#EXTINF:-1,UK |  SKY SPORTS BOX OFFICE PPV (Live During Events Only)
-http://s1.electru.biz:8080/live/christiana/christiana/85643.m3u8
-#EXTINF:-1,UK | SKY SPORTS CRICKET
-http://s1.electru.biz:8080/live/christiana/christiana/85642.m3u8
-#EXTINF:-1,UK |  SKY SPORTS F1
-http://s1.electru.biz:8080/live/christiana/christiana/85641.m3u8
-#EXTINF:-1,UK | SKY SPORTS FOOTBALL
-http://s1.electru.biz:8080/live/christiana/christiana/85640.m3u8
-#EXTINF:-1,UK | SKY SPORTS GOLF
-http://s1.electru.biz:8080/live/christiana/christiana/85639.m3u8
-#EXTINF:-1,UK |  SKY SPORTS MAIN EVENT
-http://s1.electru.biz:8080/live/christiana/christiana/85638.m3u8
-#EXTINF:-1,UK | SKY SPORTS MIX
-http://s1.electru.biz:8080/live/christiana/christiana/85637.m3u8
-#EXTINF:-1,UK | SKY SPORTS NEWS
-http://s1.electru.biz:8080/live/christiana/christiana/85636.m3u8
-#EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE
-http://s1.electru.biz:8080/live/christiana/christiana/85635.m3u8
-#EXTINF:-1,UK-S |   BT SPORTS 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/106175.m3u8
-#EXTINF:-1,UK-S |   BT SPORTS 2 HD
-http://s1.electru.biz:8080/live/christiana/christiana/106174.m3u8
-#EXTINF:-1,UK-S |   BT SPORTS 3 HD
-http://s1.electru.biz:8080/live/christiana/christiana/106173.m3u8
-#EXTINF:-1,UK-S | 11 SPORTS 1
-http://s1.electru.biz:8080/live/christiana/christiana/85750.m3u8
-#EXTINF:-1,UK-S | 11 SPORTS 2
-http://s1.electru.biz:8080/live/christiana/christiana/85751.m3u8
-#EXTINF:-1,UK-S | TELECOME ESPN
-http://s1.electru.biz:8080/live/christiana/christiana/85628.m3u8
-#EXTINF:-1,UK-S | TELECOME SPORTS 2
-http://s1.electru.biz:8080/live/christiana/christiana/85627.m3u8
-#EXTINF:-1,UK-S | TELECOME SPORTS 3
-http://s1.electru.biz:8080/live/christiana/christiana/85626.m3u8
-#EXTINF:-1,DP | DIRECT TV SPORTS +
-http://s1.electru.biz:8080/live/christiana/christiana/66086.m3u8
-#EXTINF:-1,DP | DIRECT TV SPORTS 2
-http://s1.electru.biz:8080/live/christiana/christiana/60772.m3u8
-#EXTINF:-1,CRICKET | STAR SPORTS 1 ENGLISH HD*
-http://s1.electru.biz:8080/live/christiana/christiana/93114.m3u8
-#EXTINF:-1,CRICKET | STAR SPORTS 1 HINDI HD*
-http://s1.electru.biz:8080/live/christiana/christiana/93116.m3u8
-#EXTINF:-1,CRICKET | STAR SPORTS 2 HD*
-http://s1.electru.biz:8080/live/christiana/christiana/93113.m3u8
-#EXTINF:-1,CRICKET | STAR SPORTS 3*
-http://s1.electru.biz:8080/live/christiana/christiana/93118.m3u8
-#EXTINF:-1,CRICKET | STAR SPORTS FIRST*
-http://s1.electru.biz:8080/live/christiana/christiana/93117.m3u8
-#EXTINF:-1,CRICKET | STAR SPORTS SELECT 1 HD*
-http://s1.electru.biz:8080/live/christiana/christiana/93112.m3u8
-#EXTINF:-1,CRICKET | STAR SPORTS SELECT 2 HD*
-http://s1.electru.biz:8080/live/christiana/christiana/93121.m3u8
-#EXTINF:-1,CRICKET | STAR SPORTS TAMIL *
-http://s1.electru.biz:8080/live/christiana/christiana/93111.m3u8
-#EXTINF:-1,CRICKET | TEN 1 HD*
-http://s1.electru.biz:8080/live/christiana/christiana/93110.m3u8
-#EXTINF:-1,CRICKET | TEN 2 HD*
-http://s1.electru.biz:8080/live/christiana/christiana/93109.m3u8
-#EXTINF:-1,CRICKET | TEN 3 HD*
-http://s1.electru.biz:8080/live/christiana/christiana/93108.m3u8
-#EXTINF:-1,CRICKET | TRUE SPORTS*
-http://s1.electru.biz:8080/live/christiana/christiana/93120.m3u8
-#EXTINF:-1,SPORTS | D SPORTS HD*
-http://s1.electru.biz:8080/live/christiana/christiana/92836.m3u8
-#EXTINF:-1,SPORTS | SONY ESPN HD*
-http://s1.electru.biz:8080/live/christiana/christiana/92847.m3u8
-#EXTINF:-1,SPORTS | SONY SIX HD*
-http://s1.electru.biz:8080/live/christiana/christiana/92838.m3u8
-#EXTINF:-1,SPORTS | STAR SPORTS 1 ENGLISH HD*
-http://s1.electru.biz:8080/live/christiana/christiana/92846.m3u8
-#EXTINF:-1,SPORTS | STAR SPORTS 1 HINDI HD*
-http://s1.electru.biz:8080/live/christiana/christiana/92839.m3u8
-#EXTINF:-1,SPORTS | STAR SPORTS 2 HD*
-http://s1.electru.biz:8080/live/christiana/christiana/92845.m3u8
-#EXTINF:-1,SPORTS | STAR SPORTS 3*
-http://s1.electru.biz:8080/live/christiana/christiana/92835.m3u8
-#EXTINF:-1,SPORTS | STAR SPORTS FIRST*
-http://s1.electru.biz:8080/live/christiana/christiana/92834.m3u8
-#EXTINF:-1,SPORTS | STAR SPORTS SELECT 1 HD*
-http://s1.electru.biz:8080/live/christiana/christiana/92844.m3u8
-#EXTINF:-1,SPORTS | STAR SPORTS SELECT 2 HD*
-http://s1.electru.biz:8080/live/christiana/christiana/92837.m3u8
-#EXTINF:-1,SPORTS | STAR SPORTS TAMIL *
-http://s1.electru.biz:8080/live/christiana/christiana/92843.m3u8
-#EXTINF:-1,SPORTS | TEN 1 HD*
-http://s1.electru.biz:8080/live/christiana/christiana/92842.m3u8
-#EXTINF:-1,SPORTS | TEN 2 HD*
-http://s1.electru.biz:8080/live/christiana/christiana/92841.m3u8
-#EXTINF:-1,SPORTS | TEN 3 HD*
-http://s1.electru.biz:8080/live/christiana/christiana/92840.m3u8
-#EXTINF:-1,IT | EUROSPORT 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/102668.m3u8
-#EXTINF:-1,IT | EUROSPORT 2 HD
-http://s1.electru.biz:8080/live/christiana/christiana/102667.m3u8
-#EXTINF:-1,IT | RAI SPORT   HD
-http://s1.electru.biz:8080/live/christiana/christiana/102666.m3u8
-#EXTINF:-1,IT | SKY SPORT 24 HD
-http://s1.electru.biz:8080/live/christiana/christiana/102673.m3u8
-#EXTINF:-1,AR | V3: Dubai Sport 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/111045.m3u8
-#EXTINF:-1,AR | V3: Dubai Sport 2 HD
-http://s1.electru.biz:8080/live/christiana/christiana/111044.m3u8
-#EXTINF:-1,TR | SMART SPORT 1
-http://s1.electru.biz:8080/live/christiana/christiana/111401.m3u8
-#EXTINF:-1,TR | SMART SPOR 2
-http://s1.electru.biz:8080/live/christiana/christiana/111400.m3u8
-#EXTINF:-1,TR | SPORTS  TR TV
-http://s1.electru.biz:8080/live/christiana/christiana/111393.m3u8
-#EXTINF:-1,TR | TIVIBU SPORT 1
-http://s1.electru.biz:8080/live/christiana/christiana/111390.m3u8
-#EXTINF:-1,TR | TIVIBU SPORT 2
-http://s1.electru.biz:8080/live/christiana/christiana/111388.m3u8
-#EXTINF:-1,TR | TIVIBU SPORT 3
-http://s1.electru.biz:8080/live/christiana/christiana/111385.m3u8
-#EXTINF:-1,TR | TIVIBU SPORT 4
-http://s1.electru.biz:8080/live/christiana/christiana/111382.m3u8
-#EXTINF:-1,TR | TIVIBUSPOR  1
-http://s1.electru.biz:8080/live/christiana/christiana/111389.m3u8
-#EXTINF:-1,TR | TIVIBUSPOR 2
-http://s1.electru.biz:8080/live/christiana/christiana/111386.m3u8
-#EXTINF:-1,TR | TR SPORTS TV
-http://s1.electru.biz:8080/live/christiana/christiana/111394.m3u8
-#EXTINF:-1,TR | TRT SPORT  HD
-http://s1.electru.biz:8080/live/christiana/christiana/111392.m3u8
-#EXTINF:-1,NL | FOX SPORTS 1
-http://s1.electru.biz:8080/live/christiana/christiana/111714.m3u8
-#EXTINF:-1,NL | FOX SPORTS 2
-http://s1.electru.biz:8080/live/christiana/christiana/111713.m3u8
-#EXTINF:-1,NL | FOX SPORTS 3
-http://s1.electru.biz:8080/live/christiana/christiana/111712.m3u8
-#EXTINF:-1,NL | FOX SPORTS 4
-http://s1.electru.biz:8080/live/christiana/christiana/111711.m3u8
-#EXTINF:-1,NL | FOX SPORTS 5
-http://s1.electru.biz:8080/live/christiana/christiana/111710.m3u8
-#EXTINF:-1,NL | FOX SPORTS 6 HD
-http://s1.electru.biz:8080/live/christiana/christiana/111709.m3u8
-#EXTINF:-1,AR-S | BEIN SPORT GLOBAL
-http://s1.electru.biz:8080/live/christiana/christiana/111921.m3u8
-#EXTINF:-1,AR-S | BEIN SPORTS NEWS
-http://s1.electru.biz:8080/live/christiana/christiana/111922.m3u8
-#EXTINF:-1,BRA | FOX SPORTS
-http://s1.electru.biz:8080/live/christiana/christiana/114264.m3u8
-#EXTINF:-1,BRA | FOX SPORTS Êœá´…
-http://s1.electru.biz:8080/live/christiana/christiana/114261.m3u8
-#EXTINF:-1,BRA | SPORTV  2
-http://s1.electru.biz:8080/live/christiana/christiana/114170.m3u8
-#EXTINF:-1,BRA | SPORTV 2  Êœá´…
-http://s1.electru.biz:8080/live/christiana/christiana/114169.m3u8
-#EXTINF:-1,PL | POLSAT SPORT HD
-http://s1.electru.biz:8080/live/christiana/christiana/114536.m3u8
-#EXTINF:-1,PL | POLSAT SPORT EXTRA HD
-http://s1.electru.biz:8080/live/christiana/christiana/114535.m3u8
-#EXTINF:-1,PL | CANAL  SPORT HD
-http://s1.electru.biz:8080/live/christiana/christiana/114531.m3u8
-#EXTINF:-1,PL | CANAL  SPORT 2 HD
-http://s1.electru.biz:8080/live/christiana/christiana/114530.m3u8
-#EXTINF:-1,PL | ELEVEN SPORTS 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/114522.m3u8
-#EXTINF:-1,PL | ELEVEN SPORTS 2 HD
-http://s1.electru.biz:8080/live/christiana/christiana/114521.m3u8
-#EXTINF:-1,PL | ELEVEN SPORTS 3 HD
-http://s1.electru.biz:8080/live/christiana/christiana/114520.m3u8
-#EXTINF:-1,PL | ELEVEN SPORTS 4 HD
-http://s1.electru.biz:8080/live/christiana/christiana/114519.m3u8
-#EXTINF:-1,PL | POLSAT SPORT PREMIUM 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/114518.m3u8
-#EXTINF:-1,PL | POLSAT SPORT PREMIUM 2 HD
-http://s1.electru.biz:8080/live/christiana/christiana/114517.m3u8
-#EXTINF:-1,RO | Digi Sport 1
-http://s1.electru.biz:8080/live/christiana/christiana/84710.m3u8
-#EXTINF:-1,RO | Digi Sport 2
-http://s1.electru.biz:8080/live/christiana/christiana/84709.m3u8
-#EXTINF:-1,RO | Digi Sport 3
-http://s1.electru.biz:8080/live/christiana/christiana/84708.m3u8
-#EXTINF:-1,RO | Digi Sport 4
-http://s1.electru.biz:8080/live/christiana/christiana/84707.m3u8
-#EXTINF:-1,RUS: BOXE TB
-http://s1.electru.biz:8080/live/christiana/christiana/26584.m3u8
-#EXTINF:-1,RUS: MATCH APEHA HD
-http://s1.electru.biz:8080/live/christiana/christiana/26592.m3u8
-#EXTINF:-1,RUS: MATCH FUTBOL 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/26595.m3u8
-#EXTINF:-1,RUS: MATCH FUTBOL 2 HD
-http://s1.electru.biz:8080/live/christiana/christiana/26594.m3u8
-#EXTINF:-1,RUS: MATCH FUTBOL 3 HD
-http://s1.electru.biz:8080/live/christiana/christiana/26593.m3u8
-#EXTINF:-1,RUS: MATCH GAME
-http://s1.electru.biz:8080/live/christiana/christiana/26571.m3u8
-#EXTINF:-1,RUS: MATCH OUR SPORTS
-http://s1.electru.biz:8080/live/christiana/christiana/26585.m3u8
-#EXTINF:-1,RUS: MATCH PLANET
-http://s1.electru.biz:8080/live/christiana/christiana/26586.m3u8
-#EXTINF:-1,RUS: MATCH SPORTS
-http://s1.electru.biz:8080/live/christiana/christiana/26596.m3u8
-#EXTINF:-1,RUS: MATCH TV
-http://s1.electru.biz:8080/live/christiana/christiana/26597.m3u8
-#EXTINF:-1,RUS: RUSSIA 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/26575.m3u8
-#EXTINF:-1,RUS: RUSSIA LEAGUE HD
-http://s1.electru.biz:8080/live/christiana/christiana/26591.m3u8
-#EXTINF:-1,RUS: VIASAT SPORT EAST
-http://s1.electru.biz:8080/live/christiana/christiana/26583.m3u8
-#EXTINF:-1,RUS: XTREAM SPORTS
-http://s1.electru.biz:8080/live/christiana/christiana/26582.m3u8
-#EXTINF:-1,CA-S | BEIN SPORTS (CAN)
-http://s1.electru.biz:8080/live/christiana/christiana/13890.m3u8
-#EXTINF:-1,CA-S | BT SPORTS 3 (OPT 2)
-http://s1.electru.biz:8080/live/christiana/christiana/61739.m3u8
-#EXTINF:-1,CA-S | BT SPORTS ESPN
-http://s1.electru.biz:8080/live/christiana/christiana/61740.m3u8
-#EXTINF:-1,SP-S | GOLF
-http://s1.electru.biz:8080/live/christiana/christiana/97636.m3u8
-#EXTINF:-1,CA-S | LEAFS TV HD
-http://s1.electru.biz:8080/live/christiana/christiana/20717.m3u8
-#EXTINF:-1,CA-S | NBA TV HD
-http://s1.electru.biz:8080/live/christiana/christiana/36568.m3u8
-#EXTINF:-1,CA-S | WWE HD
-http://s1.electru.biz:8080/live/christiana/christiana/100657.m3u8
-#EXTINF:-1,CA-S | SPORTSNET 360.
-http://s1.electru.biz:8080/live/christiana/christiana/14215.m3u8
-#EXTINF:-1,CA-S | SPORTSNET EAST
-http://s1.electru.biz:8080/live/christiana/christiana/102282.m3u8
-#EXTINF:-1,CA-S | SPORTSNET ONE
-http://s1.electru.biz:8080/live/christiana/christiana/20721.m3u8
-#EXTINF:-1,CA-S | SPORTSNET ONE HD
-http://s1.electru.biz:8080/live/christiana/christiana/94241.m3u8
-#EXTINF:-1,CA-S | SPORTSNET ONTARIO
-http://s1.electru.biz:8080/live/christiana/christiana/102280.m3u8
-#EXTINF:-1,CA-S | SPORTSNET ONTARIO sd
-http://s1.electru.biz:8080/live/christiana/christiana/115125.m3u8
-#EXTINF:-1,CA-S | SPORTSNETWORLD
-http://s1.electru.biz:8080/live/christiana/christiana/102778.m3u8
-#EXTINF:-1,CA-S | SPORTSNET PACIFIC
-http://s1.electru.biz:8080/live/christiana/christiana/21526.m3u8
-#EXTINF:-1,CA-S | SPORTSNET WEST
-http://s1.electru.biz:8080/live/christiana/christiana/102281.m3u8
-#EXTINF:-1,CA-S | TENNIS HD
-http://s1.electru.biz:8080/live/christiana/christiana/27825.m3u8
-#EXTINF:-1,CA-S | TSN 1
-http://s1.electru.biz:8080/live/christiana/christiana/31526.m3u8
-#EXTINF:-1,CA-S | TSN 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/94238.m3u8
-#EXTINF:-1,CA-S | TSN 2
-http://s1.electru.biz:8080/live/christiana/christiana/22576.m3u8
-#EXTINF:-1,CA-S | TSN 2 HD
-http://s1.electru.biz:8080/live/christiana/christiana/94237.m3u8
-#EXTINF:-1,CA-S | TSN 3
-http://s1.electru.biz:8080/live/christiana/christiana/35127.m3u8
-#EXTINF:-1,CA-S | TSN 3 HD
-http://s1.electru.biz:8080/live/christiana/christiana/94236.m3u8
-#EXTINF:-1,CA-S | TSN 4 HD
-http://s1.electru.biz:8080/live/christiana/christiana/13888.m3u8
-#EXTINF:-1,CA-S | TSN 4 HD*
-http://s1.electru.biz:8080/live/christiana/christiana/94235.m3u8
-#EXTINF:-1,CA-S | TSN 5 HD
-http://s1.electru.biz:8080/live/christiana/christiana/13889.m3u8
-#EXTINF:-1,CA-S | TSN 5 HD*
-http://s1.electru.biz:8080/live/christiana/christiana/94234.m3u8
-#EXTINF:-1,DP | BEIN SPORTS N ( BACKUP )
-http://s1.electru.biz:8080/live/christiana/christiana/90279.m3u8
-#EXTINF:-1,DP | BEIN SPORTS N.
-http://s1.electru.biz:8080/live/christiana/christiana/81404.m3u8
-#EXTINF:-1,DP | BEIN SPORTS SPAIN.
-http://s1.electru.biz:8080/live/christiana/christiana/81405.m3u8
-#EXTINF:-1,DP | GOL ESPANA
-http://s1.electru.biz:8080/live/christiana/christiana/32295.m3u8
-#EXTINF:-1,DP | GOL PERU
-http://s1.electru.biz:8080/live/christiana/christiana/53619.m3u8
-#EXTINF:-1,DP | GOL TV.
-http://s1.electru.biz:8080/live/christiana/christiana/70146.m3u8
-#EXTINF:-1,DP | GOL TV ESP
-http://s1.electru.biz:8080/live/christiana/christiana/61977.m3u8
-#EXTINF:-1,DP | FOX DEPORTES
-http://s1.electru.biz:8080/live/christiana/christiana/42210.m3u8
-#EXTINF:-1,DP | TYC SPORTS INT...
-http://s1.electru.biz:8080/live/christiana/christiana/35221.m3u8
-#EXTINF:-1,DP | UFC NETWORK
-http://s1.electru.biz:8080/live/christiana/christiana/35179.m3u8
-#EXTINF:-1,GERM | SKY SPORT 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/30065.m3u8
-#EXTINF:-1,GERM | SKY SPORT NEWS.
-http://s1.electru.biz:8080/live/christiana/christiana/30075.m3u8
-#EXTINF:-1,GERM | SKYBUNDESLIGA 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/30035.m3u8
-#EXTINF:-1,UKR: FUTBOL 1HD
-http://s1.electru.biz:8080/live/christiana/christiana/29621.m3u8
-#EXTINF:-1,UKR: FUTBOL 2HD
-http://s1.electru.biz:8080/live/christiana/christiana/26589.m3u8
-#EXTINF:-1,UKR: SPORT 1
-http://s1.electru.biz:8080/live/christiana/christiana/26588.m3u8
-#EXTINF:-1,UKR: SPORT 2
-http://s1.electru.biz:8080/live/christiana/christiana/26587.m3u8
-#EXTINF:-1,US-S | CBS SPORTS NETWORK
-http://s1.electru.biz:8080/live/christiana/christiana/85620.m3u8
-#EXTINF:-1,US-S |  ELEVEN SPORTS 1
-http://s1.electru.biz:8080/live/christiana/christiana/85616.m3u8
-#EXTINF:-1,US-S | ESPN
-http://s1.electru.biz:8080/live/christiana/christiana/85619.m3u8
-#EXTINF:-1,US-S | ESPN 2
-http://s1.electru.biz:8080/live/christiana/christiana/85618.m3u8
-#EXTINF:-1,US-S | ESPN 3
-http://s1.electru.biz:8080/live/christiana/christiana/68923.m3u8
-#EXTINF:-1,US-S | ESPN NEWS
-http://s1.electru.biz:8080/live/christiana/christiana/85617.m3u8
-#EXTINF:-1,US-S |  FOX SOCCER PLUS
-http://s1.electru.biz:8080/live/christiana/christiana/85614.m3u8
-#EXTINF:-1,US-S | FOX SPORTS 1
-http://s1.electru.biz:8080/live/christiana/christiana/85613.m3u8
-#EXTINF:-1,US-S | FOX SPORTS ARIZONA
-http://s1.electru.biz:8080/live/christiana/christiana/85611.m3u8
-#EXTINF:-1,US-S | FOX SPORTS DETROIT
-http://s1.electru.biz:8080/live/christiana/christiana/85610.m3u8
-#EXTINF:-1,US-S | FOX SPORTS FLORIDA
-http://s1.electru.biz:8080/live/christiana/christiana/85609.m3u8
-#EXTINF:-1,US-S | FOX SPORTS MIDWEST
-http://s1.electru.biz:8080/live/christiana/christiana/85608.m3u8
-#EXTINF:-1,US-S | FOX SPORTS NORTH
-http://s1.electru.biz:8080/live/christiana/christiana/85607.m3u8
-#EXTINF:-1,US-S | FOX SPORTS OHIO
-http://s1.electru.biz:8080/live/christiana/christiana/85606.m3u8
-#EXTINF:-1,US-S | FOX SPORTS PRIME TICKET
-http://s1.electru.biz:8080/live/christiana/christiana/85605.m3u8
-#EXTINF:-1,US-S | FOX SPORTS SAN DIEGO
-http://s1.electru.biz:8080/live/christiana/christiana/85604.m3u8
-#EXTINF:-1,US-S | FOX SPORTS SOUTH
-http://s1.electru.biz:8080/live/christiana/christiana/85603.m3u8
-#EXTINF:-1,US-S | FOX SPORTS SOUTH EAST
-http://s1.electru.biz:8080/live/christiana/christiana/85615.m3u8
-#EXTINF:-1,US-S | FOX SPORTS SOUTHWEST
-http://s1.electru.biz:8080/live/christiana/christiana/85602.m3u8
-#EXTINF:-1,US-S | FOX SPORTS SUN
-http://s1.electru.biz:8080/live/christiana/christiana/85601.m3u8
-#EXTINF:-1,US-S | FOX SPORTS WEST
-http://s1.electru.biz:8080/live/christiana/christiana/85600.m3u8
-#EXTINF:-1,US-S | FOX SPORTS WISCONSIN
-http://s1.electru.biz:8080/live/christiana/christiana/85599.m3u8
-#EXTINF:-1,US-S | GOLF CHANNEL
-http://s1.electru.biz:8080/live/christiana/christiana/85598.m3u8
-#EXTINF:-1,US-S | SPORTSMAN CHANNEL
-http://s1.electru.biz:8080/live/christiana/christiana/85573.m3u8
-#EXTINF:-1,US-S | TENNIS CHANNEL
-http://s1.electru.biz:8080/live/christiana/christiana/85572.m3u8
-#EXTINF:-1,US-S | WILLOW TV SPORTS 2 (Live Games Only)
-http://s1.electru.biz:8080/live/christiana/christiana/85567.m3u8
-#EXTINF:-1,US-S | WORLD FISHING NETWORK
-http://s1.electru.biz:8080/live/christiana/christiana/85566.m3u8
-#EXTINF:-1,US-S | WWE NETWORK
-http://s1.electru.biz:8080/live/christiana/christiana/85569.m3u8
-#EXTINF:-1,US-S | YES NETWORK
-http://s1.electru.biz:8080/live/christiana/christiana/85565.m3u8
+#EXTINF:-1,BT Sports 1 HD =
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6899.m3u8
+#EXTINF:-1,BT Sports 2 HD =
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6900.m3u8
+#EXTINF:-1,BT Sports 3 HD =
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6901.m3u8
+#EXTINF:-1,BT Sports ESPN =
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6902.m3u8
+#EXTINF:-1,BT Sports 1 HD (Backup)
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6894.m3u8
+#EXTINF:-1,BT Sports 2 HD  (Backup)
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6895.m3u8
+#EXTINF:-1,BT Sports 3 HD (Backup)
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6896.m3u8
+#EXTINF:-1,BT Sport ESPN (Backup)
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6893.m3u8
+#EXTINF:-1,UK: BT SPORTS EXTRA 1 SD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19125.m3u8
+#EXTINF:-1,UK: BT SPORTS EXTRA 2 SD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19124.m3u8
+#EXTINF:-1,UK: BT SPORTS EXTRA 3 SD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19123.m3u8
+#EXTINF:-1,UK: BT SPORTS EXTRA 4 SD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19122.m3u8
+#EXTINF:-1,UK: BT SPORTS EXTRA 5 SD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19121.m3u8
+#EXTINF:-1,UK: BT SPORTS EXTRA 6 SD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19120.m3u8
+#EXTINF:-1,UK: Eleven Sports 1 UK HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15018.m3u8
+#EXTINF:-1,UK: Eleven Sports 2 UK HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15017.m3u8
+#EXTINF:-1,TEN Sports 1
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15014.m3u8
+#EXTINF:-1,|EX-YU| Arena Sport 1 HR
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15218.m3u8
+#EXTINF:-1,|EX-YU| Arena Sport 2 HR
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15217.m3u8
+#EXTINF:-1,|HR| Arena Sports 1 HD Croatia
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15219.m3u8
+#EXTINF:-1,|HR| Arena Sports 2 HD Croatia
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15220.m3u8
+#EXTINF:-1,|HR| Arena Sports 3 HD Croatia
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15221.m3u8
+#EXTINF:-1,|HR| Arena Sports 5 HD Croatia
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15222.m3u8
+#EXTINF:-1,3PM | NBC Golf
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6348.m3u8
+#EXTINF:-1,NBC Golf
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6091.m3u8
+#EXTINF:-1,MLB Network
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15542.m3u8
+#EXTINF:-1,Sportsnet 360 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6673.m3u8
+#EXTINF:-1,Sportsnet 360 HD*
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15536.m3u8
+#EXTINF:-1,Sportsnet East HD*
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15535.m3u8
+#EXTINF:-1,Sportsnet LA HD*
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15534.m3u8
+#EXTINF:-1,Sportsnet New York HD*
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15533.m3u8
+#EXTINF:-1,Sportsnet One HD*
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15532.m3u8
+#EXTINF:-1,Sportsnet Ontario HD*
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15531.m3u8
+#EXTINF:-1,Sportsnet Pacific HD*
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15530.m3u8
+#EXTINF:-1,Sportsnet West HD*
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15529.m3u8
+#EXTINF:-1,WWE Network
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15961.m3u8
+#EXTINF:-1,ESPN   01
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19081.m3u8
+#EXTINF:-1,ESPN   02
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19080.m3u8
+#EXTINF:-1,ESPN   03
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19079.m3u8
+#EXTINF:-1,ESPN   04
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19078.m3u8
+#EXTINF:-1,ESPN   05
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19077.m3u8
+#EXTINF:-1,ESPN   06
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19076.m3u8
+#EXTINF:-1,ESPN   07
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19075.m3u8
+#EXTINF:-1,ESPN   08
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19074.m3u8
+#EXTINF:-1,ESPN   09
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19073.m3u8
+#EXTINF:-1,ESPN   10
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19072.m3u8
+#EXTINF:-1,Sportsnet World HD*
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15960.m3u8
+#EXTINF:-1,UFC Network
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15962.m3u8
+#EXTINF:-1,NBA Network
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15541.m3u8
+#EXTINF:-1,Live Events UFC 24/7 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/8375.m3u8
+#EXTINF:-1,TSN 1 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6014.m3u8
+#EXTINF:-1,TSN 2 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6013.m3u8
+#EXTINF:-1,TSN 3 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6011.m3u8
+#EXTINF:-1,TSN 4 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6010.m3u8
+#EXTINF:-1,TSN 5 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6009.m3u8
+#EXTINF:-1,SKY SPORT News  HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7187.m3u8
+#EXTINF:-1,SKY SPORT Sport Football HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7192.m3u8
+#EXTINF:-1,SKY SPORT Main Event HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7193.m3u8
+#EXTINF:-1,SKY SPORT Premi league  HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7194.m3u8
+#EXTINF:-1,SKY SPORT Cricket  HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7189.m3u8
+#EXTINF:-1,SKY SPORT Golf HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7188.m3u8
+#EXTINF:-1,SKY SPORT F1 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7190.m3u8
+#EXTINF:-1,SKY SPORT Action HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7191.m3u8
+#EXTINF:-1,SKY SPORT RACING
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15312.m3u8
+#EXTINF:-1,Sly Sport News
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6286.m3u8
+#EXTINF:-1,Sly Sport Football
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6284.m3u8
+#EXTINF:-1,Sly Sport Main Event
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6281.m3u8
+#EXTINF:-1,Sly Sport Prem League
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6280.m3u8
+#EXTINF:-1,Sly Sport Cricket
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6279.m3u8
+#EXTINF:-1,Sly Sport Golf
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6285.m3u8
+#EXTINF:-1,Sly Sport F/1
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6282.m3u8
+#EXTINF:-1,Sly Sport Action
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6283.m3u8
+#EXTINF:-1,Sly Sports Mix
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6287.m3u8
+#EXTINF:-1,sly sports arena
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15185.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4980.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4979.m3u8
+#EXTINF:-1,Chelsea TV
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/5179.m3u8
+#EXTINF:-1,LFC TV HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4969.m3u8
+#EXTINF:-1,MUTV HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4968.m3u8
+#EXTINF:-1,Chelsea FC
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6031.m3u8
+#EXTINF:-1,Rangers Fc Tv  (Live for Matches)
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6032.m3u8
+#EXTINF:-1,Leeds (Live for Matches)
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15010.m3u8
+#EXTINF:-1,LFC
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15009.m3u8
+#EXTINF:-1,MUTV
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15008.m3u8
+#EXTINF:-1,UK:.eir Sport 1
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4971.m3u8
+#EXTINF:-1,UK:.eirSport 2
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4970.m3u8
+#EXTINF:-1,Premier Sport HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4981.m3u8
+#EXTINF:-1,Premier Sports HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7185.m3u8
+#EXTINF:-1,Premier sports 2
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15177.m3u8
+#EXTINF:-1,Racing UK HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4972.m3u8
+#EXTINF:-1,At The Races SD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4974.m3u8
+#EXTINF:-1,At The Races /
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7186.m3u8
+#EXTINF:-1,Racing UK HD /
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7184.m3u8
+#EXTINF:-1,BoxNation SD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4973.m3u8
+#EXTINF:-1,Boxnation
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/5284.m3u8
+#EXTINF:-1,TEN Cricket
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4814.m3u8
+#EXTINF:-1,TEN Sports 2
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4813.m3u8
+#EXTINF:-1,TEN Sports 3
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4812.m3u8
+#EXTINF:-1,MotorTv
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6385.m3u8
+#EXTINF:-1,DE: DAZN 1
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/17347.m3u8
+#EXTINF:-1,DE: DAZN 2
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/17348.m3u8
+#EXTINF:-1,|INDIA| Star Sport 1 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19033.m3u8
+#EXTINF:-1,|INDIA| Star Sport 2 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19032.m3u8
+#EXTINF:-1,|INDIA| Star Sport 3 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19031.m3u8
+#EXTINF:-1,|INDIA| Star Sport 4 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19030.m3u8
+#EXTINF:-1,|INDIA| Star Sport Select 1 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19029.m3u8
+#EXTINF:-1,USA:. FOX Sport 1
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/5507.m3u8
+#EXTINF:-1,USA:. FOX Sport 2
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/5506.m3u8
+#EXTINF:-1,Le Sports FHD 1
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7151.m3u8
+#EXTINF:-1,Le Sports FHD 2
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7150.m3u8
+#EXTINF:-1,Le Sports FHD 3
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7149.m3u8
+#EXTINF:-1,Le Sports FHD 4
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7148.m3u8
+#EXTINF:-1,Le Sports FHD 5
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7147.m3u8
+#EXTINF:-1,Le Sports FHD 6
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7146.m3u8
+#EXTINF:-1,Le Sports FHD 7
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7145.m3u8
+#EXTINF:-1,Le Sports 08
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15114.m3u8
+#EXTINF:-1,Le Sports 09
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15113.m3u8
+#EXTINF:-1,Le Sports 10
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15112.m3u8
+#EXTINF:-1,EPL:  Sportsnet 360 HD   [Main]
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/12361.m3u8
+#EXTINF:-1,EPL:  Sportsnet One HD   [Main]
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/12360.m3u8
+#EXTINF:-1,EPL:  Sportsnet World HD   [Main]
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/12359.m3u8
+#EXTINF:-1,AR: BeIN Sports 11 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6198.m3u8
+#EXTINF:-1,AR: BeIN Sports 12 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6197.m3u8
+#EXTINF:-1,BEIN Sports 11. Eng
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/5511.m3u8
+#EXTINF:-1,BEIN Sports 12. Eng
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/5510.m3u8
+#EXTINF:-1,AR: BEIN SPORT 12 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7207.m3u8
+#EXTINF:-1,AR: BEIN SPORT 11 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7208.m3u8
+#EXTINF:-1,Sports Box Office UK Live 1  Tyson Vs Schwarz Repeat every 25 mins
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/5286.m3u8
+#EXTINF:-1,Sports Box Office UK Live 2
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/5060.m3u8
+#EXTINF:-1,Sports Box Office UFC Fight Pass Live 4
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4985.m3u8
+#EXTINF:-1,Sports Box Office Dazn Live 3
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6092.m3u8
+#EXTINF:-1,BEIN SPORT 1 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2071.m3u8
+#EXTINF:-1,BEIN SPORT 2 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2073.m3u8
+#EXTINF:-1,BEIN SPORT 3 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2074.m3u8
+#EXTINF:-1,BEIN SPORT 4 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2075.m3u8
+#EXTINF:-1,BEIN SPORT 5 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2076.m3u8
+#EXTINF:-1,BEIN SPORT 6 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2077.m3u8
+#EXTINF:-1,BEIN SPORT 7 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2078.m3u8
+#EXTINF:-1,BEIN SPORT 8 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2079.m3u8
+#EXTINF:-1,BEIN SPORT 9 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2080.m3u8
+#EXTINF:-1,BEIN SPORT 10 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2072.m3u8
+#EXTINF:-1,AR: BEIN SPORT 1 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7218.m3u8
+#EXTINF:-1,AR: BEIN SPORT 2 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7217.m3u8
+#EXTINF:-1,AR: BEIN SPORT 3 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7216.m3u8
+#EXTINF:-1,AR: BEIN SPORT 4 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7215.m3u8
+#EXTINF:-1,AR: BEIN SPORT 5 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7214.m3u8
+#EXTINF:-1,AR: BEIN SPORT 6 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7213.m3u8
+#EXTINF:-1,AR: BEIN SPORT 7 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7212.m3u8
+#EXTINF:-1,AR: BEIN SPORT 8 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7211.m3u8
+#EXTINF:-1,AR: BEIN SPORT 9 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7210.m3u8
+#EXTINF:-1,AR: BEIN SPORT 10 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7209.m3u8
