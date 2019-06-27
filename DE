@@ -1,18 +1,23 @@
 #EXTINF:-1 tvg-id="SPORTS FIXTURES" tvg-link="" tvg-name="SPORTS FIXTURES" tvg-logo="" group-title="Sports Fixtures",alliptvlinks.com SPORTS FIXTURES
-http://62.210.70.119:80/live.ts?channelId=531&deviceMac=00:1A:79:BE:3F:22&uid=767
-#EXTINF:-1 tvg-id="eir Sport 1 (ire)" tvg-link="" tvg-name="eir Sport 1 (ire)" tvg-logo="" group-title="Regional Channels",alliptvlinks.com eir Sport 1 (ire)
-http://163.172.118.212:80/live.ts?channelId=568&deviceMac=00:1A:79:BE:3F:22&uid=767
+http://62.210.70.119:80/live.ts?channelId=531&deviceMac=00:1A:79:BE:2F:F6&uid=1615
 #EXTINF:-1 tvg-id="Eir Sport 1 HD (ire)" tvg-link="" tvg-name="Eir Sport 1 HD (ire)" tvg-logo="" group-title="Regional Channels",alliptvlinks.com Eir Sport 1 HD (ire)
-http://163.172.118.212:80/live.ts?channelId=569&deviceMac=00:1A:79:BE:3F:22&uid=767
+http://163.172.118.212:80/live.ts?channelId=569&deviceMac=00:1A:79:BE:3F:D1&uid=299
 #EXTINF:-1 tvg-id="eir Sport 2 (ire)" tvg-link="" tvg-name="eir Sport 2 (ire)" tvg-logo="" group-title="Regional Channels",alliptvlinks.com eir Sport 2 (ire)
-http://163.172.118.212:80/live.ts?channelId=570&deviceMac=00:1A:79:BE:3F:22&uid=767
+http://163.172.118.212:80/live.ts?channelId=570&deviceMac=00:1A:79:BE:3F:D1&uid=299
 #EXTINF:-1 tvg-id="Eir Sport 2 HD (ire)" tvg-link="" tvg-name="Eir Sport 2 HD (ire)" tvg-logo="" group-title="Regional Channels",alliptvlinks.com Eir Sport 2 HD (ire)
-http://163.172.118.212:80/live.ts?channelId=571&deviceMac=00:1A:79:BE:3F:22&uid=767
+http://163.172.118.212:80/live.ts?channelId=571&deviceMac=00:1A:79:BE:3F:D1&uid=299
+#EXTINF:-1 tvg-id="SPORTS FIXTURES" tvg-link="" tvg-name="SPORTS FIXTURES" tvg-logo="" group-title="Sports Fixtures",alliptvlinks.com SPORTS FIXTURES
+http://62.210.70.119:80/live.ts?channelId=531&deviceMac=00:1A:79:BE:3F:1D&uid=78
+#EXTINF:-1 tvg-id="eir Sport 1 (ire)" tvg-link="" tvg-name="eir Sport 1 (ire)" tvg-logo="" group-title="Regional Channels",alliptvlinks.com eir Sport 1 (ire)
+http://163.172.118.212:80/live.ts?channelId=568&deviceMac=00:1A:79:BE:3F:1D&uid=78
+#EXTINF:-1 tvg-id="Eir Sport 1 HD (ire)" tvg-link="" tvg-name="Eir Sport 1 HD (ire)" tvg-logo="" group-title="Regional Channels",alliptvlinks.com Eir Sport 1 HD (ire)
+http://163.172.118.212:80/live.ts?channelId=569&deviceMac=00:1A:79:BE:3F:1D&uid=78
+#EXTINF:-1 tvg-id="eir Sport 2 (ire)" tvg-link="" tvg-name="eir Sport 2 (ire)" tvg-logo="" group-title="Regional Channels",alliptvlinks.com eir Sport 2 (ire)
+http://163.172.118.212:80/live.ts?channelId=570&deviceMac=00:1A:79:BE:3F:1D&uid=78
+#EXTINF:-1 tvg-id="Eir Sport 2 HD (ire)" tvg-link="" tvg-name="Eir Sport 2 HD (ire)" tvg-logo="" group-title="Regional Channels",alliptvlinks.com Eir Sport 2 HD (ire)
+http://163.172.118.212:80/live.ts?channelId=571&deviceMac=00:1A:79:BE:3F:1D&uid=78
 #EXTINF:-1 tvg-id="BEin Sports 1 English" tvg-link="" tvg-name="BEin Sports 1 English" tvg-logo="" group-title="BEin Sports",alliptvlinks.com BEin Sports 1 English
-http://163.172.118.212:80/live.ts?channelId=584&deviceMac=00:1A:79:BE:3F:22&uid=767
+http://163.172.118.212:80/live.ts?channelId=584&deviceMac=00:1A:79:BE:3F:1D&uid=78
 #EXTINF:-1 tvg-id="BEin Sports 2 English" tvg-link="" tvg-name="BEin Sports 2 English" tvg-logo="" group-title="BEin Sports",alliptvlinks.com BEin Sports 2 English
-http://163.172.118.212:80/live.ts?channelId=585&deviceMac=00:1A:79:BE:3F:22&uid=767
-#EXTINF:-1 tvg-id="BEin Sports 3 English" tvg-link="" tvg-name="BEin Sports 3 English" tvg-logo="" group-title="BEin Sports",alliptvlinks.com BEin Sports 3 English
-http://163.172.118.212:80/live.ts?channelId=586&deviceMac=00:1A:79:BE:3F:22&uid=767
-#EXTINF:-1 tvg-id="BEin Sports 4 English" tvg-link="" tvg-name="BEin Sports 4 English" tvg-logo="" group-title="BEin Sports",alliptvlinks.com BEin Sports 4 English
-http://163.172.118.212:80/live.ts?channelId=587&deviceMac=00:1A:79:BE:3F:22&uid=767
+http://163.172.118.212:80/live.ts?channelId=585&deviceMac=00:1A:79:BE:3F:1D&uid=78
+
