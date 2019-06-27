@@ -1,23 +1,383 @@
-#EXTINF:-1 tvg-id="SPORTS FIXTURES" tvg-link="" tvg-name="SPORTS FIXTURES" tvg-logo="" group-title="Sports Fixtures",alliptvlinks.com SPORTS FIXTURES
-http://62.210.70.119:80/live.ts?channelId=531&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="Eir Sport 1 HD (ire)" tvg-link="" tvg-name="Eir Sport 1 HD (ire)" tvg-logo="" group-title="Regional Channels",alliptvlinks.com Eir Sport 1 HD (ire)
-http://163.172.118.212:80/live.ts?channelId=569&deviceMac=00:1A:79:BE:3F:D1&uid=299
-#EXTINF:-1 tvg-id="eir Sport 2 (ire)" tvg-link="" tvg-name="eir Sport 2 (ire)" tvg-logo="" group-title="Regional Channels",alliptvlinks.com eir Sport 2 (ire)
-http://163.172.118.212:80/live.ts?channelId=570&deviceMac=00:1A:79:BE:3F:D1&uid=299
-#EXTINF:-1 tvg-id="Eir Sport 2 HD (ire)" tvg-link="" tvg-name="Eir Sport 2 HD (ire)" tvg-logo="" group-title="Regional Channels",alliptvlinks.com Eir Sport 2 HD (ire)
-http://163.172.118.212:80/live.ts?channelId=571&deviceMac=00:1A:79:BE:3F:D1&uid=299
-#EXTINF:-1 tvg-id="SPORTS FIXTURES" tvg-link="" tvg-name="SPORTS FIXTURES" tvg-logo="" group-title="Sports Fixtures",alliptvlinks.com SPORTS FIXTURES
-http://62.210.70.119:80/live.ts?channelId=531&deviceMac=00:1A:79:BE:3F:1D&uid=78
-#EXTINF:-1 tvg-id="eir Sport 1 (ire)" tvg-link="" tvg-name="eir Sport 1 (ire)" tvg-logo="" group-title="Regional Channels",alliptvlinks.com eir Sport 1 (ire)
-http://163.172.118.212:80/live.ts?channelId=568&deviceMac=00:1A:79:BE:3F:1D&uid=78
-#EXTINF:-1 tvg-id="Eir Sport 1 HD (ire)" tvg-link="" tvg-name="Eir Sport 1 HD (ire)" tvg-logo="" group-title="Regional Channels",alliptvlinks.com Eir Sport 1 HD (ire)
-http://163.172.118.212:80/live.ts?channelId=569&deviceMac=00:1A:79:BE:3F:1D&uid=78
-#EXTINF:-1 tvg-id="eir Sport 2 (ire)" tvg-link="" tvg-name="eir Sport 2 (ire)" tvg-logo="" group-title="Regional Channels",alliptvlinks.com eir Sport 2 (ire)
-http://163.172.118.212:80/live.ts?channelId=570&deviceMac=00:1A:79:BE:3F:1D&uid=78
-#EXTINF:-1 tvg-id="Eir Sport 2 HD (ire)" tvg-link="" tvg-name="Eir Sport 2 HD (ire)" tvg-logo="" group-title="Regional Channels",alliptvlinks.com Eir Sport 2 HD (ire)
-http://163.172.118.212:80/live.ts?channelId=571&deviceMac=00:1A:79:BE:3F:1D&uid=78
-#EXTINF:-1 tvg-id="BEin Sports 1 English" tvg-link="" tvg-name="BEin Sports 1 English" tvg-logo="" group-title="BEin Sports",alliptvlinks.com BEin Sports 1 English
-http://163.172.118.212:80/live.ts?channelId=584&deviceMac=00:1A:79:BE:3F:1D&uid=78
-#EXTINF:-1 tvg-id="BEin Sports 2 English" tvg-link="" tvg-name="BEin Sports 2 English" tvg-logo="" group-title="BEin Sports",alliptvlinks.com BEin Sports 2 English
-http://163.172.118.212:80/live.ts?channelId=585&deviceMac=00:1A:79:BE:3F:1D&uid=78
-
+#EXTM3U
+#EXTINF:0,|AR| BEIN SPORTS MAX 1 SD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/23124
+#EXTINF:0,|AR| BEIN SPORTS MAX 1 HD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/23126
+#EXTINF:0,|AR| BEIN SPORTS MAX 1 FHD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/23127
+#EXTINF:0,|AR| BEIN SPORTS MAX 1 HEVC_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/23125
+#EXTINF:0,|AR| BEIN SPORTS MAX 2 SD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/23120
+#EXTINF:0,|AR| BEIN SPORTS MAX 2 HD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/23122
+#EXTINF:0,|AR| BEIN SPORTS MAX 2 FHD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/23123
+#EXTINF:0,|AR| BEIN SPORTS MAX 2 HEVC_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/23121
+#EXTINF:0,|AR| BEIN SPORTS MAX 3 SD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/23116
+#EXTINF:0,|AR| BEIN SPORTS MAX 3 HD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/23118
+#EXTINF:0,|AR| BEIN SPORTS MAX 3 FHD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/23119
+#EXTINF:0,|AR| BEIN SPORTS MAX 3 HEVC_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/23117
+#EXTINF:0,|AR| BEIN SPORTS MAX 4 SD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/23112
+#EXTINF:0,|AR| BEIN SPORTS MAX 4 HD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/23114
+#EXTINF:0,|AR| BEIN SPORTS MAX 4 FHD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/23115
+#EXTINF:0,|AR| BEIN SPORTS MAX 4 HEVC_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/23113
+#EXTINF:0,|FR| INFOSPORT+ HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1558
+#EXTINF:0,|FR| INFOSPORT+ FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/255
+#EXTINF:0,|FR| LA CHAINE L'EQUIPE HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/220
+#EXTINF:0,|FR| LA CHAINE L'EQUIPE FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2033
+#EXTINF:0,|FR| EQUIDA LIVE HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1965
+#EXTINF:0,|FR| EQUIDA LIVE FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/4457
+#EXTINF:0,|FR| RMC SPORT NEWS HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/5800
+#EXTINF:0,|FR| RMC SPORT NEWS FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/944
+#EXTINF:0,|FR| RMC SPORT 1 SD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/11629
+#EXTINF:0,|FR| RMC SPORT 1 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/51
+#EXTINF:0,|FR| RMC SPORT 1 HD BKP
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/13128
+#EXTINF:0,|FR| RMC SPORT 1 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1247
+#EXTINF:0,|FR| RMC SPORT 1 FHD BKP_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/11274
+#EXTINF:0,|FR| RMC SPORT 1 ACCESS FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/11632
+#EXTINF:0,|FR| RMC SPORT 2 SD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/11628
+#EXTINF:0,|FR| RMC SPORT 2 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/52
+#EXTINF:0,|FR| RMC SPORT 2 HD  BKP
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/13127
+#EXTINF:0,|FR| RMC SPORT 2 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1248
+#EXTINF:0,|FR| RMC SPORT 2 FHD BKP
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/18366
+#EXTINF:0,|FR| RMC SPORT 2 ACCESS FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/11631
+#EXTINF:0,|FR| RMC SPORT 3 SD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/13053
+#EXTINF:0,|FR| RMC SPORT 3 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/53
+#EXTINF:0,|FR| RMC SPORT 3 HD BKP
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/13126
+#EXTINF:0,|FR| RMC SPORT 3 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1249
+#EXTINF:0,|FR| RMC SPORT 3 FHD BKP_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/18367
+#EXTINF:0,|FR| RMC SPORT 3 ACCESS FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/11630
+#EXTINF:0,|FR| RMC SPORT 4 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/5745
+#EXTINF:0,|FR| RMC SPORT 4 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/3321
+#EXTINF:0,|FR| RMC SPORT 4K UHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/6976
+#EXTINF:0,|FR| RMC SPORT LIVE 5 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10160
+#EXTINF:0,|FR| RMC SPORT LIVE 5 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/7298
+#EXTINF:0,|FR| RMC SPORT LIVE 6 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10161
+#EXTINF:0,|FR| RMC SPORT LIVE 6 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/7299
+#EXTINF:0,|FR| RMC SPORT LIVE 7 HD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10294
+#EXTINF:0,|FR| RMC SPORT LIVE 7 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/7300
+#EXTINF:0,|FR| RMC SPORT LIVE 8 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10295
+#EXTINF:0,|FR| RMC SPORT LIVE 8 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/7301
+#EXTINF:0,|FR| RMC SPORT LIVE 9 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10456
+#EXTINF:0,|FR| RMC SPORT LIVE 9 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/7302
+#EXTINF:0,|FR| RMC SPORT LIVE 10 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10462
+#EXTINF:0,|FR| RMC SPORT LIVE 10 FULL HD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/8698
+#EXTINF:0,|FR| RMC SPORT LIVE 11 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10461
+#EXTINF:0,|FR| RMC SPORT LIVE 11 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/8699
+#EXTINF:0,|FR| RMC SPORT LIVE 12 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10460
+#EXTINF:0,|FR| RMC SPORT LIVE 12 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/8700
+#EXTINF:0,|FR| RMC SPORT LIVE 13 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10459
+#EXTINF:0,|FR| RMC SPORT LIVE 13 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/8701
+#EXTINF:0,|FR| RMC SPORT LIVE 14 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10458
+#EXTINF:0,|FR| RMC SPORT LIVE 14 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10291
+#EXTINF:0,|FR| FOOT+ 24/24 FHD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/331
+#EXTINF:0,|FR| MULTISPORTS 1 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/5077
+#EXTINF:0,|FR| MULTISPORTS 2 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/5078
+#EXTINF:0,|FR| MULTISPORTS 3 FHD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/5079
+#EXTINF:0,|FR| MULTISPORTS 4 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/5080
+#EXTINF:0,|FR| MULTISPORTS 5 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/5081
+#EXTINF:0,|FR| MULTISPORTS 6 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/5082
+#EXTINF:0,|FR| EUROSPORT 1 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/37
+#EXTINF:0,|FR| EUROSPORT 1 FHD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1846
+#EXTINF:0,|FR| EUROSPORT 2 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/38
+#EXTINF:0,|FR| EUROSPORT 2 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1847
+#EXTINF:0,|FR| OL TV HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1550
+#EXTINF:0,|FR| GIRONDINS TV
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1924
+#EXTINF:0,|FR| ONZEO FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/5406
+#EXTINF:0,|FR| TRACE SPORT STARS HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1527
+#EXTINF:0,|FR| GOLF+ HD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/257
+#EXTINF:0,|FR| GOLF+ FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2401
+#EXTINF:0,|FR| GOLF CHANNEL FRANCE HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1147
+#EXTINF:0,|FR| GOLF CHANNEL FRANCE FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2402
+#EXTINF:0,|FR| MY ZEN TV HD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/5798
+#EXTINF:0,|FR| MY ZEN TV FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1315
+#EXTINF:0,|FR| AUTOMOTO HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/265
+#EXTINF:0,|FR| AUTOMOTO FHD (DOUBLE AUDIO)
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/5203
+#EXTINF:0,|FR| MOTORVISION TV HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1021
+#EXTINF:0,|FR| LUCKY JACK TV
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1806
+#EXTINF:0,|FR| LUCKY JACK TV FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/5405
+#EXTINF:0,|FR| FUEL TV HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/5269
+#EXTINF:0,|FR| EXTREME SPORTS TV FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/3285
+#EXTINF:0,|BE| VOO SPORT 1 HD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1138
+#EXTINF:0,|BE| VOO SPORT 1 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1834
+#EXTINF:0,|BE| VOO SPORT 2 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1139
+#EXTINF:0,|BE| ELEVEN SPORT 1 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/3152
+#EXTINF:0,|BE| ELEVEN SPORT 2 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/3153
+#EXTINF:0,|CH| TeleClub Sport 1 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2140
+#EXTINF:0,|CH| TeleClub Sky Sport 2 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2141
+#EXTINF:0,|FR| MY SPORTS FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2671
+#EXTINF:0,|FR| MY SPORTS 1 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2134
+#EXTINF:0,|FR| MY SPORTS 2 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2135
+#EXTINF:0,|FR| MY SPORTS 3 FULL HD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2136
+#EXTINF:0,|FR| MY SPORTS 4 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2137
+#EXTINF:0,|FR| MY SPORTS 5 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2138
+#EXTINF:0,|FR| MY SPORTS 6 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2139
+#EXTINF:0,|CH| MY SPORTS FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/4641
+#EXTINF:0,|CH| MY SPORTS 1 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2125
+#EXTINF:0,|CH| MY SPORTS 2 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2126
+#EXTINF:0,|CH| MY SPORTS 3 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2127
+#EXTINF:0,|CH| MY SPORTS 4 FULL HD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2128
+#EXTINF:0,|CH| MY SPORTS 5 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2129
+#EXTINF:0,|CH| MY SPORTS 6 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2130
+#EXTINF:0,|FR| BEIN SPORTS 1 SD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/11675
+#EXTINF:0,|FR| BEIN SPORTS 1 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/34
+#EXTINF:0,|FR| BEIN SPORTS 1 HD BKP
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/7187
+#EXTINF:0,|FR| BEIN SPORTS 1 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/855
+#EXTINF:0,|FR| BEIN SPORTS 1 FHD BKP
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1287
+#EXTINF:0,|FR| BEIN SPORTS 2 SD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/11674
+#EXTINF:0,|FR| BEIN SPORTS 2 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/35
+#EXTINF:0,|FR| BEIN SPORTS 2 HD BKP
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/7186
+#EXTINF:0,|FR| BEIN SPORTS 2 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/856
+#EXTINF:0,|FR| BEIN SPORTS 2 FHD BKP
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1286
+#EXTINF:0,|FR| BEIN SPORTS 3 SD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/11673
+#EXTINF:0,|FR| BEIN SPORTS 3 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/184
+#EXTINF:0,|FR| BEIN SPORTS 3 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/857
+#EXTINF:0,|FR| BEIN SPORTS 3 FHD BKP
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1285
+#EXTINF:0,|FR| BeIN SPORTS MAX 4 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/113
+#EXTINF:0,|FR| BeIN SPORTS MAX 4 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2351
+#EXTINF:0,|FR| BeIN SPORTS MAX 5 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/82
+#EXTINF:0,|FR| BeIN SPORTS MAX 5 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2352
+#EXTINF:0,|FR| BeIN SPORTS MAX 6 HD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/302
+#EXTINF:0,|FR| BeIN SPORTS MAX 6 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2353
+#EXTINF:0,|FR| BeIN SPORTS MAX 7 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/83
+#EXTINF:0,|FR| BeIN SPORTS MAX 7 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2354
+#EXTINF:0,|FR| BeIN SPORTS MAX 8 HD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/303
+#EXTINF:0,|FR| BeIN SPORTS MAX 8 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2355
+#EXTINF:0,|FR| BeIN SPORTS MAX 9 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/304
+#EXTINF:0,|FR| BeIN SPORTS MAX 9 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2356
+#EXTINF:0,|FR| BeIN SPORTS MAX 10 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/305
+#EXTINF:0,|FR| BeIN SPORTS MAX 10 FULL HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2357
+#EXTINF:0,|AR| BeIN SPORTS NEWS FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/369
+#EXTINF:0,|AR| BEIN SPORTS_1 SD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2600
+#EXTINF:0,|AR| BEIN SPORTS_1 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/788
+#EXTINF:0,|AR| BEIN SPORTS 1 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10081
+#EXTINF:0,|AR| BEIN SPORTS 1 HEVC
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/22392
+#EXTINF:0,|AR| BEIN SPORTS_2 SD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2601
+#EXTINF:0,|AR| BEIN SPORTS_2 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/789
+#EXTINF:0,|AR| BEIN SPORTS 2 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10080
+#EXTINF:0,|AR| BEIN SPORTS 2 HEVC
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/22391
+#EXTINF:0,|AR| BEIN SPORTS_3 SD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2602
+#EXTINF:0,|AR| BEIN SPORTS_3 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/790
+#EXTINF:0,|AR| BEIN SPORTS 3 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10079
+#EXTINF:0,|AR| BEIN SPORTS 3 HEVC
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/22390
+#EXTINF:0,|AR| BEIN SPORTS_4 SD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2603
+#EXTINF:0,|AR| BEIN SPORTS_4 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/791
+#EXTINF:0,|AR| BEIN SPORTS 4 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10078
+#EXTINF:0,|AR| BEIN SPORTS 4 HEVC_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/22389
+#EXTINF:0,|AR| BEIN SPORTS_5 SD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2604
+#EXTINF:0,|AR| BEIN SPORTS_5 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/792
+#EXTINF:0,|AR| BEIN SPORTS 5 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10077
+#EXTINF:0,|AR| BEIN SPORTS 5 HEVC
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/22388
+#EXTINF:0,|AR| BEIN SPORTS_6 SD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2605
+#EXTINF:0,|AR| BEIN SPORTS_6 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/793
+#EXTINF:0,|AR| BEIN SPORTS 6 FHD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10076
+#EXTINF:0,|AR| BEIN SPORTS 6 HEVC
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/22387
+#EXTINF:0,|AR| BEIN SPORTS_7 SD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2606
+#EXTINF:0,|AR| BEIN SPORTS_7 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/794
+#EXTINF:0,|AR| BEIN SPORTS 7 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10075
+#EXTINF:0,|AR| BEIN SPORTS 7 HEVC
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/22386
+#EXTINF:0,|AR| BEIN SPORTS_8 SD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2607
+#EXTINF:0,|AR| BEIN SPORTS_8 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/795
+#EXTINF:0,|AR| BEIN SPORTS 8 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10074
+#EXTINF:0,|AR| BEIN SPORTS 8 HEVC
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/22385
+#EXTINF:0,|AR| BEIN SPORTS_9 SD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2608
+#EXTINF:0,|AR| BEIN SPORTS_9 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/796
+#EXTINF:0,|AR| BEIN SPORTS 9 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10073
+#EXTINF:0,|AR| BEIN SPORTS 9 HEVC
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/22384
+#EXTINF:0,|AR| BEIN SPORTS_10 SD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/2609
+#EXTINF:0,|AR| BEIN SPORTS_10 HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/797
+#EXTINF:0,|AR| BEIN SPORTS 10 FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/10072
+#EXTINF:0,|AR| BEIN SPORTS 10 HEVC
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/22383
+#EXTINF:0,|AR| BEIN SPORTS FHD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1454
+#EXTINF:0,|FR| CANAL+ SPORT SD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/19250
+#EXTINF:0,|FR| CANAL+ SPORT HD
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/206
+#EXTINF:0,|FR| CANAL+ SPORT HD BKP_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/1246
+#EXTINF:0,|FR| CANAL+ SPORT H265
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/12015
+#EXTINF:0,|FR| CANAL+ SPORT FHD_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/959
+#EXTINF:0,|FR| CANAL+ SPORT FHDp
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/12785
+#EXTINF:0,|FR| CANAL+ SPORT FULL HD BKP_By : https://tv.tousecurity.com
+http://king365-tv.com:2103/ZurMY7tK1T/0960441889/8720
