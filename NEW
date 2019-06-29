@@ -1,1472 +1,303 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Action" tvg-logo="" group-title="Sky Sports",Sky Sports Action - Sky Sports Action
-http://62.210.70.119:80/live.ts?channelId=119&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsaction.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Action HD" tvg-logo="" group-title="Sky Sports",Sky Sports Action HD - Sky Sports Action HD
-http://62.210.70.119:80/live.ts?channelId=120&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Arena" tvg-logo="" group-title="Sky Sports",Sky Sports Arena - Sky Sports Arena
-http://62.210.70.119:80/live.ts?channelId=121&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Arena HD" tvg-logo="" group-title="Sky Sports",Sky Sports Arena HD - Sky Sports Arena HD
-http://62.210.70.119:80/live.ts?channelId=122&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="Sky Sports",Sky Sports Cricket - Sky Sports Cricket
-http://62.210.70.119:80/live.ts?channelId=123&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Cricket HD" tvg-logo="" group-title="Sky Sports",Sky Sports Cricket HD - Sky Sports Cricket HD
-http://62.210.70.119:80/live.ts?channelId=124&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Football" tvg-logo="" group-title="Sky Sports",Sky Sports Football - Sky Sports Football
-http://62.210.70.119:80/live.ts?channelId=125&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Football HD" tvg-logo="" group-title="Sky Sports",Sky Sports Football HD - Sky Sports Football HD
-http://62.210.70.119:80/live.ts?channelId=126&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportstheopen.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Golf" tvg-logo="" group-title="Sky Sports",Sky Sports Golf - Sky Sports Golf
-http://62.210.70.119:80/live.ts?channelId=127&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportstheopen.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Golf HD" tvg-logo="" group-title="Sky Sports",Sky Sports Golf HD - Sky Sports Golf HD
-http://62.210.70.119:80/live.ts?channelId=128&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Main" tvg-logo="" group-title="Sky Sports",Sky Sports Main - Sky Sports Main
-http://62.210.70.209:80/live.ts?channelId=129&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Main HD" tvg-logo="" group-title="Sky Sports",Sky Sports Main HD - Sky Sports Main HD
-http://62.210.70.119:80/live.ts?channelId=130&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Mix" tvg-logo="" group-title="Sky Sports",Sky Sports Mix - Sky Sports Mix
-http://62.210.70.119:80/live.ts?channelId=131&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Mix HD" tvg-logo="" group-title="Sky Sports",Sky Sports Mix HD - Sky Sports Mix HD
-http://62.210.70.119:80/live.ts?channelId=132&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports PL" tvg-logo="" group-title="Sky Sports",Sky Sports PL - Sky Sports PL
-http://62.210.70.119:80/live.ts?channelId=133&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports PL HD" tvg-logo="" group-title="Sky Sports",Sky Sports PL HD - Sky Sports PL HD
-http://62.210.70.119:80/live.ts?channelId=134&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports F1" tvg-logo="" group-title="Sky Sports",Sky Sports F1 - Sky Sports F1
-http://62.210.70.119:80/live.ts?channelId=135&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports F1 HD" tvg-logo="" group-title="Sky Sports",Sky Sports F1 HD - Sky Sports F1 HD
-http://62.210.70.119:80/live.ts?channelId=136&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports News" tvg-logo="" group-title="Sky Sports",Sky Sports News - Sky Sports News
-http://62.210.70.119:80/live.ts?channelId=137&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports News HD" tvg-logo="" group-title="Sky Sports",Sky Sports News HD - Sky Sports News HD
-http://62.210.70.119:80/live.ts?channelId=138&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="skysportsboxoffice.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Sky Sports Box Office" tvg-logo="" group-title="PAY PER VIEW EVENTS",Sky Sports Box Office - Sky Sports Box Office
-http://62.210.70.119:80/live.ts?channelId=139&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport 1" tvg-logo="" group-title="BT Sports",BT Sport 1 - BT Sport 1
-http://163.172.112.225:80/live.ts?channelId=140&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="btsport1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport 1 HD" tvg-logo="" group-title="BT Sports",BT Sport 1 HD - BT Sport 1 HD
-http://163.172.112.225:80/live.ts?channelId=141&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport 2" tvg-logo="" group-title="BT Sports",BT Sport 2 - BT Sport 2
-http://163.172.112.225:80/live.ts?channelId=142&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="btsport2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport 2 HD" tvg-logo="" group-title="BT Sports",BT Sport 2 HD - BT Sport 2 HD
-http://163.172.112.225:80/live.ts?channelId=143&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport 3" tvg-logo="" group-title="BT Sports",BT Sport 3 - BT Sport 3
-http://163.172.112.225:80/live.ts?channelId=144&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="btsport3.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport 3 HD" tvg-logo="" group-title="BT Sports",BT Sport 3 HD - BT Sport 3 HD
-http://163.172.112.225:80/live.ts?channelId=145&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport ESPN" tvg-logo="" group-title="BT Sports",BT Sport ESPN - BT Sport ESPN
-http://163.172.112.225:80/live.ts?channelId=146&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="btsportespn.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT Sport ESPN HD" tvg-logo="" group-title="BT Sports",BT Sport ESPN HD - BT Sport ESPN HD
-http://163.172.112.225:80/live.ts?channelId=147&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="eirsport1.ie" tvg-link="http://epgguide.net?epg=9&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="eir Sport 1" tvg-logo="" group-title="UK Sports",eir Sport 1 - eir Sport 1
-http://163.172.112.225:80/live.ts?channelId=154&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="eirsport2.ie" tvg-link="http://epgguide.net?epg=9&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="eir Sport 2" tvg-logo="" group-title="UK Sports",eir Sport 2 - eir Sport 2
-http://163.172.112.225:80/live.ts?channelId=155&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Eurosport 1" tvg-logo="" group-title="UK Sports",Eurosport 1 - Eurosport 1
-http://163.172.112.225:80/live.ts?channelId=156&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="eurosport2.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Eurosport 2" tvg-logo="" group-title="UK Sports",Eurosport 2 - Eurosport 2
-http://163.172.112.225:80/live.ts?channelId=157&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="freesports.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="FreeSports" tvg-logo="" group-title="UK Sports",FreeSports - FreeSports
-http://163.172.112.225:80/live.ts?channelId=158&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="Frontrunner" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="FrontRunner" tvg-logo="" group-title="UK Sports",FrontRunner - FrontRunner
-http://163.172.112.225:80/live.ts?channelId=159&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="mutv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MUTV" tvg-logo="" group-title="UK Sports",MUTV - MUTV
-http://163.172.112.225:80/live.ts?channelId=162&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="LFC tv" tvg-logo="" group-title="UK Sports",LFC tv - LFC tv
-http://163.172.112.225:80/live.ts?channelId=163&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="chelseatv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Chelsea Tv" tvg-logo="" group-title="UK Sports",Chelsea Tv - Chelsea Tv
-http://163.172.112.225:80/live.ts?channelId=164&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="MOTOGP LIVE 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MOTOGP LIVE 1" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 1 - MOTOGP LIVE 1
-http://163.172.112.225:80/live.ts?channelId=165&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="MOTOGP LIVE 2" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MOTOGP LIVE 2" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 2 - MOTOGP LIVE 2
-http://163.172.112.225:80/live.ts?channelId=166&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="MOTOGP LIVE 3" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="MOTOGP LIVE 3" tvg-logo="" group-title="UK Sports",MOTOGP LIVE 3 - MOTOGP LIVE 3
-http://163.172.112.225:80/live.ts?channelId=167&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="motorstv.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Motorsport TV" tvg-logo="" group-title="UK Sports",Motorsport TV - Motorsport TV
-http://163.172.112.225:80/live.ts?channelId=168&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="premiersports.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Premier Sports" tvg-logo="" group-title="UK Sports",Premier Sports - Premier Sports
-http://163.172.112.225:80/live.ts?channelId=169&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="premiersports.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Premier Sports HD" tvg-logo="" group-title="UK Sports",Premier Sports HD - Premier Sports HD
-http://163.172.112.225:80/live.ts?channelId=170&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="racinguk.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Racing UK" tvg-logo="" group-title="UK Sports",Racing UK - Racing UK
-http://163.172.112.225:80/live.ts?channelId=171&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="racinguk.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="Racing UK HD" tvg-logo="" group-title="UK Sports",Racing UK HD - Racing UK HD
-http://163.172.112.225:80/live.ts?channelId=172&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="attheraces.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="At The Races" tvg-logo="" group-title="UK Sports",At The Races - At The Races
-http://163.172.112.225:80/live.ts?channelId=173&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="boxnation.uk" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BoxNation" tvg-logo="" group-title="UK Sports",BoxNation - BoxNation
-http://163.172.112.225:80/live.ts?channelId=174&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="bein france 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="bein france 1" tvg-logo="" group-title="BEin Sports",bein france 1 - bein france 1
-http://163.172.118.212:80/live.ts?channelId=175&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="bein france 2" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="bein france 2" tvg-logo="" group-title="BEin Sports",bein france 2 - bein france 2
-http://163.172.118.212:80/live.ts?channelId=176&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="bein france 3" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="bein france 3" tvg-logo="" group-title="BEin Sports",bein france 3 - bein france 3
-http://163.172.118.212:80/live.ts?channelId=177&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 1 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 1 HD" tvg-logo="" group-title="BEin Sports",beINSport 1 HD - beINSport 1 HD
-http://163.172.118.212:80/live.ts?channelId=178&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 2 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 2 HD" tvg-logo="" group-title="BEin Sports",beINSport 2 HD - beINSport 2 HD
-http://163.172.118.212:80/live.ts?channelId=179&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 3 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 3 HD" tvg-logo="" group-title="BEin Sports",beINSport 3 HD - beINSport 3 HD
-http://163.172.118.212:80/live.ts?channelId=180&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 4 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 4 HD" tvg-logo="" group-title="BEin Sports",beINSport 4 HD - beINSport 4 HD
-http://163.172.118.212:80/live.ts?channelId=181&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 5 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 5 HD" tvg-logo="" group-title="BEin Sports",beINSport 5 HD - beINSport 5 HD
-http://163.172.118.212:80/live.ts?channelId=182&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 6 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 6 HD" tvg-logo="" group-title="BEin Sports",beINSport 6 HD - beINSport 6 HD
-http://163.172.118.212:80/live.ts?channelId=183&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 7 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 7 HD" tvg-logo="" group-title="BEin Sports",beINSport 7 HD - beINSport 7 HD
-http://163.172.118.212:80/live.ts?channelId=184&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 8 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 8 HD" tvg-logo="" group-title="BEin Sports",beINSport 8 HD - beINSport 8 HD
-http://163.172.118.212:80/live.ts?channelId=185&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 9 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 9 HD" tvg-logo="" group-title="BEin Sports",beINSport 9 HD - beINSport 9 HD
-http://163.172.118.212:80/live.ts?channelId=186&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 10 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 10 HD" tvg-logo="" group-title="BEin Sports",beINSport 10 HD - beINSport 10 HD
-http://163.172.118.212:80/live.ts?channelId=187&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 11 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 11 HD" tvg-logo="" group-title="BEin Sports",beINSport 11 HD - beINSport 11 HD
-http://163.172.118.212:80/live.ts?channelId=188&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="beINSport 12 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="beINSport 12 HD" tvg-logo="" group-title="BEin Sports",beINSport 12 HD - beINSport 12 HD
-http://163.172.118.212:80/live.ts?channelId=189&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="BEin Sports EPL 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BEin Sports EPL 1" tvg-logo="" group-title="BEin Sports",BEin Sports EPL 1 - BEin Sports EPL 1
-http://163.172.118.212:80/live.ts?channelId=190&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="BEin Sports EPL 2" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BEin Sports EPL 2" tvg-logo="" group-title="BEin Sports",BEin Sports EPL 2 - BEin Sports EPL 2
-http://163.172.118.212:80/live.ts?channelId=191&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="BEin Sports EPL 3" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BEin Sports EPL 3" tvg-logo="" group-title="BEin Sports",BEin Sports EPL 3 - BEin Sports EPL 3
-http://163.172.118.212:80/live.ts?channelId=192&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="TSN 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TSN 1" tvg-logo="" group-title="USA/CA Channels",TSN 1 - TSN 1
-http://62.210.29.65:80/live.ts?channelId=217&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="TSN 2" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TSN 2" tvg-logo="" group-title="USA/CA Channels",TSN 2 - TSN 2
-http://62.210.29.65:80/live.ts?channelId=218&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="TSN 3" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TSN 3" tvg-logo="" group-title="USA/CA Channels",TSN 3 - TSN 3
-http://62.210.29.65:80/live.ts?channelId=219&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="TSN 4" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TSN 4" tvg-logo="" group-title="USA/CA Channels",TSN 4 - TSN 4
-http://62.210.29.65:80/live.ts?channelId=220&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="TSN 5" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="TSN 5" tvg-logo="" group-title="USA/CA Channels",TSN 5 - TSN 5
-http://62.210.29.65:80/live.ts?channelId=221&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTS NET 360 HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SPORTS NET 360 HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET 360 HD - SPORTS NET 360 HD
-http://62.210.29.65:80/live.ts?channelId=222&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTS NET EAST HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SPORTS NET EAST HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET EAST HD - SPORTS NET EAST HD
-http://62.210.29.65:80/live.ts?channelId=223&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTS NET ONE HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SPORTS NET ONE HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET ONE HD - SPORTS NET ONE HD
-http://62.210.29.65:80/live.ts?channelId=224&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTS NET ONTARIO HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SPORTS NET ONTARIO HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET ONTARIO HD - SPORTS NET ONTARIO HD
-http://62.210.29.65:80/live.ts?channelId=225&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTS NET PACIFIC HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SPORTS NET PACIFIC HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET PACIFIC HD - SPORTS NET PACIFIC HD
-http://62.210.29.65:80/live.ts?channelId=226&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTS NET WEST HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SPORTS NET WEST HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET WEST HD - SPORTS NET WEST HD
-http://62.210.29.65:80/live.ts?channelId=227&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTS NET WORLD HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SPORTS NET WORLD HD" tvg-logo="" group-title="USA/CA Channels",SPORTS NET WORLD HD - SPORTS NET WORLD HD
-http://62.210.29.65:80/live.ts?channelId=228&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SPORTSNET ONE HD" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SPORTSNET ONE HD" tvg-logo="" group-title="USA/CA Channels",SPORTSNET ONE HD - SPORTSNET ONE HD
-http://62.210.29.65:80/live.ts?channelId=232&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="USA FOX SPORTS 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="USA FOX SPORTS 1" tvg-logo="" group-title="USA/CA Channels",USA FOX SPORTS 1 - USA FOX SPORTS 1
-http://62.210.29.65:80/live.ts?channelId=237&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="USA FOX SPORTS 2" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="USA FOX SPORTS 2" tvg-logo="" group-title="USA/CA Channels",USA FOX SPORTS 2 - USA FOX SPORTS 2
-http://62.210.29.65:80/live.ts?channelId=238&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="WWE Network" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="WWE Network" tvg-logo="" group-title="USA/CA Channels",WWE Network - WWE Network
-http://62.210.29.65:80/live.ts?channelId=256&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="BBC NEWS" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BBC NEWS" tvg-logo="" group-title="News Channels",BBC NEWS - BBC NEWS
-http://62.210.29.65:80/live.ts?channelId=257&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="CNN NEWS" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="CNN NEWS" tvg-logo="" group-title="News Channels",CNN NEWS - CNN NEWS
-http://62.210.29.65:80/live.ts?channelId=258&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="SKY NEWS" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="SKY NEWS" tvg-logo="" group-title="News Channels",SKY NEWS - SKY NEWS
-http://62.210.29.65:80/live.ts?channelId=259&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="BT SPORT BOX OFFICE" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="BT SPORT BOX OFFICE" tvg-logo="" group-title="PAY PER VIEW EVENTS",BT SPORT BOX OFFICE
-http://62.210.29.65:80/live.ts?channelId=315&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="PPV 1" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="PPV 1" tvg-logo="" group-title="PAY PER VIEW EVENTS",PPV 1 - PPV 1
-http://62.210.29.65:80/live.ts?channelId=328&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="PPV 2" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="PPV 2" tvg-logo="" group-title="PAY PER VIEW EVENTS",PPV 2 - PPV 2
-http://163.172.118.212:80/live.ts?channelId=329&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="PPV 3" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="PPV 3" tvg-logo="" group-title="PAY PER VIEW EVENTS",PPV 3 - PPV 3
-http://163.172.112.225:80/live.ts?channelId=330&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="PPV 4" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="PPV 4" tvg-logo="" group-title="PAY PER VIEW EVENTS",PPV 4 - PPV 4
-http://62.210.70.119:80/live.ts?channelId=331&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="PPV 5" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="PPV 5" tvg-logo="" group-title="PAY PER VIEW EVENTS",PPV 5 - PPV 5
-http://62.210.70.237:80/live.ts?channelId=332&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="UFC PREMS" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="UFC PREMS" tvg-logo="" group-title="PAY PER VIEW EVENTS",UFC PREMS
-http://163.172.112.225:80/live.ts?channelId=365&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-#EXTINF:-1 tvg-id="UFC FIGHT PASS" tvg-link="http://epgguide.net?epg=21&auth=261b5a83d88fa68b790e15ab6d21ea&.xml" tvg-name="UFC FIGHT PASS" tvg-logo="" group-title="PAY PER VIEW EVENTS",UFC FIGHT PASS
-http://163.172.112.225:80/live.ts?channelId=366&deviceMac=00:1A:79:BE:2F:F6&uid=1615
-------------
-#EXTINF:-1,ARABIC: BEIN NBA
-http://thepk.co:2086/enigma10/10enigma/50638
-#EXTINF:-1,ARABIC: BEIN SPORT
-http://thepk.co:2086/enigma10/10enigma/50637
-#EXTINF:-1,ARABIC: BEIN SPORTS 1
-http://thepk.co:2086/enigma10/10enigma/50636
-#EXTINF:-1,ARABIC: BEIN SPORTS 10
-http://thepk.co:2086/enigma10/10enigma/50627
-#EXTINF:-1,ARABIC: BEIN SPORTS 11
-http://thepk.co:2086/enigma10/10enigma/50626
-#EXTINF:-1,ARABIC: BEIN SPORTS 12
-http://thepk.co:2086/enigma10/10enigma/50625
-#EXTINF:-1,ARABIC: BEIN SPORTS 2
-http://thepk.co:2086/enigma10/10enigma/50635
-#EXTINF:-1,ARABIC: BEIN SPORTS 3
-http://thepk.co:2086/enigma10/10enigma/50634
-#EXTINF:-1,ARABIC: BEIN SPORTS 4
-http://thepk.co:2086/enigma10/10enigma/50633
-#EXTINF:-1,ARABIC: BEIN SPORTS 5
-http://thepk.co:2086/enigma10/10enigma/50632
-#EXTINF:-1,ARABIC: BEIN SPORTS 6
-http://thepk.co:2086/enigma10/10enigma/50631
-#EXTINF:-1,ARABIC: BEIN SPORTS 7
-http://thepk.co:2086/enigma10/10enigma/50630
-#EXTINF:-1,ARABIC: BEIN SPORTS 8
-http://thepk.co:2086/enigma10/10enigma/50629
-#EXTINF:-1,ARABIC: BEIN SPORTS 9
-http://thepk.co:2086/enigma10/10enigma/50628
-#EXTINF:-1,DUTCH: ZIGGO SPORT EXTRA
-http://thepk.co:2086/enigma10/10enigma/51500
-#EXTINF:-1,DUTCH: ZIGGO SPORT EXTRA 2
-http://thepk.co:2086/enigma10/10enigma/51499
-#EXTINF:-1,DUTCH: ZIGGO SPORT GOLF
-http://thepk.co:2086/enigma10/10enigma/51498
-#EXTINF:-1,DUTCH: ZIGGO SPORT RACING
-http://thepk.co:2086/enigma10/10enigma/51497
-#EXTINF:-1,DUTCH: ZIGGO SPORT SELECT
-http://thepk.co:2086/enigma10/10enigma/51496
-#EXTINF:-1,DUTCH: ZIGGO SPORT VOETBAL
-http://thepk.co:2086/enigma10/10enigma/51495
-#EXTINF:-1,FRENCH: BEIN SPORT MAX 10
-http://thepk.co:2086/enigma10/10enigma/51029
-#EXTINF:-1,FRENCH: BEIN SPORT MAX 4
-http://thepk.co:2086/enigma10/10enigma/51035
-#EXTINF:-1,FRENCH: BEIN SPORT MAX 5
-http://thepk.co:2086/enigma10/10enigma/51034
-#EXTINF:-1,FRENCH: BEIN SPORT MAX 6
-http://thepk.co:2086/enigma10/10enigma/51033
-#EXTINF:-1,FRENCH: BEIN SPORT MAX 7
-http://thepk.co:2086/enigma10/10enigma/51032
-#EXTINF:-1,FRENCH: BEIN SPORT MAX 8
-http://thepk.co:2086/enigma10/10enigma/51031
-#EXTINF:-1,FRENCH: BEIN SPORT MAX 9
-http://thepk.co:2086/enigma10/10enigma/51030
-#EXTINF:-1,FRENCH: BEIN SPORTS 1
-http://thepk.co:2086/enigma10/10enigma/51038
-#EXTINF:-1,FRENCH: BEIN SPORTS 2
-http://thepk.co:2086/enigma10/10enigma/51037
-#EXTINF:-1,FRENCH: BEIN SPORTS 3
-http://thepk.co:2086/enigma10/10enigma/51036
-#EXTINF:-1,GERMAN: SKY SPORT BUNDESLIGA 1
-http://thepk.co:2086/enigma10/10enigma/51113
-#EXTINF:-1,GERMAN: SKY SPORT BUNDESLIGA 2
-http://thepk.co:2086/enigma10/10enigma/51112
-#EXTINF:-1,GERMAN: SKY SPORT BUNDESLIGA 3[Live During Events Only]
-http://thepk.co:2086/enigma10/10enigma/51111
-#EXTINF:-1,GERMAN: SKY SPORT BUNDESLIGA 4[Live During Events Only]
-http://thepk.co:2086/enigma10/10enigma/51110
-#EXTINF:-1,GERMAN: SKY SPORT BUNDESLIGA 5[Live During Events Only]
-http://thepk.co:2086/enigma10/10enigma/51109
-#EXTINF:-1,GERMAN: SKY SPORT BUNDESLIGA 6[Live During Events Only]
-http://thepk.co:2086/enigma10/10enigma/51108
-#EXTINF:-1,GERMAN: SKY SPORT BUNDESLIGA 7[Live During Events Only]
-http://thepk.co:2086/enigma10/10enigma/51107
-#EXTINF:-1,ITALIAN: DAZN SPORT 1(Only Active During Event)
-http://thepk.co:2086/enigma10/10enigma/55388
-#EXTINF:-1,ITALIAN: DAZN SPORT 2(Only Active During Event)
-http://thepk.co:2086/enigma10/10enigma/55382
-#EXTINF:-1,ITALIAN: DAZN SPORT 3(Only Active During Event)
-http://thepk.co:2086/enigma10/10enigma/55381
-#EXTINF:-1,ITALIAN: DAZN SPORT 4(Only Active During Event)
-http://thepk.co:2086/enigma10/10enigma/55380
-#EXTINF:-1,ITALIAN: DAZN SPORT 5(Only Active During Event)
-http://thepk.co:2086/enigma10/10enigma/55379
-#EXTINF:-1,ITALIAN: DAZN SPORT 6(Only Active During Event)
-http://thepk.co:2086/enigma10/10enigma/55378
-#EXTINF:-1,ITALIAN: DAZN SPORT 7(Only Active During Event)
-http://thepk.co:2086/enigma10/10enigma/55377
-#EXTINF:-1,ITALIAN: DAZN SPORT 8(Only Active During Event)
-http://thepk.co:2086/enigma10/10enigma/55376
-#EXTINF:-1,ITALIAN: DAZN SPORT 9(Only Active During Event)
-http://thepk.co:2086/enigma10/10enigma/55375
-#EXTINF:-1,ITALIAN: DAZN SPORT 10(Only Active During Event)
-http://thepk.co:2086/enigma10/10enigma/55387
-#EXTINF:-1,ITALIAN: DAZN SPORT 11(Only Active During Event)
-http://thepk.co:2086/enigma10/10enigma/55386
-#EXTINF:-1,ITALIAN: DAZN SPORT 12(Only Active During Event)
-http://thepk.co:2086/enigma10/10enigma/55385
-#EXTINF:-1,ITALIAN: DAZN SPORT 13(Only Active During Event)
-http://thepk.co:2086/enigma10/10enigma/55384
-#EXTINF:-1,ITALIAN: DAZN SPORT 14(Only Active During Event)
-http://thepk.co:2086/enigma10/10enigma/55383
-#EXTINF:-1,TURKISH: BEIN SPORTS 1
-http://thepk.co:2086/enigma10/10enigma/52483
-#EXTINF:-1,TURKISH: BEIN SPORTS 2
-http://thepk.co:2086/enigma10/10enigma/52482
-#EXTINF:-1,TURKISH: BEIN SPORTS 3
-http://thepk.co:2086/enigma10/10enigma/52481
-#EXTINF:-1,TURKISH: BEIN SPORTS 4
-http://thepk.co:2086/enigma10/10enigma/52480
-#EXTINF:-1,TURKISH: BEIN SPORTS MAX 1
-http://thepk.co:2086/enigma10/10enigma/52479
-#EXTINF:-1,TURKISH: BEIN SPORTS MAX 2
-http://thepk.co:2086/enigma10/10enigma/52478
-----------
-#EXTINF:-1,===== Sky Sports ===================================================
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/4991
-#EXTINF:-1,Sports Box Office UK Live 1  Tyson Vs Schwarz Repeat every 25 mins
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/5286
-#EXTINF:-1,Sports Box Office UK Live 2
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/5060
-#EXTINF:-1,Sports Box Office UFC Fight Pass Live 4
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/4985
-#EXTINF:-1,Sports Box Office Dazn Live 3
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6092
-#EXTINF:-1,SKY SPORT News  HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7187
-#EXTINF:-1,SKY SPORT Sport Football HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7192
-#EXTINF:-1,SKY SPORT Main Event HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7193
-#EXTINF:-1,SKY SPORT Premi league  HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7194
-#EXTINF:-1,SKY SPORT Cricket  HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7189
-#EXTINF:-1,SKY SPORT Golf HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7188
-#EXTINF:-1,SKY SPORT F1 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7190
-#EXTINF:-1,SKY SPORT Action HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7191
-#EXTINF:-1,SKY SPORT RACING
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15312
-#EXTINF:-1,Sly Sport News
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6286
-#EXTINF:-1,Sly Sport Football
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6284
-#EXTINF:-1,Sly Sport Main Event
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6281
-#EXTINF:-1,Sly Sport Prem League
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6280
-#EXTINF:-1,Sly Sport Cricket
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6279
-#EXTINF:-1,Sly Sport Golf
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6285
-#EXTINF:-1,Sly Sport F/1
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6282
-#EXTINF:-1,Sly Sport Action
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6283
-#EXTINF:-1,Sly Sports Mix
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6287
-#EXTINF:-1,sly sports arena
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15185
-#EXTINF:-1,EUROSPORT 1 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/4980
-#EXTINF:-1,EUROSPORT 2 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/4979
-#EXTINF:-1,Chelsea TV
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/5179
-#EXTINF:-1,LFC TV HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/4969
-#EXTINF:-1,MUTV HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/4968
-#EXTINF:-1,Chelsea FC
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6031
-#EXTINF:-1,Rangers Fc Tv  (Live for Matches)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6032
-#EXTINF:-1,Leeds (Live for Matches)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15010
-#EXTINF:-1,LFC
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15009
-#EXTINF:-1,MUTV
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15008
-#EXTINF:-1,UK:.eir Sport 1
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/4971
-#EXTINF:-1,UK:.eirSport 2
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/4970
-#EXTINF:-1,Premier Sport HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/4981
-#EXTINF:-1,Premier Sports HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7185
-#EXTINF:-1,Premier sports 2
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15177
-#EXTINF:-1,Racing UK HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/4972
-#EXTINF:-1,At The Races SD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/4974
-#EXTINF:-1,At The Races /
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7186
-#EXTINF:-1,Racing UK HD /
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7184
-#EXTINF:-1,BoxNation SD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/4973
-#EXTINF:-1,Boxnation
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/5284
-#EXTINF:-1,TEN Cricket
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/4814
-#EXTINF:-1,TEN Sports 2
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/4813
-#EXTINF:-1,TEN Sports 3
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/4812
-#EXTINF:-1,MotorTv
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6385
-#EXTINF:-1,DE: DAZN 1
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/17347
-#EXTINF:-1,DE: DAZN 2
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/17348
-#EXTINF:-1,==============Prem League 3 pm Kickoffs===================
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/8561
-#EXTINF:-1,Le Sports FHD 1
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7151
-#EXTINF:-1,Le Sports FHD 2
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7150
-#EXTINF:-1,Le Sports FHD 3
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7149
-#EXTINF:-1,Le Sports FHD 4
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7148
-#EXTINF:-1,Le Sports FHD 5
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7147
-#EXTINF:-1,Le Sports FHD 6
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7146
-#EXTINF:-1,Le Sports FHD 7
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7145
-#EXTINF:-1,Le Sports 08
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15114
-#EXTINF:-1,Le Sports 09
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15113
-#EXTINF:-1,Le Sports 10
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15112
-#EXTINF:-1,NBC1:GOLD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6026
-#EXTINF:-1,NBC2:GOLD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6025
-#EXTINF:-1,NBC3 GOLD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6024
-#EXTINF:-1,NBC4: GOLD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6023
-#EXTINF:-1,NBC:5 GOLD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6022
-#EXTINF:-1,NBC6: GOLD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6021
-#EXTINF:-1,NBC7:GOLD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6020
-#EXTINF:-1,NBC Gold 08
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15176
-#EXTINF:-1,NBC Gold 09
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15175
-#EXTINF:-1,NBC Gold 10
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15174
-#EXTINF:-1,NBC Gold Mosaic
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15173
-#EXTINF:-1,NBC Gold Rush
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15172
-#EXTINF:-1,Fox Soccer Match Pass 1 (Match Time Only)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7156
-#EXTINF:-1,Fox Soccer Match Pass 2 (Match Time Only)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7155
-#EXTINF:-1,Fox Soccer Match Pass 3 (Match Time Only)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7154
-#EXTINF:-1,Fox Soccer Match Pass 4 (Match Time Only)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7153
-#EXTINF:-1,Fox Soccer Match Pass 5 (Match time only)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7152
-#EXTINF:-1,EPL:  Sportsnet 360 HD   [Main]
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/12361
-#EXTINF:-1,EPL:  Sportsnet One HD   [Main]
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/12360
-#EXTINF:-1,EPL:  Sportsnet World HD   [Main]
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/12359
-#EXTINF:-1,EX-YU: Pink Horror
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/18761
-#EXTINF:-1,EX-YU: Pink Sci-Fi & Fantasy
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/18760
-#EXTINF:-1,EX-YU: Pink Action
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/18762
-#EXTINF:-1,EX-YU: PINK COMEDY
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/18765
-#EXTINF:-1,EX-YU: PINK CRIME & MYSTERY
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/18764
-#EXTINF:-1,EX-YU: PINK MOVIES
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/18763
-#EXTINF:-1,EX-YU: Pink Thriller
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/18759
-#EXTINF:-1,EX-YU: Pink Western
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/18758
-#EXTINF:-1,=== Bein Sports ==================================================
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6307
-#EXTINF:-1,AR: BeIN Sports 11 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6198
-#EXTINF:-1,AR: BeIN Sports 12 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6197
-#EXTINF:-1,BEIN Sports 11. Eng
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/5511
-#EXTINF:-1,BEIN Sports 12. Eng
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/5510
-#EXTINF:-1,AR: BEIN SPORT 12 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7207
-#EXTINF:-1,AR: BEIN SPORT 11 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7208
-#EXTINF:-1,BEIN SPORT 1 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/2071
-#EXTINF:-1,BEIN SPORT 2 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/2073
-#EXTINF:-1,BEIN SPORT 3 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/2074
-#EXTINF:-1,BEIN SPORT 4 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/2075
-#EXTINF:-1,BEIN SPORT 5 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/2076
-#EXTINF:-1,BEIN SPORT 6 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/2077
-#EXTINF:-1,BEIN SPORT 7 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/2078
-#EXTINF:-1,BEIN SPORT 8 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/2079
-#EXTINF:-1,BEIN SPORT 9 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/2080
-#EXTINF:-1,BEIN SPORT 10 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/2072
-#EXTINF:-1,AR: BEIN SPORT 1 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7218
-#EXTINF:-1,AR: BEIN SPORT 2 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7217
-#EXTINF:-1,AR: BEIN SPORT 3 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7216
-#EXTINF:-1,AR: BEIN SPORT 4 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7215
-#EXTINF:-1,AR: BEIN SPORT 5 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7214
-#EXTINF:-1,AR: BEIN SPORT 6 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7213
-#EXTINF:-1,AR: BEIN SPORT 7 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7212
-#EXTINF:-1,AR: BEIN SPORT 8 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7211
-#EXTINF:-1,AR: BEIN SPORT 9 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7210
-#EXTINF:-1,AR: BEIN SPORT 10 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/7209
-#EXTINF:-1,===BT SPORTS=======================================
-1
 #EXTINF:-1,BT Sports 1 HD =
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6899
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6899.m3u8
 #EXTINF:-1,BT Sports 2 HD =
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6900
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6900.m3u8
 #EXTINF:-1,BT Sports 3 HD =
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6901
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6901.m3u8
 #EXTINF:-1,BT Sports ESPN =
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6902
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6902.m3u8
 #EXTINF:-1,BT Sports 1 HD (Backup)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6894
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6894.m3u8
 #EXTINF:-1,BT Sports 2 HD  (Backup)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6895
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6895.m3u8
 #EXTINF:-1,BT Sports 3 HD (Backup)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6896
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6896.m3u8
 #EXTINF:-1,BT Sport ESPN (Backup)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6893
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6893.m3u8
 #EXTINF:-1,UK: BT SPORTS EXTRA 1 SD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19125
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19125.m3u8
 #EXTINF:-1,UK: BT SPORTS EXTRA 2 SD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19124
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19124.m3u8
 #EXTINF:-1,UK: BT SPORTS EXTRA 3 SD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19123
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19123.m3u8
 #EXTINF:-1,UK: BT SPORTS EXTRA 4 SD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19122
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19122.m3u8
 #EXTINF:-1,UK: BT SPORTS EXTRA 5 SD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19121
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19121.m3u8
 #EXTINF:-1,UK: BT SPORTS EXTRA 6 SD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19120
-#EXTINF:-1,RTE News Now
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6223
-#EXTINF:-1,RTE One HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6222
-#EXTINF:-1,RTE Two HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6221
-#EXTINF:-1,TG4
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6219
-#EXTINF:-1,TV3 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6218
-#EXTINF:-1,=== Eleven Sports ================================================
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6308
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19120.m3u8
 #EXTINF:-1,UK: Eleven Sports 1 UK HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15018
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15018.m3u8
 #EXTINF:-1,UK: Eleven Sports 2 UK HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15017
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15017.m3u8
 #EXTINF:-1,TEN Sports 1
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15014
-#EXTINF:-1,====== EX-YU ======
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19307
-#EXTINF:-1,EX-YU: ARENA SPORT 1 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19306
-#EXTINF:-1,EX-YU: ARENA SPORT 2 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19305
-#EXTINF:-1,EX-YU: ARENA SPORT 3 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19304
-#EXTINF:-1,EX-YU: ARENA SPORT 4 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19303
-#EXTINF:-1,EX-YU: ARENA SPORT 5 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19302
-#EXTINF:-1,EX-YU: ARENA SPORT 6 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19301
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15014.m3u8
 #EXTINF:-1,|EX-YU| Arena Sport 1 HR
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15218
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15218.m3u8
 #EXTINF:-1,|EX-YU| Arena Sport 2 HR
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15217
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15217.m3u8
 #EXTINF:-1,|HR| Arena Sports 1 HD Croatia
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15219
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15219.m3u8
 #EXTINF:-1,|HR| Arena Sports 2 HD Croatia
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15220
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15220.m3u8
 #EXTINF:-1,|HR| Arena Sports 3 HD Croatia
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15221
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15221.m3u8
 #EXTINF:-1,|HR| Arena Sports 5 HD Croatia
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15222
-#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19294
-#EXTINF:-1,PT: ELEVEN SPORTS 1 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19293
-#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19292
-#EXTINF:-1,PT: ELEVEN SPORTS 2 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19291
-#EXTINF:-1,PT: ELEVEN SPORTS 3 HD (During Games Only)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19290
-#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD (During Games Only)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19289
-#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD (During Games Only)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19288
-#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD (During Games Only)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19287
-#EXTINF:-1,====USA Sports===================================
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/10750
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15222.m3u8
 #EXTINF:-1,3PM | NBC Golf
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6348
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6348.m3u8
 #EXTINF:-1,NBC Golf
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6091
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6091.m3u8
 #EXTINF:-1,MLB Network
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15542
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15542.m3u8
 #EXTINF:-1,Sportsnet 360 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6673
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6673.m3u8
 #EXTINF:-1,Sportsnet 360 HD*
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15536
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15536.m3u8
 #EXTINF:-1,Sportsnet East HD*
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15535
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15535.m3u8
 #EXTINF:-1,Sportsnet LA HD*
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15534
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15534.m3u8
 #EXTINF:-1,Sportsnet New York HD*
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15533
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15533.m3u8
 #EXTINF:-1,Sportsnet One HD*
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15532
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15532.m3u8
 #EXTINF:-1,Sportsnet Ontario HD*
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15531
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15531.m3u8
 #EXTINF:-1,Sportsnet Pacific HD*
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15530
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15530.m3u8
 #EXTINF:-1,Sportsnet West HD*
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15529
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15529.m3u8
 #EXTINF:-1,WWE Network
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15961
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15961.m3u8
 #EXTINF:-1,ESPN   01
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19081
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19081.m3u8
 #EXTINF:-1,ESPN   02
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19080
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19080.m3u8
 #EXTINF:-1,ESPN   03
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19079
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19079.m3u8
 #EXTINF:-1,ESPN   04
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19078
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19078.m3u8
 #EXTINF:-1,ESPN   05
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19077
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19077.m3u8
 #EXTINF:-1,ESPN   06
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19076
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19076.m3u8
 #EXTINF:-1,ESPN   07
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19075
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19075.m3u8
 #EXTINF:-1,ESPN   08
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19074
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19074.m3u8
 #EXTINF:-1,ESPN   09
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19073
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19073.m3u8
 #EXTINF:-1,ESPN   10
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/19072
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19072.m3u8
 #EXTINF:-1,Sportsnet World HD*
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15960
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15960.m3u8
 #EXTINF:-1,UFC Network
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15962
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15962.m3u8
 #EXTINF:-1,NBA Network
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15541
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15541.m3u8
 #EXTINF:-1,Live Events UFC 24/7 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/8375
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/8375.m3u8
 #EXTINF:-1,TSN 1 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6014
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6014.m3u8
 #EXTINF:-1,TSN 2 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6013
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6013.m3u8
 #EXTINF:-1,TSN 3 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6011
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6011.m3u8
 #EXTINF:-1,TSN 4 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6010
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6010.m3u8
 #EXTINF:-1,TSN 5 HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/6009
-#EXTINF:-1,NFL Network
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15540
-#EXTINF:-1,NFL Now Live
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15539
-#EXTINF:-1,==Bundesliga================================
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/15078
-#EXTINF:-1,DE: Sky Sport 1 FHD (Lokal)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/11567
-#EXTINF:-1,DE: Sky Sport 1 SD/HD
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/11566
-#EXTINF:-1,DE: Sky Sport 2 FHD (Lokal)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/11565
-#EXTINF:-1,DE: Sky Sport Bundesliga 1 FHD (Lokal)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/11564
-#EXTINF:-1,DE: Sky Sport Bundesliga 2 FHD (Lokal) (During Games only)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/11563
-#EXTINF:-1,DE: Sky Sport Bundesliga 3 FHD (Lokal) (During Games only)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/11562
-#EXTINF:-1,DE: Sky Sport Bundesliga 4 FHD (Lokal) (During Games only)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/11561
-#EXTINF:-1,DE: Sky Sport Bundesliga 5 FHD (Lokal) (During Games only)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/11560
-#EXTINF:-1,DE: Sky Sport Bundesliga 6 FHD (Lokal) (During Games only)
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/11559
-#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD ( During Games only )
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/11558
-#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD ( During Games only )
-http://deadpool.live:8080/ufkgveBFA1/z23xmjanHG/11557
--------------
-#EXTINF:-1,Francia | Bein Sports 1
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17571
-#EXTINF:-1,Francia | Bein Sports 10 Max
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17570
-#EXTINF:-1,Francia | Bein Sports 2
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17569
-#EXTINF:-1,Francia | Bein Sports 3
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17568
-#EXTINF:-1,Francia | Bein Sports 4 Max
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17567
-#EXTINF:-1,Francia | Bein Sports 5 Max
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17566
-#EXTINF:-1,Francia | Bein Sports 6 Max
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17565
-#EXTINF:-1,Francia | Bein Sports 7 Max
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17564
-#EXTINF:-1,Francia | Bein Sports 8 Max
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17563
-#EXTINF:-1,Francia | Bein Sports 9 Max
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17562
-#EXTINF:-1,Francia | RMC Sport 1
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17436
-#EXTINF:-1,Francia | RMC Sport 2 4K
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17435
-#EXTINF:-1,Francia | RMC Sport 3 4K
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17434
-#EXTINF:-1,Francia | RMC Sport 4 HD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17433
-#EXTINF:-1,Reino Unido | Sky Sports Action FHD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19223
-#EXTINF:-1,Reino Unido | Sky Sports Arena FHD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19222
-#EXTINF:-1,Reino Unido | Sky Sports Cricket FHD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19168
-#EXTINF:-1,Reino Unido | Sky Sports F1
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19161
-#EXTINF:-1,Reino Unido | Sky Sports F1 HD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19162
-#EXTINF:-1,Reino Unido | Sky Sports FootBall FHD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19167
-#EXTINF:-1,Reino Unido | Sky Sports Golf FHD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19165
-#EXTINF:-1,Reino Unido | Sky Sports Main Event FHD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19166
-#EXTINF:-1,Reino Unido | Sky Sports Mix FHD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19163
-#EXTINF:-1,Reino Unido | Sky Sports News FHD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19036
-#EXTINF:-1,Reino Unido | Sky Sports Premier League FHD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19164
-#EXTINF:-1,Reino Unido | Sky Sports Red Button 01
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19117
-#EXTINF:-1,Reino Unido | Sky Sports Red Button 02
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19116
-#EXTINF:-1,Reino Unido | Sky Sports Red Button 03
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19115
-#EXTINF:-1,Reino Unido | Sky Sports Red Button 04
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19114
-#EXTINF:-1,Reino Unido | Sky Sports Red Button 05
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19113
-#EXTINF:-1,Reino Unido | Sky Sports Red Button 06
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19112
-#EXTINF:-1,Reino Unido | Sky Sports Red Button 07
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19111
-#EXTINF:-1,Reino Unido | Sky Sports Red Button 08
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19110
-#EXTINF:-1,Reino Unido | Sky Sports Red Button 09
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19109
-#EXTINF:-1,Reino Unido | eir Sports 1
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19136
-#EXTINF:-1,Reino Unido | eir Sports 2
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19135
-#EXTINF:-1,Reino Unido | Eleven FHD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19128
-#EXTINF:-1,Reino Unido | Eleven Sports 1 (Belgium NL)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19092
-#EXTINF:-1,Reino Unido | Eleven Sports 1 (Test)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19134
-#EXTINF:-1,Reino Unido | Eleven Sports 2 (Belgium NL)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19091
-#EXTINF:-1,Reino Unido | Eleven Sports 2 (Test)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19133
-#EXTINF:-1,Reino Unido | Eleven Sports 2 HD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19090
-#EXTINF:-1,Reino Unido | Eleven Sports 3 (Belgium NL)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19089
-#EXTINF:-1,Reino Unido | Eleven Sports 3 (Poland)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19088
-#EXTINF:-1,Reino Unido | Eleven Sports 4 HD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19087
-#EXTINF:-1,Reino Unido | ELEVEN SPORTS HD (US)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19086
-#EXTINF:-1,Reino Unido | Eleven Sports La liga 24/7 (Test)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19130
-#EXTINF:-1,Reino Unido | BT Sport 1 FHD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19160
-#EXTINF:-1,Reino Unido | BT Sport 1 HD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19159
-#EXTINF:-1,Reino Unido | BT Sport 2 FHD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19158
-#EXTINF:-1,Reino Unido | BT SPORT 2 HD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19157
-#EXTINF:-1,Reino Unido | BT Sport 3 FHD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19156
-#EXTINF:-1,Reino Unido | BT SPORT 3 HD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19155
-#EXTINF:-1,Reino Unido | BT Sport ESPN
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19153
-#EXTINF:-1,Reino Unido | BT Sport ESPN FHD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19154
-#EXTINF:-1,Reino Unido | BT Sport Extra 1
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19152
-#EXTINF:-1,Reino Unido | BT Sport Extra 2
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19151
-#EXTINF:-1,Reino Unido | BT Sport Extra 3
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19150
-#EXTINF:-1,Reino Unido | BT Sport Extra 4
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19149
-#EXTINF:-1,Italia | Dazn 1 HD IT(DAZN Serie A 1)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19642
-#EXTINF:-1,Italia | Dazn 10 HD IT
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19641
-#EXTINF:-1,Italia | Dazn 2 HD IT
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19637
-#EXTINF:-1,Italia | Dazn 3 HD IT
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19636
-#EXTINF:-1,Italia | Dazn 4 HD IT
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19635
-#EXTINF:-1,Italia | Dazn 5 HD IT
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19634
-#EXTINF:-1,Italia | Dazn 6 HD IT
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19633
-#EXTINF:-1,Italia | Dazn 7 HD IT
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19632
-#EXTINF:-1,Italia | Dazn 8 HD IT
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19631
-#EXTINF:-1,Italia | Dazn 9 HD IT
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/19630
-#EXTINF:-1,Alemania | Sky Sport Bundesliga 1
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17405
-#EXTINF:-1,Alemania | Sky Sport Bundesliga 1 (ONLY MATCHTIME)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17406
-#EXTINF:-1,Alemania | Sky Sport Bundesliga 2
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17403
-#EXTINF:-1,Alemania | Sky Sport Bundesliga 2 (ONLY MATCHTIME)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17404
-#EXTINF:-1,Alemania | Sky Sport Bundesliga 3
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17401
-#EXTINF:-1,Alemania | Sky Sport Bundesliga 3 (ONLY MATCHTIME)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17402
-#EXTINF:-1,Alemania | Sky Sport Bundesliga 4
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17399
-#EXTINF:-1,Alemania | Sky Sport Bundesliga 4 (ONLY MATCHTIME)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17400
-#EXTINF:-1,Alemania | Sky Sport Bundesliga 5
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17397
-#EXTINF:-1,Alemania | Sky Sport Bundesliga 5 (ONLY MATCHTIME)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17398
-#EXTINF:-1,Alemania | Sky Sport Bundesliga 6
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17395
-#EXTINF:-1,Alemania | Sky Sport Bundesliga 6 (ONLY MATCHTIME)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17396
-#EXTINF:-1,Alemania | Sky Sport Bundesliga 7
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17393
-#EXTINF:-1,Alemania | Sky Sport Bundesliga 7 (ONLY MATCHTIME)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17394
-#EXTINF:-1,Alemania | Sky Sport Bundesliga 8
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/17392
-#EXTINF:-1,Deportes varios | Arena Sport 1
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24315
-#EXTINF:-1,Deportes varios | Arena Sport 2
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24314
-#EXTINF:-1,Deportes varios | Arena Sport 3
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24313
-#EXTINF:-1,Deportes varios | Arena Sport 4
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24312
-#EXTINF:-1,Deportes varios | Arena Sport 5
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24311
-#EXTINF:-1,Deportes varios | Boxnation HD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24300
-#EXTINF:-1,Deportes varios | Kombat Sport
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24301
-#EXTINF:-1,Deportes varios | Red Bull TV
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24303
-#EXTINF:-1,Deportes varios | Skynet Sports 1 (EN PRUEBAS)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24310
-#EXTINF:-1,Deportes varios | Skynet Sports 2 (EN PRUEBAS)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24309
-#EXTINF:-1,Deportes varios | Skynet Sports 3 (EN PRUEBAS)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24308
-#EXTINF:-1,Deportes varios | Skynet Sports 4
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24307
-#EXTINF:-1,Deportes varios | Skynet Sports 5
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24306
-#EXTINF:-1,Deportes varios | Skynet Sports 6
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24305
-#EXTINF:-1,Deportes varios | U-BEAT (eSports)
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24304
-#EXTINF:-1,Deportes varios | UFC
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24299
-#EXTINF:-1,Deportes varios | WWE FHD
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/24302
-#EXTINF:-1,Arabe | Beout Q Sports 1 Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13936
-#EXTINF:-1,Arabe | Beout Q Sports 10 Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13927
-#EXTINF:-1,Arabe | Beout Q Sports 2 Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13935
-#EXTINF:-1,Arabe | Beout Q Sports 3 Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13934
-#EXTINF:-1,Arabe | Beout Q Sports 4 Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13933
-#EXTINF:-1,Arabe | Beout Q Sports 5 Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13932
-#EXTINF:-1,Arabe | Beout Q Sports 6 Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13931
-#EXTINF:-1,Arabe | Beout Q Sports 7 Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13930
-#EXTINF:-1,Arabe | Beout Q Sports 8 Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13929
-#EXTINF:-1,Arabe | Beout Q Sports 9 Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13928
-#EXTINF:-1,Arabe | Bein Sports 10Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13944
-#EXTINF:-1,Arabe | Bein Sports 11Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13943
-#EXTINF:-1,Arabe | Bein Sports 12Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13942
-#EXTINF:-1,Arabe | Bein Sports 13Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13941
-#EXTINF:-1,Arabe | Bein Sports 14Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13940
-#EXTINF:-1,Arabe | Bein Sports 15Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13939
-#EXTINF:-1,Arabe | Bein Sports 16Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13938
-#EXTINF:-1,Arabe | Bein Sports 17Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13937
-#EXTINF:-1,Arabe | Bein Sports 1Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13953
-#EXTINF:-1,Arabe | Bein Sports 2Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13952
-#EXTINF:-1,Arabe | Bein Sports 3Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13951
-#EXTINF:-1,Arabe | Bein Sports 4Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13950
-#EXTINF:-1,Arabe | Bein Sports 5Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13949
-#EXTINF:-1,Arabe | Bein Sports 6Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13948
-#EXTINF:-1,Arabe | Bein Sports 7Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13947
-#EXTINF:-1,Arabe | Bein Sports 8Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13946
-#EXTINF:-1,Arabe | Bein Sports 9Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13945
-#EXTINF:-1,Arabe | Bein Sports Global Hd
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13979
-#EXTINF:-1,Arabe | Bein Sports Hd1 Hevc Vip
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13926
-#EXTINF:-1,Arabe | Bein Sports Hd1 Hs
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13963
-#EXTINF:-1,Arabe | Bein Sports Hd1 Local
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13973
-#EXTINF:-1,Arabe | Bein Sports Hd10 Hevc Vip
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13917
-#EXTINF:-1,Arabe | Bein Sports Hd10 Hs
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13954
-#EXTINF:-1,Arabe | Bein Sports Hd10 Local
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13964
-#EXTINF:-1,Arabe | Bein Sports Hd2 Hevc Vip
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13925
-#EXTINF:-1,Arabe | Bein Sports Hd2 Hs
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13962
-#EXTINF:-1,Arabe | Bein Sports Hd2 Local
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13972
-#EXTINF:-1,Arabe | Bein Sports Hd3 Hevc Vip
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13924
-#EXTINF:-1,Arabe | Bein Sports Hd3 Hs
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13961
-#EXTINF:-1,Arabe | Bein Sports Hd3 Local
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13971
-#EXTINF:-1,Arabe | Bein Sports Hd4 Hevc Vip
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13923
-#EXTINF:-1,Arabe | Bein Sports Hd4 Hs
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13960
-#EXTINF:-1,Arabe | Bein Sports Hd4 Local
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13970
-#EXTINF:-1,Arabe | Bein Sports Hd5 Hevc Vip
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13922
-#EXTINF:-1,Arabe | Bein Sports Hd5 Hs
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13959
-#EXTINF:-1,Arabe | Bein Sports Hd5 Local
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13969
-#EXTINF:-1,Arabe | Bein Sports Hd6 Hevc Vip
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13921
-#EXTINF:-1,Arabe | Bein Sports Hd6 Hs
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13958
-#EXTINF:-1,Arabe | Bein Sports Hd6 Local
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13968
-#EXTINF:-1,Arabe | Bein Sports Hd7 Hevc Vip
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13920
-#EXTINF:-1,Arabe | Bein Sports Hd7 Hs
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13957
-#EXTINF:-1,Arabe | Bein Sports Hd7 Local
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13967
-#EXTINF:-1,Arabe | Bein Sports Hd8 Hevc Vip
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13919
-#EXTINF:-1,Arabe | Bein Sports Hd8 Hs
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13956
-#EXTINF:-1,Arabe | Bein Sports Hd8 Local
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13966
-#EXTINF:-1,Arabe | Bein Sports Hd9 Hevc Vip
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13918
-#EXTINF:-1,Arabe | Bein Sports Hd9 Hs
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13955
-#EXTINF:-1,Arabe | Bein Sports Hd9 Local
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13965
-#EXTINF:-1,Arabe | Bein Sports Max 1
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13977
-#EXTINF:-1,Arabe | Bein Sports Max 2
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13976
-#EXTINF:-1,Arabe | Bein Sports Max 3
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13975
-#EXTINF:-1,Arabe | Bein Sports Max 4
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13974
-#EXTINF:-1,Arabe | Bein Sports Nba
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13978
-#EXTINF:-1,Arabe | Bein Sports News
-http://quisqueyatv.live:25461/juanjesus/7CXVhJloUh/13980
---------------
-#EXTINF:-1,PT | Eleven Sports 6 HD
-http://1xs.mytvxweb.me:25461/1234/1234/283234
-#EXTINF:-1,PT | Eleven Sports 5 HD
-http://1xs.mytvxweb.me:25461/1234/1234/283233
-#EXTINF:-1,PT | Eleven Sports 4 HD
-http://1xs.mytvxweb.me:25461/1234/1234/283232
-#EXTINF:-1,PT | Eleven Sports 3 HD
-http://1xs.mytvxweb.me:25461/1234/1234/283231
-#EXTINF:-1,PT | Eleven Sports 2 HD
-http://1xs.mytvxweb.me:25461/1234/1234/283230
-#EXTINF:-1,PT | Eleven Sports 1 HD
-http://1xs.mytvxweb.me:25461/1234/1234/283229
-#EXTINF:-1,FR | Bein max 4-
-http://1xs.mytvxweb.me:25461/1234/1234/16142
-#EXTINF:-1,FR | Bein Sports 01 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/1434
-#EXTINF:-1,FR | Bein Sports 02 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/1433
-#EXTINF:-1,FR | Bein Sports 03 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/1432
-#EXTINF:-1,FR | Bein Sports 1 HD (1080P)-
-http://1xs.mytvxweb.me:25461/1234/1234/26354
-#EXTINF:-1,FR | Bein Sports 2 HD (1080P)-
-http://1xs.mytvxweb.me:25461/1234/1234/26353
-#EXTINF:-1,FR | Bein Sports 3 HD (1080P)-
-http://1xs.mytvxweb.me:25461/1234/1234/26352
-#EXTINF:-1,FR | Bein Sports 3HD-
-http://1xs.mytvxweb.me:25461/1234/1234/16135
-#EXTINF:-1,FR | BEIN SPORTS MAX 4-
-http://1xs.mytvxweb.me:25461/1234/1234/844
-#EXTINF:-1,FR | BEIN SPORTS MAX 5-
-http://1xs.mytvxweb.me:25461/1234/1234/845
-#EXTINF:-1,FR | BEIN SPORTS MAX 6-
-http://1xs.mytvxweb.me:25461/1234/1234/846
-#EXTINF:-1,FR | Bein Sport Max 6-
-http://1xs.mytvxweb.me:25461/1234/1234/16139
-#EXTINF:-1,FR | BEIN SPORTS MAX 7-
-http://1xs.mytvxweb.me:25461/1234/1234/847
-#EXTINF:-1,FR | Bein Sport Max 7-
-http://1xs.mytvxweb.me:25461/1234/1234/16138
-#EXTINF:-1,FR | Bein Sport Max 8-
-http://1xs.mytvxweb.me:25461/1234/1234/16137
-#EXTINF:-1,FR | Bein Sport Max 9-
-http://1xs.mytvxweb.me:25461/1234/1234/16136
-#EXTINF:-1,FR | Bein Sport Max 10-
-http://1xs.mytvxweb.me:25461/1234/1234/16141
-#EXTINF:-1,AR VIP | Bein NBA HD-
-http://1xs.mytvxweb.me:25461/1234/1234/13734
-#EXTINF:-1,AR VIP | Bein Sport (Backup2) 01-
-http://1xs.mytvxweb.me:25461/1234/1234/13730
-#EXTINF:-1,AR VIP | Bein Sport (Backup2) 02-
-http://1xs.mytvxweb.me:25461/1234/1234/13729
-#EXTINF:-1,AR VIP | Bein Sport (Backup2) 03-
-http://1xs.mytvxweb.me:25461/1234/1234/13728
-#EXTINF:-1,AR VIP | Bein Sport (Backup2) 04-
-http://1xs.mytvxweb.me:25461/1234/1234/13727
-#EXTINF:-1,AR VIP | Bein Sport (Backup2) 05-
-http://1xs.mytvxweb.me:25461/1234/1234/13726
-#EXTINF:-1,AR VIP | Bein Sport (Backup2) 06-
-http://1xs.mytvxweb.me:25461/1234/1234/13725
-#EXTINF:-1,AR VIP | Bein Sport (Backup2) 07-
-http://1xs.mytvxweb.me:25461/1234/1234/13724
-#EXTINF:-1,AR VIP | Bein Sport (Backup2) 08 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/13732
-#EXTINF:-1,AR VIP | Bein Sport (Backup2) 09 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/13731
-#EXTINF:-1,AR VIP | Bein Sport (Backup2) 10 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/13733
-#EXTINF:-1,AR VIP | Bein Sport 01 HD (Backup)-
-http://1xs.mytvxweb.me:25461/1234/1234/13821
-#EXTINF:-1,AR VIP | Bein Sport 02 HD (Backup)-
-http://1xs.mytvxweb.me:25461/1234/1234/13817
-#EXTINF:-1,AR VIP | Bein Sport 03 HD (Backup)-
-http://1xs.mytvxweb.me:25461/1234/1234/13816
-#EXTINF:-1,AR VIP | Bein Sport 04 HD (Backup)-
-http://1xs.mytvxweb.me:25461/1234/1234/13815
-#EXTINF:-1,AR VIP | Bein Sport 05 HD (Backup)-
-http://1xs.mytvxweb.me:25461/1234/1234/13814
-#EXTINF:-1,AR VIP | Bein Sport 06 HD (Backup)-
-http://1xs.mytvxweb.me:25461/1234/1234/13813
-#EXTINF:-1,AR VIP | Bein Sport 07 HD (Backup)-
-http://1xs.mytvxweb.me:25461/1234/1234/13812
-#EXTINF:-1,AR VIP | Bein Sport 08 HD (Backup)-
-http://1xs.mytvxweb.me:25461/1234/1234/13811
-#EXTINF:-1,AR VIP | Bein Sport 09 HD (Backup)-
-http://1xs.mytvxweb.me:25461/1234/1234/13810
-#EXTINF:-1,AR VIP | Bein Sport 10 HD (Backup)-
-http://1xs.mytvxweb.me:25461/1234/1234/13820
-#EXTINF:-1,AR VIP | Bein Sport 11 HD (Backup)-
-http://1xs.mytvxweb.me:25461/1234/1234/13819
-#EXTINF:-1,AR VIP | Bein Sport 12 HD (Backup)-
-http://1xs.mytvxweb.me:25461/1234/1234/13818
-#EXTINF:-1,AR VIP | Bein max-
-http://1xs.mytvxweb.me:25461/1234/1234/13743
-#EXTINF:-1,AR VIP | Bein max 1-
-http://1xs.mytvxweb.me:25461/1234/1234/13742
-#EXTINF:-1,AR VIP | Bein Max 1 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/13741
-#EXTINF:-1,AR VIP | Bein Max 2 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/13740
-#EXTINF:-1,AR VIP | Bein Max 3 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/13739
-#EXTINF:-1,AR | beIN SPorts-
-http://1xs.mytvxweb.me:25461/1234/1234/14041
-#EXTINF:-1,AR | beIN Sports 1 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/14040
-#EXTINF:-1,AR | Bein Sports 02 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/1039
-#EXTINF:-1,AR | beIN Sports 3 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/14030
-#EXTINF:-1,AR | beIN Sports 4 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/14029
-#EXTINF:-1,AR | beIN Sports 5 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/14028
-#EXTINF:-1,AR | beIN Sports 6 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/14027
-#EXTINF:-1,AR | beIN Sports 7 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/14026
-#EXTINF:-1,AR | beIN Sports 8 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/1045
-#EXTINF:-1,AR | beIN Sports 9 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/14024
-#EXTINF:-1,AR | beIN Sports 10 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/14039
-#EXTINF:-1,AR | beIN Sports 11 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/14038
-#EXTINF:-1,AR | beIN Sports 12 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/14037
-#EXTINF:-1,AR | beIN Sports 13 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/14036
-#EXTINF:-1,AR | beIN Sports 14 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/14035
-#EXTINF:-1,AR | Bein Sports 15 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/14034
-#EXTINF:-1,AR | Bein Sports 16 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/14033
-#EXTINF:-1,AR | Bein Sports 17 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/14032
-#EXTINF:-1,DE | Sky Sport 01 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/15921
-#EXTINF:-1,DE | Sky Sport 2-
-http://1xs.mytvxweb.me:25461/1234/1234/1516
-#EXTINF:-1,DE | Sky Sport 02 HD-
-http://1xs.mytvxweb.me:25461/1234/1234/15918
-#EXTINF:-1,DE | Sky Sport 03 HD ( During Games only )-
-http://1xs.mytvxweb.me:25461/1234/1234/15917
-#EXTINF:-1,DE | Sky Sport 04 HD ( During Games only )-
-http://1xs.mytvxweb.me:25461/1234/1234/15916
-#EXTINF:-1,DE | Sky Sport 05 HD ( During Games only )-
-http://1xs.mytvxweb.me:25461/1234/1234/15915
-#EXTINF:-1,DE | Sky Sport 06 HD ( During Games only )-
-http://1xs.mytvxweb.me:25461/1234/1234/15914
-#EXTINF:-1,DE | Sky Sport 07 HD ( During Games only )-
-http://1xs.mytvxweb.me:25461/1234/1234/15913
-#EXTINF:-1,DE | Sky Sport 08 HD ( During Games only )-
-http://1xs.mytvxweb.me:25461/1234/1234/15912
-#EXTINF:-1,DE | Sky Sport 09 HD ( During Games only )-
-http://1xs.mytvxweb.me:25461/1234/1234/15911
-#EXTINF:-1,DE | Sky Sport 0austria-
-http://1xs.mytvxweb.me:25461/1234/1234/15910
-#EXTINF:-1,DE | Sky Sport 0News HD-
-http://1xs.mytvxweb.me:25461/1234/1234/1517
-#EXTINF:-1,DE | Sky Sport 10 HD ( During Games only )-
-http://1xs.mytvxweb.me:25461/1234/1234/15920
-#EXTINF:-1,DE | Sky Sport 11 HD ( During Games only )-
-http://1xs.mytvxweb.me:25461/1234/1234/15919
-#EXTINF:-1,DE | Sky Sport Bundesliga 01 HD (1080P)-
-http://1xs.mytvxweb.me:25461/1234/1234/15909
-#EXTINF:-1,DE | Sky Sport Bundesliga 02 HD (1080P)-
-http://1xs.mytvxweb.me:25461/1234/1234/15907
-#EXTINF:-1,DE | Sky Sport Bundesliga 03 HD (1080P)-
-http://1xs.mytvxweb.me:25461/1234/1234/15906
-#EXTINF:-1,DE | Sky Sport Bundesliga 04 HD (1080P)-
-http://1xs.mytvxweb.me:25461/1234/1234/15905
-#EXTINF:-1,DE | Sky Sport Bundesliga 05 HD (1080P)-
-http://1xs.mytvxweb.me:25461/1234/1234/15904
-#EXTINF:-1,DE | Sky Sport Bundesliga 06 HD (1080P)-
-http://1xs.mytvxweb.me:25461/1234/1234/15903
-#EXTINF:-1,DE | Sky Sport Bundesliga 07 HD (1080P)-
-http://1xs.mytvxweb.me:25461/1234/1234/15902
-#EXTINF:-1,DE | Sky Sport Bundesliga 08 HD (1080P)-
-http://1xs.mytvxweb.me:25461/1234/1234/15901
-#EXTINF:-1,DE | Sky Sport Bundesliga 09 HD (1080P)-
-http://1xs.mytvxweb.me:25461/1234/1234/15900
-#EXTINF:-1,DE | Sky Sport Bundesliga 10 HD (1080P)-
-http://1xs.mytvxweb.me:25461/1234/1234/15908
-#EXTINF:-1,DTH | SKYNET SPORTS 1 SD-
-http://1xs.mytvxweb.me:25461/1234/1234/839
-#EXTINF:-1,VIP | SKYNET SPORTS 1 SD-
-http://1xs.mytvxweb.me:25461/1234/1234/13760
-#EXTINF:-1,DTH | SKYNET SPORTS 2 SD-
-http://1xs.mytvxweb.me:25461/1234/1234/838
-#EXTINF:-1,VIP | SKYNET SPORTS 2 SD-
-http://1xs.mytvxweb.me:25461/1234/1234/13759
-#EXTINF:-1,DTH | SKYNET SPORTS 3 SD-
-http://1xs.mytvxweb.me:25461/1234/1234/837
-#EXTINF:-1,VIP | SKYNET SPORTS 3 SD-
-http://1xs.mytvxweb.me:25461/1234/1234/13758
-#EXTINF:-1,DTH | SKYNET SPORTS 4 SD-
-http://1xs.mytvxweb.me:25461/1234/1234/836
-#EXTINF:-1,VIP | SKYNET SPORTS 4 SD-
-http://1xs.mytvxweb.me:25461/1234/1234/13757
-#EXTINF:-1,DTH | SKYNET SPORTS 5 SD-
-http://1xs.mytvxweb.me:25461/1234/1234/835
-#EXTINF:-1,VIP | SKYNET SPORTS 5 SD-
-http://1xs.mytvxweb.me:25461/1234/1234/13756
-#EXTINF:-1,DTH | SKYNET SPORTS 6 SD-
-http://1xs.mytvxweb.me:25461/1234/1234/834
-#EXTINF:-1,VIP | SKYNET SPORTS 6 SD-
-http://1xs.mytvxweb.me:25461/1234/1234/13755
-#EXTINF:-1,DTH | Skynet Sports HD-
-http://1xs.mytvxweb.me:25461/1234/1234/13809
-#EXTINF:-1,ES | La Liga 123 SD
-http://1xs.mytvxweb.me:25461/1234/1234/283292
-#EXTINF:-1,ES | La Liga Bar 1 UHD 4K
-http://1xs.mytvxweb.me:25461/1234/1234/283293
-#EXTINF:-1,ES | La Liga 123 Multi
-http://1xs.mytvxweb.me:25461/1234/1234/283295
-#EXTINF:-1,ES | LA LIGA 123 MULTI 2
-http://1xs.mytvxweb.me:25461/1234/1234/283296
-#EXTINF:-1,ES | LA LIGA 123 MULTI 3
-http://1xs.mytvxweb.me:25461/1234/1234/283297
-#EXTINF:-1,ES | BEIN LALIGA3 (event only)
-http://1xs.mytvxweb.me:25461/1234/1234/283298
-#EXTINF:-1,ES | BEIN LALIGA2 (event only)
-http://1xs.mytvxweb.me:25461/1234/1234/283299
-#EXTINF:-1,ES | BEIN LALIGA1 (event only)
-http://1xs.mytvxweb.me:25461/1234/1234/283300
-#EXTINF:-1,ES | MULTIFUT. 4
-http://1xs.mytvxweb.me:25461/1234/1234/283301
-#EXTINF:-1,ES | MULTIFUT. 3
-http://1xs.mytvxweb.me:25461/1234/1234/283302
-#EXTINF:-1,ES | MULTIFUT. 2
-http://1xs.mytvxweb.me:25461/1234/1234/283303
-#EXTINF:-1,ES | MULTIFUT. 1
-http://1xs.mytvxweb.me:25461/1234/1234/283304
-#EXTINF:-1,ES | MULTIDEP.5
-http://1xs.mytvxweb.me:25461/1234/1234/283305
-#EXTINF:-1,ES | MULTIDEP.4
-http://1xs.mytvxweb.me:25461/1234/1234/283306
-#EXTINF:-1,ES | MULTIDEP.3
-http://1xs.mytvxweb.me:25461/1234/1234/283307
-#EXTINF:-1,ES | MULTIDEP.2
-http://1xs.mytvxweb.me:25461/1234/1234/283308
-#EXTINF:-1,ES | MULTIDEP.1
-http://1xs.mytvxweb.me:25461/1234/1234/283309
-#EXTINF:-1,ES | M.Partidazo HD 4K
-http://1xs.mytvxweb.me:25461/1234/1234/283310
-#EXTINF:-1,ES | M.Partidazo HD
-http://1xs.mytvxweb.me:25461/1234/1234/283311
-#EXTINF:-1,ES | BEINLALIGA8
-http://1xs.mytvxweb.me:25461/1234/1234/283312
-#EXTINF:-1,ES | BEINLALIGA7
-http://1xs.mytvxweb.me:25461/1234/1234/283313
-#EXTINF:-1,ES | BEINLALIGA6
-http://1xs.mytvxweb.me:25461/1234/1234/283314
-#EXTINF:-1,ES | BEINLALIGA5
-http://1xs.mytvxweb.me:25461/1234/1234/283315
-#EXTINF:-1,ES | BEINLALIGA4
-http://1xs.mytvxweb.me:25461/1234/1234/283316
-#EXTINF:-1,ES | BEINLALIGA3
-http://1xs.mytvxweb.me:25461/1234/1234/283317
-#EXTINF:-1,ES | BEINLALIGA2
-http://1xs.mytvxweb.me:25461/1234/1234/283318
-#EXTINF:-1,ES | BEINLALIGA1
-http://1xs.mytvxweb.me:25461/1234/1234/283319
-#EXTINF:-1,ES | Liga de Campeones 8
-http://1xs.mytvxweb.me:25461/1234/1234/283320
-#EXTINF:-1,ES | Liga de Campeones 7
-http://1xs.mytvxweb.me:25461/1234/1234/283321
-#EXTINF:-1,ES | Liga de Campeones 6
-http://1xs.mytvxweb.me:25461/1234/1234/283322
-#EXTINF:-1,ES | Liga de Campeones 5
-http://1xs.mytvxweb.me:25461/1234/1234/283323
-#EXTINF:-1,ES | Liga de Campeones 4
-http://1xs.mytvxweb.me:25461/1234/1234/283324
-#EXTINF:-1,ES | Liga de Campeones 3
-http://1xs.mytvxweb.me:25461/1234/1234/283325
-#EXTINF:-1,ES | Liga de Campeones 2
-http://1xs.mytvxweb.me:25461/1234/1234/283326
-#EXTINF:-1,ES | Liga de Campeones 1
-http://1xs.mytvxweb.me:25461/1234/1234/283327
-#EXTINF:-1,ES | Partidazo HD ( SOLO EVENTOS )
-http://1xs.mytvxweb.me:25461/1234/1234/283328
-#EXTINF:-1,ES | MULTIFUTBOL  8
-http://1xs.mytvxweb.me:25461/1234/1234/283329
-#EXTINF:-1,ES | MULTIFUTBOL  7
-http://1xs.mytvxweb.me:25461/1234/1234/283330
-#EXTINF:-1,ES | MULTIFUTBOL  6
-http://1xs.mytvxweb.me:25461/1234/1234/283331
-#EXTINF:-1,ES | MULTIFUTBOL  5
-http://1xs.mytvxweb.me:25461/1234/1234/283332
-#EXTINF:-1,ES | MULTIFUTBOL  4
-http://1xs.mytvxweb.me:25461/1234/1234/283333
-#EXTINF:-1,ES | MULTIFUTBOL  3
-http://1xs.mytvxweb.me:25461/1234/1234/283334
-#EXTINF:-1,ES | MULTIFUTBOL  2
-http://1xs.mytvxweb.me:25461/1234/1234/283335
-#EXTINF:-1,ES | MULTIFUTBOL  1
-http://1xs.mytvxweb.me:25461/1234/1234/283336
-#EXTINF:-1,ES | MULTIDEPORTE  7
-http://1xs.mytvxweb.me:25461/1234/1234/283337
-#EXTINF:-1,ES | MULTIDEPORTE  6
-http://1xs.mytvxweb.me:25461/1234/1234/283338
-#EXTINF:-1,ES | MULTIDEPORTE  5
-http://1xs.mytvxweb.me:25461/1234/1234/283339
-#EXTINF:-1,ES | MULTIDEPORTE  4
-http://1xs.mytvxweb.me:25461/1234/1234/283340
-#EXTINF:-1,ES | MULTIDEPORTE  3
-http://1xs.mytvxweb.me:25461/1234/1234/283341
-#EXTINF:-1,ES | MULTIDEPORTE  1
-http://1xs.mytvxweb.me:25461/1234/1234/283342
-#EXTINF:-1,ES | MULTIDEPORTE
-http://1xs.mytvxweb.me:25461/1234/1234/283343
-#EXTINF:-1,ES | MULTI DEPORTE  2
-http://1xs.mytvxweb.me:25461/1234/1234/283344
-#EXTINF:-1,ES | LIGA DE CAMPEONES4  ESPANA
-http://1xs.mytvxweb.me:25461/1234/1234/283345
-#EXTINF:-1,ES | LIGA DE CAMPEONES UHD 4K
-http://1xs.mytvxweb.me:25461/1234/1234/283346
-#EXTINF:-1,ES | LIGA DE CAMPEONES 8 ESPANA
-http://1xs.mytvxweb.me:25461/1234/1234/283347
-#EXTINF:-1,ES | LIGA DE CAMPEONES 7  ESPANA
-http://1xs.mytvxweb.me:25461/1234/1234/283348
-#EXTINF:-1,ES | LIGA DE CAMPEONES 6  ESPANA
-http://1xs.mytvxweb.me:25461/1234/1234/283349
-#EXTINF:-1,ES | LIGA DE CAMPEONES 5  ESPANA
-http://1xs.mytvxweb.me:25461/1234/1234/283350
-#EXTINF:-1,ES | LIGA DE CAMPEONES 3  ESPANA
-http://1xs.mytvxweb.me:25461/1234/1234/283351
-#EXTINF:-1,ES | LIGA DE CAMPEONES 2  ESPANA
-http://1xs.mytvxweb.me:25461/1234/1234/283352
-#EXTINF:-1,ES | LIGA DE CAMPEONES 1 HD
-http://1xs.mytvxweb.me:25461/1234/1234/283353
-#EXTINF:-1,ES | LIGA DE CAMPEONES 1 ESPANA
-http://1xs.mytvxweb.me:25461/1234/1234/283354
-#EXTINF:-1,ES | LIGA CAMPEONES HD
-http://1xs.mytvxweb.me:25461/1234/1234/283355
-#EXTINF:-1,ES | LIGA CAMPEONES 2 HD
-http://1xs.mytvxweb.me:25461/1234/1234/283356
-#EXTINF:-1,ES | LIGA CAMPEONES
-http://1xs.mytvxweb.me:25461/1234/1234/283357
-#EXTINF:-1,ES | LA LIGATV BAR 1
-http://1xs.mytvxweb.me:25461/1234/1234/283358
-#EXTINF:-1,ES | BEIN LALIGA HD
-http://1xs.mytvxweb.me:25461/1234/1234/283359
-#EXTINF:-1,ES | BEIN LALIGA FHD
-http://1xs.mytvxweb.me:25461/1234/1234/283360
-#EXTINF:-1,ES | BEIN LALIGA 8
-http://1xs.mytvxweb.me:25461/1234/1234/283361
-#EXTINF:-1,ES | BEIN LALIGA 7
-http://1xs.mytvxweb.me:25461/1234/1234/283362
-#EXTINF:-1,ES | BEIN LALIGA 6
-http://1xs.mytvxweb.me:25461/1234/1234/283363
-#EXTINF:-1,ES | BEIN LALIGA 2 FHD
-http://1xs.mytvxweb.me:25461/1234/1234/283364
-#EXTINF:-1,ES | BEIN LALIGA 1 HD
-http://1xs.mytvxweb.me:25461/1234/1234/283365
-#EXTINF:-1,ES | BEIN LALIGA 1
-http://1xs.mytvxweb.me:25461/1234/1234/283366
-#EXTINF:-1,ES | BEIN LALIGA
-http://1xs.mytvxweb.me:25461/1234/1234/283367
-#EXTINF:-1,ES | BEIN  LALIGA 2
-http://1xs.mytvxweb.me:25461/1234/1234/283368
-#EXTINF:-1,ES | BEIN LALIGA 5
-http://1xs.mytvxweb.me:25461/1234/1234/283369
-#EXTINF:-1,ES | BEIN  LALIGA 4
-http://1xs.mytvxweb.me:25461/1234/1234/283370
-#EXTINF:-1,ES | BEIN  LALIGA 3
-http://1xs.mytvxweb.me:25461/1234/1234/283371
-------------
-#EXTINF:-1,REAL MADRID TV
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/6806
-#EXTINF:-1,AR: Dubai Sports
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5172
-#EXTINF:-1,AR: Abu Dhabi Sports
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5169
-#EXTINF:-1,AR: Abu Dhabi Sports 2
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5168
-#EXTINF:-1,AR: Abu Dhabi Sports 2 HD (Opt-1)
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5167
-#EXTINF:-1,AR: Abu Dhabi Sports 2 HD (Opt-2)
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5166
-#EXTINF:-1,AR: Abu Dhabi Sports 2 HD (Opt-3)
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5165
-#EXTINF:-1,AR: Abu Dhabi Sports 2 SD (Opt-2)
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5164
-#EXTINF:-1,AR: Abu Dhabi Sports HD (Opt-1)
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5163
-#EXTINF:-1,AR: Abu Dhabi Sports HD (Opt-2)
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5162
-#EXTINF:-1,AR: Abu Dhabi Sports HD (Opt-3)
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5161
-#EXTINF:-1,AR: Abu Dhabi Sports SD
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5160
-#EXTINF:-1,AR: Al Kass 1 Sports
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5159
-#EXTINF:-1,AR: Al Kass Sports 2
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5158
-#EXTINF:-1,AR: Al Kass Sports 3
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5157
-#EXTINF:-1,AR: Al Kass Sports 5
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5156
-#EXTINF:-1,AR: Dubai Sports 4 HD
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5155
-#EXTINF:-1,AR: KTV Sport
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5153
-#EXTINF:-1,BR: All Sports
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5147
-#EXTINF:-1,EUROSPORT 1
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/4594
-#EXTINF:-1,EUROSPORT2
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/4595
-#EXTINF:-1,AD SPORT 1 HD
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5089
-#EXTINF:-1,AD SPORT 2 HD
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5088
-#EXTINF:-1,Turkmenistan Sport
-http://145.239.67.23:25461/0K5BosSVVn/NAYj8vjLdM/5020
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6009.m3u8
+#EXTINF:-1,SKY SPORT News  HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7187.m3u8
+#EXTINF:-1,SKY SPORT Sport Football HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7192.m3u8
+#EXTINF:-1,SKY SPORT Main Event HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7193.m3u8
+#EXTINF:-1,SKY SPORT Premi league  HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7194.m3u8
+#EXTINF:-1,SKY SPORT Cricket  HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7189.m3u8
+#EXTINF:-1,SKY SPORT Golf HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7188.m3u8
+#EXTINF:-1,SKY SPORT F1 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7190.m3u8
+#EXTINF:-1,SKY SPORT Action HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7191.m3u8
+#EXTINF:-1,SKY SPORT RACING
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15312.m3u8
+#EXTINF:-1,Sly Sport News
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6286.m3u8
+#EXTINF:-1,Sly Sport Football
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6284.m3u8
+#EXTINF:-1,Sly Sport Main Event
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6281.m3u8
+#EXTINF:-1,Sly Sport Prem League
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6280.m3u8
+#EXTINF:-1,Sly Sport Cricket
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6279.m3u8
+#EXTINF:-1,Sly Sport Golf
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6285.m3u8
+#EXTINF:-1,Sly Sport F/1
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6282.m3u8
+#EXTINF:-1,Sly Sport Action
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6283.m3u8
+#EXTINF:-1,Sly Sports Mix
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6287.m3u8
+#EXTINF:-1,sly sports arena
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15185.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4980.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4979.m3u8
+#EXTINF:-1,Chelsea TV
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/5179.m3u8
+#EXTINF:-1,LFC TV HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4969.m3u8
+#EXTINF:-1,MUTV HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4968.m3u8
+#EXTINF:-1,Chelsea FC
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6031.m3u8
+#EXTINF:-1,Rangers Fc Tv  (Live for Matches)
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6032.m3u8
+#EXTINF:-1,Leeds (Live for Matches)
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15010.m3u8
+#EXTINF:-1,LFC
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15009.m3u8
+#EXTINF:-1,MUTV
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15008.m3u8
+#EXTINF:-1,UK:.eir Sport 1
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4971.m3u8
+#EXTINF:-1,UK:.eirSport 2
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4970.m3u8
+#EXTINF:-1,Premier Sport HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4981.m3u8
+#EXTINF:-1,Premier Sports HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7185.m3u8
+#EXTINF:-1,Premier sports 2
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15177.m3u8
+#EXTINF:-1,Racing UK HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4972.m3u8
+#EXTINF:-1,At The Races SD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4974.m3u8
+#EXTINF:-1,At The Races /
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7186.m3u8
+#EXTINF:-1,Racing UK HD /
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7184.m3u8
+#EXTINF:-1,BoxNation SD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4973.m3u8
+#EXTINF:-1,Boxnation
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/5284.m3u8
+#EXTINF:-1,TEN Cricket
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4814.m3u8
+#EXTINF:-1,TEN Sports 2
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4813.m3u8
+#EXTINF:-1,TEN Sports 3
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4812.m3u8
+#EXTINF:-1,MotorTv
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6385.m3u8
+#EXTINF:-1,DE: DAZN 1
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/17347.m3u8
+#EXTINF:-1,DE: DAZN 2
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/17348.m3u8
+#EXTINF:-1,|INDIA| Star Sport 1 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19033.m3u8
+#EXTINF:-1,|INDIA| Star Sport 2 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19032.m3u8
+#EXTINF:-1,|INDIA| Star Sport 3 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19031.m3u8
+#EXTINF:-1,|INDIA| Star Sport 4 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19030.m3u8
+#EXTINF:-1,|INDIA| Star Sport Select 1 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/19029.m3u8
+#EXTINF:-1,USA:. FOX Sport 1
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/5507.m3u8
+#EXTINF:-1,USA:. FOX Sport 2
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/5506.m3u8
+#EXTINF:-1,Le Sports FHD 1
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7151.m3u8
+#EXTINF:-1,Le Sports FHD 2
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7150.m3u8
+#EXTINF:-1,Le Sports FHD 3
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7149.m3u8
+#EXTINF:-1,Le Sports FHD 4
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7148.m3u8
+#EXTINF:-1,Le Sports FHD 5
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7147.m3u8
+#EXTINF:-1,Le Sports FHD 6
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7146.m3u8
+#EXTINF:-1,Le Sports FHD 7
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7145.m3u8
+#EXTINF:-1,Le Sports 08
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15114.m3u8
+#EXTINF:-1,Le Sports 09
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15113.m3u8
+#EXTINF:-1,Le Sports 10
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/15112.m3u8
+#EXTINF:-1,EPL:  Sportsnet 360 HD   [Main]
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/12361.m3u8
+#EXTINF:-1,EPL:  Sportsnet One HD   [Main]
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/12360.m3u8
+#EXTINF:-1,EPL:  Sportsnet World HD   [Main]
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/12359.m3u8
+#EXTINF:-1,AR: BeIN Sports 11 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6198.m3u8
+#EXTINF:-1,AR: BeIN Sports 12 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6197.m3u8
+#EXTINF:-1,BEIN Sports 11. Eng
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/5511.m3u8
+#EXTINF:-1,BEIN Sports 12. Eng
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/5510.m3u8
+#EXTINF:-1,AR: BEIN SPORT 12 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7207.m3u8
+#EXTINF:-1,AR: BEIN SPORT 11 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7208.m3u8
+#EXTINF:-1,Sports Box Office UK Live 1  Tyson Vs Schwarz Repeat every 25 mins
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/5286.m3u8
+#EXTINF:-1,Sports Box Office UK Live 2
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/5060.m3u8
+#EXTINF:-1,Sports Box Office UFC Fight Pass Live 4
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/4985.m3u8
+#EXTINF:-1,Sports Box Office Dazn Live 3
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/6092.m3u8
+#EXTINF:-1,BEIN SPORT 1 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2071.m3u8
+#EXTINF:-1,BEIN SPORT 2 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2073.m3u8
+#EXTINF:-1,BEIN SPORT 3 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2074.m3u8
+#EXTINF:-1,BEIN SPORT 4 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2075.m3u8
+#EXTINF:-1,BEIN SPORT 5 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2076.m3u8
+#EXTINF:-1,BEIN SPORT 6 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2077.m3u8
+#EXTINF:-1,BEIN SPORT 7 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2078.m3u8
+#EXTINF:-1,BEIN SPORT 8 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2079.m3u8
+#EXTINF:-1,BEIN SPORT 9 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2080.m3u8
+#EXTINF:-1,BEIN SPORT 10 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/2072.m3u8
+#EXTINF:-1,AR: BEIN SPORT 1 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7218.m3u8
+#EXTINF:-1,AR: BEIN SPORT 2 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7217.m3u8
+#EXTINF:-1,AR: BEIN SPORT 3 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7216.m3u8
+#EXTINF:-1,AR: BEIN SPORT 4 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7215.m3u8
+#EXTINF:-1,AR: BEIN SPORT 5 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7214.m3u8
+#EXTINF:-1,AR: BEIN SPORT 6 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7213.m3u8
+#EXTINF:-1,AR: BEIN SPORT 7 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7212.m3u8
+#EXTINF:-1,AR: BEIN SPORT 8 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7211.m3u8
+#EXTINF:-1,AR: BEIN SPORT 9 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7210.m3u8
+#EXTINF:-1,AR: BEIN SPORT 10 HD
+http://deadpool.live:8080/live/QNkxHMghqB/3lYCokDDWs/7209.m3u8
