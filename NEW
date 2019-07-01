@@ -1,45 +1,303 @@
 #EXTM3U
-#EXTINF:0,|AR| BEINSPORTS MAX 1 SD_By : https://tv.tousecurity.com
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/13793
-#EXTINF:0,|AR| BEINSPORTS MAX 2 SD_By : https://tv.tousecurity.com
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/13792
-#EXTINF:0,|AR| BEINSPORTS MAX 3 SD_By : https://tv.tousecurity.com
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/13791
-#EXTINF:0,|VIP| BEINSPORTS MAX 4 SD_By : https://tv.tousecurity.com
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/13790
-#EXTINF:0,|AR| BEINSPORT MAX 1 FHD
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/14122
-#EXTINF:0,|AR| BEINSPORT MAX 2 FHD_By : https://tv.tousecurity.com
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/14121
-#EXTINF:0,|AR| BEINSPORT MAX 3 FHD
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/14120
-#EXTINF:0,|AR| BEINSPORT MAX 4 FHD_By : https://tv.tousecurity.com
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/14119
-#EXTINF:0,|FR|RMC.SPORT.1.HD
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/5422
-#EXTINF:0,|FR| RMC SPORT2 FHD
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/8803
-#EXTINF:0,|FR|RMC.SPORT.2 HD_By : https://tv.tousecurity.com
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/5423
-#EXTINF:0,|FR| RMC SPORT3 FHD
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/8802
-#EXTINF:0,|FR|RMC.SPORT.3.HD
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/5424
-#EXTINF:0,|FR| RMC SPORT5 FHD_By : https://tv.tousecurity.com
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/8801
-#EXTINF:0,|FR| CANAL+ SPORT.FULLHD
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/13582
-#EXTINF:0,|FR| CANAL.+ SPORT HD
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/17404
-#EXTINF:0,|FR| beINSPORT2 HD
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/11989
-#EXTINF:0,|FR| beINSPORT3 HD
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/11990
-#EXTINF:0,|FR|beINSPORT-1.FULLHD
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/6874
-#EXTINF:0,|FR|beINSPORT-2.FULLHD_By : https://tv.tousecurity.com
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/6873
-#EXTINF:0,|FR|beINSPORT-3.FULLHD
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/6872
-#EXTINF:0,|FR| TRACE SPORT STARS
-http://iptvpro.vision-new.org:8789/iptvpro2channel/vAtyocUOiq/2698
+#EXTINF:0,Planet Sport 1 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3551
+#EXTINF:0,Planet Sport 2 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3638
+#EXTINF:0,Planet Sport 3 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3639
+#EXTINF:0,Arena Sport 1 HD HR
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/83
+#EXTINF:0,Arena Sport 2 HD HR
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/84
+#EXTINF:0,Arena Sport 3 HD HR
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/85
+#EXTINF:0,Arena Sport 4 HD HR
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/86
+#EXTINF:0,Arena Sport 5 HD HR
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/87
+#EXTINF:0,Arena Sport 6 HR
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3400
+#EXTINF:0,Arena Sport 1 SR HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/88
+#EXTINF:0,Arena Sport 2 SR HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/89
+#EXTINF:0,Arena Sport 3 SR HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/90
+#EXTINF:0,Arena Sport 4 SR
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/91
+#EXTINF:0,Arena Sport 5 SR
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/92
+#EXTINF:0,MojaTV(TEST)
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3377
+#EXTINF:0,HNTV
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/2672
+#EXTINF:0,Sport Klub HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4062
+#EXTINF:0,Sport Klub GOLF
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4107
+#EXTINF:0,Sport Klub 1 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/97
+#EXTINF:0,Sport Klub 2 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/98
+#EXTINF:0,Sport Klub 3 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/99
+#EXTINF:0,Sport Klub 4
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/100
+#EXTINF:0,Sport Klub 5
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/807
+#EXTINF:0,Sport Klub 6
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/808
+#EXTINF:0,Sport Klub 1 HR
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/365
+#EXTINF:0,Sport Klub 2 HR
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/366
+#EXTINF:0,Sport Klub 3 HR
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/367
+#EXTINF:0,EuroSport 1 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/105
+#EXTINF:0,EuroSport 2
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/106
+#EXTINF:0,Sportska TV
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/104
+#EXTINF:0,EuroSport 1 HD DE
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3809
+#EXTINF:0,EuroSport 2 HD DE
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3810
+#EXTINF:0,Eurosport 2 Xtra HD DE
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3808
+#EXTINF:0,Sky Bundesliga 1
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/93
+#EXTINF:0,Sky Bundesliga 2
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/94
+#EXTINF:0,Sky Bundesliga 3
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/783
+#EXTINF:0,Sky Bundesliga 4
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/784
+#EXTINF:0,Sky Bundesliga 5
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/785
+#EXTINF:0,Sky Sport News DE
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4249
+#EXTINF:0,Sky Sport Austria
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3552
+#EXTINF:0,Sky Sport 1 DE
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/95
+#EXTINF:0,Sky Sport 2 DE
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/96
+#EXTINF:0,Sky Sport 3 DE
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/798
+#EXTINF:0,Dazn 1
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3805
+#EXTINF:0,Dazn 2
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3806
+#EXTINF:0,Sky Sports 1 UK
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/800
+#EXTINF:0,Sky Sports 2 UK
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/801
+#EXTINF:0,Sky Sports 3 UK
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/802
+#EXTINF:0,Sky Sports 4 UK
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/803
+#EXTINF:0,Sky Sport 5 UK
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/804
+#EXTINF:0,Sky Sports Action HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4242
+#EXTINF:0,Sky Sports Arena HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4243
+#EXTINF:0,Sky Sports Cricket HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4244
+#EXTINF:0,Sky Sports Football HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4245
+#EXTINF:0,Sky Sports Golf HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4246
+#EXTINF:0,Sky Sports Main Event HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4247
+#EXTINF:0,Sky Sports Mix HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4248
+#EXTINF:0,Sky Sport F1 IT HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/789
+#EXTINF:0,Sky F1 UK
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/2670
+#EXTINF:0,Bein Sports 1 FR
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4237
+#EXTINF:0,Bein Sports 2 FR
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4238
+#EXTINF:0,Bein Sports 3 FR
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4239
+#EXTINF:0,Bein Sports 4 FR
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4240
+#EXTINF:0,Bein Sports 5 FR
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4241
+#EXTINF:0,Bein Sport 1
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/255
+#EXTINF:0,Bein Sport 2
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/256
+#EXTINF:0,Bein Sport 3
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/258
+#EXTINF:0,Bein Sport 4
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/259
+#EXTINF:0,Bein Sport 5
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/260
+#EXTINF:0,Bein Sport 6
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/805
+#EXTINF:0,Bein Sport 7
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/806
+#EXTINF:0,Bein Sport 8
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4235
+#EXTINF:0,Bein Sport 9
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4236
+#EXTINF:0,Fox Sports 1
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/242
+#EXTINF:0,Fox Sports 2
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/245
+#EXTINF:0,Fox Sports 3
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/247
+#EXTINF:0,Fox Sports 4
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/250
+#EXTINF:0,Fox Sports 5
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/252
+#EXTINF:0,Eleven Sports 1 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4231
+#EXTINF:0,Eleven Sports 2 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4232
+#EXTINF:0,Eleven Sports 3 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4233
+#EXTINF:0,Eleven Sports 4 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4234
+#EXTINF:0,Fight Channel
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/426
+#EXTINF:0,NBA TV
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/254
+#EXTINF:0,SuperSport Kosova 1
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/101
+#EXTINF:0,SuperSport Kosova 2
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/102
+#EXTINF:0,Tring Sport 1
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/599
+#EXTINF:0,Tring Sport 2
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4314
+#EXTINF:0,Tring Sport 3
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4315
+#EXTINF:0,Tring Sport 4
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4316
+#EXTINF:0,Rai Sport 1 IT
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/379
+#EXTINF:0,Rai Sport 2 IT
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/380
+#EXTINF:0,Digi Sport 1 RO
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/419
+#EXTINF:0,Digi Sport 2 RO
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/420
+#EXTINF:0,Digi Sport 3 RO
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/421
+#EXTINF:0,Digi Sport 4 RO
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/422
+#EXTINF:0,BT Sport 1 UK
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/2101
+#EXTINF:0,BT Sport 2 UK
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/2102
+#EXTINF:0,BT Sport 3 UK
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/2103
+#EXTINF:0,BT Sport 4 UK
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3797
+#EXTINF:0,BT Sport 5 UK
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3798
+#EXTINF:0,NL: Ziggo Sport Racing
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3439
+#EXTINF:0,NL: Ziggo Sport Extra 1
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3437
+#EXTINF:0,NL: Ziggo Sport Extra 2
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3438
+#EXTINF:0,NL: Ziggo Sport Golf
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3442
+#EXTINF:0,NL: Ziggo Sport Select
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3440
+#EXTINF:0,NL: Ziggo Sport Voetbal
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3441
+#EXTINF:0,Super Sports 1
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/600
+#EXTINF:0,Super Sports 2
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/601
+#EXTINF:0,Barca TV
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/427
+#EXTINF:0,Bayern TV
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4455
+#EXTINF:0,Chelsea TV
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4456
+#EXTINF:0,Manchester United TV
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4458
+#EXTINF:0,Real Madrid TV
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4457
+#EXTINF:0,ESPN
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/423
+#EXTINF:0,NHL Network
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4454
+#EXTINF:0,==== Italija ====
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/394
+#EXTINF:0,Sky Sport 1 IT
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/1430
+#EXTINF:0,Sky Sport 2 IT
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/1431
+#EXTINF:0,SKY SPORT 3 IT
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/747
+#EXTINF:0,Viasat Fotboll
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/435
+#EXTINF:0,Teleclub Sport 1
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3975
+#EXTINF:0,Teleclub Sport 2
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3976
+#EXTINF:0,==== France ====
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/177
+#EXTINF:0,Canal+ Sport
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/3370
+#EXTINF:0,Eurosport 1 HD PL
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4284
+#EXTINF:0,Polsat Sport Fight
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4296
+#EXTINF:0,nSport
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4292
+#EXTINF:0,Nsport HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4311
+#EXTINF:0,TRT Sport
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/1733
+#EXTINF:0,US: ESPN
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/1710
+#EXTINF:0,US: ESPN 2 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/1709
+#EXTINF:0,US: Fox Sports  1
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/1705
+#EXTINF:0,US: Fox Sports  2
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/1704
+#EXTINF:0,US: TSN 1
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/1698
+#EXTINF:0,US: TSN 2
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/1697
+#EXTINF:0,US: TSN 3
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/1696
+#EXTINF:0,US: TSN 4
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/1695
+#EXTINF:0,US: TSN 5
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/1694
+#EXTINF:0,US: WWE Network
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/1693
+#EXTINF:0,US: AFN Sports 2
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4361
+#EXTINF:0,US: NBA
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4383
+#EXTINF:0,US: NFL Now
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4384
+#EXTINF:0,US: Tsn-Sport 1 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4398
+#EXTINF:0,US: Tsn Sport 3 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4400
+#EXTINF:0,US:SportsNet One
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4390
+#EXTINF:0,US:TSN Sport 2 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4399
+#EXTINF:0,US:TSN-Sport 4 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4401
+#EXTINF:0,US:TSN-Sport 5 HD
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4402
+#EXTINF:0,US: AFN Sports
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4360
+#EXTINF:0,HU: Auto Motor Sport
+http://balkantv.info:25461/8UygUdhapP/YdUc6KBaj5/4627
