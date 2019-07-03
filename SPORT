@@ -1,479 +1,129 @@
 #EXTM3U
-#EXTINF:-1,DirecTV Sports (Solo Eventos)
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14550.m3u8
-#EXTINF:-1,DirecTV Sports 2 (Solo Eventos)
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14862.m3u8
-#EXTINF:-1,DirecTV Sports + (Solo Eventos)
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14551.m3u8
-#EXTINF:-1,Fox Sports Chile (Solo Eventos)
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/9384.m3u8
-#EXTINF:-1,Fox Sports Chile (Solo Eventos) *
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/15469.m3u8
-#EXTINF:-1,Fox Sports 1 (Solo Eventos)
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14557.m3u8
-#EXTINF:-1,Fox Sports 1 (Solo Eventos) *
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/15470.m3u8
-#EXTINF:-1,Fox Sports 2 (Solo Eventos) *
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/18486.m3u8
-#EXTINF:-1,Fox Sports 2 (Solo Eventos)
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/18489.m3u8
-#EXTINF:-1,Fox Sports 3 (Solo Eventos)
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14870.m3u8
-#EXTINF:-1,Fox Sports 3 (Solo Eventos) *
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/15472.m3u8
-#EXTINF:-1,(ARG) FOX SPORTS PREMIUM HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/18492.m3u8
-#EXTINF:-1,(ARG) FOX SPORTS PREMIUM HD.
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14732.m3u8
-#EXTINF:-1,Fox Sports Chile Full HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16264.m3u8
-#EXTINF:-1,(Chile) Fox Sports 1 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/10406.m3u8
-#EXTINF:-1,(Chile) Fox Sports 2 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/18482.m3u8
-#EXTINF:-1,(Chile) Fox Sports 3 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/4886.m3u8
-#EXTINF:-1,(Colombia) Claro Sports HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/13985.m3u8
-#EXTINF:-1,(MÃ©xico) Fox Sports HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14008.m3u8
-#EXTINF:-1,(MÃ©xico) Fox Sports 2 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14007.m3u8
-#EXTINF:-1,(MÃ©xico) Fox Sports 3 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14006.m3u8
-#EXTINF:-1,Bein LaLiga Full HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16335.m3u8
-#EXTINF:-1,Copa AmÃ©rica 2019 Full HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/18496.m3u8
-#EXTINF:-1,Copa AmÃ©rica 2019 Full HD *
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19560.m3u8
-#EXTINF:-1,Copa AmÃ©rica 2019 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19507.m3u8
-#EXTINF:-1,Copa AmÃ©rica 2019 HD *
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19561.m3u8
-#EXTINF:-1,Copa AmÃ©rica 2019
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19595.m3u8
-#EXTINF:-1,Copa AmÃ©rica 2019 *
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19596.m3u8
-#EXTINF:-1,Fox Sports Chile HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11713.m3u8
-#EXTINF:-1,Azteca Deportes Full HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17158.m3u8
-#EXTINF:-1,Bein La Liga HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16760.m3u8
-#EXTINF:-1,BeIN Sports 1 HD (Arabia)
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16771.m3u8
-#EXTINF:-1,BeIN Sports 1 HD (Francia)
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16746.m3u8
-#EXTINF:-1,BeIN Sports 2 HD (Arabia)
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16770.m3u8
-#EXTINF:-1,BeIN Sports 2 HD (Francia)
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16745.m3u8
-#EXTINF:-1,BeIN Sports 3 HD (Francia)
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16744.m3u8
-#EXTINF:-1,BEIN 3 FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11082.m3u8
-#EXTINF:-1,BEIN 4 FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11081.m3u8
-#EXTINF:-1,BEIN 5 FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11080.m3u8
-#EXTINF:-1,BEIN 6 FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11079.m3u8
-#EXTINF:-1,BEIN 7 FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11078.m3u8
-#EXTINF:-1,BEIN 8 FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11077.m3u8
-#EXTINF:-1,BEIN 9 FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11076.m3u8
-#EXTINF:-1,BEIN 10 FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11084.m3u8
-#EXTINF:-1,Bein Sports English FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11126.m3u8
-#EXTINF:-1,Bein Sports Ã‘ [EspaÃ±ol] FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11127.m3u8
-#EXTINF:-1,Eleven Sports FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11117.m3u8
-#EXTINF:-1,DirecTV Sports Full HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17429.m3u8
-#EXTINF:-1,DirecTV Sports 2 Full HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17430.m3u8
-#EXTINF:-1,ESPN + Full HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11162.m3u8
-#EXTINF:-1,ESPN Full HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11163.m3u8
-#EXTINF:-1,ESPN 2 Full HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16262.m3u8
-#EXTINF:-1,ESPN 2 Full HD *
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17426.m3u8
-#EXTINF:-1,ESPN 3 Full HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16263.m3u8
-#EXTINF:-1,ESPN Deportes HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16976.m3u8
-#EXTINF:-1,Fight Network FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11115.m3u8
-#EXTINF:-1,Fox Sports 1 FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11227.m3u8
-#EXTINF:-1,Fox Sports 2 FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/18499.m3u8
-#EXTINF:-1,Fox Sports 3 FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11225.m3u8
-#EXTINF:-1,Golf Latin America FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11219.m3u8
-#EXTINF:-1,Golf Latin America Full HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17119.m3u8
-#EXTINF:-1,Px Sports FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11201.m3u8
-#EXTINF:-1,Px Sports Full HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17091.m3u8
-#EXTINF:-1,The Golf Channel HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11094.m3u8
-#EXTINF:-1,TNT Sports Full HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14727.m3u8
-#EXTINF:-1,TVC Deportes FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11185.m3u8
-#EXTINF:-1,TVC Deportes Full HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17064.m3u8
-#EXTINF:-1,Win Sports Full HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/13937.m3u8
-#EXTINF:-1,Bein LaLiga HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11709.m3u8
-#EXTINF:-1,Benfica TV HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11064.m3u8
-#EXTINF:-1,BOX Nation HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16989.m3u8
-#EXTINF:-1,CBS Sports Network HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11060.m3u8
-#EXTINF:-1,Claro Sports Latinoamerica HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/13984.m3u8
-#EXTINF:-1,DirecTV Sports HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11706.m3u8
-#EXTINF:-1,DirecTV Sports HD *
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17431.m3u8
-#EXTINF:-1,DirecTV Sports 2 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11707.m3u8
-#EXTINF:-1,DirecTV Sports 2 HD *
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17432.m3u8
-#EXTINF:-1,DirecTV Sports Plus HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11708.m3u8
-#EXTINF:-1,DirecTV Sports Plus HD *
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17433.m3u8
-#EXTINF:-1,FOX Deportes HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11113.m3u8
-#EXTINF:-1,Fox Sports HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14026.m3u8
-#EXTINF:-1,Fox Sports HD |CL|
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16958.m3u8
-#EXTINF:-1,Fox Sports 1 HD sur
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16966.m3u8
-#EXTINF:-1,Fox Sports 2 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/18490.m3u8
-#EXTINF:-1,Fox Sports 2 HD sur
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16962.m3u8
-#EXTINF:-1,Fox Sports 3 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14024.m3u8
-#EXTINF:-1,Fox Sports 3 HD sur
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16960.m3u8
-#EXTINF:-1,Sky Sport 1 HD (Alemania)
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16765.m3u8
-#EXTINF:-1,Sky Sport 2 HD (Alemania)
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16764.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16762.m3u8
-#EXTINF:-1,Sky Sport HD (Austria)
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16763.m3u8
-#EXTINF:-1,Sky Sport News HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16761.m3u8
-#EXTINF:-1,Tennis Channel HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14036.m3u8
-#EXTINF:-1,TNT Sports HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/18493.m3u8
-#EXTINF:-1,TNT Sports HD |AR|
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/18495.m3u8
-#EXTINF:-1,TyC Sports HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14743.m3u8
-#EXTINF:-1,UFC LatinoamÃ©rica HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/10407.m3u8
-#EXTINF:-1,UFC TV HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16946.m3u8
-#EXTINF:-1,Win Sports HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16448.m3u8
-#EXTINF:-1,Aym Sports HQ
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11342.m3u8
-#EXTINF:-1,DirecTV Sports HQ
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17434.m3u8
-#EXTINF:-1,DirecTV Sports 2 HQ
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17435.m3u8
-#EXTINF:-1,DirecTV Sports Plus HQ
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17436.m3u8
-#EXTINF:-1,Fox Sports 1 HQ
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11334.m3u8
-#EXTINF:-1,Fox Sports 2 HQ
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/18497.m3u8
-#EXTINF:-1,Golf Latinoamerica HQ
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11286.m3u8
-#EXTINF:-1,Latin American Sports HQ
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11388.m3u8
-#EXTINF:-1,TVC Deportes HQ
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11343.m3u8
-#EXTINF:-1,Afizzionados (Exclusivo)
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11259.m3u8
+#EXTINF:-1,Time Sports
+http://tv.teledunet.com:25461/Yassine/yassine/10173
+#EXTINF:-1,beIN MAX 1
+http://tv.teledunet.com:25461/Yassine/yassine/10057
+#EXTINF:-1,beIN MAX 2
+http://tv.teledunet.com:25461/Yassine/yassine/10058
+#EXTINF:-1,Bein 1
+http://tv.teledunet.com:25461/Yassine/yassine/10071
+#EXTINF:-1,Bein 2
+http://tv.teledunet.com:25461/Yassine/yassine/10072
+#EXTINF:-1,Bein sport 1
+http://tv.teledunet.com:25461/Yassine/yassine/10061
+#EXTINF:-1,Bein sport 2
+http://tv.teledunet.com:25461/Yassine/yassine/10062
+#EXTINF:-1,Bein sport 3
+http://tv.teledunet.com:25461/Yassine/yassine/10063
+#EXTINF:-1,Bein sport 4
+http://tv.teledunet.com:25461/Yassine/yassine/10064
+#EXTINF:-1,Bein sport 5
+http://tv.teledunet.com:25461/Yassine/yassine/10065
+#EXTINF:-1,Bein sport 6
+http://tv.teledunet.com:25461/Yassine/yassine/10066
+#EXTINF:-1,Bein sport 7
+http://tv.teledunet.com:25461/Yassine/yassine/10067
+#EXTINF:-1,Bein sport 8
+http://tv.teledunet.com:25461/Yassine/yassine/10068
+#EXTINF:-1,Bein sport 9
+http://tv.teledunet.com:25461/Yassine/yassine/10069
+#EXTINF:-1,Bein sport 10
+http://tv.teledunet.com:25461/Yassine/yassine/10070
+#EXTINF:-1,TV Tunisia 1
+http://tv.teledunet.com:25461/Yassine/yassine/10045
+#EXTINF:-1,TV Tunisia 2
+http://tv.teledunet.com:25461/Yassine/yassine/10046
+#EXTINF:-1,beIN MAX 3
+http://tv.teledunet.com:25461/Yassine/yassine/10059
+#EXTINF:-1,beIN MAX 4
+http://tv.teledunet.com:25461/Yassine/yassine/10060
+#EXTINF:-1,Bein 3
+http://tv.teledunet.com:25461/Yassine/yassine/10073
+#EXTINF:-1,Bein 4
+http://tv.teledunet.com:25461/Yassine/yassine/10074
+#EXTINF:-1,Bein 5
+http://tv.teledunet.com:25461/Yassine/yassine/10075
+#EXTINF:-1,Bein 6
+http://tv.teledunet.com:25461/Yassine/yassine/10076
+#EXTINF:-1,Bein 7
+http://tv.teledunet.com:25461/Yassine/yassine/10077
+#EXTINF:-1,Bein 8
+http://tv.teledunet.com:25461/Yassine/yassine/10078
+#EXTINF:-1,Bein 9
+http://tv.teledunet.com:25461/Yassine/yassine/10079
+#EXTINF:-1,Bein 10
+http://tv.teledunet.com:25461/Yassine/yassine/10080
 #EXTINF:-1,Bein Sports
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16990.m3u8
-#EXTINF:-1,Fox Sports
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16968.m3u8
-#EXTINF:-1,Fox Sports |CL|
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16967.m3u8
-#EXTINF:-1,Fox Sports sur
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16965.m3u8
-#EXTINF:-1,Fox Sports VEN
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16956.m3u8
-#EXTINF:-1,Fox Sports 1 Sur
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11710.m3u8
-#EXTINF:-1,Fox Sports 2
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16963.m3u8
-#EXTINF:-1,Fox Sports 2 Sur
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11711.m3u8
-#EXTINF:-1,Fox Sports 3
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16959.m3u8
-#EXTINF:-1,Fox Sports 3 Sur
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11712.m3u8
-#EXTINF:-1,Fox Sports Premium |AR|
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/18485.m3u8
-#EXTINF:-1,Golf Latin America
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16954.m3u8
-#EXTINF:-1,GOLPERU |PE|
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16953.m3u8
-#EXTINF:-1,GOL TV
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16955.m3u8
-#EXTINF:-1,Movistar Deportes |PE|
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16952.m3u8
-#EXTINF:-1,Px Sports
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16950.m3u8
-#EXTINF:-1,TDN
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16949.m3u8
-#EXTINF:-1,TNT Sports
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14728.m3u8
-#EXTINF:-1,TyC Sports
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16947.m3u8
-#EXTINF:-1,univision Deportes
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16945.m3u8
-#EXTINF:-1,Win Sports |CO|
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16942.m3u8
-#EXTINF:-1,Brasil | SPORT TV 2 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16768.m3u8
-#EXTINF:-1,Brasil | SPORT TV 3 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16767.m3u8
-#EXTINF:-1,ES: Barca TV
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17338.m3u8
-#EXTINF:-1,ES: Bein Sports LaLiga SD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17330.m3u8
-#EXTINF:-1,ES: Esport 3 CAT
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17328.m3u8
-#EXTINF:-1,ES: ETB Sat
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17203.m3u8
-#EXTINF:-1,ES: Euronews HD en EspaÃ±ol
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17202.m3u8
-#EXTINF:-1,ES: Eurosport 1 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17320.m3u8
-#EXTINF:-1,ES: Eurosport 1 SD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17319.m3u8
-#EXTINF:-1,ES: EUROSPORT 1
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16758.m3u8
-#EXTINF:-1,ES: Eurosport 2 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17318.m3u8
-#EXTINF:-1,ES: EUROSPORT 2
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16757.m3u8
-#EXTINF:-1,ES: Movistar  Deportes 1 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17317.m3u8
-#EXTINF:-1,ES: Movistar  Deportes 1 SD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17316.m3u8
-#EXTINF:-1,ES: Movistar  Deportes 2 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17315.m3u8
-#EXTINF:-1,ES: Movistar  Deportes 2 SD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17314.m3u8
-#EXTINF:-1,ES: Movistar  Disney
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17301.m3u8
-#EXTINF:-1,ES: Movistar  eSports HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17313.m3u8
-#EXTINF:-1,ES: Movistar  Estrenos HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17300.m3u8
-#EXTINF:-1,ES: Movistar  Estrenos SD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17299.m3u8
-#EXTINF:-1,ES: Movistar  Formula 1 SD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17312.m3u8
-#EXTINF:-1,ES: Movistar  Futbol HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17325.m3u8
-#EXTINF:-1,ES: Movistar  Futbol SD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17324.m3u8
-#EXTINF:-1,ES: Movistar  Golf
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/17311.m3u8
-#EXTINF:-1,Italia | Sky Sports 1
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/13058.m3u8
-#EXTINF:-1,Italia | Sky Sports 2
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/13057.m3u8
-#EXTINF:-1,Italia | Sky Sports 24
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/13056.m3u8
-#EXTINF:-1,Italia | Sky Sports 3
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/13055.m3u8
-#EXTINF:-1,Italia | Sky Sports 4
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/13054.m3u8
-#EXTINF:-1,Italia | Supercalcio HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/13053.m3u8
-#EXTINF:-1,PT| EUROSPORT 1 FHD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16743.m3u8
-#EXTINF:-1,PT| EUROSPORT 2 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16742.m3u8
-#EXTINF:-1,PT| Sport TV 1 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16741.m3u8
-#EXTINF:-1,PT| Sport TV 2 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16740.m3u8
-#EXTINF:-1,PT| Sport TV 3 FHD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16739.m3u8
-#EXTINF:-1,PT| Sport TV Plus  HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16738.m3u8
-#EXTINF:-1,PT| SPORTING TV HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16737.m3u8
-#EXTINF:-1,UK | Premiere Sports FHD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16736.m3u8
-#EXTINF:-1,UK | SKY Sports ACTION HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16733.m3u8
-#EXTINF:-1,UK | Sky Sports F1 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/19558.m3u8
-#EXTINF:-1,UK | Sky Sport Football HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16734.m3u8
-#EXTINF:-1,UK | Sky Sport Arena HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/18772.m3u8
-#EXTINF:-1,UK | SKY Sports CRICKET
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16732.m3u8
-#EXTINF:-1,UK | SKY Sports GOLF HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16730.m3u8
-#EXTINF:-1,UK | Sky Sports Main Event HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16729.m3u8
-#EXTINF:-1,UK | Sky Sports Mix HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/18483.m3u8
-#EXTINF:-1,UK | Sky Sports News HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16727.m3u8
-#EXTINF:-1,UK | SKY Sports PREMIER LEAGUE
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16726.m3u8
-#EXTINF:-1,UK | Sky Sports The Open HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16725.m3u8
-#EXTINF:-1,USA | AFN SPORTS
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16645.m3u8
-#EXTINF:-1,USA | AFN SPORTS 2
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16644.m3u8
-#EXTINF:-1,USA | AMC HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16643.m3u8
-#EXTINF:-1,USA | AMC HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14510.m3u8
-#EXTINF:-1,USA | Bein Sports USA HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16642.m3u8
-#EXTINF:-1,USA | Bein Sports USA HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14509.m3u8
-#EXTINF:-1,USA | Fight HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16629.m3u8
-#EXTINF:-1,USA | FIGHT SPORT
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16628.m3u8
-#EXTINF:-1,USA | Fox Sports 1
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16623.m3u8
-#EXTINF:-1,USA | Fox Sports 1
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14490.m3u8
-#EXTINF:-1,USA | Fox Sports 2
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16622.m3u8
-#EXTINF:-1,USA | Fox Sports 2
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14489.m3u8
-#EXTINF:-1,USA | Fox SPORTS 506 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16621.m3u8
-#EXTINF:-1,USA | Fox SPORTS 506 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/14488.m3u8
-#EXTINF:-1,USA | FOX Sports Arizona 2 HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11156.m3u8
-#EXTINF:-1,USA | FOX Sports Arizona HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11062.m3u8
-#EXTINF:-1,USA | FOX Sports Carolinas HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11155.m3u8
-#EXTINF:-1,USA | FOX Sports Detroit HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11053.m3u8
-#EXTINF:-1,USA | FOX Sports Florida HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11052.m3u8
-#EXTINF:-1,USA | FOX Sports Midwest HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11154.m3u8
-#EXTINF:-1,USA | FOX Sports New Orleans HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11153.m3u8
-#EXTINF:-1,USA | FOX Sports North HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11152.m3u8
-#EXTINF:-1,USA | FOX Sports North Plus HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11151.m3u8
-#EXTINF:-1,USA | FOX Sports Ohio HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11150.m3u8
-#EXTINF:-1,USA | FOX Sports Oklahoma HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11149.m3u8
-#EXTINF:-1,USA | Fox Sports Prime Ticket HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11051.m3u8
-#EXTINF:-1,USA | Fox Sports San Diego HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11091.m3u8
-#EXTINF:-1,USA | FOX Sports Southeast HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11148.m3u8
-#EXTINF:-1,USA | FOX Sports SouthWest HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11050.m3u8
-#EXTINF:-1,USA | FOX Sports SouthWest Plus HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11049.m3u8
-#EXTINF:-1,USA | FOX Sports SUN HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11048.m3u8
-#EXTINF:-1,USA | Fox Sports West HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11090.m3u8
-#EXTINF:-1,USA | FOX Sports West HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11047.m3u8
-#EXTINF:-1,USA | FOX Sports Wisconsin HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11147.m3u8
-#EXTINF:-1,USA | FOX Sports Wisconsin Plus HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11146.m3u8
-#EXTINF:-1,USA | TyC Sports FULL HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/11132.m3u8
-#EXTINF:-1,USA | UFC Fight pass 
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16585.m3u8
-#EXTINF:-1,USA | WWE HD
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16582.m3u8
-#EXTINF:-1,USA VIP: Eleven Sports
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16575.m3u8
-#EXTINF:-1,USA VIP: Fight Network
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16574.m3u8
-#EXTINF:-1,USA VIP: FOX Collage Sports Atlantic
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16573.m3u8
-#EXTINF:-1,USA VIP: FOX Collage Sports Central
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16572.m3u8
-#EXTINF:-1,USA VIP: FOX Collage Sports Pacific
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16571.m3u8
-#EXTINF:-1,USA VIP: Fox Soccer Plus
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16570.m3u8
-#EXTINF:-1,USA VIP: FOX Sports Arizona
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16569.m3u8
-#EXTINF:-1,USA VIP: FOX Sports Carolinas
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16568.m3u8
-#EXTINF:-1,USA VIP: FOX Sports Detroit
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16567.m3u8
-#EXTINF:-1,USA VIP: FOX Sports Midwest
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16566.m3u8
-#EXTINF:-1,USA VIP: FOX Sports New Orleans
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16565.m3u8
-#EXTINF:-1,USA VIP: FOX Sports North
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16564.m3u8
-#EXTINF:-1,USA VIP: FOX Sports Ohio
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16563.m3u8
-#EXTINF:-1,USA VIP: FOX Sports Oklahoma
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16562.m3u8
-#EXTINF:-1,USA VIP: Fox Sports San Diego USA
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16561.m3u8
-#EXTINF:-1,USA VIP: FOX Sports Southeast
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16560.m3u8
-#EXTINF:-1,USA VIP: FOX Sports SouthWest
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16559.m3u8
-#EXTINF:-1,USA VIP: FOX Sports SouthWest Plus
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16558.m3u8
-#EXTINF:-1,USA VIP: FOX Sports SUN
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16557.m3u8
-#EXTINF:-1,USA VIP: FOX Sports West
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16556.m3u8
-#EXTINF:-1,USA VIP: Fox Sports West USA
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16555.m3u8
-#EXTINF:-1,USA VIP: FOX Sports Wisconsin
-http://deluxeplay.live:8080/live/GonzaloB/GonzaloB/16554.m3u8
+http://tv.teledunet.com:25461/Yassine/yassine/10081
+#EXTINF:-1,RMC Sport 1
+http://tv.teledunet.com:25461/Yassine/yassine/10360
+#EXTINF:-1,RMC Sport 2
+http://tv.teledunet.com:25461/Yassine/yassine/10361
+#EXTINF:-1,RMC Sport 3
+http://tv.teledunet.com:25461/Yassine/yassine/10362
+#EXTINF:-1,RMC Sport 4
+http://tv.teledunet.com:25461/Yassine/yassine/10363
+#EXTINF:-1,Bein sport 1 FR
+http://tv.teledunet.com:25461/Yassine/yassine/10366
+#EXTINF:-1,Bein sport 2 FR
+http://tv.teledunet.com:25461/Yassine/yassine/10367
+#EXTINF:-1,Bein sport 3 FR
+http://tv.teledunet.com:25461/Yassine/yassine/10368
+#EXTINF:-1,Bein Max 4 FR
+http://tv.teledunet.com:25461/Yassine/yassine/10369
+#EXTINF:-1,Bein Max 5 FR
+http://tv.teledunet.com:25461/Yassine/yassine/10370
+#EXTINF:-1,Bein Max 6 FR
+http://tv.teledunet.com:25461/Yassine/yassine/10371
+#EXTINF:-1,Bein Max 7 FR
+http://tv.teledunet.com:25461/Yassine/yassine/10372
+#EXTINF:-1,Bein Max 8 FR
+http://tv.teledunet.com:25461/Yassine/yassine/10373
+#EXTINF:-1,Bein Max 9 FR
+http://tv.teledunet.com:25461/Yassine/yassine/10374
+#EXTINF:-1,Bein Max 10 FR
+http://tv.teledunet.com:25461/Yassine/yassine/10375
+#EXTINF:-1,DE:Dazn Sport 1 HD
+http://tv.teledunet.com:25461/Yassine/yassine/10585
+#EXTINF:-1,DE:Dazn Sport 2 HD
+http://tv.teledunet.com:25461/Yassine/yassine/10584
+#EXTINF:-1,TR:NTV Spor
+http://tv.teledunet.com:25461/Yassine/yassine/10461
+#EXTINF:-1,TR:S Sport HD
+http://tv.teledunet.com:25461/Yassine/yassine/10462
+#EXTINF:-1,TR:Tivibu Spor 1 HD
+http://tv.teledunet.com:25461/Yassine/yassine/10467
+#EXTINF:-1,TR:Tivibu Spor 2 HD
+http://tv.teledunet.com:25461/Yassine/yassine/10466
+#EXTINF:-1,TR:Tivibu Spor 3 HD
+http://tv.teledunet.com:25461/Yassine/yassine/10465
+#EXTINF:-1,TR:Tivibu Spor 4 HD
+http://tv.teledunet.com:25461/Yassine/yassine/10464
+#EXTINF:-1,PL:Eleven Sports 1
+http://tv.teledunet.com:25461/Yassine/yassine/11345
+#EXTINF:-1,PL:Eleven Sports 2
+http://tv.teledunet.com:25461/Yassine/yassine/11344
+#EXTINF:-1,PL:Eleven Sports 3
+http://tv.teledunet.com:25461/Yassine/yassine/11343
+#EXTINF:-1,AL:ArenaSport 1 HD HR
+http://tv.teledunet.com:25461/Yassine/yassine/11056
+#EXTINF:-1,AL:ArenaSport 1 HD Srb
+http://tv.teledunet.com:25461/Yassine/yassine/11064
+#EXTINF:-1,AL:ArenaSport 2 HD HR
+http://tv.teledunet.com:25461/Yassine/yassine/11057
+#EXTINF:-1,AL:ArenaSport 2 HD Srb
+http://tv.teledunet.com:25461/Yassine/yassine/11063
+#EXTINF:-1,AL:ArenaSport 3 HD HR
+http://tv.teledunet.com:25461/Yassine/yassine/11058
+#EXTINF:-1,AL:ArenaSport 3 HD Srb
+http://tv.teledunet.com:25461/Yassine/yassine/11062
+#EXTINF:-1,AL:ArenaSport 4 HD HR
+http://tv.teledunet.com:25461/Yassine/yassine/11059
+#EXTINF:-1,AL:ArenaSport 4 HD Srb
+http://tv.teledunet.com:25461/Yassine/yassine/11061
+#EXTINF:-1,AL:ArenaSport 5 HD Srb
+http://tv.teledunet.com:25461/Yassine/yassine/11060
+#EXTINF:-1,AL:Eurosport 1 HD
+http://tv.teledunet.com:25461/Yassine/yassine/11055
+#EXTINF:-1,AL:Eurosport 2 HD
+http://tv.teledunet.com:25461/Yassine/yassine/11054
