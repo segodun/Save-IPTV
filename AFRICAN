@@ -1,28 +1,25 @@
 #EXTM3U
 #EXTINF:-1,FR: NOLLYWOOD
 http://serv1.ip4you.kim:8080/lyHPCYICXr/6uDrcrwGY0/12747
-#EXTINF:-1,AFRO TV
-http://serv1.ip4you.kim:8080/lyHPCYICXr/6uDrcrwGY0/219
 #EXTINF:-1,BR: BigBrother
 http://serv1.ip4you.kim:8080/lyHPCYICXr/6uDrcrwGY0/3728
-
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-africa/wp-content/uploads/2016/11/logo_africa1.png" group-title="FRANCE",Trace Africa
+#EXTINF:-1,AF: Trace Africa
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="http://tracegospel.tv/wp-content/uploads/sites/4/2016/11/logo_gospel.png" group-title="FRANCE",Trace Gospel
+#EXTINF:-1,AF: Trace Gospel
 https://d2ktlibtvvj8vp.cloudfront.net/trace_gospel/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://trace.company/wp-content/uploads/2017/08/TRACE-logo-kitoko-01-1.png" group-title="FRANCE",Trace Kitoko
+#EXTINF:-1,AF: Trace Kitoko
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-mziki/wp-content/uploads/sites/21/2016/11/logo_mziki-1.png" group-title="FRANCE",Trace Mziki
+#EXTINF:-1,AF: Trace Mziki
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-naija/wp-content/uploads/2016/11/logo_naija1.png" group-title="FRANCE",Trace Naija
+#EXTINF:-1,AF: Trace Naija
 https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" group-title="FRANCE",Trace Tropical
+#EXTINF:-1,AF: Trace Tropical
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="9d6209d3a9643338385eb55a18469ed1",ORTB TV
+#EXTINF:-1,AF: ORTB TV
 http://37.235.38.67:9981/stream/channelid/1393123997?profile=pass
-#EXTINF:-1 tvg-id="655007c84ff7c6a7ea907edff1fab34b",ORTM
+#EXTINF:-1,AF: ORTM
 http://37.235.38.67:9981/stream/channelid/1208438885?profile=pass
-#EXTINF:-1 tvg-id="de27b0cbd69316514b115829c4fa6934",RTB TV
+#EXTINF:-1,AF: RTB TV
 http://37.235.38.67:9981/stream/channelid/1269835742?profile=pass
-#EXTINF:-1 tvg-id="694e9a4cfa9da5faa6a37f5edeb06298",RTS 1
+#EXTINF:-1,AF: RTS 1
 http://37.235.38.67:9981/stream/channelid/1285181033?profile=pass
