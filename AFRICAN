@@ -1,991 +1,144 @@
-#EXTM3U
-#EXTINF:-1,AF: MusicTV SN
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5631.m3u8
-#EXTINF:-1,AF: SEN TV (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3195.m3u8
-#EXTINF:-1,AF: WALF TV (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3308.m3u8
-#EXTINF:-1,AF: 2S TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3189.m3u8
-#EXTINF:-1,AF: TFM
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3190.m3u8
-#EXTINF:-1,AF: TFM  Religions (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3309.m3u8
-#EXTINF:-1,AF: RTS1
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3193.m3u8
-#EXTINF:-1,AF: RTS2 (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3194.m3u8
-#EXTINF:-1,AF: DTV (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3206.m3u8
-#EXTINF:-1,AF: AsfiyahiTV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5626.m3u8
-#EXTINF:-1,AF: D24 (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3188.m3u8
-#EXTINF:-1,AF: Bichri TV (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4380.m3u8
-#EXTINF:-1,AF: TOUBA TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3213.m3u8
-#EXTINF:-1,AF: Touba Monde Bi
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5636.m3u8
-#EXTINF:-1,AF: DBS
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/10862.m3u8
-#EXTINF:-1,AF: ALAZHARTOUBA TV {SENEGAL]
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/10858.m3u8
-#EXTINF:-1,AF: 7TV (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4042.m3u8
-#EXTINF:-1,AF: RDV (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3204.m3u8
-#EXTINF:-1,AF: MourchidTV (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3312.m3u8
-#EXTINF:-1,AF: mouridetv
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3526.m3u8
-#EXTINF:-1,AF: LOBS TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5629.m3u8
-#EXTINF:-1,AF:imediatv [ Sénégal ]
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/10704.m3u8
-#EXTINF:-1,AF: YELLY TV senegal
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/10705.m3u8
-#EXTINF:-1,AF: D5TV  (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3634.m3u8
-#EXTINF:-1,AF: Lamp Fall SENEGAL
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4863.m3u8
-#EXTINF:-1,AF: Lamp Fall TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5628.m3u8
-#EXTINF:-1,AF: Africa7 senegal tv
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/10575.m3u8
-#EXTINF:-1,AF: RTJ TV (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3211.m3u8
-#EXTINF:-1,AF: A2i TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3896.m3u8
-#EXTINF:-1,AF: A2i TV Religion (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3956.m3u8
-#EXTINF:-1,AF: A2ITV MUSIC (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3957.m3u8
-#EXTINF:-1,AF: C3 TV SENEGAL
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5921.m3u8
-#EXTINF:-1,AF: TMS SENEGAL
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/10855.m3u8
-#EXTINF:-1,AF: bantamba tv senegal
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/10577.m3u8
-#EXTINF:-1,AF: Asonga TV  senegal
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/10578.m3u8
-#EXTINF:-1,AF: Asfiyahi Tv senegal
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5630.m3u8
-#EXTINF:-1,AF: Al Mouridiyyah TV (SENEGAL)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11586.m3u8
-#EXTINF:-1,AF:RTF TV Senegal
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/10576.m3u8
-#EXTINF:-1,AF: TNT Events Senegal
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11548.m3u8
-#EXTINF:-1,AF: TVS Senegal
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11550.m3u8
-#EXTINF:-1,AF: SERIE SN
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6298.m3u8
-#EXTINF:-1,AF: Sanga Novlas (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3212.m3u8
-#EXTINF:-1,AF: tele-ecole
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5632.m3u8
-#EXTINF:-1,--||  MALI  ||--
-
-#EXTINF:-1,AF: cherifla (MALI
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7485.m3u8
-#EXTINF:-1,AF: ORTM TV (ML)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3200.m3u8
-#EXTINF:-1,AF: ORTB (BJ)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3198.m3u8
-#EXTINF:-1,AF: RTB (BF)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3196.m3u8
-#EXTINF:-1,AF: TM2
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3207.m3u8
-#EXTINF:-1,AF: M7 Mali
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4912.m3u8
-#EXTINF:-1,--||  Trace Music ||--
-
-#EXTINF:-1,AF: TRACE AFRICA (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3199.m3u8
-#EXTINF:-1,AF: TRACE TOCA
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3502.m3u8
-#EXTINF:-1,AF: TRACE MISIKI
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3503.m3u8
-#EXTINF:-1,AF: Trace Naija
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3904.m3u8
-#EXTINF:-1,AF: TRACE TOPICAL
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3504.m3u8
-#EXTINF:-1,AF: Trace Urbaine (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3639.m3u8
-#EXTINF:-1,--||  Bblack TV  ||--
-
-#EXTINF:-1,AF: Bblack Africa (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3313.m3u8
-#EXTINF:-1,AF: Bblack Carrabean (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3314.m3u8
-#EXTINF:-1,AF: BBlack Classik (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3315.m3u8
-#EXTINF:-1,AF: Digital Black Music (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4226.m3u8
-#EXTINF:-1,AF: Hit TV Africa (MA)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4054.m3u8
-#EXTINF:-1,AF: DBM TV (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3636.m3u8
-#EXTINF:-1,AF: Afro Music (PT)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4403.m3u8
-#EXTINF:-1,AF: AFRO Music Swahili
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11448.m3u8
-#EXTINF:-1,AF: AFRO MUSIC[cotediv ]
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11447.m3u8
-#EXTINF:-1,AF:AFRO GOSPEL
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11446.m3u8
-#EXTINF:-1,AF:AFRO MUSiC mandigo
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11449.m3u8
-#EXTINF:-1,--||  Congo   ||--
-
-#EXTINF:-1,AF: CANAL CVV (CG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6025.m3u8
-#EXTINF:-1,AF: Music256 (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3776.m3u8
-#EXTINF:-1,AF: B-ONE (CD)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3775.m3u8
-#EXTINF:-1,AF: DRTV (CG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3209.m3u8
-#EXTINF:-1,AF: Tele 50
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5866.m3u8
-#EXTINF:-1,AF: RTNC
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3192.m3u8
-#EXTINF:-1,AF: TELE congo
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3210.m3u8
-#EXTINF:-1,AF: Ratelki Congo
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6521.m3u8
-#EXTINF:-1,AF: Channel 44 UGANDA
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6522.m3u8
-#EXTINF:-1,AF: digital congo (CD)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3955.m3u8
-#EXTINF:-1,AF: VOX TV (CG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3954.m3u8
-#EXTINF:-1,AF: Ouest TV (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3317.m3u8
-#EXTINF:-1,--||  Cameron  ||--
-
-#EXTINF:-1,AF: Palmier TV cameroun
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11577.m3u8
-#EXTINF:-1,AF: Vision 4 TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4234.m3u8
-#EXTINF:-1,AF: SCBC (CM)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7544.m3u8
-#EXTINF:-1,YAF: Afrique Média (cameroun)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7319.m3u8
-#EXTINF:-1,AF: BOOM TV (CM)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7321.m3u8
-#EXTINF:-1,AF: LMTV (CM)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7320.m3u8
-#EXTINF:-1,AF: STV (CM)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7318.m3u8
-#EXTINF:-1,AF: EQUINOXE CAMEROUN
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5863.m3u8
-#EXTINF:-1,AF: CRTV (CM)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3187.m3u8
-#EXTINF:-1,AF: CRTV NEWS
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3642.m3u8
-#EXTINF:-1,AF: CANAL2
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3205.m3u8
-#EXTINF:-1,AF: CANAL2 MOVIES (CM)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4306.m3u8
-#EXTINF:-1,AF: Benie TV (CI)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3920.m3u8
-#EXTINF:-1,AF: MY COMEDY (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3322.m3u8
-#EXTINF:-1,AF: africacable (ML)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3183.m3u8
-#EXTINF:-1,AF: 7 Entertainment  AFRICA (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3323.m3u8
-#EXTINF:-1,YAF: Afrique Media TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3555.m3u8
-#EXTINF:-1,YAF: Africanews (ferance)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4463.m3u8
-#EXTINF:-1,AF: AFRICA NEWS
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3201.m3u8
-#EXTINF:-1,AF: Voxafrica (GB)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3316.m3u8
-#EXTINF:-1,AF: Suivez  SIKKA (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3560.m3u8
-#EXTINF:-1,YAF: France info
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4037.m3u8
-#EXTINF:-1,AF: ImpacTV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3779.m3u8
-#EXTINF:-1,AF: Espace TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3891.m3u8
-#EXTINF:-1,AF: France24 (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3319.m3u8
-#EXTINF:-1,AF: DIVIN AMOUR TV {cameron]
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11445.m3u8
-#EXTINF:-1,--|| ghana tvl ||--
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4900.m3u8
-#EXTINF:-1,YAF: MFM [GHANA]
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/10719.m3u8
-#EXTINF:-1,GAF: GH Canada TV (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4245.m3u8
-#EXTINF:-1,GAF: HOMEBASE(ghana)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3992.m3u8
-#EXTINF:-1,GAF: ELIJAH TV (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4842.m3u8
-#EXTINF:-1,AF: RTV (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3937.m3u8
-#EXTINF:-1,AF: tvm3 (CH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5066.m3u8
-#EXTINF:-1,GAF: OGYABA TV (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4837.m3u8
-#EXTINF:-1,GAF:Omega tv (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4834.m3u8
-#EXTINF:-1,GAF: OBTV  (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4840.m3u8
-#EXTINF:-1,AF: BBS TV (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4845.m3u8
-#EXTINF:-1,AF: GBC24 (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4843.m3u8
-#EXTINF:-1,GAF: Atinka tv (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4839.m3u8
-#EXTINF:-1,GAF: ROYAL TV (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4838.m3u8
-#EXTINF:-1,YAF: CNBC AFRICA
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4826.m3u8
-#EXTINF:-1,GAF: Ghana KessbenTV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3913.m3u8
-#EXTINF:-1,AF: Resurrection Television (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6525.m3u8
-#EXTINF:-1,GAF: adom tv (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4806.m3u8
-#EXTINF:-1,AF: Ghana Broadcasting Corporation
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4010.m3u8
-#EXTINF:-1,AF: MTA AFRICA
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/10579.m3u8
-#EXTINF:-1,AF: STUDIO1 TV (ghana)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6217.m3u8
-#EXTINF:-1,AF: Hope Channel Africa (US)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4038.m3u8
-#EXTINF:-1,GAF:JOY PRIME (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4830.m3u8
-#EXTINF:-1,YAF: JOY NEWS  GHANA
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4829.m3u8
-#EXTINF:-1,GAF: GH ONE TV (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4828.m3u8
-#EXTINF:-1,GAF: GTV  (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4831.m3u8
-#EXTINF:-1,GAF: kwese TV  (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6236.m3u8
-#EXTINF:-1,AF: GISPORTSTV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3985.m3u8
-#EXTINF:-1,GAF: tv3 ghana
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4844.m3u8
-#EXTINF:-1,GAF: ROK TV (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4408.m3u8
-#EXTINF:-1,AF: BEN
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3552.m3u8
-#EXTINF:-1,YAF: Joy News Ghana (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4223.m3u8
-#EXTINF:-1,GAF:UTV G hana
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4810.m3u8
-#EXTINF:-1,AF: 3ABN KIDS
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4542.m3u8
-#EXTINF:-1,AF: 3ABN International (US)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3935.m3u8
-#EXTINF:-1,AF: 3ABN Français (US)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3934.m3u8
-#EXTINF:-1,--||  Nigeria  ||--
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4901.m3u8
-#EXTINF:-1,YAF: TVC News Nigeria Live
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/24991.m3u8
-#EXTINF:-1,AF: foursquare (Nigeria)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11570.m3u8
-#EXTINF:-1,AF: Hi-impacts (nigeria)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11571.m3u8
-#EXTINF:-1,AF:  A+
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3013.m3u8
-#EXTINF:-1,AF: lagos tv [nigeria]
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/10857.m3u8
-#EXTINF:-1,AF: nollywood
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3271.m3u8
-#EXTINF:-1,AF: nollywood MOVIE (NG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3184.m3u8
-#EXTINF:-1,GAF: Emmanuel TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4421.m3u8
-#EXTINF:-1,AF: Fusion Plus tv
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7619.m3u8
-#EXTINF:-1,AF: bride tv  (NG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7772.m3u8
-#EXTINF:-1,AF: AIT
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3991.m3u8
-#EXTINF:-1,AF: Comedy Channel
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4002.m3u8
-#EXTINF:-1,AF:  EBONYLIFE TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3990.m3u8
-#EXTINF:-1,AF: EMCI TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5096.m3u8
-#EXTINF:-1,AF: ET
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3986.m3u8
-#EXTINF:-1,AF: FuFu Kitchen
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3997.m3u8
-#EXTINF:-1,AF: Hope Channel Africa
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4875.m3u8
-#EXTINF:-1,AF: LIGHT TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4216.m3u8
-#EXTINF:-1,AF: Metro TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4009.m3u8
-#EXTINF:-1,AF: KingswordInfoTV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4003.m3u8
-#EXTINF:-1,AF: CHELSEA TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3987.m3u8
-#EXTINF:-1,AF: New Beginning Tv Network
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5083.m3u8
-#EXTINF:-1,AF: Once Spoken Network
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4001.m3u8
-#EXTINF:-1,AF: Nollywood Movies channel
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3995.m3u8
-#EXTINF:-1,AF: AFRICAN ENTERTAIMENT TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3988.m3u8
-#EXTINF:-1,AF: TVC Entertainment
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4891.m3u8
-#EXTINF:-1,AF: TEMPO
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3989.m3u8
-#EXTINF:-1,AF: Tele Planet Compas (HT)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5328.m3u8
-#EXTINF:-1,AF: Spydar Tv Network
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4033.m3u8
-#EXTINF:-1,AF: NUSMILES TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5082.m3u8
-#EXTINF:-1,AF: UBC STAR (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5085.m3u8
-#EXTINF:-1,YAF:Biafra TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3977.m3u8
-#EXTINF:-1,AF: MCF TV (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3998.m3u8
-#EXTINF:-1,AF: Biafra Nigeria
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3911.m3u8
-#EXTINF:-1,AF: BET+
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3020.m3u8
-#EXTINF:-1,AF: AIT INTERNATINAL
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3525.m3u8
-#EXTINF:-1,AF: Eko4Show
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3996.m3u8
-#EXTINF:-1,AF: More Grace TV (NG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4412.m3u8
-#EXTINF:-1,AF: Liberation TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4897.m3u8
-#EXTINF:-1,AF:  Gugudde tv (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5758.m3u8
-#EXTINF:-1,AF: LoveWorld Sat TV (ZA)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3982.m3u8
-#EXTINF:-1,AF: LoveWorld PLUS (NG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3975.m3u8
-#EXTINF:-1,AF: KS TV (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3960.m3u8
-#EXTINF:-1,AF: God TV Africa (GB)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4039.m3u8
-#EXTINF:-1,AF: Dove TV (NG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3635.m3u8
-#EXTINF:-1,AF:  RTP Africa (PT)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5086.m3u8
-#EXTINF:-1,AF: KingsWord TV (US)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5109.m3u8
-#EXTINF:-1,AF: TV360 (NG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3994.m3u8
-#EXTINF:-1,AF: Dunamis TV (NG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5084.m3u8
-#EXTINF:-1,AF: TV Continental (NG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3933.m3u8
-#EXTINF:-1,AF:  NTA NEWS (NG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3993.m3u8
-#EXTINF:-1,AF: NTA LIVE TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4906.m3u8
-#EXTINF:-1,AF: Rave TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4892.m3u8
-#EXTINF:-1,AF:Bulsho TV SOMALI
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3938.m3u8
-#EXTINF:-1,AF: Salvation TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4899.m3u8
-#EXTINF:-1,AF: Fashion TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3318.m3u8
-#EXTINF:-1,AF: Ebru Africa (KE)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3943.m3u8
-#EXTINF:-1,AF: Channels24 Nigeria
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5757.m3u8
-#EXTINF:-1,AF: CVK TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4915.m3u8
-#EXTINF:-1,AF:Gospel LIFE
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4418.m3u8
-#EXTINF:-1,AF: Western4U Tv Network
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4018.m3u8
-#EXTINF:-1,****New World TV TOGO****
-
-#EXTINF:-1,AF: TVT (TG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7482.m3u8
-#EXTINF:-1,AF: TVT International TOGO
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7354.m3u8
-#EXTINF:-1,AF: Nw INFO 1 (TG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5642.m3u8
-#EXTINF:-1,GAF: Golfe TV Africa
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5638.m3u8
-#EXTINF:-1,AF: Nw magazine (TG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5641.m3u8
-#EXTINF:-1,AF: EDEN  (BJ)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5640.m3u8
-#EXTINF:-1,--||  Kenya  ||--
-
-#EXTINF:-1,AF:  Inooro TV (KE)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6095.m3u8
-#EXTINF:-1,AF:  Kameme  tv
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6986.m3u8
-#EXTINF:-1,AF: KISS TV {KE]
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/8195.m3u8
-#EXTINF:-1,AF: Magic1 (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7718.m3u8
-#EXTINF:-1,AF: SWITCH TV (KE)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7722.m3u8
-#EXTINF:-1,AF: NTV LIVE KENYA
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7547.m3u8
-#EXTINF:-1,YAF  KTN KENYA NEWS
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4011.m3u8
-#EXTINF:-1,AF: Kenya CitizenTV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5104.m3u8
-#EXTINF:-1,AF: Njata  (KE)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6526.m3u8
-#EXTINF:-1,AF: k24 tv kenya
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4036.m3u8
-#EXTINF:-1,AF: Kajou TV (HT)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3949.m3u8
-#EXTINF:-1,GAF: ARK TV (OG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4836.m3u8
-#EXTINF:-1,AF: Kass TV (KE)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3965.m3u8
-#EXTINF:-1,AF: Gloriuos times (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4387.m3u8
-#EXTINF:-1,AF: KWANZA (TZ)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4399.m3u8
-#EXTINF:-1,--|| SOUDAN  ||--
-
-#EXTINF:-1,AF: Africa TV1
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3903.m3u8
-#EXTINF:-1,AF: Africa TV2
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3902.m3u8
-#EXTINF:-1,AF: Africa TV3
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3901.m3u8
-#EXTINF:-1,YAF: AFRICA24
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3522.m3u8
-#EXTINF:-1,AF: U24 TV (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5073.m3u8
-#EXTINF:-1,AF: Tele Kiskeya  (HT)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6204.m3u8
-#EXTINF:-1,AF: Sudania 24 TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4884.m3u8
-#EXTINF:-1,AF: Africa International University tv  (SD)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6297.m3u8
-#EXTINF:-1,AF: TELE SAHEL
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6469.m3u8
-#EXTINF:-1,--||  SOMAL  ||--
-http://goiptv.co:8080/live/ge003/1234567890/5288.ts
-#EXTINF:-1,AF: ERI TV 1 (ER)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3945.m3u8
-#EXTINF:-1,AF: Galmudug (SO)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6009.m3u8
-#EXTINF:-1,AF: Jubbaland (SO)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5336.m3u8
-#EXTINF:-1,AF: Jubbaland TV (SO)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5282.m3u8
-#EXTINF:-1,AF: Puntland TV (SO)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5283.m3u8
-#EXTINF:-1,AF:DALKA TV (SO)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5347.m3u8
-#EXTINF:-1,AF: RTN (SO)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6539.m3u8
-#EXTINF:-1,AF: PLTV (SO)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4243.m3u8
-#EXTINF:-1,AF: SRTV (SO)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4240.m3u8
-#EXTINF:-1,AF: SOMALI HCTV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6961.m3u8
-#EXTINF:-1,AF: Urban TV (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4244.m3u8
-#EXTINF:-1,AF:Kalsan TV Somali AF
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4221.m3u8
-#EXTINF:-1,AF:Somali Cable TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4222.m3u8
-#EXTINF:-1,AF: Universal (SO)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4242.m3u8
-#EXTINF:-1,AF: Saab (SO)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6010.m3u8
-#EXTINF:-1,AF:  SBC TV  (SO)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4230.m3u8
-#EXTINF:-1,AF: National TV (SO)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5284.m3u8
-#EXTINF:-1,--||  HADI TV ||--
-https://fpdl.vimeocdn.com/vimeo-prod-skyfire-std-us/01/1670/11/283351290/1065301178.mp4?token=1534160075-0x5c4a5070aba2d0a8252d9196f9d2461129af7ddb
-#EXTINF:-1,AF: Hadi TV1
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4534.m3u8
-#EXTINF:-1,AF: Hadi TV2
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4535.m3u8
-#EXTINF:-1,AF: Hadi TV3
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4536.m3u8
-#EXTINF:-1,AF: Hadi TV4
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4537.m3u8
-#EXTINF:-1,AF: Hadi TV5
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4533.m3u8
-#EXTINF:-1,AF: Hadi TV6
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4538.m3u8
-#EXTINF:-1,--||  Etopia ||--
-
-#EXTINF:-1,EAF: Anointing TV  (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7658.m3u8
-#EXTINF:-1,EAF: Christ Army TV (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7670.m3u8
-#EXTINF:-1,EAF: ElShaddai  ETHIOPA
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7652.m3u8
-#EXTINF:-1,EAF: Jesus TV  (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7656.m3u8
-#EXTINF:-1,EAF: Kale Awadi TV (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7651.m3u8
-#EXTINF:-1,EAF: Mar-Cil TV (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7650.m3u8
-#EXTINF:-1,EAF: Meazer Semay  (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7657.m3u8
-#EXTINF:-1,EAF: Nahoo (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7551.m3u8
-#EXTINF:-1,EAF: Amhara  (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7550.m3u8
-#EXTINF:-1,EAF: ARTS  (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7552.m3u8
-#EXTINF:-1,EAF: Asham  (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7563.m3u8
-#EXTINF:-1,EAF: Bisrat  (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7557.m3u8
-#EXTINF:-1,EAF: DW  (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7559.m3u8
-#EXTINF:-1,EAF: JTV (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7555.m3u8
-#EXTINF:-1,EAF: LTV (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7549.m3u8
-#EXTINF:-1,EAF: OBS (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7553.m3u8
-#EXTINF:-1,EAF: ONN  (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7558.m3u8
-#EXTINF:-1,EAF: Southern  (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7561.m3u8
-#EXTINF:-1,EAF: Tigrai  (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7554.m3u8
-#EXTINF:-1,EAF: ECTV TV (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7389.m3u8
-#EXTINF:-1,EAF: Fana TV  (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7387.m3u8
-#EXTINF:-1,EAF: Walta TV (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7388.m3u8
-#EXTINF:-1,EAF: EBC ZENA (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4051.m3u8
-#EXTINF:-1,EAF: ETV QUANQUAWOCH (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4052.m3u8
-#EXTINF:-1,EAF: ETV MEZINAGNA (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4212.m3u8
-#EXTINF:-1,EAF: OROMIA TV (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6133.m3u8
-#EXTINF:-1,EAF:  KANA TV (ET)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6134.m3u8
-#EXTINF:-1,AF: DELTA HD (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6135.m3u8
-#EXTINF:-1,AF: SaltTV (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6143.m3u8
-#EXTINF:-1,AF: Faith World TV (GB)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3980.m3u8
-#EXTINF:-1,--||  Mozambique  ||--
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5332.m3u8
-#EXTINF:-1,AF: Tv Maná Moçambique
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4859.m3u8
-#EXTINF:-1,AF: TV Maná Maputo (mozanbi9)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5327.m3u8
-#EXTINF:-1,AF:  TV Maná Maputo (Mozambique)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5345.m3u8
-#EXTINF:-1,AF: TVM1
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4847.m3u8
-#EXTINF:-1,AF: TVM2
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3899.m3u8
-#EXTINF:-1,--||  Africa tv ||--
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5333.m3u8
-#EXTINF:-1,AF: 2Si racines
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11549.m3u8
-#EXTINF:-1,AF: salt television uganda
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11572.m3u8
-#EXTINF:-1,AF: BRICS TV  (SA)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11575.m3u8
-#EXTINF:-1,AF: energy 100fm namibia
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11579.m3u8
-#EXTINF:-1,AF:amaze tv sierra leone
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11574.m3u8
-#EXTINF:-1,AF:One Africa TV  namibia
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/11576.m3u8
-#EXTINF:-1,AF: MY MUSIC AFRICA HD
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6965.m3u8
-#EXTINF:-1,YAF:  TV Tunisia 2
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6307.m3u8
-#EXTINF:-1,AF: TBN UK
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5075.m3u8
-#EXTINF:-1,AF: Africa7
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6985.m3u8
-#EXTINF:-1,AF: Quran TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6962.m3u8
-#EXTINF:-1,AF: Al Magharibia  Algeria
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6529.m3u8
-#EXTINF:-1,AF: AYV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7724.m3u8
-#EXTINF:-1,AF:  CANAL 3 NIGER
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6963.m3u8
-#EXTINF:-1,AF: Better Life TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6260.m3u8
-#EXTINF:-1,AF: Dream Tv Network
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5079.m3u8
-#EXTINF:-1,AF: Dream TV (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4053.m3u8
-#EXTINF:-1,AF: EVASION
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5068.m3u8
-#EXTINF:-1,AF: faith Africa
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6261.m3u8
-#EXTINF:-1,AF: Tele Boston (haiti)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6971.m3u8
-#EXTINF:-1,AF: GNN TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7398.m3u8
-#EXTINF:-1,AF: GUINNEA MUSIC
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6990.m3u8
-#EXTINF:-1,AF: Kingdom Impact Ministry
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6259.m3u8
-#EXTINF:-1,AF: Kingdom Sat channel
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5321.m3u8
-#EXTINF:-1,AF:KBC TV Kenya
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6964.m3u8
-#EXTINF:-1,AF  KTV news ( sierra leone)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3999.m3u8
-#EXTINF:-1,AF: Libya elwatan
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6306.m3u8
-#EXTINF:-1,AF: NAGO TV (haiti)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7811.m3u8
-#EXTINF:-1,AF: NRB TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6258.m3u8
-#EXTINF:-1,AF: OCeans
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7486.m3u8
-#EXTINF:-1,AF: Sigma TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6090.m3u8
-#EXTINF:-1,AF: south sudan tv
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6295.m3u8
-#EXTINF:-1,AF: Télé Djibouti 2
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/9185.m3u8
-#EXTINF:-1,AF: Télé Djibouti 3
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/9186.m3u8
-#EXTINF:-1,AF: Télé Djibouti 4
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/9187.m3u8
-#EXTINF:-1,GAF: TPA1
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4046.m3u8
-#EXTINF:-1,AF: TV ZIMBO
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4008.m3u8
-#EXTINF:-1,AF: TVGE
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7541.m3u8
-#EXTINF:-1,AF: TVGE Equatorial Guinea
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6523.m3u8
-#EXTINF:-1,AF: Tele Pacific HAITI
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7812.m3u8
-#EXTINF:-1,AF:  ALJAZEERA
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4832.m3u8
-#EXTINF:-1,AF:  IBN TV Africa (TJ)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5348.m3u8
-#EXTINF:-1,AF:  Let’s Talk About It
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5813.m3u8
-#EXTINF:-1,AF:  MEDI 1 TV Afrique (MA)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6519.m3u8
-#EXTINF:-1,AF:  SIERRA LEONE tv
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6137.m3u8
-#EXTINF:-1,AF:  Traveling 4U
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5828.m3u8
-#EXTINF:-1,AF: 218 TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4886.m3u8
-#EXTINF:-1,AF: 2M TV (MA)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6019.m3u8
-#EXTINF:-1,AF: 3 TV (BF)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7483.m3u8
-#EXTINF:-1,AF: ABN AFRICA
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4918.m3u8
-#EXTINF:-1,AF: ABN TV (NG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4405.m3u8
-#EXTINF:-1,AF: ABN TV+
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5323.m3u8
-#EXTINF:-1,AF: Action Sports 4U
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5817.m3u8
-#EXTINF:-1,AF: AFRICA TV 1 (SD)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4823.m3u8
-#EXTINF:-1,AF: AFRICA TV 2 (SD)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4824.m3u8
-#EXTINF:-1,AF: iL TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4466.m3u8
-#EXTINF:-1,AF: Amazing Discoveries TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4543.m3u8
-#EXTINF:-1,AF: Angel tv africa
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7573.m3u8
-#EXTINF:-1,AF: Arewa 24 (NG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7464.m3u8
-#EXTINF:-1,AF: ARRYADIA TV (MA)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4821.m3u8
-#EXTINF:-1,AF: AutoPlay
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5838.m3u8
-#EXTINF:-1,AF: BCTV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5844.m3u8
-#EXTINF:-1,AF: BF1 (BF)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3208.m3u8
-#EXTINF:-1,AF: bip tv
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5926.m3u8
-#EXTINF:-1,AF: Black Music Artist TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5845.m3u8
-#EXTINF:-1,AF: Bukkede TV (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7728.m3u8
-#EXTINF:-1,AF: C News
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4041.m3u8
-#EXTINF:-1,AF: BTM TV (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4398.m3u8
-#EXTINF:-1,AF: KBC1 KENYA
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4895.m3u8
-#EXTINF:-1,AF: CGTN Africa (CN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3922.m3u8
-#EXTINF:-1,AF: CGTN English
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4275.m3u8
-#EXTINF:-1,AF: CGTN FRANCE (CN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3923.m3u8
-#EXTINF:-1,AF: chiconi TV (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7476.m3u8
-#EXTINF:-1,AF: Chosen TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4890.m3u8
-#EXTINF:-1,AF: Country Music 4U
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5837.m3u8
-#EXTINF:-1,AF: Dabanga TV sudan
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4885.m3u8
-#EXTINF:-1,AF: Dacwa TV (SO)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6136.m3u8
-#EXTINF:-1,AF: Dare to Dream (US)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3936.m3u8
-#EXTINF:-1,AF: MATÉLÉ
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5862.m3u8
-#EXTINF:-1,AF: Congo Planète TV2 (CG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5398.m3u8
-#EXTINF:-1,AF: Documentaries 4U
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5834.m3u8
-#EXTINF:-1,AF: DUA TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4539.m3u8
-#EXTINF:-1,AF: EL WATANIYA 1 (TN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4825.m3u8
-#EXTINF:-1,AF: EMCI TV (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5397.m3u8
-#EXTINF:-1,AF: ESPACE (GN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5072.m3u8
-#EXTINF:-1,AF: Euronews (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3320.m3u8
-#EXTINF:-1,AF: CNC3  (Trinidad y Tobago)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5833.m3u8
-#EXTINF:-1,GAF: BURKINA INFO (BF)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5329.m3u8
-#EXTINF:-1,AF: DAKAR TV (SN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5330.m3u8
-#EXTINF:-1,AF: RTNC 2 (CD)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5331.m3u8
-#EXTINF:-1,AF: FLAMING SWORD TV (NG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4000.m3u8
-#EXTINF:-1,AF: OST (NG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5076.m3u8
-#EXTINF:-1,YAF: GABON 24
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7567.m3u8
-#EXTINF:-1,AF: GEB America (US)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5782.m3u8
-#EXTINF:-1,AF: Generations TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4464.m3u8
-#EXTINF:-1,AF: Gospel Music 4U
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5821.m3u8
-#EXTINF:-1,AF: Grand Lille TV (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6293.m3u8
-#EXTINF:-1,AF: Guinée Buzz
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3641.m3u8
-#EXTINF:-1,AF: House Of Refuge
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5826.m3u8
-#EXTINF:-1,AF: i24 News (IL)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3930.m3u8
-#EXTINF:-1,AF: IBN TV (TZ)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4410.m3u8
-#EXTINF:-1,AF: REST TV (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4214.m3u8
-#EXTINF:-1,AF: JUCE TV (US)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5071.m3u8
-#EXTINF:-1,AF: Kartoon Fun Time
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5842.m3u8
-#EXTINF:-1,AF: Tele Louange (haiti)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5829.m3u8
-#EXTINF:-1,AF: firetv (NG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7985.m3u8
-#EXTINF:-1,AF: COV TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6695.m3u8
-#EXTINF:-1,AF: KTV (SL)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4407.m3u8
-#EXTINF:-1,AF: Laayoune TV (MA)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6020.m3u8
-#EXTINF:-1,AF: Lagos TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4898.m3u8
-#EXTINF:-1,AF: Hope Channel (TZ)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5074.m3u8
-#EXTINF:-1,AF: Libya Al Ahrar TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6405.m3u8
-#EXTINF:-1,AF: MATA AFRICA
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7620.m3u8
-#EXTINF:-1,AF: MB Live TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6131.m3u8
-#EXTINF:-1,AF: MDL (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3971.m3u8
-#EXTINF:-1,AF: Lèeekô TV (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6018.m3u8
-#EXTINF:-1,AF: MEKAMELEEN TV (EG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6270.m3u8
-#EXTINF:-1,AF: Mercy TV (gongo)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/10528.m3u8
-#EXTINF:-1,AF: Monde Du Loisir TV (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6142.m3u8
-#EXTINF:-1,YAF: MOUV’ TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3963.m3u8
-#EXTINF:-1,AF: Movee 4U  Togo
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5808.m3u8
-#EXTINF:-1,AF: MyHolyfield TV Togo
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5810.m3u8
-#EXTINF:-1,AF: Natural AFRIQUE (TR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5342.m3u8
-#EXTINF:-1,AF: NBS TV (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3967.m3u8
-#EXTINF:-1,AF: New Beginning 4U
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5820.m3u8
-#EXTINF:-1,AF: Novelastv (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5287.m3u8
-#EXTINF:-1,AF: nPowered TV Togo
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5812.m3u8
-#EXTINF:-1,YAF: NTV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7934.m3u8
-#EXTINF:-1,YAF: NTV Uganda
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4413.m3u8
-#EXTINF:-1,AF: Numidia  (DZ)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6528.m3u8
-#EXTINF:-1,AF: Obosso TV (CG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7477.m3u8
-#EXTINF:-1,AF: Africable (bacup)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5819.m3u8
-#EXTINF:-1,AF: Planet Cannabis Music
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5840.m3u8
-#EXTINF:-1,YAF: Plus TV Africa
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7721.m3u8
-#EXTINF:-1,AF: Television Nationale d’Haiti
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5824.m3u8
-#EXTINF:-1,AF:Savane
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5816.m3u8
-#EXTINF:-1,AF: Resurrection TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4850.m3u8
-#EXTINF:-1,AF: RT (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3321.m3u8
-#EXTINF:-1,AF: RT FRANCE
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3970.m3u8
-#EXTINF:-1,AF: LC TV (HT)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6132.m3u8
-#EXTINF:-1,AF: RTG guinée
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5634.m3u8
-#EXTINF:-1,AF: RTI1
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3185.m3u8
-#EXTINF:-1,AF: RTI2
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3191.m3u8
-#EXTINF:-1,AF: RTM8 - TAMAZIGHE (MA)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6026.m3u8
-#EXTINF:-1,AF: RTV  (RW)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4070.m3u8
-#EXTINF:-1,GAF:GTVSPÖRTST
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5785.m3u8
-#EXTINF:-1,AF: salaam tv
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4544.m3u8
-#EXTINF:-1,AF: SALSA TV (US)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5069.m3u8
-#EXTINF:-1,AF: Sankofa TV (GH)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6079.m3u8
-#EXTINF:-1,AF: Sci-Fi 4U
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5818.m3u8
-#EXTINF:-1,AF: Set Free TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5822.m3u8
-#EXTINF:-1,AF: RTH  (haiti)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5835.m3u8
-#EXTINF:-1,AF: Smile TV (US)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5070.m3u8
-#EXTINF:-1,AF: SNRT TV (MA)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4822.m3u8
-#EXTINF:-1,YAF: spark tv uganda
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5909.m3u8
-#EXTINF:-1,AF: STAD Afric tv
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4846.m3u8
-#EXTINF:-1,AF: TBC (TZ)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5067.m3u8
-#EXTINF:-1,AF: Star TV Tanzania
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5322.m3u8
-#EXTINF:-1,AF: Studio 1 tv
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4517.m3u8
-#EXTINF:-1,AF: Tamazgha monde TV (DZ)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4833.m3u8
-#EXTINF:-1,AF: Tanasuh TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4545.m3u8
-#EXTINF:-1,AF: TCV Cabo
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4910.m3u8
-#EXTINF:-1,AF: TELE BOSTON (HT)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4402.m3u8
-#EXTINF:-1,AF: UBC UGANDA
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7773.m3u8
-#EXTINF:-1,AF: TELESUD
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3511.m3u8
-#EXTINF:-1,AF: TELE TCHAD
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4047.m3u8
-#EXTINF:-1,AF: tempo TV (TG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5401.m3u8
-#EXTINF:-1,AF: The Church Network (US)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5784.m3u8
-#EXTINF:-1,AF: TheoTV (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5400.m3u8
-#EXTINF:-1,AF: Tma caraibes TV
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3948.m3u8
-#EXTINF:-1,AF: WEST AFRICA TV (	GN)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5399.m3u8
-#EXTINF:-1,AF: Tv Francophonie 24
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3782.m3u8
-#EXTINF:-1,GAF: Praise [GH]
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6972.m3u8
-#EXTINF:-1,AF: TRYBE NEGERIA
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/10527.m3u8
-#EXTINF:-1,AF: tv Zimbo (AO)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6127.m3u8
-#EXTINF:-1,AF: TV5 Afrique
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5637.m3u8
-#EXTINF:-1,AF: TV5 MONDE (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3637.m3u8
-#EXTINF:-1,AF: TV7 Colmar
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3646.m3u8
-#EXTINF:-1,AF: Tv Francophonie24 (FR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/3638.m3u8
-#EXTINF:-1,AF: TVGE Guinea
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7572.m3u8
-#EXTINF:-1,AF: WLPC Detroit
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5823.m3u8
-#EXTINF:-1,AF: Yadah TV [ZW]
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/9517.m3u8
-#EXTINF:-1,AF: SALAM TV (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7729.m3u8
-#EXTINF:-1,AF: Yadah TV (Zimbabwe)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/10585.m3u8
-#EXTINF:-1,AF: TOP TV (UG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/7484.m3u8
-#EXTINF:-1,AF:: NTA Haussa (NG)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6141.m3u8
-#EXTINF:-1,YAF:Arise News
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4417.m3u8
-#EXTINF:-1,AF:Cis TV (GQ)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6235.m3u8
-#EXTINF:-1,AF:GRTS - Gambia
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/9133.m3u8
-#EXTINF:-1,AF:Libya’s Channel
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/4888.m3u8
-#EXTINF:-1,AF:presstv (IR)
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/6294.m3u8
-#EXTINF:-1,AF:Trace Kitoko
-http://goiptv.co:8080/live/live:ssamou.st1/bTY1FpiPI8/5756.m3u8
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1019.png",ORTM Mali
+http://skdn.redi-vo.com/iptv/ch1019?code=103131497823984&key=34698
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1431.png",ORTM 2 Mali
+http://skdn.redi-vo.com/iptv/ch1431?code=103131497823984&key=20244
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1432.png",Energy Mali
+http://skdn.redi-vo.com/iptv/ch1432?code=103131497823984&key=47138
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1036.png",Ortb
+http://skdn.redi-vo.com/iptv/ch1036?code=103131497823984&key=61468
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1021.png",RTS 1 Senegal
+http://skdn.redi-vo.com/iptv/ch1021?code=103131497823984&key=55411
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1401.png",RTS 2 Senegal
+http://skdn.redi-vo.com/iptv/ch1401?code=103131497823984&key=44294
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1020.png",TFM TV
+http://skdn.redi-vo.com/iptv/ch1020?code=103131497823984&key=16147
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1018.png",TPA Angola
+http://skdn.redi-vo.com/iptv/ch1018?code=103131497823984&key=31695
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1400.png",Tele Sahel
+http://skdn.redi-vo.com/iptv/ch1400?code=103131497823984&key=14337
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1402.png",RTB
+http://skdn.redi-vo.com/iptv/ch1402?code=103131497823984&key=17509
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1403.png",TV Togo
+http://skdn.redi-vo.com/iptv/ch1403?code=103131497823984&key=29955
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1404.png",Volta Ghana
+http://skdn.redi-vo.com/iptv/ch1404?code=103131497823984&key=55109
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1405.png",Hijrah Ghana
+http://skdn.redi-vo.com/iptv/ch1405?code=103131497823984&key=34317
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1406.png",Fast Ghana
+http://skdn.redi-vo.com/iptv/ch1406?code=103131497823984&key=60710
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1407.png",Asaneman TV Ghana
+http://skdn.redi-vo.com/iptv/ch1407?code=103131497823984&key=53600
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1408.png",I24 Ghana
+http://skdn.redi-vo.com/iptv/ch1408?code=103131497823984&key=28513
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1409.png",Agribiz TV Ghana
+http://skdn.redi-vo.com/iptv/ch1409?code=103131497823984&key=29128
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1410.png",Ezra TV Ghana
+http://skdn.redi-vo.com/iptv/ch1410?code=103131497823984&key=19701
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1411.png",kingdom TV Ghana
+http://skdn.redi-vo.com/iptv/ch1411?code=103131497823984&key=19475
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1412.png",UTV Ghana
+http://skdn.redi-vo.com/iptv/ch1412?code=103131497823984&key=49409
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1413.png",Covenant Ghana
+http://skdn.redi-vo.com/iptv/ch1413?code=103131497823984&key=43279
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1414.png",Channel I Ghana
+http://skdn.redi-vo.com/iptv/ch1414?code=103131497823984&key=38487
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1415.png",Ministers Ghana
+http://skdn.redi-vo.com/iptv/ch1415?code=103131497823984&key=52882
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1416.png",Home Base Ghana
+http://skdn.redi-vo.com/iptv/ch1416?code=103131497823984&key=41295
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1417.png",AAU Ghana
+http://skdn.redi-vo.com/iptv/ch1417?code=103131497823984&key=51431
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1418.png",Akanayo TV Ghana
+http://skdn.redi-vo.com/iptv/ch1418?code=103131497823984&key=59745
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1419.png",Kumwood Ghana
+http://skdn.redi-vo.com/iptv/ch1419?code=103131497823984&key=56360
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1420.png",Anigye Ghana
+http://skdn.redi-vo.com/iptv/ch1420?code=103131497823984&key=26852
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1421.png",Okesee Ghana
+http://skdn.redi-vo.com/iptv/ch1421?code=103131497823984&key=54902
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1422.png",Tek TV Ghana
+http://skdn.redi-vo.com/iptv/ch1422?code=103131497823984&key=53891
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1423.png",Oseikrom Ghana
+http://skdn.redi-vo.com/iptv/ch1423?code=103131497823984&key=12843
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1424.png",Gilgal Ghana
+http://skdn.redi-vo.com/iptv/ch1424?code=103131497823984&key=38231
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1425.png",Favour Ghana
+http://skdn.redi-vo.com/iptv/ch1425?code=103131497823984&key=29833
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1426.png",Pemsan Ghana
+http://skdn.redi-vo.com/iptv/ch1426?code=103131497823984&key=12844
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1427.png",Forever TV Ghana
+http://skdn.redi-vo.com/iptv/ch1427?code=103131497823984&key=55321
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1428.png",A.F.A. Sports Ghana
+http://skdn.redi-vo.com/iptv/ch1428?code=103131497823984&key=33716
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1429.png",1990 Tv Ghana
+http://skdn.redi-vo.com/iptv/ch1429?code=103131497823984&key=39956
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1040.png",Vox Africa
+http://skdn.redi-vo.com/iptv/ch1040?code=103131497823984&key=63638
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1039.png",TVC news
+http://skdn.redi-vo.com/iptv/ch1039?code=103131497823984&key=11740
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1086.png",Gabon 24
+http://skdn.redi-vo.com/iptv/ch1086?code=103131497823984&key=24229
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1087.png",Cameroon TV
+http://skdn.redi-vo.com/iptv/ch1087?code=103131497823984&key=48193
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1097.png",Cameroon TV News
+http://skdn.redi-vo.com/iptv/ch1097?code=103131497823984&key=34245
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1045.png",TV Congo
+http://skdn.redi-vo.com/iptv/ch1045?code=103131497823984&key=11508
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1038.png",2STV
+http://skdn.redi-vo.com/iptv/ch1038?code=103131497823984&key=15803
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1034.png",RTI LA 1
+http://skdn.redi-vo.com/iptv/ch1034?code=103131497823984&key=41581
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1098.png",RTI LA 2
+http://skdn.redi-vo.com/iptv/ch1098?code=103131497823984&key=43898
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1007.png",HCTV 
+http://skdn.redi-vo.com/iptv/ch1007?code=103131497823984&key=19038
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1008.png",ERI TV
+http://skdn.redi-vo.com/iptv/ch1008?code=103131497823984&key=44719
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1433.png",Mogadishou Cable TV
+http://skdn.redi-vo.com/iptv/ch1433?code=103131497823984&key=41423
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1434.png",Dalsan Somali TV
+http://skdn.redi-vo.com/iptv/ch1434?code=103131497823984&key=45988
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1435.png",Tusmo Somali TV
+http://skdn.redi-vo.com/iptv/ch1435?code=103131497823984&key=61528
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1009.png",Somali Cable TV
+http://skdn.redi-vo.com/iptv/ch1009?code=103131497823984&key=11984
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1006.png",EthiopiaTV
+http://skdn.redi-vo.com/iptv/ch1006?code=103131497823984&key=52057
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1005.png",ESTV
+http://skdn.redi-vo.com/iptv/ch1005?code=103131497823984&key=58137
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1004.png",Somali national
+http://skdn.redi-vo.com/iptv/ch1004?code=103131497823984&key=49935
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1606.png",tele feshinka caalamiga
+http://skdn.redi-vo.com/iptv/ch1606?code=103131497823984&key=34578
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1003.png",Universal Somali
+http://skdn.redi-vo.com/iptv/ch1003?code=103131497823984&key=14842
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1001.png",SN TV
+http://skdn.redi-vo.com/iptv/ch1001?code=103131497823984&key=12468
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1000.png",Kalsan TV
+http://skdn.redi-vo.com/iptv/ch1000?code=103131497823984&key=24009
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/833.png",Oromia TV
+http://skdn.redi-vo.com/iptv/ch833?code=103131497823984&key=26671
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/812.png",ETV
+http://skdn.redi-vo.com/iptv/ch812?code=103131497823984&key=34058
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/440.png",Tchad TV
+http://skdn.redi-vo.com/iptv/ch440?code=103131497823984&key=64999
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/842.png",RTVGE
+http://skdn.redi-vo.com/iptv/ch842?code=103131497823984&key=47910
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1042.png",Nollywood
+http://skdn.redi-vo.com/iptv/ch1042?code=103131497823984&key=61118
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1099.png",Nollywood Movies
+http://skdn.redi-vo.com/iptv/ch1099?code=103131497823984&key=37888
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/27.png",Africa 24
+http://skdn.redi-vo.com/iptv/ch27?code=103131497823984&key=56683
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1061.png",A2i
+http://skdn.redi-vo.com/iptv/ch1061?code=103131497823984&key=31976
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1062.png",Africable
+http://skdn.redi-vo.com/iptv/ch1062?code=103131497823984&key=25727
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1063.png",Afrique News
+http://skdn.redi-vo.com/iptv/ch1063?code=103131497823984&key=25445
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1064.png",RTB
+http://skdn.redi-vo.com/iptv/ch1064?code=103131497823984&key=42495
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1065.png",SIKKA TV
+http://skdn.redi-vo.com/iptv/ch1065?code=103131497823984&key=22720
+#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1066.png",Afrique Media
+http://skdn.redi-vo.com/iptv/ch1066?code=103131497823984&key=42389
