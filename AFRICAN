@@ -1,144 +1,905 @@
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1019.png",ORTM Mali
-http://skdn.redi-vo.com/iptv/ch1019?code=103131497823984&key=34698
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1431.png",ORTM 2 Mali
-http://skdn.redi-vo.com/iptv/ch1431?code=103131497823984&key=20244
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1432.png",Energy Mali
-http://skdn.redi-vo.com/iptv/ch1432?code=103131497823984&key=47138
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1036.png",Ortb
-http://skdn.redi-vo.com/iptv/ch1036?code=103131497823984&key=61468
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1021.png",RTS 1 Senegal
-http://skdn.redi-vo.com/iptv/ch1021?code=103131497823984&key=55411
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1401.png",RTS 2 Senegal
-http://skdn.redi-vo.com/iptv/ch1401?code=103131497823984&key=44294
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1020.png",TFM TV
-http://skdn.redi-vo.com/iptv/ch1020?code=103131497823984&key=16147
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1018.png",TPA Angola
-http://skdn.redi-vo.com/iptv/ch1018?code=103131497823984&key=31695
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1400.png",Tele Sahel
-http://skdn.redi-vo.com/iptv/ch1400?code=103131497823984&key=14337
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1402.png",RTB
-http://skdn.redi-vo.com/iptv/ch1402?code=103131497823984&key=17509
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1403.png",TV Togo
-http://skdn.redi-vo.com/iptv/ch1403?code=103131497823984&key=29955
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1404.png",Volta Ghana
-http://skdn.redi-vo.com/iptv/ch1404?code=103131497823984&key=55109
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1405.png",Hijrah Ghana
-http://skdn.redi-vo.com/iptv/ch1405?code=103131497823984&key=34317
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1406.png",Fast Ghana
-http://skdn.redi-vo.com/iptv/ch1406?code=103131497823984&key=60710
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1407.png",Asaneman TV Ghana
-http://skdn.redi-vo.com/iptv/ch1407?code=103131497823984&key=53600
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1408.png",I24 Ghana
-http://skdn.redi-vo.com/iptv/ch1408?code=103131497823984&key=28513
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1409.png",Agribiz TV Ghana
-http://skdn.redi-vo.com/iptv/ch1409?code=103131497823984&key=29128
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1410.png",Ezra TV Ghana
-http://skdn.redi-vo.com/iptv/ch1410?code=103131497823984&key=19701
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1411.png",kingdom TV Ghana
-http://skdn.redi-vo.com/iptv/ch1411?code=103131497823984&key=19475
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1412.png",UTV Ghana
-http://skdn.redi-vo.com/iptv/ch1412?code=103131497823984&key=49409
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1413.png",Covenant Ghana
-http://skdn.redi-vo.com/iptv/ch1413?code=103131497823984&key=43279
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1414.png",Channel I Ghana
-http://skdn.redi-vo.com/iptv/ch1414?code=103131497823984&key=38487
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1415.png",Ministers Ghana
-http://skdn.redi-vo.com/iptv/ch1415?code=103131497823984&key=52882
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1416.png",Home Base Ghana
-http://skdn.redi-vo.com/iptv/ch1416?code=103131497823984&key=41295
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1417.png",AAU Ghana
-http://skdn.redi-vo.com/iptv/ch1417?code=103131497823984&key=51431
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1418.png",Akanayo TV Ghana
-http://skdn.redi-vo.com/iptv/ch1418?code=103131497823984&key=59745
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1419.png",Kumwood Ghana
-http://skdn.redi-vo.com/iptv/ch1419?code=103131497823984&key=56360
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1420.png",Anigye Ghana
-http://skdn.redi-vo.com/iptv/ch1420?code=103131497823984&key=26852
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1421.png",Okesee Ghana
-http://skdn.redi-vo.com/iptv/ch1421?code=103131497823984&key=54902
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1422.png",Tek TV Ghana
-http://skdn.redi-vo.com/iptv/ch1422?code=103131497823984&key=53891
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1423.png",Oseikrom Ghana
-http://skdn.redi-vo.com/iptv/ch1423?code=103131497823984&key=12843
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1424.png",Gilgal Ghana
-http://skdn.redi-vo.com/iptv/ch1424?code=103131497823984&key=38231
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1425.png",Favour Ghana
-http://skdn.redi-vo.com/iptv/ch1425?code=103131497823984&key=29833
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1426.png",Pemsan Ghana
-http://skdn.redi-vo.com/iptv/ch1426?code=103131497823984&key=12844
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1427.png",Forever TV Ghana
-http://skdn.redi-vo.com/iptv/ch1427?code=103131497823984&key=55321
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1428.png",A.F.A. Sports Ghana
-http://skdn.redi-vo.com/iptv/ch1428?code=103131497823984&key=33716
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1429.png",1990 Tv Ghana
-http://skdn.redi-vo.com/iptv/ch1429?code=103131497823984&key=39956
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1040.png",Vox Africa
-http://skdn.redi-vo.com/iptv/ch1040?code=103131497823984&key=63638
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1039.png",TVC news
-http://skdn.redi-vo.com/iptv/ch1039?code=103131497823984&key=11740
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1086.png",Gabon 24
-http://skdn.redi-vo.com/iptv/ch1086?code=103131497823984&key=24229
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1087.png",Cameroon TV
-http://skdn.redi-vo.com/iptv/ch1087?code=103131497823984&key=48193
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1097.png",Cameroon TV News
-http://skdn.redi-vo.com/iptv/ch1097?code=103131497823984&key=34245
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1045.png",TV Congo
-http://skdn.redi-vo.com/iptv/ch1045?code=103131497823984&key=11508
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1038.png",2STV
-http://skdn.redi-vo.com/iptv/ch1038?code=103131497823984&key=15803
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1034.png",RTI LA 1
-http://skdn.redi-vo.com/iptv/ch1034?code=103131497823984&key=41581
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1098.png",RTI LA 2
-http://skdn.redi-vo.com/iptv/ch1098?code=103131497823984&key=43898
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1007.png",HCTV 
-http://skdn.redi-vo.com/iptv/ch1007?code=103131497823984&key=19038
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1008.png",ERI TV
-http://skdn.redi-vo.com/iptv/ch1008?code=103131497823984&key=44719
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1433.png",Mogadishou Cable TV
-http://skdn.redi-vo.com/iptv/ch1433?code=103131497823984&key=41423
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1434.png",Dalsan Somali TV
-http://skdn.redi-vo.com/iptv/ch1434?code=103131497823984&key=45988
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1435.png",Tusmo Somali TV
-http://skdn.redi-vo.com/iptv/ch1435?code=103131497823984&key=61528
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1009.png",Somali Cable TV
-http://skdn.redi-vo.com/iptv/ch1009?code=103131497823984&key=11984
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1006.png",EthiopiaTV
-http://skdn.redi-vo.com/iptv/ch1006?code=103131497823984&key=52057
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1005.png",ESTV
-http://skdn.redi-vo.com/iptv/ch1005?code=103131497823984&key=58137
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1004.png",Somali national
-http://skdn.redi-vo.com/iptv/ch1004?code=103131497823984&key=49935
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1606.png",tele feshinka caalamiga
-http://skdn.redi-vo.com/iptv/ch1606?code=103131497823984&key=34578
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1003.png",Universal Somali
-http://skdn.redi-vo.com/iptv/ch1003?code=103131497823984&key=14842
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1001.png",SN TV
-http://skdn.redi-vo.com/iptv/ch1001?code=103131497823984&key=12468
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1000.png",Kalsan TV
-http://skdn.redi-vo.com/iptv/ch1000?code=103131497823984&key=24009
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/833.png",Oromia TV
-http://skdn.redi-vo.com/iptv/ch833?code=103131497823984&key=26671
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/812.png",ETV
-http://skdn.redi-vo.com/iptv/ch812?code=103131497823984&key=34058
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/440.png",Tchad TV
-http://skdn.redi-vo.com/iptv/ch440?code=103131497823984&key=64999
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/842.png",RTVGE
-http://skdn.redi-vo.com/iptv/ch842?code=103131497823984&key=47910
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1042.png",Nollywood
-http://skdn.redi-vo.com/iptv/ch1042?code=103131497823984&key=61118
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1099.png",Nollywood Movies
-http://skdn.redi-vo.com/iptv/ch1099?code=103131497823984&key=37888
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/27.png",Africa 24
-http://skdn.redi-vo.com/iptv/ch27?code=103131497823984&key=56683
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1061.png",A2i
-http://skdn.redi-vo.com/iptv/ch1061?code=103131497823984&key=31976
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1062.png",Africable
-http://skdn.redi-vo.com/iptv/ch1062?code=103131497823984&key=25727
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1063.png",Afrique News
-http://skdn.redi-vo.com/iptv/ch1063?code=103131497823984&key=25445
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1064.png",RTB
-http://skdn.redi-vo.com/iptv/ch1064?code=103131497823984&key=42495
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1065.png",SIKKA TV
-http://skdn.redi-vo.com/iptv/ch1065?code=103131497823984&key=22720
-#EXTINF:0 group-title="Africa"tvg-logo="http://logo.ddnb.tn/logochanel/1066.png",Afrique Media
-http://skdn.redi-vo.com/iptv/ch1066?code=103131497823984&key=42389
+#EXTINF:-1,AF: NG SuperSport 2
+http://nitro.ltd:25461/Sandra1/Sandra2/42676
+#EXTINF:-1,AF: NG SuperSport 3
+http://nitro.ltd:25461/Sandra1/Sandra2/42677
+#EXTINF:-1,AF: NG SuperSport 4
+http://nitro.ltd:25461/Sandra1/Sandra2/42678
+#EXTINF:-1,AF: NG SuperSport 5
+http://nitro.ltd:25461/Sandra1/Sandra2/42679
+#EXTINF:-1,AF: NG SuperSport 6
+http://nitro.ltd:25461/Sandra1/Sandra2/42680
+#EXTINF:-1,AF: NG SuperSport 7
+http://nitro.ltd:25461/Sandra1/Sandra2/42681
+#EXTINF:-1,AF: NG SuperSport 8
+http://nitro.ltd:25461/Sandra1/Sandra2/42682
+#EXTINF:-1,AF: NG SuperSport 9
+http://nitro.ltd:25461/Sandra1/Sandra2/42683
+#EXTINF:-1,AF: NG SuperSport 10
+http://nitro.ltd:25461/Sandra1/Sandra2/42672
+#EXTINF:-1,AF: NG SuperSport 11
+http://nitro.ltd:25461/Sandra1/Sandra2/42673
+#EXTINF:-1,AF: NG SuperSport 12
+http://nitro.ltd:25461/Sandra1/Sandra2/42674
+#EXTINF:-1,AF: NG SuperSport 13
+http://nitro.ltd:25461/Sandra1/Sandra2/42675
+#EXTINF:-1,AF: NG SuperSport Blitz
+http://nitro.ltd:25461/Sandra1/Sandra2/42684
+#EXTINF:-1,AF: BW Now! TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42652
+#EXTINF:-1,AF: GH GTV
+http://nitro.ltd:25461/Sandra1/Sandra2/42653
+#EXTINF:-1,AF: GH Joy Prime
+http://nitro.ltd:25461/Sandra1/Sandra2/42654
+#EXTINF:-1,AF: GH Metro TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42655
+#EXTINF:-1,AF: GH TV3
+http://nitro.ltd:25461/Sandra1/Sandra2/42656
+#EXTINF:-1,AF: KE GBS
+http://nitro.ltd:25461/Sandra1/Sandra2/42657
+#EXTINF:-1,AF: KE iNooro TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42658
+#EXTINF:-1,AF: KE Kameme
+http://nitro.ltd:25461/Sandra1/Sandra2/42659
+#EXTINF:-1,AF: KE KASS TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42660
+#EXTINF:-1,AF: MW Malawi TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42661
+#EXTINF:-1,AF: MW Times TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42662
+#EXTINF:-1,AF: MW Zodiak TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42663
+#EXTINF:-1,AF: NA NBC
+http://nitro.ltd:25461/Sandra1/Sandra2/42664
+#EXTINF:-1,AF: NA NBC2
+http://nitro.ltd:25461/Sandra1/Sandra2/42665
+#EXTINF:-1,AF: NA One AF:rica TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42666
+#EXTINF:-1,AF: NG Arewa 24
+http://nitro.ltd:25461/Sandra1/Sandra2/42667
+#EXTINF:-1,AF: NG Ebony Life TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42668
+#EXTINF:-1,AF: NG Galaxy
+http://nitro.ltd:25461/Sandra1/Sandra2/42669
+#EXTINF:-1,AF: NG Lumen Christi
+http://nitro.ltd:25461/Sandra1/Sandra2/42670
+#EXTINF:-1,AF: NG TVC News Nigeria
+http://nitro.ltd:25461/Sandra1/Sandra2/42685
+#EXTINF:-1,AF: NG Urban TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42686
+#EXTINF:-1,AF: NG wapTV
+http://nitro.ltd:25461/Sandra1/Sandra2/42687
+#EXTINF:-1,AF: SN Fiesta TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42688
+#EXTINF:-1,AF: SZ SuperSport 15
+http://nitro.ltd:25461/Sandra1/Sandra2/42689
+#EXTINF:-1,AF: TG AIT
+http://nitro.ltd:25461/Sandra1/Sandra2/42690
+#EXTINF:-1,AF: TG BBC World News
+http://nitro.ltd:25461/Sandra1/Sandra2/42691
+#EXTINF:-1,AF: TG Channels
+http://nitro.ltd:25461/Sandra1/Sandra2/42692
+#EXTINF:-1,AF: TZ KTN
+http://nitro.ltd:25461/Sandra1/Sandra2/42693
+#EXTINF:-1,AF: TZ Rwanda TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42694
+#EXTINF:-1,AF: UG 1Magic
+http://nitro.ltd:25461/Sandra1/Sandra2/42695
+#EXTINF:-1,AF: UG ADOM TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42696
+#EXTINF:-1,AF: UG AF:rica Magic Family
+http://nitro.ltd:25461/Sandra1/Sandra2/42697
+#EXTINF:-1,AF: UG AF:rica Magic Hausa
+http://nitro.ltd:25461/Sandra1/Sandra2/42698
+#EXTINF:-1,AF: UG AF:rica Magic Urban
+http://nitro.ltd:25461/Sandra1/Sandra2/42699
+#EXTINF:-1,AF: UG AF:rica Magic Yoruba
+http://nitro.ltd:25461/Sandra1/Sandra2/42700
+#EXTINF:-1,AF: UG AF:ricaMagic Epic
+http://nitro.ltd:25461/Sandra1/Sandra2/42701
+#EXTINF:-1,AF: UG AF:ricaMagic Igbo
+http://nitro.ltd:25461/Sandra1/Sandra2/42702
+#EXTINF:-1,AF: UG AF:ricaMagic Showcase
+http://nitro.ltd:25461/Sandra1/Sandra2/42703
+#EXTINF:-1,AF: UG AF:ricanews
+http://nitro.ltd:25461/Sandra1/Sandra2/42704
+#EXTINF:-1,AF: UG AF:ro Music Pop
+http://nitro.ltd:25461/Sandra1/Sandra2/42705
+#EXTINF:-1,AF: UG Al Jazeera
+http://nitro.ltd:25461/Sandra1/Sandra2/42706
+#EXTINF:-1,AF: UG B4U Movies
+http://nitro.ltd:25461/Sandra1/Sandra2/42707
+#EXTINF:-1,AF: UG BBC Brit
+http://nitro.ltd:25461/Sandra1/Sandra2/42708
+#EXTINF:-1,AF: UG BBC Lifestyle
+http://nitro.ltd:25461/Sandra1/Sandra2/42709
+#EXTINF:-1,AF: UG BBS TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42710
+#EXTINF:-1,AF: UG BET
+http://nitro.ltd:25461/Sandra1/Sandra2/42711
+#EXTINF:-1,AF: UG Bloomberg
+http://nitro.ltd:25461/Sandra1/Sandra2/42712
+#EXTINF:-1,AF: UG Boomerang
+http://nitro.ltd:25461/Sandra1/Sandra2/42713
+#EXTINF:-1,AF: UG Bukedde TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42714
+#EXTINF:-1,AF: UG Cartoon Network
+http://nitro.ltd:25461/Sandra1/Sandra2/42715
+#EXTINF:-1,AF: UG CBS Justice
+http://nitro.ltd:25461/Sandra1/Sandra2/42716
+#EXTINF:-1,AF: UG CBS Reality
+http://nitro.ltd:25461/Sandra1/Sandra2/42717
+#EXTINF:-1,AF: UG CCTV 4
+http://nitro.ltd:25461/Sandra1/Sandra2/42718
+#EXTINF:-1,AF: UG CGTN News
+http://nitro.ltd:25461/Sandra1/Sandra2/42719
+#EXTINF:-1,AF: UG Citizen TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42720
+#EXTINF:-1,AF: UG Clouds Plus
+http://nitro.ltd:25461/Sandra1/Sandra2/42721
+#EXTINF:-1,AF: UG CNBC AF:rica
+http://nitro.ltd:25461/Sandra1/Sandra2/42722
+#EXTINF:-1,AF: UG CNN International
+http://nitro.ltd:25461/Sandra1/Sandra2/42723
+#EXTINF:-1,AF: UG Comedy Central
+http://nitro.ltd:25461/Sandra1/Sandra2/42724
+#EXTINF:-1,AF: UG Curiosity Stream
+http://nitro.ltd:25461/Sandra1/Sandra2/42725
+#EXTINF:-1,AF: UG Da Vinci Kids
+http://nitro.ltd:25461/Sandra1/Sandra2/42726
+#EXTINF:-1,AF: UG Daystar
+http://nitro.ltd:25461/Sandra1/Sandra2/42727
+#EXTINF:-1,AF: UG Discovery Channel
+http://nitro.ltd:25461/Sandra1/Sandra2/42728
+#EXTINF:-1,AF: UG Discovery Family
+http://nitro.ltd:25461/Sandra1/Sandra2/42729
+#EXTINF:-1,AF: UG Dish on TV (HQ)
+http://nitro.ltd:25461/Sandra1/Sandra2/42730
+#EXTINF:-1,AF: UG Disney Channel
+http://nitro.ltd:25461/Sandra1/Sandra2/42731
+#EXTINF:-1,AF: UG Disney Junior
+http://nitro.ltd:25461/Sandra1/Sandra2/42732
+#EXTINF:-1,AF: UG Disney XD
+http://nitro.ltd:25461/Sandra1/Sandra2/42733
+#EXTINF:-1,AF: UG DOVE TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42734
+#EXTINF:-1,AF: UG E! Entertainment Television
+http://nitro.ltd:25461/Sandra1/Sandra2/42735
+#EXTINF:-1,AF: UG e.TV AF:rica
+http://nitro.ltd:25461/Sandra1/Sandra2/42736
+#EXTINF:-1,AF: UG EDU Channel
+http://nitro.ltd:25461/Sandra1/Sandra2/42737
+#EXTINF:-1,AF: UG Emmanuel TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42738
+#EXTINF:-1,AF: UG News
+http://nitro.ltd:25461/Sandra1/Sandra2/42739
+#EXTINF:-1,AF: UG Eva Plus
+http://nitro.ltd:25461/Sandra1/Sandra2/42740
+#EXTINF:-1,AF: UG EWTN
+http://nitro.ltd:25461/Sandra1/Sandra2/42741
+#EXTINF:-1,AF: UG FAITH
+http://nitro.ltd:25461/Sandra1/Sandra2/42742
+#EXTINF:-1,AF: UG Fashion One
+http://nitro.ltd:25461/Sandra1/Sandra2/42743
+#EXTINF:-1,AF: UG Food Network
+http://nitro.ltd:25461/Sandra1/Sandra2/42744
+#EXTINF:-1,AF: UG FOX
+http://nitro.ltd:25461/Sandra1/Sandra2/42745
+#EXTINF:-1,AF: UG FOX Life
+http://nitro.ltd:25461/Sandra1/Sandra2/42746
+#EXTINF:-1,AF: UG HIP TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42747
+#EXTINF:-1,AF: UG Investigation Discovery
+http://nitro.ltd:25461/Sandra1/Sandra2/42748
+#EXTINF:-1,AF: UG Islam Channel
+http://nitro.ltd:25461/Sandra1/Sandra2/42749
+#EXTINF:-1,AF: UG ITV Choice
+http://nitro.ltd:25461/Sandra1/Sandra2/42750
+#EXTINF:-1,AF: UG JimJam
+http://nitro.ltd:25461/Sandra1/Sandra2/42751
+#EXTINF:-1,AF: UG JOY NEWS
+http://nitro.ltd:25461/Sandra1/Sandra2/42752
+#EXTINF:-1,AF: UG K24
+http://nitro.ltd:25461/Sandra1/Sandra2/42753
+#EXTINF:-1,AF: UG KBCTV
+http://nitro.ltd:25461/Sandra1/Sandra2/42754
+#EXTINF:-1,AF: UG Lifetime
+http://nitro.ltd:25461/Sandra1/Sandra2/42755
+#EXTINF:-1,AF: UG M-Net Binge The Home of HBO
+http://nitro.ltd:25461/Sandra1/Sandra2/42756
+#EXTINF:-1,AF: UG M-Net City
+http://nitro.ltd:25461/Sandra1/Sandra2/42757
+#EXTINF:-1,AF: UG M-Net East
+http://nitro.ltd:25461/Sandra1/Sandra2/42758
+#EXTINF:-1,AF: UG M-Net Movies Action AF:rica
+http://nitro.ltd:25461/Sandra1/Sandra2/42759
+#EXTINF:-1,AF: UG M-Net Movies Action+ AF:rica
+http://nitro.ltd:25461/Sandra1/Sandra2/42760
+#EXTINF:-1,AF: UG M-Net Movies All Stars
+http://nitro.ltd:25461/Sandra1/Sandra2/42761
+#EXTINF:-1,AF: UG M-Net Movies Premiere AF:rica
+http://nitro.ltd:25461/Sandra1/Sandra2/42762
+#EXTINF:-1,AF: UG M-Net Movies Premiere AF:rica
+http://nitro.ltd:25461/Sandra1/Sandra2/42763
+#EXTINF:-1,AF: UG M-Net Movies Smile AF:rica
+http://nitro.ltd:25461/Sandra1/Sandra2/42764
+#EXTINF:-1,AF: UG M-Net Movies Tom Cruise
+http://nitro.ltd:25461/Sandra1/Sandra2/42765
+#EXTINF:-1,AF: UG M-Net Movies Zone
+http://nitro.ltd:25461/Sandra1/Sandra2/42766
+#EXTINF:-1,AF: UG M-Net West
+http://nitro.ltd:25461/Sandra1/Sandra2/42767
+#EXTINF:-1,AF: UG Maisha Magic BONGO
+http://nitro.ltd:25461/Sandra1/Sandra2/42768
+#EXTINF:-1,AF: UG Maisha Magic Plus
+http://nitro.ltd:25461/Sandra1/Sandra2/42769
+#EXTINF:-1,AF: UG Mindset
+http://nitro.ltd:25461/Sandra1/Sandra2/42770
+#EXTINF:-1,AF: UG Mindset POP
+http://nitro.ltd:25461/Sandra1/Sandra2/42771
+#EXTINF:-1,AF: UG MTV
+http://nitro.ltd:25461/Sandra1/Sandra2/42772
+#EXTINF:-1,AF: UG MTV Base
+http://nitro.ltd:25461/Sandra1/Sandra2/42773
+#EXTINF:-1,AF: UG National Geographic
+http://nitro.ltd:25461/Sandra1/Sandra2/42774
+#EXTINF:-1,AF: UG National Geographic WILD
+http://nitro.ltd:25461/Sandra1/Sandra2/42775
+#EXTINF:-1,AF: UG NBS
+http://nitro.ltd:25461/Sandra1/Sandra2/42776
+#EXTINF:-1,AF: UG NDTV247
+http://nitro.ltd:25461/Sandra1/Sandra2/42777
+#EXTINF:-1,AF: UG Newzroom AF:rika
+http://nitro.ltd:25461/Sandra1/Sandra2/42778
+#EXTINF:-1,AF: UG NHK
+http://nitro.ltd:25461/Sandra1/Sandra2/42779
+#EXTINF:-1,AF: UG Nick Jr
+http://nitro.ltd:25461/Sandra1/Sandra2/42780
+#EXTINF:-1,AF: UG Nickelodeon
+http://nitro.ltd:25461/Sandra1/Sandra2/42781
+#EXTINF:-1,AF: UG NickTOONS
+http://nitro.ltd:25461/Sandra1/Sandra2/42782
+#EXTINF:-1,AF: UG NTV
+http://nitro.ltd:25461/Sandra1/Sandra2/42783
+#EXTINF:-1,AF: UG NTVU
+http://nitro.ltd:25461/Sandra1/Sandra2/42784
+#EXTINF:-1,AF: UG PBS Kids
+http://nitro.ltd:25461/Sandra1/Sandra2/42785
+#EXTINF:-1,AF: UG Pearl Magic
+http://nitro.ltd:25461/Sandra1/Sandra2/42786
+#EXTINF:-1,AF: UG RAI Italia
+http://nitro.ltd:25461/Sandra1/Sandra2/42787
+#EXTINF:-1,AF: UG Real Time
+http://nitro.ltd:25461/Sandra1/Sandra2/42788
+#EXTINF:-1,AF: UG ROK
+http://nitro.ltd:25461/Sandra1/Sandra2/42789
+#EXTINF:-1,AF: UG SABC News
+http://nitro.ltd:25461/Sandra1/Sandra2/42790
+#EXTINF:-1,AF: UG News
+http://nitro.ltd:25461/Sandra1/Sandra2/42791
+#EXTINF:-1,AF: UG SOUNDCITY
+http://nitro.ltd:25461/Sandra1/Sandra2/42792
+#EXTINF:-1,AF: UG Spark TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42793
+#EXTINF:-1,AF: UG Star Life
+http://nitro.ltd:25461/Sandra1/Sandra2/42794
+#EXTINF:-1,AF: UG STN TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42795
+#EXTINF:-1,AF: UG Studio Universal
+http://nitro.ltd:25461/Sandra1/Sandra2/42796
+#EXTINF:-1,AF: UG SuperSport 1
+http://nitro.ltd:25461/Sandra1/Sandra2/42797
+#EXTINF:-1,AF: UG SuperSport 10
+http://nitro.ltd:25461/Sandra1/Sandra2/42798
+#EXTINF:-1,AF: UG SuperSport 11
+http://nitro.ltd:25461/Sandra1/Sandra2/42799
+#EXTINF:-1,AF: UG SuperSport 12
+http://nitro.ltd:25461/Sandra1/Sandra2/42800
+#EXTINF:-1,AF: UG SuperSport 13
+http://nitro.ltd:25461/Sandra1/Sandra2/42801
+#EXTINF:-1,AF: UG SuperSport 2
+http://nitro.ltd:25461/Sandra1/Sandra2/42802
+#EXTINF:-1,AF: UG SuperSport 3
+http://nitro.ltd:25461/Sandra1/Sandra2/42803
+#EXTINF:-1,AF: UG SuperSport 4
+http://nitro.ltd:25461/Sandra1/Sandra2/42804
+#EXTINF:-1,AF: UG SuperSport 5
+http://nitro.ltd:25461/Sandra1/Sandra2/42805
+#EXTINF:-1,AF: UG SuperSport 6
+http://nitro.ltd:25461/Sandra1/Sandra2/42806
+#EXTINF:-1,AF: UG SuperSport 7
+http://nitro.ltd:25461/Sandra1/Sandra2/42807
+#EXTINF:-1,AF: UG SuperSport 8
+http://nitro.ltd:25461/Sandra1/Sandra2/42808
+#EXTINF:-1,AF: UG SuperSport 9
+http://nitro.ltd:25461/Sandra1/Sandra2/42809
+#EXTINF:-1,AF: UG SuperSport Blitz
+http://nitro.ltd:25461/Sandra1/Sandra2/42810
+#EXTINF:-1,AF: UG SuperSport MáXimo 1
+http://nitro.ltd:25461/Sandra1/Sandra2/42811
+#EXTINF:-1,AF: UG TBN AF:rica
+http://nitro.ltd:25461/Sandra1/Sandra2/42812
+#EXTINF:-1,AF: UG Telemundo
+http://nitro.ltd:25461/Sandra1/Sandra2/42813
+#EXTINF:-1,AF: UG Televista
+http://nitro.ltd:25461/Sandra1/Sandra2/42814
+#EXTINF:-1,AF: UG TLC Entertainment
+http://nitro.ltd:25461/Sandra1/Sandra2/42815
+#EXTINF:-1,AF: UG TNT AF:rica
+http://nitro.ltd:25461/Sandra1/Sandra2/42816
+#EXTINF:-1,AF: UG Toonami
+http://nitro.ltd:25461/Sandra1/Sandra2/42817
+#EXTINF:-1,AF: UG TRACE Gospel
+http://nitro.ltd:25461/Sandra1/Sandra2/42818
+#EXTINF:-1,AF: UG Trace Jama
+http://nitro.ltd:25461/Sandra1/Sandra2/42819
+#EXTINF:-1,AF: UG TRACE Mziki
+http://nitro.ltd:25461/Sandra1/Sandra2/42820
+#EXTINF:-1,AF: UG TRACE Naija
+http://nitro.ltd:25461/Sandra1/Sandra2/42821
+#EXTINF:-1,AF: UG Trybe TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42822
+#EXTINF:-1,AF: UG TV West
+http://nitro.ltd:25461/Sandra1/Sandra2/42823
+#EXTINF:-1,AF: UG TV1 Tanzania
+http://nitro.ltd:25461/Sandra1/Sandra2/42824
+#EXTINF:-1,AF: UG TV5 Monde AF:rique
+http://nitro.ltd:25461/Sandra1/Sandra2/42825
+#EXTINF:-1,AF: UG Uganda Broadcasting Corporation
+http://nitro.ltd:25461/Sandra1/Sandra2/42826
+#EXTINF:-1,AF: UG Universal TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42827
+#EXTINF:-1,AF: UG Urban TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42828
+#EXTINF:-1,AF: UG Vuzu
+http://nitro.ltd:25461/Sandra1/Sandra2/42829
+#EXTINF:-1,AF: UG WWE Channel
+http://nitro.ltd:25461/Sandra1/Sandra2/42830
+#EXTINF:-1,AF: UG Zanzibar TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42831
+#EXTINF:-1,AF: UG Zee World
+http://nitro.ltd:25461/Sandra1/Sandra2/42832
+#EXTINF:-1,AF: ZA 1 KZN
+http://nitro.ltd:25461/Sandra1/Sandra2/42833
+#EXTINF:-1,AF: ZA Bay TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42834
+#EXTINF:-1,AF: ZA BBC Earth
+http://nitro.ltd:25461/Sandra1/Sandra2/42835
+#EXTINF:-1,AF: ZA Cape Town TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42836
+#EXTINF:-1,AF: ZA CBS Justice
+http://nitro.ltd:25461/Sandra1/Sandra2/42837
+#EXTINF:-1,AF: ZA Curiosity Stream HD
+http://nitro.ltd:25461/Sandra1/Sandra2/42838
+#EXTINF:-1,AF: ZA Dumisa
+http://nitro.ltd:25461/Sandra1/Sandra2/42839
+#EXTINF:-1,AF: ZA e.tv
+http://nitro.ltd:25461/Sandra1/Sandra2/42840
+#EXTINF:-1,AF: ZA e.TV Extra
+http://nitro.ltd:25461/Sandra1/Sandra2/42841
+#EXTINF:-1,AF: ZA eMovies
+http://nitro.ltd:25461/Sandra1/Sandra2/42842
+#EXTINF:-1,AF: ZA eMovies Extra
+http://nitro.ltd:25461/Sandra1/Sandra2/42843
+#EXTINF:-1,AF: ZA eToonz
+http://nitro.ltd:25461/Sandra1/Sandra2/42844
+#EXTINF:-1,AF: ZA GauTV
+http://nitro.ltd:25461/Sandra1/Sandra2/42845
+#EXTINF:-1,AF: ZA HGTV
+http://nitro.ltd:25461/Sandra1/Sandra2/42846
+#EXTINF:-1,AF: ZA Lesotho TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42847
+#EXTINF:-1,AF: ZA M-Net
+http://nitro.ltd:25461/Sandra1/Sandra2/42848
+#EXTINF:-1,AF: ZA Nickelodeon
+http://nitro.ltd:25461/Sandra1/Sandra2/42849
+#EXTINF:-1,AF: ZA PBS Kids
+http://nitro.ltd:25461/Sandra1/Sandra2/42850
+#EXTINF:-1,AF: ZA SABC 1
+http://nitro.ltd:25461/Sandra1/Sandra2/42851
+#EXTINF:-1,AF: ZA SABC 2
+http://nitro.ltd:25461/Sandra1/Sandra2/42852
+#EXTINF:-1,AF: ZA SABC 3
+http://nitro.ltd:25461/Sandra1/Sandra2/42853
+#EXTINF:-1,AF: ZA Soweto TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42854
+#EXTINF:-1,AF: ZA SundanceTV
+http://nitro.ltd:25461/Sandra1/Sandra2/42855
+#EXTINF:-1,AF: ZA SuperSport 1
+http://nitro.ltd:25461/Sandra1/Sandra2/42856
+#EXTINF:-1,AF: ZA SuperSport 10
+http://nitro.ltd:25461/Sandra1/Sandra2/42857
+#EXTINF:-1,AF: ZA SuperSport 11
+http://nitro.ltd:25461/Sandra1/Sandra2/42858
+#EXTINF:-1,AF: ZA SuperSport 12
+http://nitro.ltd:25461/Sandra1/Sandra2/42859
+#EXTINF:-1,AF: ZA SuperSport 13
+http://nitro.ltd:25461/Sandra1/Sandra2/42860
+#EXTINF:-1,AF: ZA SuperSport 2
+http://nitro.ltd:25461/Sandra1/Sandra2/42861
+#EXTINF:-1,AF: ZA SuperSport 3
+http://nitro.ltd:25461/Sandra1/Sandra2/42862
+#EXTINF:-1,AF: ZA SuperSport 4
+http://nitro.ltd:25461/Sandra1/Sandra2/42863
+#EXTINF:-1,AF: ZA SuperSport 5
+http://nitro.ltd:25461/Sandra1/Sandra2/42864
+#EXTINF:-1,AF: ZA SuperSport 6
+http://nitro.ltd:25461/Sandra1/Sandra2/42865
+#EXTINF:-1,AF: ZA SuperSport 7
+http://nitro.ltd:25461/Sandra1/Sandra2/42866
+#EXTINF:-1,AF: ZA SuperSport 8
+http://nitro.ltd:25461/Sandra1/Sandra2/42867
+#EXTINF:-1,AF: ZA SuperSport 9
+http://nitro.ltd:25461/Sandra1/Sandra2/42868
+#EXTINF:-1,AF: ZA SuperSport Blitz
+http://nitro.ltd:25461/Sandra1/Sandra2/42869
+#EXTINF:-1,AF: ZA SuperSport Events
+http://nitro.ltd:25461/Sandra1/Sandra2/42870
+#EXTINF:-1,AF: ZA SuperSport Play
+http://nitro.ltd:25461/Sandra1/Sandra2/42871
+#EXTINF:-1,AF: ZA Tshwane TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42872
+#EXTINF:-1,AF: ZA TV Mall
+http://nitro.ltd:25461/Sandra1/Sandra2/42873
+#EXTINF:-1,AF: ZM Camnet
+http://nitro.ltd:25461/Sandra1/Sandra2/42874
+#EXTINF:-1,AF: ZM CBC
+http://nitro.ltd:25461/Sandra1/Sandra2/42875
+#EXTINF:-1,AF: ZM Diamond TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42876
+#EXTINF:-1,AF: ZM Prime TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42877
+#EXTINF:-1,AF: ZM QTV
+http://nitro.ltd:25461/Sandra1/Sandra2/42878
+#EXTINF:-1,AF: ZM ZNBC
+http://nitro.ltd:25461/Sandra1/Sandra2/42879
+#EXTINF:-1,AF: ZW 1Magic
+http://nitro.ltd:25461/Sandra1/Sandra2/42880
+#EXTINF:-1,AF: ZW AF:rica Magic Family
+http://nitro.ltd:25461/Sandra1/Sandra2/42881
+#EXTINF:-1,AF: ZW AF:rica Magic Urban
+http://nitro.ltd:25461/Sandra1/Sandra2/42882
+#EXTINF:-1,AF: ZW AF:ricaMagic Epic
+http://nitro.ltd:25461/Sandra1/Sandra2/42883
+#EXTINF:-1,AF: ZW AF:ricaMagic Showcase
+http://nitro.ltd:25461/Sandra1/Sandra2/42884
+#EXTINF:-1,AF: ZW AF:ricanews
+http://nitro.ltd:25461/Sandra1/Sandra2/42885
+#EXTINF:-1,AF: ZW Al Jazeera
+http://nitro.ltd:25461/Sandra1/Sandra2/42886
+#EXTINF:-1,AF: ZW BBC Brit
+http://nitro.ltd:25461/Sandra1/Sandra2/42887
+#EXTINF:-1,AF: ZW BBC First
+http://nitro.ltd:25461/Sandra1/Sandra2/42888
+#EXTINF:-1,AF: ZW BBC Lifestyle
+http://nitro.ltd:25461/Sandra1/Sandra2/42889
+#EXTINF:-1,AF: ZW BBC World News
+http://nitro.ltd:25461/Sandra1/Sandra2/42890
+#EXTINF:-1,AF: ZW BET
+http://nitro.ltd:25461/Sandra1/Sandra2/42891
+#EXTINF:-1,AF: ZW Bloomberg
+http://nitro.ltd:25461/Sandra1/Sandra2/42892
+#EXTINF:-1,AF: ZW Boomerang
+http://nitro.ltd:25461/Sandra1/Sandra2/42893
+#EXTINF:-1,AF: ZW Business Day TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42894
+#EXTINF:-1,AF: ZW BVN
+http://nitro.ltd:25461/Sandra1/Sandra2/42895
+#EXTINF:-1,AF: ZW Cartoon Network
+http://nitro.ltd:25461/Sandra1/Sandra2/42896
+#EXTINF:-1,AF: ZW Cbeebies
+http://nitro.ltd:25461/Sandra1/Sandra2/42897
+#EXTINF:-1,AF: ZW CBS Justice
+http://nitro.ltd:25461/Sandra1/Sandra2/42898
+#EXTINF:-1,AF: ZW CBS Reality
+http://nitro.ltd:25461/Sandra1/Sandra2/42899
+#EXTINF:-1,AF: ZW CCTV 4
+http://nitro.ltd:25461/Sandra1/Sandra2/42900
+#EXTINF:-1,AF: ZW CGTN News
+http://nitro.ltd:25461/Sandra1/Sandra2/42901
+#EXTINF:-1,AF: ZW Channel O
+http://nitro.ltd:25461/Sandra1/Sandra2/42902
+#EXTINF:-1,AF: ZW CNBC AF:rica
+http://nitro.ltd:25461/Sandra1/Sandra2/42903
+#EXTINF:-1,AF: ZW CNN International
+http://nitro.ltd:25461/Sandra1/Sandra2/42904
+#EXTINF:-1,AF: ZW Comedy Central
+http://nitro.ltd:25461/Sandra1/Sandra2/42905
+#EXTINF:-1,AF: ZW Curiosity Stream
+http://nitro.ltd:25461/Sandra1/Sandra2/42906
+#EXTINF:-1,AF: ZW Da Vinci Kids
+http://nitro.ltd:25461/Sandra1/Sandra2/42907
+#EXTINF:-1,AF: ZW Daystar
+http://nitro.ltd:25461/Sandra1/Sandra2/42908
+#EXTINF:-1,AF: ZW Deutsche Welle
+http://nitro.ltd:25461/Sandra1/Sandra2/42909
+#EXTINF:-1,AF: ZW Discovery Channel
+http://nitro.ltd:25461/Sandra1/Sandra2/42910
+#EXTINF:-1,AF: ZW Discovery Family
+http://nitro.ltd:25461/Sandra1/Sandra2/42911
+#EXTINF:-1,AF: ZW Dish on TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42912
+#EXTINF:-1,AF: ZW Disney Channel
+http://nitro.ltd:25461/Sandra1/Sandra2/42913
+#EXTINF:-1,AF: ZW Disney Junior
+http://nitro.ltd:25461/Sandra1/Sandra2/42914
+#EXTINF:-1,AF: ZW Disney XD
+http://nitro.ltd:25461/Sandra1/Sandra2/42915
+#EXTINF:-1,AF: ZW E! Entertainment Television
+http://nitro.ltd:25461/Sandra1/Sandra2/42916
+#EXTINF:-1,AF: ZW Emmanuel TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42917
+#EXTINF:-1,AF: ZW eNCA
+http://nitro.ltd:25461/Sandra1/Sandra2/42918
+#EXTINF:-1,AF: ZW News
+http://nitro.ltd:25461/Sandra1/Sandra2/42919
+#EXTINF:-1,AF: ZW EVA English
+http://nitro.ltd:25461/Sandra1/Sandra2/42920
+#EXTINF:-1,AF: ZW Eva Plus
+http://nitro.ltd:25461/Sandra1/Sandra2/42921
+#EXTINF:-1,AF: ZW FAITH
+http://nitro.ltd:25461/Sandra1/Sandra2/42922
+#EXTINF:-1,AF: ZW Fashion One
+http://nitro.ltd:25461/Sandra1/Sandra2/42923
+#EXTINF:-1,AF: ZW Food Network
+http://nitro.ltd:25461/Sandra1/Sandra2/42924
+#EXTINF:-1,AF: ZW FOX
+http://nitro.ltd:25461/Sandra1/Sandra2/42925
+#EXTINF:-1,AF: ZW FOX Life
+http://nitro.ltd:25461/Sandra1/Sandra2/42926
+#EXTINF:-1,AF: ZW Ginx eSports TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42927
+#EXTINF:-1,AF: ZW HISTORY
+http://nitro.ltd:25461/Sandra1/Sandra2/42928
+#EXTINF:-1,AF: ZW Ignition
+http://nitro.ltd:25461/Sandra1/Sandra2/42929
+#EXTINF:-1,AF: ZW Investigation Discovery
+http://nitro.ltd:25461/Sandra1/Sandra2/42930
+#EXTINF:-1,AF: ZW ITV Choice
+http://nitro.ltd:25461/Sandra1/Sandra2/42931
+#EXTINF:-1,AF: ZW iTV Networks
+http://nitro.ltd:25461/Sandra1/Sandra2/42932
+#EXTINF:-1,AF: ZW JimJam
+http://nitro.ltd:25461/Sandra1/Sandra2/42933
+#EXTINF:-1,AF: ZW kykNET
+http://nitro.ltd:25461/Sandra1/Sandra2/42934
+#EXTINF:-1,AF: ZW kykNET & Kie
+http://nitro.ltd:25461/Sandra1/Sandra2/42935
+#EXTINF:-1,AF: ZW kykNET Nou!
+http://nitro.ltd:25461/Sandra1/Sandra2/42936
+#EXTINF:-1,AF: ZW Lifetime
+http://nitro.ltd:25461/Sandra1/Sandra2/42937
+#EXTINF:-1,AF: ZW M-Net
+http://nitro.ltd:25461/Sandra1/Sandra2/42938
+#EXTINF:-1,AF: ZW M-Net Binge The Home of HBO
+http://nitro.ltd:25461/Sandra1/Sandra2/42939
+#EXTINF:-1,AF: ZW M-Net City
+http://nitro.ltd:25461/Sandra1/Sandra2/42940
+#EXTINF:-1,AF: ZW M-Net Movies Action
+http://nitro.ltd:25461/Sandra1/Sandra2/42941
+#EXTINF:-1,AF: ZW M-Net Movies Action+
+http://nitro.ltd:25461/Sandra1/Sandra2/42942
+#EXTINF:-1,AF: ZW M-Net Movies All Stars
+http://nitro.ltd:25461/Sandra1/Sandra2/42943
+#EXTINF:-1,AF: ZW M-Net Movies Premiere
+http://nitro.ltd:25461/Sandra1/Sandra2/42944
+#EXTINF:-1,AF: ZW M-Net Movies Smile
+http://nitro.ltd:25461/Sandra1/Sandra2/42945
+#EXTINF:-1,AF: ZW M-Net Movies Tom Cruise
+http://nitro.ltd:25461/Sandra1/Sandra2/42946
+#EXTINF:-1,AF: ZW M-Net Movies Zone
+http://nitro.ltd:25461/Sandra1/Sandra2/42947
+#EXTINF:-1,AF: ZW M-Net Plus 1
+http://nitro.ltd:25461/Sandra1/Sandra2/42948
+#EXTINF:-1,AF: ZW Mindset
+http://nitro.ltd:25461/Sandra1/Sandra2/42949
+#EXTINF:-1,AF: ZW Mindset POP
+http://nitro.ltd:25461/Sandra1/Sandra2/42950
+#EXTINF:-1,AF: ZW MojaLove
+http://nitro.ltd:25461/Sandra1/Sandra2/42951
+#EXTINF:-1,AF: ZW MTV
+http://nitro.ltd:25461/Sandra1/Sandra2/42952
+#EXTINF:-1,AF: ZW MTV Base
+http://nitro.ltd:25461/Sandra1/Sandra2/42953
+#EXTINF:-1,AF: ZW MTV Music 24
+http://nitro.ltd:25461/Sandra1/Sandra2/42954
+#EXTINF:-1,AF: ZW Mzansi Bioskop
+http://nitro.ltd:25461/Sandra1/Sandra2/42955
+#EXTINF:-1,AF: ZW Mzansi Magic
+http://nitro.ltd:25461/Sandra1/Sandra2/42956
+#EXTINF:-1,AF: ZW Mzansi Magic Music
+http://nitro.ltd:25461/Sandra1/Sandra2/42957
+#EXTINF:-1,AF: ZW Mzansi Wethu
+http://nitro.ltd:25461/Sandra1/Sandra2/42958
+#EXTINF:-1,AF: ZW National Geographic
+http://nitro.ltd:25461/Sandra1/Sandra2/42959
+#EXTINF:-1,AF: ZW National Geographic WILD
+http://nitro.ltd:25461/Sandra1/Sandra2/42960
+#EXTINF:-1,AF: ZW NDTV247
+http://nitro.ltd:25461/Sandra1/Sandra2/42961
+#EXTINF:-1,AF: ZW Newzroom AF:rika
+http://nitro.ltd:25461/Sandra1/Sandra2/42962
+#EXTINF:-1,AF: ZW Nick Jr
+http://nitro.ltd:25461/Sandra1/Sandra2/42963
+#EXTINF:-1,AF: ZW Nickelodeon
+http://nitro.ltd:25461/Sandra1/Sandra2/42964
+#EXTINF:-1,AF: ZW NickTOONS
+http://nitro.ltd:25461/Sandra1/Sandra2/42965
+#EXTINF:-1,AF: ZW One Gospel
+http://nitro.ltd:25461/Sandra1/Sandra2/42966
+#EXTINF:-1,AF: ZW Parliamentary Service
+http://nitro.ltd:25461/Sandra1/Sandra2/42967
+#EXTINF:-1,AF: ZW People�
+http://nitro.ltd:25461/Sandra1/Sandra2/42968
+#EXTINF:-1,AF: ZW RAI Italia
+http://nitro.ltd:25461/Sandra1/Sandra2/42969
+#EXTINF:-1,AF: ZW Real Time
+http://nitro.ltd:25461/Sandra1/Sandra2/42970
+#EXTINF:-1,AF: ZW ROK
+http://nitro.ltd:25461/Sandra1/Sandra2/42971
+#EXTINF:-1,AF: ZW RTP Internacional
+http://nitro.ltd:25461/Sandra1/Sandra2/42972
+#EXTINF:-1,AF: ZW Russia Today
+http://nitro.ltd:25461/Sandra1/Sandra2/42973
+#EXTINF:-1,AF: ZW SABC News
+http://nitro.ltd:25461/Sandra1/Sandra2/42974
+#EXTINF:-1,AF: ZW News
+http://nitro.ltd:25461/Sandra1/Sandra2/42975
+#EXTINF:-1,AF: ZW SOUNDCITY
+http://nitro.ltd:25461/Sandra1/Sandra2/42976
+#EXTINF:-1,AF: ZW Spice TV
+http://nitro.ltd:25461/Sandra1/Sandra2/42977
+#EXTINF:-1,AF: ZW Star Life
+http://nitro.ltd:25461/Sandra1/Sandra2/42978
+#EXTINF:-1,AF: ZW Studio Universal
+http://nitro.ltd:25461/Sandra1/Sandra2/42979
+#EXTINF:-1,AF: ZW SuperSport 1
+http://nitro.ltd:25461/Sandra1/Sandra2/42980
+#EXTINF:-1,AF: ZW SuperSport 10
+http://nitro.ltd:25461/Sandra1/Sandra2/42981
+#EXTINF:-1,AF: ZW SuperSport 11
+http://nitro.ltd:25461/Sandra1/Sandra2/42982
+#EXTINF:-1,AF: ZW SuperSport 12
+http://nitro.ltd:25461/Sandra1/Sandra2/42983
+#EXTINF:-1,AF: ZW SuperSport 13
+http://nitro.ltd:25461/Sandra1/Sandra2/42984
+#EXTINF:-1,AF: ZW SuperSport 2
+http://nitro.ltd:25461/Sandra1/Sandra2/42985
+#EXTINF:-1,AF: ZW SuperSport 3
+http://nitro.ltd:25461/Sandra1/Sandra2/42986
+#EXTINF:-1,AF: ZW SuperSport 4
+http://nitro.ltd:25461/Sandra1/Sandra2/42987
+#EXTINF:-1,AF: ZW SuperSport 5
+http://nitro.ltd:25461/Sandra1/Sandra2/42988
+#EXTINF:-1,AF: ZW SuperSport 6
+http://nitro.ltd:25461/Sandra1/Sandra2/42989
+#EXTINF:-1,AF: ZW SuperSport 7
+http://nitro.ltd:25461/Sandra1/Sandra2/42990
+#EXTINF:-1,AF: ZW SuperSport 8
+http://nitro.ltd:25461/Sandra1/Sandra2/42991
+#EXTINF:-1,AF: ZW SuperSport 9
+http://nitro.ltd:25461/Sandra1/Sandra2/42992
+#EXTINF:-1,AF: ZW SuperSport Blitz
+http://nitro.ltd:25461/Sandra1/Sandra2/42993
+#EXTINF:-1,AF: ZW SuperSport MáXimo 1
+http://nitro.ltd:25461/Sandra1/Sandra2/42994
+#EXTINF:-1,AF: ZW TBN AF:rica
+http://nitro.ltd:25461/Sandra1/Sandra2/42995
+#EXTINF:-1,AF: ZW Telemundo
+http://nitro.ltd:25461/Sandra1/Sandra2/42996
+#EXTINF:-1,AF: ZW TellyTrack
+http://nitro.ltd:25461/Sandra1/Sandra2/42997
+#EXTINF:-1,AF: ZW The Home Channel
+http://nitro.ltd:25461/Sandra1/Sandra2/42998
+#EXTINF:-1,AF: ZW TLC Entertainment
+http://nitro.ltd:25461/Sandra1/Sandra2/42999
+#EXTINF:-1,AF: ZW TNT AF:rica
+http://nitro.ltd:25461/Sandra1/Sandra2/43000
+#EXTINF:-1,AF: ZW Toonami
+http://nitro.ltd:25461/Sandra1/Sandra2/43001
+#EXTINF:-1,AF: ZW TRACE AF:rica
+http://nitro.ltd:25461/Sandra1/Sandra2/43002
+#EXTINF:-1,AF: ZW TRACE Gospel
+http://nitro.ltd:25461/Sandra1/Sandra2/43003
+#EXTINF:-1,AF: ZW TRACE Urban
+http://nitro.ltd:25461/Sandra1/Sandra2/43004
+#EXTINF:-1,AF: ZW Travel Channel
+http://nitro.ltd:25461/Sandra1/Sandra2/43005
+#EXTINF:-1,AF: ZW TV5 Monde AF:rique
+http://nitro.ltd:25461/Sandra1/Sandra2/43006
+#EXTINF:-1,AF: ZW Universal TV
+http://nitro.ltd:25461/Sandra1/Sandra2/43007
+#EXTINF:-1,AF: ZW VIA
+http://nitro.ltd:25461/Sandra1/Sandra2/43008
+#EXTINF:-1,AF: ZW Vuzu
+http://nitro.ltd:25461/Sandra1/Sandra2/43009
+#EXTINF:-1,AF: ZW WWE Channel
+http://nitro.ltd:25461/Sandra1/Sandra2/43010
+#EXTINF:-1,AF: ZW Yadah TV
+http://nitro.ltd:25461/Sandra1/Sandra2/43011
+#EXTINF:-1,AF: ZW Zambezi Magic
+http://nitro.ltd:25461/Sandra1/Sandra2/43012
+#EXTINF:-1,AF: ZW Zee World
+http://nitro.ltd:25461/Sandra1/Sandra2/43013
+#EXTINF:-1,AF: CANAL 2 MOVIES CAMEROUN
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379631
+#EXTINF:-1,AF: TVM 1 ( Mozambique )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379630
+#EXTINF:-1,AF: TBN TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379629
+#EXTINF:-1,AF: GOD TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379628
+#EXTINF:-1,AF: Faith TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379627
+#EXTINF:-1,AF: HC TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379626
+#EXTINF:-1,AF: RTG ( Guiniea )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379625
+#EXTINF:-1,AF: TVC News ( Nigeria )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379624
+#EXTINF:-1,AF: Trace Africa
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379623
+#EXTINF:-1,AF: TFM Religions
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379622
+#EXTINF:-1,AF: Tele Congo
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379621
+#EXTINF:-1,AF: TCV Cape Verde
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379620
+#EXTINF:-1,AF: Tchad TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379619
+#EXTINF:-1,AF: Rwanda tv
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379618
+#EXTINF:-1,AF: RTN TV ( Gabon )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379617
+#EXTINF:-1,AF: RTI2 TV ( C d’Ivoir )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379616
+#EXTINF:-1,AF: NTV ( Uganda )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379615
+#EXTINF:-1,AF: NTAi ( Nigeria )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379614
+#EXTINF:-1,AF: Novelas TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379613
+#EXTINF:-1,AF: Nollywood Movies
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379612
+#EXTINF:-1,AF: NollyWood French
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379611
+#EXTINF:-1,AF: Music TV Singhal
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379610
+#EXTINF:-1,AF: Loveworld Plus TV ( Nigeria )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379609
+#EXTINF:-1,AF: Kessben TV Ghana
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379608
+#EXTINF:-1,AF: KBC1
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379607
+#EXTINF:-1,AF: K24 TV Kenya
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379606
+#EXTINF:-1,AF: Joy Prime TV ( Ghana )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379604
+#EXTINF:-1,AF: ITV ( Nigeria )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379603
+#EXTINF:-1,AF: Impact TV (Burkina Faso)
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379602
+#EXTINF:-1,AF: IBN TV Africa
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379601
+#EXTINF:-1,AF: GRTS ( Gambia )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379600
+#EXTINF:-1,AF: Francophonie 24
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379599
+#EXTINF:-1,AF: Eri TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379598
+#EXTINF:-1,AF: Emmanuel TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379597
+#EXTINF:-1,AF: DBS TV ( Cameroun )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379596
+#EXTINF:-1,AF: D24
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379595
+#EXTINF:-1,AF: CNA
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379594
+#EXTINF:-1,AF: Cinestream TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379593
+#EXTINF:-1,AF: Ben TV ( Ghana )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379592
+#EXTINF:-1,AF: ANN 7 South Africa
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379591
+#EXTINF:-1,AF: Amazing Discoveries TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379590
+#EXTINF:-1,AF: Africa TV 3
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379589
+#EXTINF:-1,AF: Africa TV 2
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379588
+#EXTINF:-1,AF: Africa TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379587
+#EXTINF:-1,AF: MFM TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379586
+#EXTINF:-1,AF: TV3 Live
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379585
+#EXTINF:-1,AF: SBC ( Somalia )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379584
+#EXTINF:-1,AF: Rok TV ( Nigeria )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379583
+#EXTINF:-1,AF: Channels 24 TV ( Nigeria )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379582
+#EXTINF:-1,AF: Burkina Info ( Burkina Faso )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379581
+#EXTINF:-1,AF: AIT International ( Nigeria )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379580
+#EXTINF:-1,AF: AFRICA 24
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379579
+#EXTINF:-1,AF: TVT International ( Togo )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379578
+#EXTINF:-1,AF: RTNC
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379577
+#EXTINF:-1,AF: Maisha TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379576
+#EXTINF:-1,AF: CRTV TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379575
+#EXTINF:-1,AF: Gabon TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379574
+#EXTINF:-1,AF: SOMALI CABLE
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379573
+#EXTINF:-1,AF: AITInt’l
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379572
+#EXTINF:-1,AF: Gtv Sports Plus ( Ghana )
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379571
+#EXTINF:-1,AF: IL TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379570
+#EXTINF:-1,AF: Joy News
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379569
+#EXTINF:-1,AF: NollyWood TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379568
+#EXTINF:-1,AF: RTI 1
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379567
+#EXTINF:-1,AF: RTI LA PREMIERE
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379566
+#EXTINF:-1,AF: Adom TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379565
+#EXTINF:-1,AF: RTI2 TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379564
+#EXTINF:-1,AF: RTI2 TV C D’ivoir
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379563
+#EXTINF:-1,AF: RTS2 (SN2) (Senegal)
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379562
+#EXTINF:-1,AF: RTI1 TV C D’ivoir
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379561
+#EXTINF:-1,AF: Congo TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379560
+#EXTINF:-1,AF: RTV Rwanda
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379559
+#EXTINF:-1,AF: SIKKA TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379558
+#EXTINF:-1,AF: Rtb
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379557
+#EXTINF:-1,AF: GTV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379556
+#EXTINF:-1,AF: CBC TV 8
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379555
+#EXTINF:-1,AF: TFM (Senegal)
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379554
+#EXTINF:-1,AF: TPA Angola
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379553
+#EXTINF:-1,AF: TFM SENEGAL
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379552
+#EXTINF:-1,AF: Sudan Drama
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379551
+#EXTINF:-1,AF: Sen TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379550
+#EXTINF:-1,AF: SNTV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379549
+#EXTINF:-1,AF: KALSAN TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379548
+#EXTINF:-1,AF: TV Continental Nigeria
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379547
+#EXTINF:-1,AF: Tvs1 TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379546
+#EXTINF:-1,AF: Tele sud
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379545
+#EXTINF:-1,AF: Universal TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379544
+#EXTINF:-1,AF: Ortb TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379543
+#EXTINF:-1,AF: Walf TV
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379542
+#EXTINF:-1,AF: Vox Africa
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379541
+#EXTINF:-1,AF: Rave TV (Nigeria)
+http://supertv.iptv.rentals:83/JFTJaque/51401713/379540
+
